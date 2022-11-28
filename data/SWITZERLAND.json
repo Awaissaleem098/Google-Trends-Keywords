@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-11-2022 , 23:52:46",
+  "lastUpdate": "28-11-2022 , 01:19:41",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Gavi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gavi",
-        "pubdate": "Sun, 27 Nov 2022 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Musiala",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Musiala",
         "pubdate": "Sun, 27 Nov 2022 21:00:00 +0100"
@@ -45,16 +38,16 @@
     ],
     [
       {
-        "title": "Schweiz Brasilien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schweiz%20Brasilien",
-        "pubdate": "Sun, 27 Nov 2022 14:00:00 +0100"
+        "title": "Gavi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gavi",
+        "pubdate": "Sun, 27 Nov 2022 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Luis Enrique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Luis%20Enrique",
-        "pubdate": "Sun, 27 Nov 2022 17:00:00 +0100"
+        "title": "1. Advent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#1.%20Advent",
+        "pubdate": "Sun, 27 Nov 2022 09:00:00 +0100"
       }
     ],
     [
@@ -66,16 +59,16 @@
     ],
     [
       {
-        "title": "David Raum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#David%20Raum",
-        "pubdate": "Sun, 27 Nov 2022 21:00:00 +0100"
+        "title": "Brésil – Suisse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Br%C3%A9sil%20%E2%80%93%20Suisse",
+        "pubdate": "Sun, 27 Nov 2022 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "TCS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#TCS",
-        "pubdate": "Sun, 27 Nov 2022 11:00:00 +0100"
+        "title": "David Raum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#David%20Raum",
+        "pubdate": "Sun, 27 Nov 2022 21:00:00 +0100"
       }
     ],
     [
@@ -87,9 +80,9 @@
     ],
     [
       {
-        "title": "Sane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sane",
-        "pubdate": "Sun, 27 Nov 2022 22:00:00 +0100"
+        "title": "TCS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#TCS",
+        "pubdate": "Sun, 27 Nov 2022 11:00:00 +0100"
       }
     ],
     [
@@ -101,9 +94,23 @@
     ],
     [
       {
+        "title": "Sane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sane",
+        "pubdate": "Sun, 27 Nov 2022 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Margot Robbie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Margot%20Robbie",
         "pubdate": "Sun, 27 Nov 2022 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kamerun gegen Serbien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kamerun%20gegen%20Serbien",
+        "pubdate": "Sun, 27 Nov 2022 14:00:00 +0100"
       }
     ],
     [
@@ -115,30 +122,23 @@
     ],
     [
       {
+        "title": "Zibelemärit Bern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zibelem%C3%A4rit%20Bern",
+        "pubdate": "Sun, 27 Nov 2022 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Abstimmung Zürich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmung%20Z%C3%BCrich",
+        "pubdate": "Sun, 27 Nov 2022 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Lukaku",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lukaku",
         "pubdate": "Sun, 27 Nov 2022 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lara Fabian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lara%20Fabian",
-        "pubdate": "Sun, 27 Nov 2022 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sergio Busquets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sergio%20Busquets",
-        "pubdate": "Sun, 27 Nov 2022 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ronit Elkabetz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ronit%20Elkabetz",
-        "pubdate": "Sun, 27 Nov 2022 14:00:00 +0100"
       }
     ]
   ]

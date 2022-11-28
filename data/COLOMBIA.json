@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "27-11-2022 , 23:52:40",
+  "lastUpdate": "28-11-2022 , 01:19:31",
   "data": [
     [
       {
-        "title": "Selección de Fútbol de Alemania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Selecci%C3%B3n%20de%20F%C3%BAtbol%20de%20Alemania",
-        "pubdate": "Sun, 27 Nov 2022 12:00:00 -0500"
+        "title": "Millonarios",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Millonarios",
+        "pubdate": "Sun, 27 Nov 2022 11:00:00 -0500"
       }
     ],
     [
@@ -24,6 +24,20 @@
     ],
     [
       {
+        "title": "Serbia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Serbia",
+        "pubdate": "Sun, 27 Nov 2022 17:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Coliseo Live",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Coliseo%20Live",
+        "pubdate": "Sun, 27 Nov 2022 11:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Musiala",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Musiala",
         "pubdate": "Sun, 27 Nov 2022 16:00:00 -0500"
@@ -31,9 +45,9 @@
     ],
     [
       {
-        "title": "Dani Olmo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Dani%20Olmo",
-        "pubdate": "Sun, 27 Nov 2022 15:00:00 -0500"
+        "title": "Luis Enrique",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Luis%20Enrique",
+        "pubdate": "Sun, 27 Nov 2022 16:00:00 -0500"
       }
     ],
     [
@@ -45,9 +59,9 @@
     ],
     [
       {
-        "title": "Luis Enrique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Luis%20Enrique",
-        "pubdate": "Sun, 27 Nov 2022 16:00:00 -0500"
+        "title": "Dani Olmo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Dani%20Olmo",
+        "pubdate": "Sun, 27 Nov 2022 15:00:00 -0500"
       }
     ],
     [
@@ -73,13 +87,6 @@
     ],
     [
       {
-        "title": "Serbia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Serbia",
-        "pubdate": "Sun, 27 Nov 2022 17:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Partidos 27 de noviembre 2022",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Partidos%2027%20de%20noviembre%202022",
         "pubdate": "Sun, 27 Nov 2022 12:00:00 -0500"
@@ -101,16 +108,23 @@
     ],
     [
       {
-        "title": "España vs Alemania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Espa%C3%B1a%20vs%20Alemania",
-        "pubdate": "Sat, 26 Nov 2022 10:00:00 -0500"
+        "title": "Wilmar Barrios",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Wilmar%20Barrios",
+        "pubdate": "Sun, 27 Nov 2022 18:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Croacia vs Canadá",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Croacia%20vs%20Canad%C3%A1",
-        "pubdate": "Sat, 26 Nov 2022 14:00:00 -0500"
+        "title": "Alexis Mac Allister",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Alexis%20Mac%20Allister",
+        "pubdate": "Sun, 27 Nov 2022 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "España vs Alemania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Espa%C3%B1a%20vs%20Alemania",
+        "pubdate": "Sat, 26 Nov 2022 10:00:00 -0500"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Liga BetPlay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Liga%20BetPlay",
-        "pubdate": "Sat, 26 Nov 2022 19:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Águilas Doradas vs Pasto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#%C3%81guilas%20Doradas%20vs%20Pasto",
-        "pubdate": "Sat, 26 Nov 2022 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Belgica vs Marruecos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Belgica%20vs%20Marruecos",
-        "pubdate": "Sat, 26 Nov 2022 21:00:00 -0500"
+        "title": "Croacia vs Canadá",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Croacia%20vs%20Canad%C3%A1",
+        "pubdate": "Sat, 26 Nov 2022 14:00:00 -0500"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-11-2022 , 23:52:41",
+  "lastUpdate": "28-11-2022 , 01:19:33",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "1 Advent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#1%20Advent",
-        "pubdate": "Sun, 27 Nov 2022 01:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Advent",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Advent",
         "pubdate": "Sun, 27 Nov 2022 08:00:00 +0100"
@@ -38,9 +31,9 @@
     ],
     [
       {
-        "title": "Luis Enrique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Luis%20Enrique",
-        "pubdate": "Sun, 27 Nov 2022 20:00:00 +0100"
+        "title": "Erster Advent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Erster%20Advent",
+        "pubdate": "Sun, 27 Nov 2022 05:00:00 +0100"
       }
     ],
     [
@@ -48,6 +41,13 @@
         "title": "Jens Bullerjahn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jens%20Bullerjahn",
         "pubdate": "Sun, 27 Nov 2022 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Luis Enrique",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Luis%20Enrique",
+        "pubdate": "Sun, 27 Nov 2022 20:00:00 +0100"
       }
     ],
     [
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Jürgen Klinsmann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#J%C3%BCrgen%20Klinsmann",
-        "pubdate": "Sun, 27 Nov 2022 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Mario Götze",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mario%20G%C3%B6tze",
         "pubdate": "Sun, 27 Nov 2022 21:00:00 +0100"
@@ -90,6 +83,13 @@
         "title": "Mesut Özil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mesut%20%C3%96zil",
         "pubdate": "Sun, 27 Nov 2022 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jürgen Klinsmann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#J%C3%BCrgen%20Klinsmann",
+        "pubdate": "Sun, 27 Nov 2022 14:00:00 +0100"
       }
     ],
     [
