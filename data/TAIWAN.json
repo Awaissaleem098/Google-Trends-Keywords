@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-11-2022 , 01:19:42",
+  "lastUpdate": "28-11-2022 , 02:44:15",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "喀麥隆",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%96%80%E9%BA%A5%E9%9A%86",
         "pubdate": "Mon, 28 Nov 2022 07:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "UBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#UBA",
-        "pubdate": "Mon, 28 Nov 2022 00:00:00 +0800"
       }
     ],
     [
@@ -87,13 +80,6 @@
     ],
     [
       {
-        "title": "2022選舉開票結果",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#2022%E9%81%B8%E8%88%89%E9%96%8B%E7%A5%A8%E7%B5%90%E6%9E%9C",
-        "pubdate": "Sun, 27 Nov 2022 02:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "梁銘忠",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%A2%81%E9%8A%98%E5%BF%A0",
         "pubdate": "Sun, 27 Nov 2022 15:00:00 +0800"
@@ -122,16 +108,16 @@
     ],
     [
       {
-        "title": "時代力量議員",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%99%82%E4%BB%A3%E5%8A%9B%E9%87%8F%E8%AD%B0%E5%93%A1",
+        "title": "陳椒華",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%99%B3%E6%A4%92%E8%8F%AF",
         "pubdate": "Sun, 27 Nov 2022 15:00:00 +0800"
       }
     ],
     [
       {
-        "title": "上海暴動",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E4%B8%8A%E6%B5%B7%E6%9A%B4%E5%8B%95",
-        "pubdate": "Sun, 27 Nov 2022 22:00:00 +0800"
+        "title": "Mbappe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Mbappe",
+        "pubdate": "Sun, 27 Nov 2022 02:00:00 +0800"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "謝國樑 Gogoro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%AC%9D%E5%9C%8B%E6%A8%91%20Gogoro",
         "pubdate": "Sun, 27 Nov 2022 13:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "仙草花節",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E4%BB%99%E8%8D%89%E8%8A%B1%E7%AF%80",
+        "pubdate": "Sun, 27 Nov 2022 12:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "聯合報",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%81%AF%E5%90%88%E5%A0%B1",
+        "pubdate": "Sun, 27 Nov 2022 12:00:00 +0800"
       }
     ]
   ]

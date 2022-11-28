@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "28-11-2022 , 01:19:34",
+  "lastUpdate": "28-11-2022 , 02:44:10",
   "data": [
     [
       {
-        "title": "CNN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#CNN",
-        "pubdate": "Mon, 28 Nov 2022 02:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "北京",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%8C%97%E4%BA%AC",
-        "pubdate": "Mon, 28 Nov 2022 02:00:00 +0800"
+        "title": "BBC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#BBC",
+        "pubdate": "Mon, 28 Nov 2022 08:00:00 +0800"
       }
     ],
     [
@@ -31,16 +24,16 @@
     ],
     [
       {
-        "title": "西班牙對德國",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B0%8D%E5%BE%B7%E5%9C%8B",
-        "pubdate": "Sun, 27 Nov 2022 10:00:00 +0800"
+        "title": "成都",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%88%90%E9%83%BD",
+        "pubdate": "Mon, 28 Nov 2022 02:00:00 +0800"
       }
     ],
     [
       {
-        "title": "嘉玲",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%98%89%E7%8E%B2",
-        "pubdate": "Sun, 27 Nov 2022 14:00:00 +0800"
+        "title": "西班牙對德國",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B0%8D%E5%BE%B7%E5%9C%8B",
+        "pubdate": "Sun, 27 Nov 2022 10:00:00 +0800"
       }
     ],
     [
@@ -52,16 +45,16 @@
     ],
     [
       {
-        "title": "KKBOX 風雲榜",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#KKBOX%20%E9%A2%A8%E9%9B%B2%E6%A6%9C",
-        "pubdate": "Sun, 27 Nov 2022 13:00:00 +0800"
+        "title": "嘉玲",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%98%89%E7%8E%B2",
+        "pubdate": "Sun, 27 Nov 2022 14:00:00 +0800"
       }
     ],
     [
       {
-        "title": "麥美恩",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%BA%A5%E7%BE%8E%E6%81%A9",
-        "pubdate": "Sun, 27 Nov 2022 21:00:00 +0800"
+        "title": "KKBOX 風雲榜",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#KKBOX%20%E9%A2%A8%E9%9B%B2%E6%A6%9C",
+        "pubdate": "Sun, 27 Nov 2022 13:00:00 +0800"
       }
     ],
     [
@@ -73,6 +66,13 @@
     ],
     [
       {
+        "title": "麥美恩",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%BA%A5%E7%BE%8E%E6%81%A9",
+        "pubdate": "Sun, 27 Nov 2022 21:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "孫藝珍",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%AD%AB%E8%97%9D%E7%8F%8D",
         "pubdate": "Sun, 27 Nov 2022 22:00:00 +0800"
@@ -80,9 +80,9 @@
     ],
     [
       {
-        "title": "Q-Train",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Q-Train",
-        "pubdate": "Sun, 27 Nov 2022 11:00:00 +0800"
+        "title": "Mbappe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Mbappe",
+        "pubdate": "Sun, 27 Nov 2022 01:00:00 +0800"
       }
     ],
     [
@@ -90,6 +90,13 @@
         "title": "中年好聲音",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E4%B8%AD%E5%B9%B4%E5%A5%BD%E8%81%B2%E9%9F%B3",
         "pubdate": "Sun, 27 Nov 2022 22:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Japan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Japan",
+        "pubdate": "Sun, 27 Nov 2022 19:00:00 +0800"
       }
     ],
     [
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "武汉",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%AD%A6%E6%B1%89",
-        "pubdate": "Sun, 27 Nov 2022 22:00:00 +0800"
+        "title": "2018 世界盃",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#2018%20%E4%B8%96%E7%95%8C%E7%9B%83",
+        "pubdate": "Sun, 27 Nov 2022 21:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "鎌田大地",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%8E%8C%E7%94%B0%E5%A4%A7%E5%9C%B0",
         "pubdate": "Sun, 27 Nov 2022 21:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "側田演唱會",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%81%B4%E7%94%B0%E6%BC%94%E5%94%B1%E6%9C%83",
-        "pubdate": "Sun, 27 Nov 2022 01:00:00 +0800"
       }
     ]
   ]

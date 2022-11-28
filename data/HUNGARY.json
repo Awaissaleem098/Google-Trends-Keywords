@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-11-2022 , 01:19:34",
+  "lastUpdate": "28-11-2022 , 02:44:10",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Zámbó Jimmy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Z%C3%A1mb%C3%B3%20Jimmy",
         "pubdate": "Sun, 27 Nov 2022 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Istenes Bence",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Istenes%20Bence",
+        "pubdate": "Sun, 27 Nov 2022 09:00:00 +0100"
       }
     ],
     [
@@ -45,20 +52,6 @@
     ],
     [
       {
-        "title": "Dancing With The Stars győztese",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dancing%20With%20The%20Stars%20gy%C5%91ztese",
-        "pubdate": "Sun, 27 Nov 2022 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bárdosi Sándor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#B%C3%A1rdosi%20S%C3%A1ndor",
-        "pubdate": "Sun, 27 Nov 2022 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Bereczki Zoltán",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bereczki%20Zolt%C3%A1n",
         "pubdate": "Sun, 27 Nov 2022 00:00:00 +0100"
@@ -80,6 +73,13 @@
     ],
     [
       {
+        "title": "Dárdai Blanka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#D%C3%A1rdai%20Blanka",
+        "pubdate": "Sun, 27 Nov 2022 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Lottó nyerőszámai",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lott%C3%B3%20nyer%C5%91sz%C3%A1mai",
         "pubdate": "Sun, 27 Nov 2022 21:00:00 +0100"
@@ -87,23 +87,9 @@
     ],
     [
       {
-        "title": "Alphonso Davies",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Alphonso%20Davies",
-        "pubdate": "Sun, 27 Nov 2022 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Jim Carrey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jim%20Carrey",
         "pubdate": "Sun, 27 Nov 2022 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "DVTK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#DVTK",
-        "pubdate": "Sun, 27 Nov 2022 18:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Lothar Matthäus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lothar%20Matth%C3%A4us",
         "pubdate": "Sun, 27 Nov 2022 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Spanyolország–németország",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Spanyolorsz%C3%A1g%E2%80%93n%C3%A9metorsz%C3%A1g",
+        "pubdate": "Sat, 26 Nov 2022 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Japán–Costa Rica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jap%C3%A1n%E2%80%93Costa%20Rica",
+        "pubdate": "Sat, 26 Nov 2022 21:00:00 +0100"
       }
     ]
   ]

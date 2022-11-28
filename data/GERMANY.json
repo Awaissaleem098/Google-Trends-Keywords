@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "28-11-2022 , 01:19:33",
+  "lastUpdate": "28-11-2022 , 02:44:09",
   "data": [
     [
       {
         "title": "Musiala",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Musiala",
+        "pubdate": "Sun, 27 Nov 2022 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sandro Wagner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sandro%20Wagner",
         "pubdate": "Sun, 27 Nov 2022 20:00:00 +0100"
       }
     ],
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "Advent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Advent",
-        "pubdate": "Sun, 27 Nov 2022 08:00:00 +0100"
+        "title": "Erster Advent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Erster%20Advent",
+        "pubdate": "Sun, 27 Nov 2022 05:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Erster Advent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Erster%20Advent",
-        "pubdate": "Sun, 27 Nov 2022 05:00:00 +0100"
+        "title": "Advent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Advent",
+        "pubdate": "Sun, 27 Nov 2022 08:00:00 +0100"
       }
     ],
     [
@@ -59,6 +66,13 @@
     ],
     [
       {
+        "title": "Neuer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Neuer",
+        "pubdate": "Sun, 27 Nov 2022 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Klostermann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Klostermann",
         "pubdate": "Sun, 27 Nov 2022 22:00:00 +0100"
@@ -73,6 +87,13 @@
     ],
     [
       {
+        "title": "Jürgen Klinsmann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#J%C3%BCrgen%20Klinsmann",
+        "pubdate": "Sun, 27 Nov 2022 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Mario Götze",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mario%20G%C3%B6tze",
         "pubdate": "Sun, 27 Nov 2022 21:00:00 +0100"
@@ -83,13 +104,6 @@
         "title": "Mesut Özil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mesut%20%C3%96zil",
         "pubdate": "Sun, 27 Nov 2022 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jürgen Klinsmann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#J%C3%BCrgen%20Klinsmann",
-        "pubdate": "Sun, 27 Nov 2022 14:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Belgien gegen Marokko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Belgien%20gegen%20Marokko",
         "pubdate": "Sat, 26 Nov 2022 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kroatien gegen Kanada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kroatien%20gegen%20Kanada",
-        "pubdate": "Sat, 26 Nov 2022 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Irene Cara",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Irene%20Cara",
-        "pubdate": "Sat, 26 Nov 2022 14:00:00 +0100"
       }
     ]
   ]

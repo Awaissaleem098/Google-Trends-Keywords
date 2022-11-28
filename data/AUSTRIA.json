@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "28-11-2022 , 01:19:29",
+  "lastUpdate": "28-11-2022 , 02:44:07",
   "data": [
+    [
+      {
+        "title": "Cyber Monday 2022",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Cyber%20Monday%202022",
+        "pubdate": "Mon, 28 Nov 2022 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Die Draufgänger",
@@ -13,13 +20,6 @@
         "title": "ÖBB Streik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#%C3%96BB%20Streik",
         "pubdate": "Sun, 27 Nov 2022 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kilde",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kilde",
-        "pubdate": "Sun, 27 Nov 2022 08:00:00 +0100"
       }
     ],
     [
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Luis Enrique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Luis%20Enrique",
-        "pubdate": "Sun, 27 Nov 2022 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Kamerun gegen Serbien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kamerun%20gegen%20Serbien",
         "pubdate": "Sun, 27 Nov 2022 17:00:00 +0100"
@@ -94,20 +87,6 @@
     ],
     [
       {
-        "title": "David Raum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#David%20Raum",
-        "pubdate": "Sun, 27 Nov 2022 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Morata",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Morata",
-        "pubdate": "Sun, 27 Nov 2022 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Erster Advent",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Erster%20Advent",
         "pubdate": "Sun, 27 Nov 2022 09:00:00 +0100"
@@ -118,6 +97,20 @@
         "title": "Milan Borjan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Milan%20Borjan",
         "pubdate": "Sun, 27 Nov 2022 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "David Raum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#David%20Raum",
+        "pubdate": "Sun, 27 Nov 2022 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Morata",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Morata",
+        "pubdate": "Sun, 27 Nov 2022 22:00:00 +0100"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Sane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sane",
+        "pubdate": "Sun, 27 Nov 2022 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Emilia Clarke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Emilia%20Clarke",
         "pubdate": "Sun, 27 Nov 2022 22:00:00 +0100"
       }
     ]

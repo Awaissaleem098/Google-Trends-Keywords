@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "28-11-2022 , 01:19:43",
+  "lastUpdate": "28-11-2022 , 02:44:16",
   "data": [
+    [
+      {
+        "title": "Cameroon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Cameroon",
+        "pubdate": "Mon, 28 Nov 2022 02:00:00 +0700"
+      }
+    ],
     [
       {
         "title": "Phi Nhung",
@@ -13,6 +20,27 @@
         "title": "Song Joong Ki Cậu út nhà tài phiệt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Song%20Joong%20Ki%20C%E1%BA%ADu%20%C3%BAt%20nh%C3%A0%20t%C3%A0i%20phi%E1%BB%87t",
         "pubdate": "Mon, 28 Nov 2022 00:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Brazil vs Thụy Sĩ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Brazil%20vs%20Th%E1%BB%A5y%20S%C4%A9",
+        "pubdate": "Mon, 28 Nov 2022 07:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Baifern và Nine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Baifern%20v%C3%A0%20Nine",
+        "pubdate": "Mon, 28 Nov 2022 07:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Maroc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Maroc",
+        "pubdate": "Sun, 27 Nov 2022 09:00:00 +0700"
       }
     ],
     [
@@ -73,6 +101,13 @@
     ],
     [
       {
+        "title": "Chung kết MMA Lion Championship 2022",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Chung%20k%E1%BA%BFt%20MMA%20Lion%20Championship%202022",
+        "pubdate": "Sun, 27 Nov 2022 01:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Diễn viên Thang Duy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Di%E1%BB%85n%20vi%C3%AAn%20Thang%20Duy",
         "pubdate": "Sun, 27 Nov 2022 02:00:00 +0700"
@@ -104,41 +139,6 @@
         "title": "Hoa hậu Ngọc Hân",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Hoa%20h%E1%BA%ADu%20Ng%E1%BB%8Dc%20H%C3%A2n",
         "pubdate": "Sun, 27 Nov 2022 20:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Han Ga In",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Han%20Ga%20In",
-        "pubdate": "Sun, 27 Nov 2022 00:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Griezmann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Griezmann",
-        "pubdate": "Sun, 27 Nov 2022 08:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Argentina – Mexico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Argentina%20%E2%80%93%20Mexico",
-        "pubdate": "Sat, 26 Nov 2022 11:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Tunisia – Úc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tunisia%20%E2%80%93%20%C3%9Ac",
-        "pubdate": "Sat, 26 Nov 2022 05:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Maroc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Maroc",
-        "pubdate": "Sat, 26 Nov 2022 07:00:00 +0700"
       }
     ]
   ]

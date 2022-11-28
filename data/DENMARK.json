@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "28-11-2022 , 01:19:32",
+  "lastUpdate": "28-11-2022 , 02:44:09",
   "data": [
     [
       {
-        "title": "Costa Rica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Costa%20Rica",
+        "title": "Spain vs Germany",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Spain%20vs%20Germany",
         "pubdate": "Sun, 27 Nov 2022 11:00:00 +0100"
       }
     ],
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Cyber Monday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Cyber%20Monday",
-        "pubdate": "Sun, 27 Nov 2022 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Musiala",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Musiala",
         "pubdate": "Sun, 27 Nov 2022 21:00:00 +0100"
@@ -55,6 +48,13 @@
         "title": "Advent",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Advent",
         "pubdate": "Sun, 27 Nov 2022 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Cyber Monday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Cyber%20Monday",
+        "pubdate": "Sun, 27 Nov 2022 20:00:00 +0100"
       }
     ],
     [
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Atiba Hutchinson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Atiba%20Hutchinson",
-        "pubdate": "Sun, 27 Nov 2022 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Kingsman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kingsman",
         "pubdate": "Sun, 27 Nov 2022 23:00:00 +0100"
@@ -94,9 +87,16 @@
     ],
     [
       {
-        "title": "Lukaku",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lukaku",
-        "pubdate": "Sun, 27 Nov 2022 16:00:00 +0100"
+        "title": "Atiba Hutchinson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Atiba%20Hutchinson",
+        "pubdate": "Sun, 27 Nov 2022 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Cyber Monday 2022",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Cyber%20Monday%202022",
+        "pubdate": "Sun, 27 Nov 2022 23:00:00 +0100"
       }
     ],
     [
@@ -122,16 +122,16 @@
     ],
     [
       {
-        "title": "Glass",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Glass",
-        "pubdate": "Sun, 27 Nov 2022 01:00:00 +0100"
+        "title": "Meghan Trainor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Meghan%20Trainor",
+        "pubdate": "Sun, 27 Nov 2022 16:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Meghan Trainor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Meghan%20Trainor",
-        "pubdate": "Sun, 27 Nov 2022 16:00:00 +0100"
+        "title": "Glass",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Glass",
+        "pubdate": "Sun, 27 Nov 2022 01:00:00 +0100"
       }
     ],
     [

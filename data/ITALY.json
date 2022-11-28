@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "28-11-2022 , 01:19:36",
+  "lastUpdate": "28-11-2022 , 02:44:11",
   "data": [
-    [
-      {
-        "title": "Fernanda Lessa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fernanda%20Lessa",
-        "pubdate": "Mon, 28 Nov 2022 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Marco Cappato",
@@ -20,13 +13,6 @@
         "title": "Jimi Hendrix",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Jimi%20Hendrix",
         "pubdate": "Mon, 28 Nov 2022 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Serie B",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Serie%20B",
-        "pubdate": "Sun, 27 Nov 2022 14:00:00 +0100"
       }
     ],
     [
@@ -47,6 +33,13 @@
       {
         "title": "Dopo il matrimonio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Dopo%20il%20matrimonio",
+        "pubdate": "Sun, 27 Nov 2022 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Palermo  Venezia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Palermo%20%20Venezia",
         "pubdate": "Sun, 27 Nov 2022 17:00:00 +0100"
       }
     ],
@@ -94,13 +87,6 @@
     ],
     [
       {
-        "title": "Reggina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Reggina",
-        "pubdate": "Sun, 27 Nov 2022 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Marcell Jacobs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Marcell%20Jacobs",
         "pubdate": "Sun, 27 Nov 2022 00:00:00 +0100"
@@ -108,9 +94,23 @@
     ],
     [
       {
-        "title": "Vittoria Puccini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Vittoria%20Puccini",
-        "pubdate": "Sun, 27 Nov 2022 18:00:00 +0100"
+        "title": "Irama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Irama",
+        "pubdate": "Sun, 27 Nov 2022 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Luis Enrique figlia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Luis%20Enrique%20figlia",
+        "pubdate": "Sun, 27 Nov 2022 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Cyber Monday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cyber%20Monday",
+        "pubdate": "Sun, 27 Nov 2022 22:00:00 +0100"
       }
     ],
     [
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Cyber Monday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cyber%20Monday",
+        "title": "Bono",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bono",
         "pubdate": "Sun, 27 Nov 2022 22:00:00 +0100"
       }
     ]
