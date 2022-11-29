@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-11-2022 , 23:52:16",
+  "lastUpdate": "29-11-2022 , 01:15:51",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Dua Lipa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Dua%20Lipa",
+        "pubdate": "Mon, 28 Nov 2022 12:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Luis Suarez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Luis%20Suarez",
         "pubdate": "Mon, 28 Nov 2022 20:00:00 +0000"
@@ -31,9 +38,16 @@
     ],
     [
       {
-        "title": "Dua Lipa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Dua%20Lipa",
-        "pubdate": "Mon, 28 Nov 2022 12:00:00 +0000"
+        "title": "Spotify Wrapped",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Spotify%20Wrapped",
+        "pubdate": "Mon, 28 Nov 2022 11:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Iran vs USA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Iran%20vs%20USA",
+        "pubdate": "Mon, 28 Nov 2022 23:00:00 +0000"
       }
     ],
     [
@@ -59,13 +73,6 @@
     ],
     [
       {
-        "title": "Spotify Wrapped",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Spotify%20Wrapped",
-        "pubdate": "Mon, 28 Nov 2022 11:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Ruby Wax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ruby%20Wax",
         "pubdate": "Mon, 28 Nov 2022 22:00:00 +0000"
@@ -76,6 +83,13 @@
         "title": "Bristol Clean Air Zone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bristol%20Clean%20Air%20Zone",
         "pubdate": "Mon, 28 Nov 2022 18:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Juventus",
+        "pubdate": "Mon, 28 Nov 2022 23:00:00 +0000"
       }
     ],
     [
@@ -94,9 +108,16 @@
     ],
     [
       {
-        "title": "Joao Felix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Joao%20Felix",
-        "pubdate": "Mon, 28 Nov 2022 21:00:00 +0000"
+        "title": "24 Hours in Police Custody",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#24%20Hours%20in%20Police%20Custody",
+        "pubdate": "Mon, 28 Nov 2022 23:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Pete Davidson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Pete%20Davidson",
+        "pubdate": "Mon, 28 Nov 2022 23:00:00 +0000"
       }
     ],
     [
@@ -108,9 +129,9 @@
     ],
     [
       {
-        "title": "Roberto Martinez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Roberto%20Martinez",
-        "pubdate": "Mon, 28 Nov 2022 10:00:00 +0000"
+        "title": "Cara Delevingne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Cara%20Delevingne",
+        "pubdate": "Mon, 28 Nov 2022 23:00:00 +0000"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Bentancur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bentancur",
         "pubdate": "Mon, 28 Nov 2022 22:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Eric Fleishman trainer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Eric%20Fleishman%20trainer",
-        "pubdate": "Mon, 28 Nov 2022 03:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Brazil vs Switzerland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Brazil%20vs%20Switzerland",
-        "pubdate": "Sun, 27 Nov 2022 19:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Spain vs Germany",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Spain%20vs%20Germany",
-        "pubdate": "Sun, 27 Nov 2022 13:00:00 +0000"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-11-2022 , 23:52:13",
+  "lastUpdate": "29-11-2022 , 01:15:48",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Wniosek o tańszy prąd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wniosek%20o%20ta%C5%84szy%20pr%C4%85d",
-        "pubdate": "Mon, 28 Nov 2022 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Ukraińcy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ukrai%C5%84cy",
         "pubdate": "Mon, 28 Nov 2022 09:00:00 +0100"
@@ -45,16 +38,16 @@
     ],
     [
       {
-        "title": "Zamieszki w Brukseli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zamieszki%20w%20Brukseli",
-        "pubdate": "Mon, 28 Nov 2022 08:00:00 +0100"
+        "title": "Metallica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Metallica",
+        "pubdate": "Mon, 28 Nov 2022 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Metallica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Metallica",
-        "pubdate": "Mon, 28 Nov 2022 18:00:00 +0100"
+        "title": "Zamieszki w Brukseli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zamieszki%20w%20Brukseli",
+        "pubdate": "Mon, 28 Nov 2022 08:00:00 +0100"
       }
     ],
     [
@@ -80,13 +73,6 @@
     ],
     [
       {
-        "title": "Ewa Błaszczyk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ewa%20B%C5%82aszczyk",
-        "pubdate": "Mon, 28 Nov 2022 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Anna Sienkiewicz-Rogowska",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Anna%20Sienkiewicz-Rogowska",
         "pubdate": "Mon, 28 Nov 2022 19:00:00 +0100"
@@ -97,6 +83,13 @@
         "title": "Pete Davidson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pete%20Davidson",
         "pubdate": "Mon, 28 Nov 2022 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ewa Błaszczyk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ewa%20B%C5%82aszczyk",
+        "pubdate": "Mon, 28 Nov 2022 09:00:00 +0100"
       }
     ],
     [
@@ -115,16 +108,16 @@
     ],
     [
       {
-        "title": "Andrzej Piaseczny",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Andrzej%20Piaseczny",
-        "pubdate": "Mon, 28 Nov 2022 00:00:00 +0100"
+        "title": "Mauna Loa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mauna%20Loa",
+        "pubdate": "Mon, 28 Nov 2022 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Mauna Loa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mauna%20Loa",
-        "pubdate": "Mon, 28 Nov 2022 22:00:00 +0100"
+        "title": "Andrzej Piaseczny",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Andrzej%20Piaseczny",
+        "pubdate": "Mon, 28 Nov 2022 00:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Szkarlatyna Objawy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Szkarlatyna%20Objawy",
         "pubdate": "Mon, 28 Nov 2022 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Maja Staśko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maja%20Sta%C5%9Bko",
+        "pubdate": "Mon, 28 Nov 2022 23:00:00 +0100"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-11-2022 , 23:52:10",
+  "lastUpdate": "29-11-2022 , 01:15:45",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Faker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Faker",
         "pubdate": "Tue, 29 Nov 2022 01:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "BlockFi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#BlockFi",
+        "pubdate": "Tue, 29 Nov 2022 07:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "古巨基",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%8F%A4%E5%B7%A8%E5%9F%BA",
         "pubdate": "Mon, 28 Nov 2022 07:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "孤勇者",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%AD%A4%E5%8B%87%E8%80%85",
-        "pubdate": "Mon, 28 Nov 2022 21:00:00 +0800"
       }
     ]
   ]

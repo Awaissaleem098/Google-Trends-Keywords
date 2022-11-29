@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "28-11-2022 , 23:52:09",
+  "lastUpdate": "29-11-2022 , 01:15:44",
   "data": [
+    [
+      {
+        "title": "Uruguay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Uruguay",
+        "pubdate": "Mon, 28 Nov 2022 17:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Cyber Monday",
@@ -10,9 +17,16 @@
     ],
     [
       {
-        "title": "Cristiano Ronaldo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Cristiano%20Ronaldo",
-        "pubdate": "Mon, 28 Nov 2022 22:00:00 +0100"
+        "title": "Balenciaga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Balenciaga",
+        "pubdate": "Mon, 28 Nov 2022 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Suarez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Suarez",
+        "pubdate": "Mon, 28 Nov 2022 21:00:00 +0100"
       }
     ],
     [
@@ -31,13 +45,6 @@
     ],
     [
       {
-        "title": "Suarez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Suarez",
-        "pubdate": "Mon, 28 Nov 2022 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Schweinsteiger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schweinsteiger",
         "pubdate": "Mon, 28 Nov 2022 23:00:00 +0100"
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Yann Sommer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Yann%20Sommer",
-        "pubdate": "Mon, 28 Nov 2022 18:00:00 +0100"
+        "title": "RS-Virus Kinder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RS-Virus%20Kinder",
+        "pubdate": "Mon, 28 Nov 2022 17:00:00 +0100"
       }
     ],
     [
@@ -55,13 +62,6 @@
         "title": "Borussia Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Borussia%20Dortmund",
         "pubdate": "Mon, 28 Nov 2022 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Black Friday Cyber Monday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Black%20Friday%20Cyber%20Monday",
-        "pubdate": "Mon, 28 Nov 2022 09:00:00 +0100"
       }
     ],
     [
@@ -80,20 +80,6 @@
     ],
     [
       {
-        "title": "Serbien gegen Kamerun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Serbien%20gegen%20Kamerun",
-        "pubdate": "Mon, 28 Nov 2022 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Füllkrug",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#F%C3%BCllkrug",
-        "pubdate": "Sun, 27 Nov 2022 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Brasilien gegen Schweiz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Brasilien%20gegen%20Schweiz",
         "pubdate": "Sun, 27 Nov 2022 17:00:00 +0100"
@@ -104,13 +90,6 @@
         "title": "Kamerun gegen Serbien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kamerun%20gegen%20Serbien",
         "pubdate": "Sun, 27 Nov 2022 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Uruguay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Uruguay",
-        "pubdate": "Sun, 27 Nov 2022 22:00:00 +0100"
       }
     ],
     [
@@ -139,6 +118,27 @@
         "title": "David Raum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#David%20Raum",
         "pubdate": "Sun, 27 Nov 2022 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Rüdiger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#R%C3%BCdiger",
+        "pubdate": "Sun, 27 Nov 2022 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Japan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Japan",
+        "pubdate": "Sun, 27 Nov 2022 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Advent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Advent",
+        "pubdate": "Sun, 27 Nov 2022 08:00:00 +0100"
       }
     ]
   ]

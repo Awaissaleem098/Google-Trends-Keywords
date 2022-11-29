@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "28-11-2022 , 23:52:07",
+  "lastUpdate": "29-11-2022 , 01:15:42",
   "data": [
     [
       {
         "title": "Uruguay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Uruguay",
         "pubdate": "Mon, 28 Nov 2022 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Serbien Kamerun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Serbien%20Kamerun",
+        "pubdate": "Mon, 28 Nov 2022 11:00:00 +0100"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Wiener Linien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wiener%20Linien",
         "pubdate": "Mon, 28 Nov 2022 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cristiano Ronaldo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Cristiano%20Ronaldo",
-        "pubdate": "Mon, 28 Nov 2022 22:00:00 +0100"
       }
     ],
     [
@@ -76,6 +76,13 @@
         "title": "Mauna Loa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mauna%20Loa",
         "pubdate": "Mon, 28 Nov 2022 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Niederlande gegen Katar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Niederlande%20gegen%20Katar",
+        "pubdate": "Mon, 28 Nov 2022 19:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Yann Sommer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Yann%20Sommer",
         "pubdate": "Mon, 28 Nov 2022 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Georgina Rodriguez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Georgina%20Rodriguez",
-        "pubdate": "Mon, 28 Nov 2022 23:00:00 +0100"
       }
     ]
   ]
