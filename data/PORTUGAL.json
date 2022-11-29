@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "29-11-2022 , 01:15:48",
+  "lastUpdate": "29-11-2022 , 02:38:52",
   "data": [
+    [
+      {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Juventus",
+        "pubdate": "Tue, 29 Nov 2022 00:00:00 +0000"
+      }
+    ],
     [
       {
         "title": "Antonio Pedro Cerdeira",
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "Balenciaga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Balenciaga",
-        "pubdate": "Mon, 28 Nov 2022 01:00:00 +0000"
+        "title": "Nuno Mendes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nuno%20Mendes",
+        "pubdate": "Mon, 28 Nov 2022 19:00:00 +0000"
       }
     ],
     [
       {
-        "title": "Nuno Mendes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nuno%20Mendes",
-        "pubdate": "Mon, 28 Nov 2022 19:00:00 +0000"
+        "title": "Balenciaga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Balenciaga",
+        "pubdate": "Mon, 28 Nov 2022 01:00:00 +0000"
       }
     ],
     [
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Luis suarez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Luis%20suarez",
-        "pubdate": "Mon, 28 Nov 2022 19:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Brazil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Brazil",
         "pubdate": "Mon, 28 Nov 2022 15:00:00 +0000"
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Ruben Dias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ruben%20Dias",
+        "pubdate": "Mon, 28 Nov 2022 20:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Selecao nacional",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Selecao%20nacional",
         "pubdate": "Mon, 28 Nov 2022 20:00:00 +0000"
@@ -117,13 +124,6 @@
       {
         "title": "Ângelo Rodrigues",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#%C3%82ngelo%20Rodrigues",
-        "pubdate": "Mon, 28 Nov 2022 09:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Greve cantinas escolares",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Greve%20cantinas%20escolares",
         "pubdate": "Mon, 28 Nov 2022 09:00:00 +0000"
       }
     ],

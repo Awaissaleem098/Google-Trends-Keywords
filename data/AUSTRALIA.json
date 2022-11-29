@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-11-2022 , 01:15:42",
+  "lastUpdate": "29-11-2022 , 02:38:45",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Robert Irwin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Robert%20Irwin",
-        "pubdate": "Tue, 29 Nov 2022 00:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Spotify festival",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Spotify%20festival",
         "pubdate": "Tue, 29 Nov 2022 01:00:00 +1100"
@@ -38,9 +31,23 @@
     ],
     [
       {
-        "title": "What to watch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#What%20to%20watch",
+        "title": "What to Watch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#What%20to%20Watch",
         "pubdate": "Tue, 29 Nov 2022 08:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Robert Irwin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Robert%20Irwin",
+        "pubdate": "Tue, 29 Nov 2022 00:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Dr James Wright",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dr%20James%20Wright",
+        "pubdate": "Tue, 29 Nov 2022 10:00:00 +1100"
       }
     ],
     [
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Dr James Wright",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dr%20James%20Wright",
-        "pubdate": "Tue, 29 Nov 2022 10:00:00 +1100"
+        "title": "Zombie virus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Zombie%20virus",
+        "pubdate": "Tue, 29 Nov 2022 11:00:00 +1100"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Ecuador vs Senegal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ecuador%20vs%20Senegal",
-        "pubdate": "Mon, 28 Nov 2022 22:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "The Notebook",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Notebook",
         "pubdate": "Mon, 28 Nov 2022 22:00:00 +1100"
       }
     ]

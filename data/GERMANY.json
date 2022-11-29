@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "29-11-2022 , 01:15:44",
+  "lastUpdate": "29-11-2022 , 02:38:48",
   "data": [
     [
       {
-        "title": "Uruguay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Uruguay",
-        "pubdate": "Mon, 28 Nov 2022 17:00:00 +0100"
+        "title": "ARD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ARD",
+        "pubdate": "Mon, 28 Nov 2022 19:00:00 +0100"
       }
     ],
     [
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Suarez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Suarez",
-        "pubdate": "Mon, 28 Nov 2022 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Sami Khedira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sami%20Khedira",
         "pubdate": "Mon, 28 Nov 2022 23:00:00 +0100"
@@ -45,16 +38,16 @@
     ],
     [
       {
-        "title": "Schweinsteiger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schweinsteiger",
-        "pubdate": "Mon, 28 Nov 2022 23:00:00 +0100"
+        "title": "Suarez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Suarez",
+        "pubdate": "Mon, 28 Nov 2022 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "RS-Virus Kinder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RS-Virus%20Kinder",
-        "pubdate": "Mon, 28 Nov 2022 17:00:00 +0100"
+        "title": "Schweinsteiger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schweinsteiger",
+        "pubdate": "Mon, 28 Nov 2022 23:00:00 +0100"
       }
     ],
     [
@@ -73,6 +66,13 @@
     ],
     [
       {
+        "title": "Black Friday Cyber Monday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Black%20Friday%20Cyber%20Monday",
+        "pubdate": "Mon, 28 Nov 2022 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Dua Lipa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dua%20Lipa",
         "pubdate": "Mon, 28 Nov 2022 16:00:00 +0100"
@@ -83,6 +83,13 @@
         "title": "Brasilien gegen Schweiz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Brasilien%20gegen%20Schweiz",
         "pubdate": "Sun, 27 Nov 2022 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Uruguay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Uruguay",
+        "pubdate": "Sun, 27 Nov 2022 22:00:00 +0100"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Rüdiger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#R%C3%BCdiger",
-        "pubdate": "Sun, 27 Nov 2022 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Japan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Japan",
         "pubdate": "Sun, 27 Nov 2022 12:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Advent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Advent",
-        "pubdate": "Sun, 27 Nov 2022 08:00:00 +0100"
+        "title": "Jamal Musiala",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jamal%20Musiala",
+        "pubdate": "Sun, 27 Nov 2022 20:00:00 +0100"
       }
     ]
   ]
