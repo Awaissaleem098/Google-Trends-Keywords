@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-11-2022 , 01:55:14",
+  "lastUpdate": "30-11-2022 , 02:54:24",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Recep İvedik 7",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Recep%20%C4%B0vedik%207",
+        "pubdate": "Tue, 29 Nov 2022 02:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "İran",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0ran",
         "pubdate": "Tue, 29 Nov 2022 20:00:00 +0300"
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Recep İvedik 7",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Recep%20%C4%B0vedik%207",
-        "pubdate": "Tue, 29 Nov 2022 02:00:00 +0300"
+        "title": "İngiltere Galler maçı hangi kanalda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0ngiltere%20Galler%20ma%C3%A7%C4%B1%20hangi%20kanalda",
+        "pubdate": "Tue, 29 Nov 2022 22:00:00 +0300"
       }
     ],
     [
@@ -52,22 +59,15 @@
     ],
     [
       {
-        "title": "ABD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#ABD",
-        "pubdate": "Tue, 29 Nov 2022 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Yeni Asgari ücret zammı",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Yeni%20Asgari%20%C3%BCcret%20zamm%C4%B1",
+        "title": "Yeni asgari ücret zammı",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Yeni%20asgari%20%C3%BCcret%20zamm%C4%B1",
         "pubdate": "Tue, 29 Nov 2022 15:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Ekvador MAÇI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ekvador%20MA%C3%87I",
+        "title": "Ekvador maçı",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ekvador%20ma%C3%A7%C4%B1",
         "pubdate": "Tue, 29 Nov 2022 19:00:00 +0300"
       }
     ],
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "İran Amerika maçı",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0ran%20Amerika%20ma%C3%A7%C4%B1",
-        "pubdate": "Tue, 29 Nov 2022 22:00:00 +0300"
+        "title": "Fernando Muslera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fernando%20Muslera",
+        "pubdate": "Tue, 29 Nov 2022 00:00:00 +0300"
       }
     ]
   ]
