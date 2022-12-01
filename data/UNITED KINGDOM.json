@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-12-2022 , 01:24:00",
+  "lastUpdate": "01-12-2022 , 03:00:49",
   "data": [
+    [
+      {
+        "title": "Cocaine Bear",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Cocaine%20Bear",
+        "pubdate": "Thu, 01 Dec 2022 00:00:00 +0000"
+      }
+    ],
     [
       {
         "title": "St Andrew's Day",
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "India vs New Zealand",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#India%20vs%20New%20Zealand",
-        "pubdate": "Wed, 30 Nov 2022 07:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Neco Williams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Neco%20Williams",
         "pubdate": "Wed, 30 Nov 2022 02:00:00 +0000"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "George Michael sister Melanie death",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#George%20Michael%20sister%20Melanie%20death",
-        "pubdate": "Wed, 30 Nov 2022 20:00:00 +0000"
+        "title": "Cardiff City vs Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Cardiff%20City%20vs%20Aston%20Villa",
+        "pubdate": "Wed, 30 Nov 2022 21:00:00 +0000"
       }
     ]
   ]

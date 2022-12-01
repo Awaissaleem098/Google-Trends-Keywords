@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-12-2022 , 01:23:59",
+  "lastUpdate": "01-12-2022 , 03:00:48",
   "data": [
+    [
+      {
+        "title": "Jerry Lawson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jerry%20Lawson",
+        "pubdate": "Thu, 01 Dec 2022 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Fifa-Museum",
@@ -59,9 +66,23 @@
     ],
     [
       {
+        "title": "Stephanie Frappart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stephanie%20Frappart",
+        "pubdate": "Wed, 30 Nov 2022 06:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Will Smith",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Will%20Smith",
         "pubdate": "Wed, 30 Nov 2022 06:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mexico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mexico",
+        "pubdate": "Wed, 30 Nov 2022 21:00:00 +0100"
       }
     ],
     [
@@ -73,30 +94,9 @@
     ],
     [
       {
-        "title": "Maradona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Maradona",
-        "pubdate": "Wed, 30 Nov 2022 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Openair St. Gallen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Openair%20St.%20Gallen",
-        "pubdate": "Wed, 30 Nov 2022 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Burna Boy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Burna%20Boy",
         "pubdate": "Wed, 30 Nov 2022 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fachkräftemangel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fachkr%C3%A4ftemangel",
-        "pubdate": "Wed, 30 Nov 2022 07:00:00 +0100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Alexis Mac Allister",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alexis%20Mac%20Allister",
-        "pubdate": "Wed, 30 Nov 2022 22:00:00 +0100"
+        "title": "Sergio Mattarella",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sergio%20Mattarella",
+        "pubdate": "Wed, 30 Nov 2022 07:00:00 +0100"
       }
     ]
   ]

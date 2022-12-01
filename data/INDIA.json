@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-12-2022 , 01:23:54",
+  "lastUpdate": "01-12-2022 , 03:00:40",
   "data": [
+    [
+      {
+        "title": "Japan vs Spain",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Japan%20vs%20Spain",
+        "pubdate": "Thu, 01 Dec 2022 03:30:00 +0530"
+      }
+    ],
     [
       {
         "title": "Canada vs Morocco",
@@ -45,16 +52,16 @@
     ],
     [
       {
-        "title": "NDTV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#NDTV",
-        "pubdate": "Wed, 30 Nov 2022 21:30:00 +0530"
+        "title": "Spotify Wrapped",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Spotify%20Wrapped",
+        "pubdate": "Wed, 30 Nov 2022 20:30:00 +0530"
       }
     ],
     [
       {
-        "title": "Spotify Wrapped",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Spotify%20Wrapped",
-        "pubdate": "Wed, 30 Nov 2022 20:30:00 +0530"
+        "title": "NDTV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#NDTV",
+        "pubdate": "Wed, 30 Nov 2022 21:30:00 +0530"
       }
     ],
     [
@@ -80,16 +87,16 @@
     ],
     [
       {
-        "title": "Marcus Rashford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Marcus%20Rashford",
-        "pubdate": "Wed, 30 Nov 2022 16:30:00 +0530"
+        "title": "Denmark vs Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Denmark%20vs%20Australia",
+        "pubdate": "Wed, 30 Nov 2022 22:30:00 +0530"
       }
     ],
     [
       {
-        "title": "Gareth Bale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Gareth%20Bale",
-        "pubdate": "Wed, 30 Nov 2022 22:30:00 +0530"
+        "title": "Marcus Rashford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Marcus%20Rashford",
+        "pubdate": "Wed, 30 Nov 2022 16:30:00 +0530"
       }
     ],
     [
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Ecuador vs Senegal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ecuador%20vs%20Senegal",
-        "pubdate": "Tue, 29 Nov 2022 21:30:00 +0530"
-      }
-    ],
-    [
-      {
         "title": "Saudi Arabia vs Mexico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Saudi%20Arabia%20vs%20Mexico",
         "pubdate": "Tue, 29 Nov 2022 22:30:00 +0530"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Wales vs England",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Wales%20vs%20England",
-        "pubdate": "Tue, 29 Nov 2022 07:30:00 +0530"
+        "title": "Ecuador vs Senegal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ecuador%20vs%20Senegal",
+        "pubdate": "Tue, 29 Nov 2022 21:30:00 +0530"
       }
     ],
     [
       {
-        "title": "Iran vs USA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Iran%20vs%20USA",
-        "pubdate": "Tue, 29 Nov 2022 03:30:00 +0530"
+        "title": "Wales vs England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Wales%20vs%20England",
+        "pubdate": "Tue, 29 Nov 2022 07:30:00 +0530"
       }
     ]
   ]

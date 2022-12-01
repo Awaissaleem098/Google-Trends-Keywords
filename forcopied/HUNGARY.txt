@@ -1,1 +1,1 @@
-Tyson Fury,Kormányinfó,Zámbó Jimmy,Spotify Wrapped,Karinthy Frigyes Gimnázium,Sebestyén Balázs,Pelé,Willow,Paul Walker,Christine McVie,Valki László,Polgár Tünde,Szabados Ágnes,Christiane Hörbiger,USA,Porsche,Cara Delevingne,Mila Kunis,Davide Rebellin,Kanye West
+Tyson Fury,Messi,Kormányinfó,Spotify Wrapped,Zámbó Jimmy,Karinthy Frigyes Gimnázium,Christine McVie,Sebestyén Balázs,Pelé,Willow,Paul Walker,Valki László,Polgár Tünde,Christiane Hörbiger,Szabados Ágnes,USA,Porsche,Mila Kunis,Davide Rebellin,Cara Delevingne

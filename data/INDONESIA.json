@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-12-2022 , 01:23:54",
+  "lastUpdate": "01-12-2022 , 03:00:40",
   "data": [
     [
       {
@@ -17,9 +17,23 @@
     ],
     [
       {
+        "title": "December",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#December",
+        "pubdate": "Thu, 01 Dec 2022 07:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Christian Eriksen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Christian%20Eriksen",
         "pubdate": "Thu, 01 Dec 2022 05:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "AIDS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#AIDS",
+        "pubdate": "Thu, 01 Dec 2022 08:00:00 +0700"
       }
     ],
     [
@@ -40,14 +54,14 @@
       {
         "title": "Wales",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Wales",
-        "pubdate": "Wed, 30 Nov 2022 06:00:00 +0700"
+        "pubdate": "Wed, 30 Nov 2022 08:00:00 +0700"
       }
     ],
     [
       {
-        "title": "BUMN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#BUMN",
-        "pubdate": "Wed, 30 Nov 2022 12:00:00 +0700"
+        "title": "Rekrutmen Bersama BUMN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Rekrutmen%20Bersama%20BUMN",
+        "pubdate": "Wed, 30 Nov 2022 11:00:00 +0700"
       }
     ],
     [
@@ -73,16 +87,9 @@
     ],
     [
       {
-        "title": "Sadio Mane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Sadio%20Mane",
+        "title": "Borussia Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Borussia%20Dortmund",
         "pubdate": "Wed, 30 Nov 2022 21:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "USA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#USA",
-        "pubdate": "Wed, 30 Nov 2022 06:00:00 +0700"
       }
     ],
     [
@@ -90,13 +97,6 @@
         "title": "ENHYPEN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#ENHYPEN",
         "pubdate": "Wed, 30 Nov 2022 13:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Was!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Was!",
-        "pubdate": "Wed, 30 Nov 2022 14:00:00 +0700"
       }
     ],
     [
@@ -115,22 +115,22 @@
     ],
     [
       {
-        "title": "Borussia Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Borussia%20Dortmund",
-        "pubdate": "Wed, 30 Nov 2022 21:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Braven",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Braven",
-        "pubdate": "Wed, 30 Nov 2022 22:00:00 +0700"
+        "title": "Was!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Was!",
+        "pubdate": "Wed, 30 Nov 2022 14:00:00 +0700"
       }
     ],
     [
       {
         "title": "Virus zombie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Virus%20zombie",
+        "pubdate": "Wed, 30 Nov 2022 22:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Braven",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Braven",
         "pubdate": "Wed, 30 Nov 2022 22:00:00 +0700"
       }
     ],
