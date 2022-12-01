@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-12-2022 , 11:59:34",
+  "lastUpdate": "01-12-2022 , 12:49:22",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Sam Brinton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sam%20Brinton",
+        "pubdate": "Wed, 30 Nov 2022 07:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Entree",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Entree",
         "pubdate": "Wed, 30 Nov 2022 21:00:00 +0100"
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Jiřina bohdalová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99ina%20bohdalov%C3%A1",
-        "pubdate": "Wed, 30 Nov 2022 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Christine McVie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Christine%20McVie",
         "pubdate": "Wed, 30 Nov 2022 23:00:00 +0100"
@@ -66,9 +66,23 @@
     ],
     [
       {
+        "title": "Jiřina bohdalová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99ina%20bohdalov%C3%A1",
+        "pubdate": "Wed, 30 Nov 2022 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Pele",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pele",
         "pubdate": "Wed, 30 Nov 2022 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Hranice lásky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hranice%20l%C3%A1sky",
+        "pubdate": "Wed, 30 Nov 2022 22:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Pozar cesky tesin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pozar%20cesky%20tesin",
         "pubdate": "Wed, 30 Nov 2022 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Emmanuel Macron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Emmanuel%20Macron",
-        "pubdate": "Wed, 30 Nov 2022 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Clarence Gilyard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Clarence%20Gilyard",
-        "pubdate": "Tue, 29 Nov 2022 12:00:00 +0100"
       }
     ]
   ]

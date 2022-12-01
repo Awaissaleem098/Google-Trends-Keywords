@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-12-2022 , 11:59:36",
+  "lastUpdate": "01-12-2022 , 12:49:23",
   "data": [
+    [
+      {
+        "title": "Jerry Lawson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jerry%20Lawson",
+        "pubdate": "Thu, 01 Dec 2022 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Hagen Reinhold",
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "Tunesien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tunesien",
+        "title": "Frankreich Tunesien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frankreich%20Tunesien",
         "pubdate": "Wed, 30 Nov 2022 16:00:00 +0100"
       }
     ],
@@ -66,16 +73,16 @@
     ],
     [
       {
-        "title": "Holodomor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Holodomor",
-        "pubdate": "Wed, 30 Nov 2022 14:00:00 +0100"
+        "title": "Holtenauer Hochbrücke gesperrt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Holtenauer%20Hochbr%C3%BCcke%20gesperrt",
+        "pubdate": "Wed, 30 Nov 2022 10:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Holtenauer Hochbrücke gesperrt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Holtenauer%20Hochbr%C3%BCcke%20gesperrt",
-        "pubdate": "Wed, 30 Nov 2022 10:00:00 +0100"
+        "title": "Christoph Kramer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Christoph%20Kramer",
+        "pubdate": "Wed, 30 Nov 2022 21:00:00 +0100"
       }
     ],
     [
@@ -90,13 +97,6 @@
         "title": "Jiang Zemin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jiang%20Zemin",
         "pubdate": "Wed, 30 Nov 2022 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Vanessa Mai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Vanessa%20Mai",
-        "pubdate": "Wed, 30 Nov 2022 09:00:00 +0100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Senegal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Senegal",
-        "pubdate": "Tue, 29 Nov 2022 19:00:00 +0100"
+        "title": "USA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#USA",
+        "pubdate": "Tue, 29 Nov 2022 22:00:00 +0100"
       }
     ]
   ]

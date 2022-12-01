@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-12-2022 , 11:59:40",
+  "lastUpdate": "01-12-2022 , 12:49:26",
   "data": [
+    [
+      {
+        "title": "Cameroon vs Brazil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Cameroon%20vs%20Brazil",
+        "pubdate": "Thu, 01 Dec 2022 19:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Argentina FC",
@@ -24,8 +31,8 @@
     ],
     [
       {
-        "title": "Ben White",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Ben%20White",
+        "title": "France vs Poland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#France%20vs%20Poland",
         "pubdate": "Thu, 01 Dec 2022 08:00:00 +0800"
       }
     ],
@@ -41,6 +48,13 @@
         "title": "Pele",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Pele",
         "pubdate": "Thu, 01 Dec 2022 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Christine McVie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Christine%20McVie",
+        "pubdate": "Thu, 01 Dec 2022 12:00:00 +0800"
       }
     ],
     [
@@ -73,16 +87,16 @@
     ],
     [
       {
-        "title": "World Cup brackets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#World%20Cup%20brackets",
-        "pubdate": "Wed, 30 Nov 2022 00:00:00 +0800"
+        "title": "Croatia vs Belgium",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Croatia%20vs%20Belgium",
+        "pubdate": "Wed, 30 Nov 2022 07:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Croatia vs Belgium",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Croatia%20vs%20Belgium",
-        "pubdate": "Wed, 30 Nov 2022 07:00:00 +0800"
+        "title": "World Cup brackets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#World%20Cup%20brackets",
+        "pubdate": "Wed, 30 Nov 2022 00:00:00 +0800"
       }
     ],
     [
@@ -94,16 +108,16 @@
     ],
     [
       {
-        "title": "India vs New Zealand",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#India%20vs%20New%20Zealand",
-        "pubdate": "Wed, 30 Nov 2022 10:00:00 +0800"
+        "title": "Canada vs Morocco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Canada%20vs%20Morocco",
+        "pubdate": "Wed, 30 Nov 2022 15:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Canada vs Morocco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Canada%20vs%20Morocco",
-        "pubdate": "Wed, 30 Nov 2022 15:00:00 +0800"
+        "title": "India vs New Zealand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#India%20vs%20New%20Zealand",
+        "pubdate": "Wed, 30 Nov 2022 10:00:00 +0800"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Netherlands",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Netherlands",
-        "pubdate": "Wed, 30 Nov 2022 03:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "HyunA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#HyunA",
         "pubdate": "Wed, 30 Nov 2022 20:00:00 +0800"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "England vs Pakistan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#England%20vs%20Pakistan",
-        "pubdate": "Wed, 30 Nov 2022 12:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Anwar Ibrahim Cabinet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Anwar%20Ibrahim%20Cabinet",
-        "pubdate": "Wed, 30 Nov 2022 13:00:00 +0800"
+        "title": "Netherlands",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Netherlands",
+        "pubdate": "Wed, 30 Nov 2022 03:00:00 +0800"
       }
     ]
   ]

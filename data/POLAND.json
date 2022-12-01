@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-12-2022 , 11:59:42",
+  "lastUpdate": "01-12-2022 , 12:49:28",
   "data": [
     [
       {
@@ -10,15 +10,29 @@
     ],
     [
       {
-        "title": "Euro 2016",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Euro%202016",
-        "pubdate": "Thu, 01 Dec 2022 09:00:00 +0100"
+        "title": "TVP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#TVP",
+        "pubdate": "Thu, 01 Dec 2022 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Anna Lewandowska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Anna%20Lewandowska",
+        "pubdate": "Thu, 01 Dec 2022 11:00:00 +0100"
       }
     ],
     [
       {
         "title": "FIFA World Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#FIFA%20World%20Cup",
+        "pubdate": "Thu, 01 Dec 2022 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jakub Kamiński",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jakub%20Kami%C5%84ski",
         "pubdate": "Thu, 01 Dec 2022 00:00:00 +0100"
       }
     ],
@@ -31,15 +45,22 @@
     ],
     [
       {
-        "title": "Henry Cavill",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Henry%20Cavill",
+        "title": "Bielik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bielik",
+        "pubdate": "Thu, 01 Dec 2022 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Minister OBRONY NARODOWEJ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Minister%20OBRONY%20NARODOWEJ",
         "pubdate": "Thu, 01 Dec 2022 01:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Minister obrony narodowej",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Minister%20obrony%20narodowej",
+        "title": "Henry Cavill",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Henry%20Cavill",
         "pubdate": "Thu, 01 Dec 2022 01:00:00 +0100"
       }
     ],
@@ -59,9 +80,9 @@
     ],
     [
       {
-        "title": "Jerzy Dudek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jerzy%20Dudek",
-        "pubdate": "Thu, 01 Dec 2022 00:00:00 +0100"
+        "title": "Polska  francja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polska%20%20francja",
+        "pubdate": "Thu, 01 Dec 2022 11:00:00 +0100"
       }
     ],
     [
@@ -73,23 +94,16 @@
     ],
     [
       {
-        "title": "Mecz Francja Polska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mecz%20Francja%20Polska",
-        "pubdate": "Thu, 01 Dec 2022 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Meksyk Arabia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Meksyk%20Arabia",
+        "title": "Arabia Saudyjska – Meksyk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Arabia%20Saudyjska%20%E2%80%93%20Meksyk",
         "pubdate": "Wed, 30 Nov 2022 16:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Polska - Francja 2022",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polska%20-%20Francja%202022",
-        "pubdate": "Wed, 30 Nov 2022 21:00:00 +0100"
+        "title": "Polska - Francja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polska%20-%20Francja",
+        "pubdate": "Wed, 30 Nov 2022 22:00:00 +0100"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Australia",
-        "pubdate": "Wed, 30 Nov 2022 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Mbappe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mbappe",
         "pubdate": "Wed, 30 Nov 2022 22:00:00 +0100"
@@ -122,22 +129,15 @@
     ],
     [
       {
-        "title": "Transmisja meczu Polska Argentyna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Transmisja%20meczu%20Polska%20Argentyna",
-        "pubdate": "Wed, 30 Nov 2022 20:00:00 +0100"
+        "title": "Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Australia",
+        "pubdate": "Wed, 30 Nov 2022 21:00:00 +0100"
       }
     ],
     [
       {
         "title": "Christine McVie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Christine%20McVie",
-        "pubdate": "Wed, 30 Nov 2022 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cash",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cash",
         "pubdate": "Wed, 30 Nov 2022 21:00:00 +0100"
       }
     ]
