@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "03-12-2022 , 21:00:11",
+  "lastUpdate": "03-12-2022 , 21:19:35",
   "data": [
     [
       {
         "title": "Pele",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pele",
         "pubdate": "Sun, 04 Dec 2022 01:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Tyson Fury",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tyson%20Fury",
+        "pubdate": "Sun, 04 Dec 2022 05:00:00 +1100"
       }
     ],
     [
@@ -24,16 +31,9 @@
     ],
     [
       {
-        "title": "Fortnite live event",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fortnite%20live%20event",
-        "pubdate": "Sun, 04 Dec 2022 00:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Tyson Fury vs Derek Chisora",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tyson%20Fury%20vs%20Derek%20Chisora",
-        "pubdate": "Sun, 04 Dec 2022 05:00:00 +1100"
+        "title": "Argentina vs Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Argentina%20vs%20Australia",
+        "pubdate": "Sat, 03 Dec 2022 13:00:00 +1100"
       }
     ],
     [
@@ -41,13 +41,6 @@
         "title": "South Korea vs Portugal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#South%20Korea%20vs%20Portugal",
         "pubdate": "Sat, 03 Dec 2022 02:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Argentina vs Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Argentina%20vs%20Australia",
-        "pubdate": "Sat, 03 Dec 2022 13:00:00 +1100"
       }
     ],
     [
@@ -80,16 +73,16 @@
     ],
     [
       {
-        "title": "Anzac Bridge crash",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Anzac%20Bridge%20crash",
-        "pubdate": "Sat, 03 Dec 2022 13:00:00 +1100"
+        "title": "AAMI Park",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#AAMI%20Park",
+        "pubdate": "Sat, 03 Dec 2022 16:00:00 +1100"
       }
     ],
     [
       {
-        "title": "AAMI Park",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#AAMI%20Park",
-        "pubdate": "Sat, 03 Dec 2022 16:00:00 +1100"
+        "title": "Anzac Bridge crash",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Anzac%20Bridge%20crash",
+        "pubdate": "Sat, 03 Dec 2022 13:00:00 +1100"
       }
     ],
     [
@@ -104,6 +97,13 @@
         "title": "Lady Chatterley's Lover",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lady%20Chatterley's%20Lover",
         "pubdate": "Sat, 03 Dec 2022 11:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Portugal World Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Portugal%20World%20Cup",
+        "pubdate": "Sat, 03 Dec 2022 13:00:00 +1100"
       }
     ],
     [

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-12-2022 , 21:00:11",
+  "lastUpdate": "03-12-2022 , 21:19:36",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Niederlande - USA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Niederlande%20-%20USA",
-        "pubdate": "Sat, 03 Dec 2022 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Galatasaray",
         "pubdate": "Sat, 03 Dec 2022 14:00:00 +0100"
@@ -34,6 +27,13 @@
         "title": "Karl Nehammer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Karl%20Nehammer",
         "pubdate": "Sat, 03 Dec 2022 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "B-21 Raider",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#B-21%20Raider",
+        "pubdate": "Sat, 03 Dec 2022 15:00:00 +0100"
       }
     ],
     [
@@ -59,16 +59,16 @@
     ],
     [
       {
-        "title": "B-21 Raider",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#B-21%20Raider",
-        "pubdate": "Sat, 03 Dec 2022 15:00:00 +0100"
+        "title": "Memphis Depay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Memphis%20Depay",
+        "pubdate": "Sat, 03 Dec 2022 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Memphis Depay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Memphis%20Depay",
-        "pubdate": "Sat, 03 Dec 2022 18:00:00 +0100"
+        "title": "Udo Jürgens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Udo%20J%C3%BCrgens",
+        "pubdate": "Sat, 03 Dec 2022 21:00:00 +0100"
       }
     ],
     [
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Otto Addo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Otto%20Addo",
-        "pubdate": "Sat, 03 Dec 2022 01:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Renate Holm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Renate%20Holm",
         "pubdate": "Sat, 03 Dec 2022 19:00:00 +0100"
@@ -101,9 +94,23 @@
     ],
     [
       {
+        "title": "Otto Addo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Otto%20Addo",
+        "pubdate": "Sat, 03 Dec 2022 01:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Joe Pesci",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Joe%20Pesci",
         "pubdate": "Sat, 03 Dec 2022 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Louis van Gaal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Louis%20van%20Gaal",
+        "pubdate": "Sat, 03 Dec 2022 21:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Schauspieler Tobias Langhoff gestorben",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Schauspieler%20Tobias%20Langhoff%20gestorben",
         "pubdate": "Fri, 02 Dec 2022 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Vicky Leandros",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Vicky%20Leandros",
-        "pubdate": "Fri, 02 Dec 2022 23:00:00 +0100"
       }
     ]
   ]
