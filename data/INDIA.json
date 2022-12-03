@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-12-2022 , 23:53:27",
+  "lastUpdate": "03-12-2022 , 01:18:51",
   "data": [
+    [
+      {
+        "title": "Netherlands vs USA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Netherlands%20vs%20USA",
+        "pubdate": "Sat, 03 Dec 2022 03:30:00 +0530"
+      }
+    ],
     [
       {
         "title": "ChatGPT",
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Portugal",
-        "pubdate": "Fri, 02 Dec 2022 21:30:00 +0530"
+        "title": "Freddy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Freddy",
+        "pubdate": "Fri, 02 Dec 2022 00:30:00 +0530"
       }
     ],
     [
       {
-        "title": "Freddy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Freddy",
-        "pubdate": "Fri, 02 Dec 2022 00:30:00 +0530"
+        "title": "South Korea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#South%20Korea",
+        "pubdate": "Fri, 02 Dec 2022 21:30:00 +0530"
       }
     ],
     [
@@ -69,6 +76,13 @@
         "title": "Christine McVie Fleetwood Mac",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Christine%20McVie%20Fleetwood%20Mac",
         "pubdate": "Fri, 02 Dec 2022 00:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Jharana Das Odia actress",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Jharana%20Das%20Odia%20actress",
+        "pubdate": "Fri, 02 Dec 2022 17:30:00 +0530"
       }
     ],
     [
@@ -115,30 +129,16 @@
     ],
     [
       {
+        "title": "Vijay Hazare Trophy 2022",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Vijay%20Hazare%20Trophy%202022",
+        "pubdate": "Fri, 02 Dec 2022 20:30:00 +0530"
+      }
+    ],
+    [
+      {
         "title": "IPL Auction 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#IPL%20Auction%202023",
         "pubdate": "Fri, 02 Dec 2022 21:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Jimmy Fallon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Jimmy%20Fallon",
-        "pubdate": "Fri, 02 Dec 2022 22:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Jaiveer Shergill",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Jaiveer%20Shergill",
-        "pubdate": "Fri, 02 Dec 2022 21:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "FC Goa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#FC%20Goa",
-        "pubdate": "Fri, 02 Dec 2022 02:30:00 +0530"
       }
     ]
   ]

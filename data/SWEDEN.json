@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "02-12-2022 , 23:53:34",
+  "lastUpdate": "03-12-2022 , 01:18:59",
   "data": [
-    [
-      {
-        "title": "Brasilien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Brasilien",
-        "pubdate": "Fri, 02 Dec 2022 20:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Uruguay",
@@ -24,16 +17,16 @@
     ],
     [
       {
-        "title": "Hugo Helmig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hugo%20Helmig",
-        "pubdate": "Fri, 02 Dec 2022 13:00:00 +0100"
+        "title": "Shaqiri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Shaqiri",
+        "pubdate": "Fri, 02 Dec 2022 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Shaqiri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Shaqiri",
-        "pubdate": "Fri, 02 Dec 2022 21:00:00 +0100"
+        "title": "Hugo Helmig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hugo%20Helmig",
+        "pubdate": "Fri, 02 Dec 2022 13:00:00 +0100"
       }
     ],
     [
@@ -66,6 +59,13 @@
     ],
     [
       {
+        "title": "Jacob Bergström",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jacob%20Bergstr%C3%B6m",
+        "pubdate": "Fri, 02 Dec 2022 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Carina Bergfeldt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Carina%20Bergfeldt",
         "pubdate": "Fri, 02 Dec 2022 22:00:00 +0100"
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Fredrik Lindström",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fredrik%20Lindstr%C3%B6m",
+        "pubdate": "Fri, 02 Dec 2022 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Mitrovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mitrovic",
         "pubdate": "Fri, 02 Dec 2022 21:00:00 +0100"
@@ -94,9 +101,9 @@
     ],
     [
       {
-        "title": "Fredrik Lindström",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fredrik%20Lindstr%C3%B6m",
-        "pubdate": "Fri, 02 Dec 2022 21:00:00 +0100"
+        "title": "Längdskidor Idag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#L%C3%A4ngdskidor%20Idag",
+        "pubdate": "Fri, 02 Dec 2022 16:00:00 +0100"
       }
     ],
     [
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Costa Rica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Costa%20Rica",
-        "pubdate": "Thu, 01 Dec 2022 20:00:00 +0100"
+        "title": "Kamerun mot Brasilien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kamerun%20mot%20Brasilien",
+        "pubdate": "Thu, 01 Dec 2022 19:00:00 +0100"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Adventskalender 2022",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Adventskalender%202022",
-        "pubdate": "Thu, 01 Dec 2022 07:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Simon Cowell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Simon%20Cowell",
         "pubdate": "Thu, 01 Dec 2022 15:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Kroatien Belgien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kroatien%20Belgien",
-        "pubdate": "Thu, 01 Dec 2022 17:00:00 +0100"
+        "title": "Lukaku",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lukaku",
+        "pubdate": "Thu, 01 Dec 2022 21:00:00 +0100"
       }
     ]
   ]

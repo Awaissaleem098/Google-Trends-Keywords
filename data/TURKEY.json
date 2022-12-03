@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "02-12-2022 , 23:53:35",
+  "lastUpdate": "03-12-2022 , 01:19:01",
   "data": [
     [
       {
-        "title": "Yangın",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Yang%C4%B1n",
-        "pubdate": "Sat, 03 Dec 2022 00:00:00 +0300"
+        "title": "BİM açıklaması",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#B%C4%B0M%20a%C3%A7%C4%B1klamas%C4%B1",
+        "pubdate": "Sat, 03 Dec 2022 01:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Dilan Çiçek Deniz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Dilan%20%C3%87i%C3%A7ek%20Deniz",
+        "pubdate": "Sat, 03 Dec 2022 02:00:00 +0300"
       }
     ],
     [
@@ -19,7 +26,7 @@
       {
         "title": "Fenerbahçe Beko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fenerbah%C3%A7e%20Beko",
-        "pubdate": "Fri, 02 Dec 2022 22:00:00 +0300"
+        "pubdate": "Fri, 02 Dec 2022 21:00:00 +0300"
       }
     ],
     [
@@ -52,16 +59,23 @@
     ],
     [
       {
-        "title": "Eyüpspor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ey%C3%BCpspor",
-        "pubdate": "Fri, 02 Dec 2022 20:00:00 +0300"
+        "title": "3 Aralık Dünya Engelliler Günü",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#3%20Aral%C4%B1k%20D%C3%BCnya%20Engelliler%20G%C3%BCn%C3%BC",
+        "pubdate": "Fri, 02 Dec 2022 12:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Dunya Kupası Son 16",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Dunya%20Kupas%C4%B1%20Son%2016",
+        "title": "Dunya KUPASI SON 16",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Dunya%20KUPASI%20SON%2016",
         "pubdate": "Fri, 02 Dec 2022 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Eyüpspor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ey%C3%BCpspor",
+        "pubdate": "Fri, 02 Dec 2022 20:00:00 +0300"
       }
     ],
     [
@@ -87,6 +101,13 @@
     ],
     [
       {
+        "title": "Samsun Limanı'nda patlamada Son dakika",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Samsun%20Liman%C4%B1'nda%20patlamada%20Son%20dakika",
+        "pubdate": "Fri, 02 Dec 2022 16:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "HSK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#HSK",
         "pubdate": "Fri, 02 Dec 2022 18:00:00 +0300"
@@ -108,13 +129,6 @@
     ],
     [
       {
-        "title": "Kerem Aktürkoğlu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kerem%20Akt%C3%BCrko%C4%9Flu",
-        "pubdate": "Fri, 02 Dec 2022 14:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Bağ-Kur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ba%C4%9F-Kur",
         "pubdate": "Fri, 02 Dec 2022 19:00:00 +0300"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Camdaki Kızı dizi 59. bölüm full izle!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Camdaki%20K%C4%B1z%C4%B1%20dizi%2059.%20b%C3%B6l%C3%BCm%20full%20izle!",
-        "pubdate": "Fri, 02 Dec 2022 11:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Yalçın Dümer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Yal%C3%A7%C4%B1n%20D%C3%BCmer",
-        "pubdate": "Fri, 02 Dec 2022 11:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Patlıcan köftesi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Patl%C4%B1can%20k%C3%B6ftesi",
-        "pubdate": "Fri, 02 Dec 2022 23:00:00 +0300"
+        "title": "Kerem Aktürkoğlu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kerem%20Akt%C3%BCrko%C4%9Flu",
+        "pubdate": "Fri, 02 Dec 2022 14:00:00 +0300"
       }
     ]
   ]

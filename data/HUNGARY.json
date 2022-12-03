@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-12-2022 , 23:53:27",
+  "lastUpdate": "03-12-2022 , 01:18:51",
   "data": [
+    [
+      {
+        "title": "George Michael",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#George%20Michael",
+        "pubdate": "Sat, 03 Dec 2022 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Bruce Willis",
@@ -87,16 +94,9 @@
     ],
     [
       {
-        "title": "Britney Spears",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Britney%20Spears",
-        "pubdate": "Fri, 02 Dec 2022 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "December 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#December%202",
-        "pubdate": "Fri, 02 Dec 2022 11:00:00 +0100"
+        "title": "Hakan sükür",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hakan%20s%C3%BCk%C3%BCr",
+        "pubdate": "Fri, 02 Dec 2022 20:00:00 +0100"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Luis Enrique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Luis%20Enrique",
-        "pubdate": "Fri, 02 Dec 2022 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Kepes András",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kepes%20Andr%C3%A1s",
         "pubdate": "Fri, 02 Dec 2022 21:00:00 +0100"
@@ -129,15 +122,22 @@
     ],
     [
       {
-        "title": "Ghána–uruguay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gh%C3%A1na%E2%80%93uruguay",
-        "pubdate": "Thu, 01 Dec 2022 19:00:00 +0100"
+        "title": "Luis Enrique",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Luis%20Enrique",
+        "pubdate": "Fri, 02 Dec 2022 13:00:00 +0100"
       }
     ],
     [
       {
         "title": "Szerbia–svájc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szerbia%E2%80%93sv%C3%A1jc",
+        "pubdate": "Thu, 01 Dec 2022 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ghána–uruguay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gh%C3%A1na%E2%80%93uruguay",
         "pubdate": "Thu, 01 Dec 2022 19:00:00 +0100"
       }
     ]
