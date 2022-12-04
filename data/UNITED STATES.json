@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-12-2022 , 20:49:18",
+  "lastUpdate": "04-12-2022 , 21:07:22",
   "data": [
+    [
+      {
+        "title": "Steelers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Steelers",
+        "pubdate": "Sun, 04 Dec 2022 11:00:00 -0800"
+      }
+    ],
     [
       {
         "title": "Vikings",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Detroit Lions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Detroit%20Lions",
-        "pubdate": "Sun, 04 Dec 2022 11:00:00 -0800"
+        "title": "Francia vs Polonia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Francia%20vs%20Polonia",
+        "pubdate": "Sun, 04 Dec 2022 07:00:00 -0800"
       }
     ],
     [
@@ -24,23 +31,79 @@
     ],
     [
       {
-        "title": "Ny Giants",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ny%20Giants",
+        "title": "Giants",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Giants",
+        "pubdate": "Sun, 04 Dec 2022 10:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Detroit Lions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Detroit%20Lions",
         "pubdate": "Sun, 04 Dec 2022 11:00:00 -0800"
       }
     ],
     [
       {
-        "title": "Steelers vs Falcons",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Steelers%20vs%20Falcons",
+        "title": "Deshaun Watson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Deshaun%20Watson",
+        "pubdate": "Sun, 04 Dec 2022 12:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Joe Mixon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Joe%20Mixon",
+        "pubdate": "Sun, 04 Dec 2022 06:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Titans vs Eagles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Titans%20vs%20Eagles",
         "pubdate": "Sun, 04 Dec 2022 11:00:00 -0800"
       }
     ],
     [
       {
-        "title": "Browns vs Texans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Browns%20vs%20Texans",
+        "title": "Trevor Lawrence",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trevor%20Lawrence",
+        "pubdate": "Sun, 04 Dec 2022 12:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Broncos vs Ravens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Broncos%20vs%20Ravens",
         "pubdate": "Sun, 04 Dec 2022 11:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "CFP selection show",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#CFP%20selection%20show",
+        "pubdate": "Sun, 04 Dec 2022 09:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Georgia Bulldogs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Georgia%20Bulldogs",
+        "pubdate": "Sun, 04 Dec 2022 11:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Clemson vs North Carolina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Clemson%20vs%20North%20Carolina",
+        "pubdate": "Sun, 04 Dec 2022 07:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Trump Constitution",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trump%20Constitution",
+        "pubdate": "Sun, 04 Dec 2022 12:00:00 -0800"
       }
     ],
     [
@@ -52,13 +115,6 @@
     ],
     [
       {
-        "title": "Keke Palmer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Keke%20Palmer",
-        "pubdate": "Sat, 03 Dec 2022 21:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "England vs Senegal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#England%20vs%20Senegal",
         "pubdate": "Sat, 03 Dec 2022 09:00:00 -0800"
@@ -66,16 +122,9 @@
     ],
     [
       {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UFC",
-        "pubdate": "Sat, 03 Dec 2022 18:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Fortnite",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Fortnite",
-        "pubdate": "Sat, 03 Dec 2022 14:00:00 -0800"
+        "title": "Keke Palmer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Keke%20Palmer",
+        "pubdate": "Sat, 03 Dec 2022 21:00:00 -0800"
       }
     ],
     [
@@ -90,55 +139,6 @@
         "title": "College Football Playoff rankings",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#College%20Football%20Playoff%20rankings",
         "pubdate": "Sat, 03 Dec 2022 09:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "LSU vs Georgia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#LSU%20vs%20Georgia",
-        "pubdate": "Sat, 03 Dec 2022 10:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Tyson Fury",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tyson%20Fury",
-        "pubdate": "Sat, 03 Dec 2022 11:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "U.S Soccer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#U.S%20Soccer",
-        "pubdate": "Sat, 03 Dec 2022 12:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Deion Sanders Colorado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Deion%20Sanders%20Colorado",
-        "pubdate": "Sat, 03 Dec 2022 09:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "The Last of Us",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20Last%20of%20Us",
-        "pubdate": "Sat, 03 Dec 2022 20:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Nick Cannon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nick%20Cannon",
-        "pubdate": "Sat, 03 Dec 2022 15:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Noodle the Pug",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Noodle%20the%20Pug",
-        "pubdate": "Sat, 03 Dec 2022 17:00:00 -0800"
       }
     ]
   ]
