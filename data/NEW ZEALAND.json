@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "04-12-2022 , 01:11:37",
+  "lastUpdate": "04-12-2022 , 02:28:45",
   "data": [
     [
       {
         "title": "Tyson Fury",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tyson%20Fury",
         "pubdate": "Sun, 04 Dec 2022 03:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#UFC",
+        "pubdate": "Sun, 04 Dec 2022 14:00:00 +1300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Bucks vs Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bucks%20vs%20Lakers",
         "pubdate": "Sat, 03 Dec 2022 20:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Kanye West Twitter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kanye%20West%20Twitter",
-        "pubdate": "Sat, 03 Dec 2022 13:00:00 +1300"
       }
     ]
   ]

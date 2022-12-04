@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "04-12-2022 , 01:11:41",
+  "lastUpdate": "04-12-2022 , 02:28:49",
   "data": [
     [
       {
         "title": "Tyler Adams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tyler%20Adams",
         "pubdate": "Sun, 04 Dec 2022 02:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Diego Maradona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Diego%20Maradona",
+        "pubdate": "Sun, 04 Dec 2022 01:00:00 +0700"
       }
     ],
     [
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "VF5",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#VF5",
-        "pubdate": "Sat, 03 Dec 2022 15:00:00 +0700"
+        "title": "Soi kèo Bồ Đào Nha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Soi%20k%C3%A8o%20B%E1%BB%93%20%C4%90%C3%A0o%20Nha",
+        "pubdate": "Sat, 03 Dec 2022 02:00:00 +0700"
       }
     ],
     [
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Kết quả Hàn Quốc Bồ Đào Nha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#K%E1%BA%BFt%20qu%E1%BA%A3%20H%C3%A0n%20Qu%E1%BB%91c%20B%E1%BB%93%20%C4%90%C3%A0o%20Nha",
-        "pubdate": "Sat, 03 Dec 2022 19:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Hàn Quốc – Bồ Đào Nha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#H%C3%A0n%20Qu%E1%BB%91c%20%E2%80%93%20B%E1%BB%93%20%C4%90%C3%A0o%20Nha",
         "pubdate": "Fri, 02 Dec 2022 12:00:00 +0700"
@@ -94,15 +94,15 @@
     ],
     [
       {
-        "title": "Hà Lan – hoa kỳ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#H%C3%A0%20Lan%20%E2%80%93%20hoa%20k%E1%BB%B3",
+        "title": "Argentina – Úc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Argentina%20%E2%80%93%20%C3%9Ac",
         "pubdate": "Fri, 02 Dec 2022 19:00:00 +0700"
       }
     ],
     [
       {
-        "title": "Argentina – Úc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Argentina%20%E2%80%93%20%C3%9Ac",
+        "title": "Hà Lan – hoa kỳ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#H%C3%A0%20Lan%20%E2%80%93%20hoa%20k%E1%BB%B3",
         "pubdate": "Fri, 02 Dec 2022 19:00:00 +0700"
       }
     ],
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Thụy Sĩ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Th%E1%BB%A5y%20S%C4%A9",
-        "pubdate": "Fri, 02 Dec 2022 19:00:00 +0700"
+        "title": "Serbia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Serbia",
+        "pubdate": "Fri, 02 Dec 2022 21:00:00 +0700"
       }
     ]
   ]
