@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "03-12-2022 , 23:52:03",
+  "lastUpdate": "04-12-2022 , 01:11:32",
   "data": [
     [
       {
         "title": "Pele",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pele",
         "pubdate": "Sat, 03 Dec 2022 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "France vs Poland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#France%20vs%20Poland",
+        "pubdate": "Sat, 03 Dec 2022 01:00:00 -0500"
       }
     ],
     [
@@ -17,9 +24,16 @@
     ],
     [
       {
-        "title": "France vs Poland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#France%20vs%20Poland",
-        "pubdate": "Sat, 03 Dec 2022 01:00:00 -0500"
+        "title": "Fortnite",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Fortnite",
+        "pubdate": "Sat, 03 Dec 2022 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Tyson Fury",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tyson%20Fury",
+        "pubdate": "Sat, 03 Dec 2022 13:00:00 -0500"
       }
     ],
     [
@@ -38,9 +52,9 @@
     ],
     [
       {
-        "title": "Tyson Fury",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tyson%20Fury",
-        "pubdate": "Sat, 03 Dec 2022 13:00:00 -0500"
+        "title": "James Woods",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#James%20Woods",
+        "pubdate": "Sat, 03 Dec 2022 07:00:00 -0500"
       }
     ],
     [
@@ -48,13 +62,6 @@
         "title": "TCU Football",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#TCU%20Football",
         "pubdate": "Sat, 03 Dec 2022 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Edward Snowden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Edward%20Snowden",
-        "pubdate": "Sat, 03 Dec 2022 01:00:00 -0500"
       }
     ],
     [
@@ -73,6 +80,20 @@
     ],
     [
       {
+        "title": "Toby Keith",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Toby%20Keith",
+        "pubdate": "Sat, 03 Dec 2022 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Edward Snowden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Edward%20Snowden",
+        "pubdate": "Sat, 03 Dec 2022 01:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Viking Polaris cruise ship rogue wave",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Viking%20Polaris%20cruise%20ship%20rogue%20wave",
         "pubdate": "Sat, 03 Dec 2022 00:00:00 -0500"
@@ -83,20 +104,6 @@
         "title": "Elon Musk Twitter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Elon%20Musk%20Twitter",
         "pubdate": "Sat, 03 Dec 2022 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Fortnite live event",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Fortnite%20live%20event",
-        "pubdate": "Sat, 03 Dec 2022 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "James Woods",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#James%20Woods",
-        "pubdate": "Sat, 03 Dec 2022 07:00:00 -0500"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "The Holiday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#The%20Holiday",
+        "title": "The holiday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#The%20holiday",
         "pubdate": "Sat, 03 Dec 2022 11:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Cody Gakpo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cody%20Gakpo",
-        "pubdate": "Sat, 03 Dec 2022 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Argentina vs Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Argentina%20vs%20Australia",
-        "pubdate": "Fri, 02 Dec 2022 21:00:00 -0500"
+        "title": "Maple Leafs vs Lightning",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Maple%20Leafs%20vs%20Lightning",
+        "pubdate": "Sat, 03 Dec 2022 19:00:00 -0500"
       }
     ]
   ]

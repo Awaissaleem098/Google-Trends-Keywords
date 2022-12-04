@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-12-2022 , 23:52:08",
+  "lastUpdate": "04-12-2022 , 01:11:37",
   "data": [
     [
       {
@@ -17,23 +17,9 @@
     ],
     [
       {
-        "title": "Nederland - USA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nederland%20-%20USA",
+        "title": "Nederland USA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nederland%20USA",
         "pubdate": "Sat, 03 Dec 2022 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "B-21 Raider",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#B-21%20Raider",
-        "pubdate": "Sat, 03 Dec 2022 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Argentina Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Argentina%20Australia",
-        "pubdate": "Sat, 03 Dec 2022 21:00:00 +0100"
       }
     ],
     [
@@ -45,16 +31,23 @@
     ],
     [
       {
-        "title": "Jenna Bush Hager",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jenna%20Bush%20Hager",
-        "pubdate": "Sat, 03 Dec 2022 05:00:00 +0100"
+        "title": "B-21 Raider",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#B-21%20Raider",
+        "pubdate": "Sat, 03 Dec 2022 09:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Hep Stars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hep%20Stars",
+        "title": "Argentina - Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Argentina%20-%20Australia",
         "pubdate": "Sat, 03 Dec 2022 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jenna Bush Hager",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jenna%20Bush%20Hager",
+        "pubdate": "Sat, 03 Dec 2022 05:00:00 +0100"
       }
     ],
     [
@@ -101,9 +94,9 @@
     ],
     [
       {
-        "title": "Brasil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brasil",
-        "pubdate": "Fri, 02 Dec 2022 22:00:00 +0100"
+        "title": "Ghana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ghana",
+        "pubdate": "Fri, 02 Dec 2022 19:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Alex Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Alex%20Jones",
         "pubdate": "Fri, 02 Dec 2022 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tibber",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tibber",
+        "pubdate": "Fri, 02 Dec 2022 20:00:00 +0100"
       }
     ]
   ]

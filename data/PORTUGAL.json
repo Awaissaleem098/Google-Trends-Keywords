@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "03-12-2022 , 23:52:09",
+  "lastUpdate": "04-12-2022 , 01:11:38",
   "data": [
+    [
+      {
+        "title": "Rabanadas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rabanadas",
+        "pubdate": "Sun, 04 Dec 2022 00:00:00 +0000"
+      }
+    ],
     [
       {
         "title": "Argentina vs Austrália",
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Inglaterra vs Senegal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Inglaterra%20vs%20Senegal",
-        "pubdate": "Sat, 03 Dec 2022 11:00:00 +0000"
+        "title": "Fortnite",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fortnite",
+        "pubdate": "Sat, 03 Dec 2022 22:00:00 +0000"
       }
     ],
     [
@@ -38,16 +45,9 @@
     ],
     [
       {
-        "title": "Fortnite",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fortnite",
+        "title": "Tyson Fury",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tyson%20Fury",
         "pubdate": "Sat, 03 Dec 2022 22:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Bernardo Sousa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bernardo%20Sousa",
-        "pubdate": "Sat, 03 Dec 2022 21:00:00 +0000"
       }
     ],
     [
@@ -59,16 +59,23 @@
     ],
     [
       {
-        "title": "Micaela",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Micaela",
-        "pubdate": "Sat, 03 Dec 2022 15:00:00 +0000"
+        "title": "Ângelo Rodrigues",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#%C3%82ngelo%20Rodrigues",
+        "pubdate": "Sat, 03 Dec 2022 23:00:00 +0000"
       }
     ],
     [
       {
-        "title": "El Corte inglês",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#El%20Corte%20ingl%C3%AAs",
-        "pubdate": "Sat, 03 Dec 2022 10:00:00 +0000"
+        "title": "Memphis Depay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Memphis%20Depay",
+        "pubdate": "Sat, 03 Dec 2022 17:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Micaela",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Micaela",
+        "pubdate": "Sat, 03 Dec 2022 15:00:00 +0000"
       }
     ],
     [
@@ -101,13 +108,6 @@
     ],
     [
       {
-        "title": "Teresa Bonvalot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Teresa%20Bonvalot",
-        "pubdate": "Sat, 03 Dec 2022 01:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Botafogo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Botafogo",
         "pubdate": "Sat, 03 Dec 2022 16:00:00 +0000"
@@ -115,9 +115,9 @@
     ],
     [
       {
-        "title": "Xhaka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Xhaka",
-        "pubdate": "Sat, 03 Dec 2022 14:00:00 +0000"
+        "title": "Teresa Bonvalot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Teresa%20Bonvalot",
+        "pubdate": "Sat, 03 Dec 2022 01:00:00 +0000"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Van Gaal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Van%20Gaal",
-        "pubdate": "Sat, 03 Dec 2022 21:00:00 +0000"
+        "title": "Valladolid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Valladolid",
+        "pubdate": "Sat, 03 Dec 2022 23:00:00 +0000"
       }
     ]
   ]

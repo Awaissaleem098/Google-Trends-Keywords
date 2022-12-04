@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "03-12-2022 , 23:52:02",
+  "lastUpdate": "04-12-2022 , 01:11:31",
   "data": [
     [
       {
-        "title": "Pele",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pele",
-        "pubdate": "Sun, 04 Dec 2022 01:00:00 +1100"
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UFC",
+        "pubdate": "Sun, 04 Dec 2022 11:00:00 +1100"
       }
     ],
     [
@@ -13,6 +13,13 @@
         "title": "Tyson Fury",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tyson%20Fury",
         "pubdate": "Sun, 04 Dec 2022 05:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Pele",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pele",
+        "pubdate": "Sun, 04 Dec 2022 01:00:00 +1100"
       }
     ],
     [
@@ -52,23 +59,16 @@
     ],
     [
       {
-        "title": "Katherine Heigl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Katherine%20Heigl",
-        "pubdate": "Sun, 04 Dec 2022 00:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Kuol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kuol",
-        "pubdate": "Sun, 04 Dec 2022 09:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Fed Square",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fed%20Square",
         "pubdate": "Sun, 04 Dec 2022 09:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Athena Strand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Athena%20Strand",
+        "pubdate": "Sun, 04 Dec 2022 11:00:00 +1100"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Justice League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Justice%20League",
-        "pubdate": "Sat, 03 Dec 2022 20:00:00 +1100"
+        "title": "Portugal vs Switzerland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Portugal%20vs%20Switzerland",
+        "pubdate": "Sat, 03 Dec 2022 12:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Lady Chatterley's Lover",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lady%20Chatterley's%20Lover",
-        "pubdate": "Sat, 03 Dec 2022 11:00:00 +1100"
+        "title": "Justice League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Justice%20League",
+        "pubdate": "Sat, 03 Dec 2022 20:00:00 +1100"
       }
     ]
   ]
