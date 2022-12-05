@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "05-12-2022 , 01:46:06",
+  "lastUpdate": "05-12-2022 , 02:36:08",
   "data": [
+    [
+      {
+        "title": "World Cup brackets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#World%20Cup%20brackets",
+        "pubdate": "Mon, 05 Dec 2022 14:00:00 +1300"
+      }
+    ],
     [
       {
         "title": "Samoa earthquake",
@@ -132,13 +139,6 @@
         "title": "Corey Webster",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Corey%20Webster",
         "pubdate": "Sun, 04 Dec 2022 19:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Argentina vs Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Argentina%20vs%20Australia",
-        "pubdate": "Sat, 03 Dec 2022 21:00:00 +1300"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-12-2022 , 01:46:06",
+  "lastUpdate": "05-12-2022 , 02:36:08",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Lenny Kuhr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lenny%20Kuhr",
-        "pubdate": "Sat, 03 Dec 2022 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Voetbal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Voetbal",
         "pubdate": "Sat, 03 Dec 2022 23:00:00 +0100"
@@ -111,6 +104,13 @@
         "title": "Tyson Fury",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tyson%20Fury",
         "pubdate": "Sat, 03 Dec 2022 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Graham Arnold",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Graham%20Arnold",
+        "pubdate": "Sat, 03 Dec 2022 21:00:00 +0100"
       }
     ],
     [

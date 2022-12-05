@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-12-2022 , 01:46:07",
+  "lastUpdate": "05-12-2022 , 02:36:09",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
-        "title": "Franca polonia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Franca%20polonia",
+        "title": "Elena Huelva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Elena%20Huelva",
+        "pubdate": "Mon, 05 Dec 2022 01:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "França-Polónia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fran%C3%A7a-Pol%C3%B3nia",
         "pubdate": "Sun, 04 Dec 2022 14:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Senegal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Senegal",
+        "pubdate": "Sun, 04 Dec 2022 20:00:00 +0000"
       }
     ],
     [
@@ -27,13 +41,6 @@
         "title": "William Carvalho",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#William%20Carvalho",
         "pubdate": "Sun, 04 Dec 2022 22:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "David Carreira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#David%20Carreira",
-        "pubdate": "Sun, 04 Dec 2022 01:00:00 +0000"
       }
     ],
     [
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Australia",
-        "pubdate": "Sun, 04 Dec 2022 11:00:00 +0000"
+        "title": "David Carreira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#David%20Carreira",
+        "pubdate": "Sun, 04 Dec 2022 01:00:00 +0000"
       }
     ],
     [
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Preço combustíveis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pre%C3%A7o%20combust%C3%ADveis",
+        "pubdate": "Sun, 04 Dec 2022 22:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Griezmann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Griezmann",
         "pubdate": "Sun, 04 Dec 2022 18:00:00 +0000"
@@ -125,20 +139,6 @@
         "title": "Pedro Abrunhosa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Abrunhosa",
         "pubdate": "Sun, 04 Dec 2022 23:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "F.c.porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#F.c.porto",
-        "pubdate": "Sun, 04 Dec 2022 22:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Keke Palmer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Keke%20Palmer",
-        "pubdate": "Sun, 04 Dec 2022 16:00:00 +0000"
       }
     ]
   ]

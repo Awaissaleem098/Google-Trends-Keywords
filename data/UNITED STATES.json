@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-12-2022 , 01:45:57",
+  "lastUpdate": "05-12-2022 , 02:36:03",
   "data": [
     [
       {
@@ -17,8 +17,22 @@
     ],
     [
       {
+        "title": "Dallas Cowboys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dallas%20Cowboys",
+        "pubdate": "Sun, 04 Dec 2022 14:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Steelers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Steelers",
+        "pubdate": "Sun, 04 Dec 2022 11:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Vikings",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Vikings",
         "pubdate": "Sun, 04 Dec 2022 11:00:00 -0800"
       }
     ],
@@ -31,9 +45,9 @@
     ],
     [
       {
-        "title": "Vikings",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Vikings",
-        "pubdate": "Sun, 04 Dec 2022 11:00:00 -0800"
+        "title": "Jimmy Garoppolo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jimmy%20Garoppolo",
+        "pubdate": "Sun, 04 Dec 2022 14:00:00 -0800"
       }
     ],
     [
@@ -45,23 +59,9 @@
     ],
     [
       {
-        "title": "Jimmy Garoppolo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jimmy%20Garoppolo",
-        "pubdate": "Sun, 04 Dec 2022 14:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Detroit Lions",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Detroit%20Lions",
         "pubdate": "Sun, 04 Dec 2022 11:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Cowboys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cowboys",
-        "pubdate": "Sun, 04 Dec 2022 14:00:00 -0800"
       }
     ],
     [
@@ -73,16 +73,16 @@
     ],
     [
       {
-        "title": "Dolphins vs 49ers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dolphins%20vs%2049ers",
-        "pubdate": "Sun, 04 Dec 2022 13:00:00 -0800"
+        "title": "Browns vs Texans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Browns%20vs%20Texans",
+        "pubdate": "Sun, 04 Dec 2022 11:00:00 -0800"
       }
     ],
     [
       {
-        "title": "Browns vs Texans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Browns%20vs%20Texans",
-        "pubdate": "Sun, 04 Dec 2022 11:00:00 -0800"
+        "title": "Joe Burrow",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Joe%20Burrow",
+        "pubdate": "Sun, 04 Dec 2022 17:00:00 -0800"
       }
     ],
     [
@@ -94,15 +94,15 @@
     ],
     [
       {
-        "title": "Michigan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Michigan",
-        "pubdate": "Sun, 04 Dec 2022 13:00:00 -0800"
+        "title": "Joe Mixon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Joe%20Mixon",
+        "pubdate": "Sun, 04 Dec 2022 06:00:00 -0800"
       }
     ],
     [
       {
-        "title": "MOORE COUNTY, N.C",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#MOORE%20COUNTY,%20N.C",
+        "title": "Michigan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Michigan",
         "pubdate": "Sun, 04 Dec 2022 13:00:00 -0800"
       }
     ],
@@ -115,9 +115,9 @@
     ],
     [
       {
-        "title": "Jameson Williams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jameson%20Williams",
-        "pubdate": "Sun, 04 Dec 2022 06:00:00 -0800"
+        "title": "Bob McGrath",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bob%20McGrath",
+        "pubdate": "Sun, 04 Dec 2022 17:00:00 -0800"
       }
     ],
     [
