@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-12-2022 , 11:17:48",
+  "lastUpdate": "05-12-2022 , 11:31:09",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Stromboli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Stromboli",
+        "pubdate": "Mon, 05 Dec 2022 02:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Peter Handke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Peter%20Handke",
         "pubdate": "Mon, 05 Dec 2022 02:00:00 +0100"
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Mbappe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mbappe",
-        "pubdate": "Sun, 04 Dec 2022 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Giroud",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Giroud",
         "pubdate": "Sun, 04 Dec 2022 18:00:00 +0100"
@@ -73,8 +73,8 @@
     ],
     [
       {
-        "title": "VERBUND",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#VERBUND",
+        "title": "Verbund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Verbund",
         "pubdate": "Sun, 04 Dec 2022 18:00:00 +0100"
       }
     ],
