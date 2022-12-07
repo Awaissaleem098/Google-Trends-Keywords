@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "06-12-2022 , 23:50:01",
+  "lastUpdate": "07-12-2022 , 00:51:49",
   "data": [
     [
       {
         "title": "Hà Lan – Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#H%C3%A0%20Lan%20%E2%80%93%20Argentina",
         "pubdate": "Wed, 07 Dec 2022 05:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Gonçalo Ramos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Gon%C3%A7alo%20Ramos",
-        "pubdate": "Wed, 07 Dec 2022 01:00:00 +0700"
       }
     ],
     [
@@ -31,16 +24,16 @@
     ],
     [
       {
-        "title": "Han So Hee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Han%20So%20Hee",
-        "pubdate": "Wed, 07 Dec 2022 04:00:00 +0700"
+        "title": "Bồ Đào Nha – Thụy Sĩ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%E1%BB%93%20%C4%90%C3%A0o%20Nha%20%E2%80%93%20Th%E1%BB%A5y%20S%C4%A9",
+        "pubdate": "Tue, 06 Dec 2022 05:00:00 +0700"
       }
     ],
     [
       {
-        "title": "Bồ Đào Nha – Thụy Sĩ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%E1%BB%93%20%C4%90%C3%A0o%20Nha%20%E2%80%93%20Th%E1%BB%A5y%20S%C4%A9",
-        "pubdate": "Tue, 06 Dec 2022 05:00:00 +0700"
+        "title": "Gavi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Gavi",
+        "pubdate": "Tue, 06 Dec 2022 23:00:00 +0700"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Nhật Bản – Croatia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Nh%E1%BA%ADt%20B%E1%BA%A3n%20%E2%80%93%20Croatia",
         "pubdate": "Mon, 05 Dec 2022 12:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Maroc – Tây Ban Nha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Maroc%20%E2%80%93%20T%C3%A2y%20Ban%20Nha",
+        "pubdate": "Mon, 05 Dec 2022 07:00:00 +0700"
       }
     ]
   ]

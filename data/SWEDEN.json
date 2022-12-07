@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-12-2022 , 23:49:59",
+  "lastUpdate": "07-12-2022 , 00:51:47",
   "data": [
     [
       {
@@ -17,9 +17,23 @@
     ],
     [
       {
+        "title": "Portugal Schweiz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Portugal%20Schweiz",
+        "pubdate": "Tue, 06 Dec 2022 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Pepe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pepe",
         "pubdate": "Tue, 06 Dec 2022 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Spanien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Spanien",
+        "pubdate": "Tue, 06 Dec 2022 19:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Raheem Sterling",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Raheem%20Sterling",
         "pubdate": "Sun, 04 Dec 2022 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lewandowski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lewandowski",
-        "pubdate": "Sun, 04 Dec 2022 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "The white lotus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#The%20white%20lotus",
-        "pubdate": "Sun, 04 Dec 2022 22:00:00 +0100"
       }
     ]
   ]

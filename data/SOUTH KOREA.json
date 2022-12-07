@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-12-2022 , 23:49:58",
+  "lastUpdate": "07-12-2022 , 00:51:47",
   "data": [
     [
       {
@@ -41,13 +41,6 @@
         "title": "최태원",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B5%9C%ED%83%9C%EC%9B%90",
         "pubdate": "Tue, 06 Dec 2022 16:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "MBC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#MBC",
-        "pubdate": "Tue, 06 Dec 2022 23:00:00 +0900"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "최태원",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B5%9C%ED%83%9C%EC%9B%90",
         "pubdate": "Sun, 04 Dec 2022 15:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "축구",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B6%95%EA%B5%AC",
+        "pubdate": "Sat, 03 Dec 2022 01:00:00 +0900"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-12-2022 , 23:49:56",
+  "lastUpdate": "07-12-2022 , 00:51:45",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Sonic Frontiers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Sonic%20Frontiers",
         "pubdate": "Wed, 07 Dec 2022 01:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Florence Pugh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Florence%20Pugh",
+        "pubdate": "Wed, 07 Dec 2022 07:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Cavaliers vs Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Cavaliers%20vs%20Lakers",
         "pubdate": "Tue, 06 Dec 2022 19:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Hawks vs Thunder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Hawks%20vs%20Thunder",
-        "pubdate": "Tue, 06 Dec 2022 12:00:00 +0800"
       }
     ]
   ]

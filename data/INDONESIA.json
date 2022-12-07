@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "06-12-2022 , 23:49:52",
+  "lastUpdate": "07-12-2022 , 00:51:42",
   "data": [
-    [
-      {
-        "title": "Bounou",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Bounou",
-        "pubdate": "Wed, 07 Dec 2022 01:00:00 +0700"
-      }
-    ],
     [
       {
         "title": "Sergio Busquets",
@@ -24,9 +17,9 @@
     ],
     [
       {
-        "title": "Vinicius",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Vinicius",
-        "pubdate": "Wed, 07 Dec 2022 00:00:00 +0700"
+        "title": "Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Sevilla",
+        "pubdate": "Wed, 07 Dec 2022 02:00:00 +0700"
       }
     ],
     [
@@ -45,15 +38,8 @@
     ],
     [
       {
-        "title": "Persis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Persis",
-        "pubdate": "Tue, 06 Dec 2022 17:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "RKUHP disahkan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#RKUHP%20disahkan",
+        "title": "RKUHP Disahkan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#RKUHP%20Disahkan",
         "pubdate": "Tue, 06 Dec 2022 13:00:00 +0700"
       }
     ],
@@ -69,6 +55,13 @@
         "title": "Inter Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Inter%20Milan",
         "pubdate": "Tue, 06 Dec 2022 01:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Persis Solo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Persis%20Solo",
+        "pubdate": "Tue, 06 Dec 2022 19:00:00 +0700"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "IHSG) hari ini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#IHSG)%20hari%20ini",
         "pubdate": "Tue, 06 Dec 2022 17:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Brasil vs Korea Selatan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Brasil%20vs%20Korea%20Selatan",
+        "pubdate": "Mon, 05 Dec 2022 07:00:00 +0700"
       }
     ]
   ]

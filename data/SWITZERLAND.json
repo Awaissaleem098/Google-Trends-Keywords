@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-12-2022 , 23:49:59",
+  "lastUpdate": "07-12-2022 , 00:51:47",
   "data": [
+    [
+      {
+        "title": "Bruno Fernandes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bruno%20Fernandes",
+        "pubdate": "Wed, 07 Dec 2022 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Marokko gegen Spanien",
@@ -26,7 +33,7 @@
       {
         "title": "Shaqiri",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Shaqiri",
-        "pubdate": "Tue, 06 Dec 2022 21:00:00 +0100"
+        "pubdate": "Tue, 06 Dec 2022 20:00:00 +0100"
       }
     ],
     [
@@ -48,6 +55,13 @@
         "title": "Ruben Vargas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ruben%20Vargas",
         "pubdate": "Tue, 06 Dec 2022 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Akanji",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Akanji",
+        "pubdate": "Tue, 06 Dec 2022 21:00:00 +0100"
       }
     ],
     [
@@ -94,6 +108,13 @@
     ],
     [
       {
+        "title": "Michel Polnareff",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michel%20Polnareff",
+        "pubdate": "Tue, 06 Dec 2022 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Leao",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Leao",
         "pubdate": "Tue, 06 Dec 2022 22:00:00 +0100"
@@ -101,9 +122,9 @@
     ],
     [
       {
-        "title": "Michel Polnareff",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michel%20Polnareff",
-        "pubdate": "Tue, 06 Dec 2022 22:00:00 +0100"
+        "title": "Morocco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Morocco",
+        "pubdate": "Tue, 06 Dec 2022 18:00:00 +0100"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Seferovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Seferovic",
+        "title": "Gregor Kobel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gregor%20Kobel",
         "pubdate": "Tue, 06 Dec 2022 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Katherine Heigl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Katherine%20Heigl",
-        "pubdate": "Tue, 06 Dec 2022 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Oliver Bierhoff",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Oliver%20Bierhoff",
-        "pubdate": "Tue, 06 Dec 2022 05:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Samuel Eto'o",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Samuel%20Eto'o",
-        "pubdate": "Tue, 06 Dec 2022 20:00:00 +0100"
       }
     ]
   ]
