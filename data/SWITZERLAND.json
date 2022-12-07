@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "07-12-2022 , 00:51:47",
+  "lastUpdate": "07-12-2022 , 02:23:12",
   "data": [
-    [
-      {
-        "title": "Bruno Fernandes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bruno%20Fernandes",
-        "pubdate": "Wed, 07 Dec 2022 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Marokko gegen Spanien",
@@ -24,16 +17,16 @@
     ],
     [
       {
-        "title": "Pele",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pele",
-        "pubdate": "Tue, 06 Dec 2022 03:00:00 +0100"
+        "title": "Shaqiri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Shaqiri",
+        "pubdate": "Tue, 06 Dec 2022 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Shaqiri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Shaqiri",
-        "pubdate": "Tue, 06 Dec 2022 20:00:00 +0100"
+        "title": "Pele",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pele",
+        "pubdate": "Tue, 06 Dec 2022 03:00:00 +0100"
       }
     ],
     [
@@ -45,30 +38,9 @@
     ],
     [
       {
-        "title": "Xherdan Shaqiri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Xherdan%20Shaqiri",
-        "pubdate": "Tue, 06 Dec 2022 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Ruben Vargas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ruben%20Vargas",
         "pubdate": "Tue, 06 Dec 2022 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Akanji",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Akanji",
-        "pubdate": "Tue, 06 Dec 2022 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manuel Akanji",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manuel%20Akanji",
-        "pubdate": "Tue, 06 Dec 2022 21:00:00 +0100"
       }
     ],
     [
@@ -82,6 +54,13 @@
       {
         "title": "Diogo Costa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Diogo%20Costa",
+        "pubdate": "Tue, 06 Dec 2022 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bruno Fernandes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bruno%20Fernandes",
         "pubdate": "Tue, 06 Dec 2022 22:00:00 +0100"
       }
     ],
@@ -115,16 +94,16 @@
     ],
     [
       {
-        "title": "Leao",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Leao",
-        "pubdate": "Tue, 06 Dec 2022 22:00:00 +0100"
+        "title": "Hakim Ziyech",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hakim%20Ziyech",
+        "pubdate": "Tue, 06 Dec 2022 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Morocco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Morocco",
-        "pubdate": "Tue, 06 Dec 2022 18:00:00 +0100"
+        "title": "Sommer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sommer",
+        "pubdate": "Tue, 06 Dec 2022 21:00:00 +0100"
       }
     ],
     [
@@ -136,9 +115,30 @@
     ],
     [
       {
-        "title": "Gregor Kobel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gregor%20Kobel",
+        "title": "Seferovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Seferovic",
         "pubdate": "Tue, 06 Dec 2022 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Katherine Heigl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Katherine%20Heigl",
+        "pubdate": "Tue, 06 Dec 2022 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Oliver Bierhoff",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Oliver%20Bierhoff",
+        "pubdate": "Tue, 06 Dec 2022 05:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Widmer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Widmer",
+        "pubdate": "Tue, 06 Dec 2022 21:00:00 +0100"
       }
     ]
   ]

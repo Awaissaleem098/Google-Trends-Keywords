@@ -1,6 +1,55 @@
 {
-  "lastUpdate": "07-12-2022 , 00:51:45",
+  "lastUpdate": "07-12-2022 , 02:23:10",
   "data": [
+    [
+      {
+        "title": "Estatísticas de Copa do Mundo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Estat%C3%ADsticas%20de%20Copa%20do%20Mundo",
+        "pubdate": "Wed, 07 Dec 2022 00:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Jogadores de Copa do Mundo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jogadores%20de%20Copa%20do%20Mundo",
+        "pubdate": "Wed, 07 Dec 2022 01:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "The Sun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#The%20Sun",
+        "pubdate": "Wed, 07 Dec 2022 01:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Indonesia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Indonesia",
+        "pubdate": "Wed, 07 Dec 2022 00:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Luisa Sonza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Luisa%20Sonza",
+        "pubdate": "Wed, 07 Dec 2022 00:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Lua Cheia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lua%20Cheia",
+        "pubdate": "Wed, 07 Dec 2022 00:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Strep A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Strep%20A",
+        "pubdate": "Wed, 07 Dec 2022 00:00:00 +0000"
+      }
+    ],
     [
       {
         "title": "Brasil",
@@ -17,16 +66,16 @@
     ],
     [
       {
-        "title": "Pepe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pepe",
-        "pubdate": "Tue, 06 Dec 2022 19:00:00 +0000"
+        "title": "RTP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#RTP",
+        "pubdate": "Tue, 06 Dec 2022 20:00:00 +0000"
       }
     ],
     [
       {
-        "title": "RTP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#RTP",
-        "pubdate": "Tue, 06 Dec 2022 20:00:00 +0000"
+        "title": "Diogo Costa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Diogo%20Costa",
+        "pubdate": "Tue, 06 Dec 2022 21:00:00 +0000"
       }
     ],
     [
@@ -38,15 +87,15 @@
     ],
     [
       {
-        "title": "Embolo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Embolo",
+        "title": "Shaqiri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Shaqiri",
         "pubdate": "Tue, 06 Dec 2022 19:00:00 +0000"
       }
     ],
     [
       {
-        "title": "Shaqiri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Shaqiri",
+        "title": "Embolo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Embolo",
         "pubdate": "Tue, 06 Dec 2022 19:00:00 +0000"
       }
     ],
@@ -59,9 +108,16 @@
     ],
     [
       {
-        "title": "Seferovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Seferovic",
-        "pubdate": "Tue, 06 Dec 2022 21:00:00 +0000"
+        "title": "Bernardo Silva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bernardo%20Silva",
+        "pubdate": "Tue, 06 Dec 2022 23:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "As",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#As",
+        "pubdate": "Tue, 06 Dec 2022 22:00:00 +0000"
       }
     ],
     [
@@ -73,72 +129,16 @@
     ],
     [
       {
-        "title": "ANTENA 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#ANTENA%201",
+        "title": "Antena 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Antena%201",
         "pubdate": "Tue, 06 Dec 2022 20:00:00 +0000"
       }
     ],
     [
       {
-        "title": "Pepe Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pepe%20Portugal",
-        "pubdate": "Tue, 06 Dec 2022 20:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Brazil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Brazil",
-        "pubdate": "Tue, 06 Dec 2022 18:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Marcia Manfredini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Marcia%20Manfredini",
-        "pubdate": "Tue, 06 Dec 2022 01:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Charles III",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Charles%20III",
-        "pubdate": "Tue, 06 Dec 2022 19:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Rio Ave,  Sporting",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rio%20Ave,%20%20Sporting",
-        "pubdate": "Tue, 06 Dec 2022 12:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Portugal World Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Portugal%20World%20Cup",
-        "pubdate": "Tue, 06 Dec 2022 22:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Abner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Abner",
-        "pubdate": "Tue, 06 Dec 2022 10:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Seleção",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sele%C3%A7%C3%A3o",
+        "title": "Seferovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Seferovic",
         "pubdate": "Tue, 06 Dec 2022 21:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Samuel Eto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Samuel%20Eto",
-        "pubdate": "Tue, 06 Dec 2022 16:00:00 +0000"
       }
     ]
   ]

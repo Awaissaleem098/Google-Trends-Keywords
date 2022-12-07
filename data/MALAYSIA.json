@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "07-12-2022 , 00:51:43",
+  "lastUpdate": "07-12-2022 , 02:23:08",
   "data": [
     [
       {
         "title": "Richarlison",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Richarlison",
-        "pubdate": "Wed, 07 Dec 2022 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Pedri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Pedri",
         "pubdate": "Wed, 07 Dec 2022 00:00:00 +0800"
       }
     ],
@@ -24,15 +17,15 @@
     ],
     [
       {
-        "title": "Paulo Bento",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Paulo%20Bento",
+        "title": "Fernando Torres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Fernando%20Torres",
         "pubdate": "Wed, 07 Dec 2022 00:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Fernando Torres",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Fernando%20Torres",
+        "title": "Paulo Bento",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Paulo%20Bento",
         "pubdate": "Wed, 07 Dec 2022 00:00:00 +0800"
       }
     ],
@@ -59,9 +52,23 @@
     ],
     [
       {
+        "title": "Japan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Japan",
+        "pubdate": "Tue, 06 Dec 2022 15:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Takumi Minamino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Takumi%20Minamino",
         "pubdate": "Tue, 06 Dec 2022 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Cádiz vs Man United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#C%C3%A1diz%20vs%20Man%20United",
+        "pubdate": "Tue, 06 Dec 2022 11:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Yahoo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Yahoo",
         "pubdate": "Mon, 05 Dec 2022 16:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Rafizi Ramli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Rafizi%20Ramli",
-        "pubdate": "Mon, 05 Dec 2022 23:00:00 +0800"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-12-2022 , 00:51:38",
+  "lastUpdate": "07-12-2022 , 02:23:04",
   "data": [
     [
       {
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Hepatitis A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Hepatitis%20A",
+        "pubdate": "Tue, 06 Dec 2022 20:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Murio pele",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Murio%20pele",
         "pubdate": "Tue, 06 Dec 2022 15:00:00 -0300"
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Achraf Hakimi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Achraf%20Hakimi",
-        "pubdate": "Tue, 06 Dec 2022 16:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Pedri",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Pedri",
         "pubdate": "Tue, 06 Dec 2022 16:00:00 -0300"
@@ -94,23 +94,9 @@
     ],
     [
       {
-        "title": "Lucas paqueta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lucas%20paqueta",
-        "pubdate": "Tue, 06 Dec 2022 09:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Hepatitis A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Hepatitis%20A",
-        "pubdate": "Tue, 06 Dec 2022 20:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Raphinha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Raphinha",
-        "pubdate": "Tue, 06 Dec 2022 14:00:00 -0300"
+        "title": "Sofiane Boufal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sofiane%20Boufal",
+        "pubdate": "Tue, 06 Dec 2022 15:00:00 -0300"
       }
     ],
     [
@@ -122,6 +108,20 @@
     ],
     [
       {
+        "title": "Lucas paqueta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lucas%20paqueta",
+        "pubdate": "Tue, 06 Dec 2022 09:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Raphinha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Raphinha",
+        "pubdate": "Tue, 06 Dec 2022 14:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Joao Felix",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Joao%20Felix",
         "pubdate": "Tue, 06 Dec 2022 19:00:00 -0300"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Marruecos vs España",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Marruecos%20vs%20Espa%C3%B1a",
-        "pubdate": "Mon, 05 Dec 2022 09:00:00 -0300"
+        "title": "Cuartos de final Mundial",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cuartos%20de%20final%20Mundial",
+        "pubdate": "Tue, 06 Dec 2022 22:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Kirstie Alley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Kirstie%20Alley",
-        "pubdate": "Mon, 05 Dec 2022 23:00:00 -0300"
+        "title": "Marruecos vs España",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Marruecos%20vs%20Espa%C3%B1a",
+        "pubdate": "Mon, 05 Dec 2022 09:00:00 -0300"
       }
     ]
   ]

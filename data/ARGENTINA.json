@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "07-12-2022 , 00:51:37",
+  "lastUpdate": "07-12-2022 , 02:23:02",
   "data": [
+    [
+      {
+        "title": "Brasil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Brasil",
+        "pubdate": "Tue, 06 Dec 2022 15:00:00 -0300"
+      }
+    ],
     [
       {
         "title": "Brasil vs",
@@ -31,15 +38,15 @@
     ],
     [
       {
-        "title": "Gavi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gavi",
+        "title": "River Plate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#River%20Plate",
         "pubdate": "Tue, 06 Dec 2022 15:00:00 -0300"
       }
     ],
     [
       {
-        "title": "River Plate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#River%20Plate",
+        "title": "Gavi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gavi",
         "pubdate": "Tue, 06 Dec 2022 15:00:00 -0300"
       }
     ],
@@ -48,6 +55,13 @@
         "title": "Boca Juniors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Boca%20Juniors",
         "pubdate": "Tue, 06 Dec 2022 18:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Pedri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pedri",
+        "pubdate": "Tue, 06 Dec 2022 14:00:00 -0300"
       }
     ],
     [
@@ -73,9 +87,9 @@
     ],
     [
       {
-        "title": "Sentencia de cfk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sentencia%20de%20cfk",
-        "pubdate": "Tue, 06 Dec 2022 12:00:00 -0300"
+        "title": "Lawfare",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lawfare",
+        "pubdate": "Tue, 06 Dec 2022 21:00:00 -0300"
       }
     ],
     [
@@ -101,6 +115,13 @@
     ],
     [
       {
+        "title": "Paro de trenes 7 de diciembre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Paro%20de%20trenes%207%20de%20diciembre",
+        "pubdate": "Tue, 06 Dec 2022 16:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Shaqiri",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Shaqiri",
         "pubdate": "Tue, 06 Dec 2022 17:00:00 -0300"
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Paro de trenes 7 de diciembre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Paro%20de%20trenes%207%20de%20diciembre",
-        "pubdate": "Tue, 06 Dec 2022 16:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Paulo Bento",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Paulo%20Bento",
-        "pubdate": "Tue, 06 Dec 2022 12:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Nico Williams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Nico%20Williams",
         "pubdate": "Tue, 06 Dec 2022 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "LA NACION en vivo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#LA%20NACION%20en%20vivo",
-        "pubdate": "Tue, 06 Dec 2022 18:00:00 -0300"
       }
     ]
   ]

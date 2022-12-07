@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-12-2022 , 00:51:46",
+  "lastUpdate": "07-12-2022 , 02:23:11",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "Gavi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gavi",
-        "pubdate": "Wed, 07 Dec 2022 00:00:00 +0800"
+        "title": "Korea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Korea",
+        "pubdate": "Wed, 07 Dec 2022 01:00:00 +0800"
       }
     ],
     [
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Dell laptop",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Dell%20laptop",
-        "pubdate": "Tue, 06 Dec 2022 12:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Huntington disease",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Huntington%20disease",
         "pubdate": "Tue, 06 Dec 2022 20:00:00 +0800"
@@ -111,6 +104,13 @@
         "title": "Al-Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Al-Nassr",
         "pubdate": "Tue, 06 Dec 2022 12:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Stephen Curry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Stephen%20Curry",
+        "pubdate": "Tue, 06 Dec 2022 16:00:00 +0800"
       }
     ],
     [
