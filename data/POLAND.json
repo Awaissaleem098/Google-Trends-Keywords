@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-12-2022 , 12:49:38",
+  "lastUpdate": "08-12-2022 , 13:17:52",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Katarzyna Sokołowska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Katarzyna%20Soko%C5%82owska",
-        "pubdate": "Thu, 08 Dec 2022 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Diablo 4",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Diablo%204",
         "pubdate": "Thu, 08 Dec 2022 08:00:00 +0100"
@@ -52,6 +45,13 @@
     ],
     [
       {
+        "title": "Dagmara Kaźmierska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dagmara%20Ka%C5%BAmierska",
+        "pubdate": "Thu, 08 Dec 2022 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Czujnik tlenku węgla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Czujnik%20tlenku%20w%C4%99gla",
         "pubdate": "Thu, 08 Dec 2022 09:00:00 +0100"
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Dagmara Kaźmierska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dagmara%20Ka%C5%BAmierska",
-        "pubdate": "Thu, 08 Dec 2022 12:00:00 +0100"
+        "title": "Open'er",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Open'er",
+        "pubdate": "Thu, 08 Dec 2022 13:00:00 +0100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Akademia Pana Kleksa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Akademia%20Pana%20Kleksa",
-        "pubdate": "Wed, 07 Dec 2022 00:00:00 +0100"
+        "title": "Wejherowo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wejherowo",
+        "pubdate": "Wed, 07 Dec 2022 21:00:00 +0100"
       }
     ]
   ]

@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "08-12-2022 , 12:49:41",
+  "lastUpdate": "08-12-2022 , 13:17:53",
   "data": [
     [
       {
         "title": "27 December public holiday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#27%20December%20public%20holiday",
         "pubdate": "Thu, 08 Dec 2022 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Thuso Mbedu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Thuso%20Mbedu",
+        "pubdate": "Thu, 08 Dec 2022 14:00:00 +0200"
       }
     ],
     [
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Eskom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Eskom",
-        "pubdate": "Wed, 07 Dec 2022 13:00:00 +0200"
+        "title": "FIFA World Cup brackets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#FIFA%20World%20Cup%20brackets",
+        "pubdate": "Wed, 07 Dec 2022 07:00:00 +0200"
       }
     ],
     [
       {
-        "title": "FIFA World Cup games",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#FIFA%20World%20Cup%20games",
-        "pubdate": "Wed, 07 Dec 2022 14:00:00 +0200"
+        "title": "Eskom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Eskom",
+        "pubdate": "Wed, 07 Dec 2022 13:00:00 +0200"
       }
     ],
     [
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "Amrabat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Amrabat",
+        "pubdate": "Wed, 07 Dec 2022 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Inverter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inverter",
         "pubdate": "Wed, 07 Dec 2022 17:00:00 +0200"
@@ -80,9 +94,9 @@
     ],
     [
       {
-        "title": "Amrabat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Amrabat",
-        "pubdate": "Wed, 07 Dec 2022 13:00:00 +0200"
+        "title": "Manchester united FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Manchester%20united%20FC",
+        "pubdate": "Wed, 07 Dec 2022 21:00:00 +0200"
       }
     ],
     [
@@ -90,13 +104,6 @@
         "title": "Ups",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ups",
         "pubdate": "Wed, 07 Dec 2022 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rafael Leao",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rafael%20Leao",
-        "pubdate": "Wed, 07 Dec 2022 20:00:00 +0200"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Spain vs Morocco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Spain%20vs%20Morocco",
-        "pubdate": "Tue, 06 Dec 2022 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cádiz vs Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#C%C3%A1diz%20vs%20Man%20United",
         "pubdate": "Tue, 06 Dec 2022 10:00:00 +0200"
       }
     ]

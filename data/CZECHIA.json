@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-12-2022 , 12:49:28",
+  "lastUpdate": "08-12-2022 , 13:17:46",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "easyJet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#easyJet",
         "pubdate": "Thu, 08 Dec 2022 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "John Lennon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#John%20Lennon",
+        "pubdate": "Thu, 08 Dec 2022 11:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Pepe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pepe",
         "pubdate": "Tue, 06 Dec 2022 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Patrik Děrgel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Patrik%20D%C4%9Brgel",
-        "pubdate": "Tue, 06 Dec 2022 22:00:00 +0100"
       }
     ]
   ]
