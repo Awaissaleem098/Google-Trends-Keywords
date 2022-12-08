@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "07-12-2022 , 23:48:17",
+  "lastUpdate": "08-12-2022 , 00:32:35",
   "data": [
-    [
-      {
-        "title": "Anthony Davis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Anthony%20Davis",
-        "pubdate": "Wed, 07 Dec 2022 10:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Ted Cruz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ted%20Cruz",
         "pubdate": "Wed, 07 Dec 2022 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Anthony Davis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Anthony%20Davis",
+        "pubdate": "Wed, 07 Dec 2022 10:00:00 -0500"
       }
     ],
     [
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Brendan Fraser",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Brendan%20Fraser",
+        "pubdate": "Wed, 07 Dec 2022 18:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Trevor Noah Daily Show",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Trevor%20Noah%20Daily%20Show",
         "pubdate": "Wed, 07 Dec 2022 15:00:00 -0500"
@@ -87,23 +94,9 @@
     ],
     [
       {
-        "title": "Georgina Rodríguez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Georgina%20Rodr%C3%ADguez",
-        "pubdate": "Wed, 07 Dec 2022 00:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Rudy Giuliani",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rudy%20Giuliani",
         "pubdate": "Wed, 07 Dec 2022 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Marjorie Greene Taylor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Marjorie%20Greene%20Taylor",
-        "pubdate": "Wed, 07 Dec 2022 08:00:00 -0500"
       }
     ],
     [
@@ -115,13 +108,6 @@
     ],
     [
       {
-        "title": "Andrew Luck",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Andrew%20Luck",
-        "pubdate": "Wed, 07 Dec 2022 03:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Lana Del Rey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lana%20Del%20Rey",
         "pubdate": "Wed, 07 Dec 2022 17:00:00 -0500"
@@ -129,16 +115,30 @@
     ],
     [
       {
-        "title": "Portugal vs Switzerland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Portugal%20vs%20Switzerland",
-        "pubdate": "Tue, 06 Dec 2022 02:00:00 -0500"
+        "title": "Marjorie Greene Taylor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Marjorie%20Greene%20Taylor",
+        "pubdate": "Wed, 07 Dec 2022 08:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Morocco vs Spain",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Morocco%20vs%20Spain",
-        "pubdate": "Tue, 06 Dec 2022 00:00:00 -0500"
+        "title": "Andrew Luck",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Andrew%20Luck",
+        "pubdate": "Wed, 07 Dec 2022 03:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Bernard Arnault",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bernard%20Arnault",
+        "pubdate": "Wed, 07 Dec 2022 18:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Royal Canadian Mint",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Royal%20Canadian%20Mint",
+        "pubdate": "Wed, 07 Dec 2022 18:00:00 -0500"
       }
     ]
   ]
