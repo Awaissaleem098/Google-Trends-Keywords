@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-12-2022 , 00:32:42",
+  "lastUpdate": "08-12-2022 , 02:07:41",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20United",
         "pubdate": "Wed, 07 Dec 2022 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Skatteetaten.no",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Skatteetaten.no",
-        "pubdate": "Wed, 07 Dec 2022 22:00:00 +0100"
       }
     ],
     [
@@ -115,16 +108,16 @@
     ],
     [
       {
-        "title": "Luis Enrique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Luis%20Enrique",
-        "pubdate": "Tue, 06 Dec 2022 18:00:00 +0100"
+        "title": "Patrick Swayze",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Patrick%20Swayze",
+        "pubdate": "Tue, 06 Dec 2022 09:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Patrick Swayze",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Patrick%20Swayze",
-        "pubdate": "Tue, 06 Dec 2022 09:00:00 +0100"
+        "title": "Luis Enrique",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Luis%20Enrique",
+        "pubdate": "Tue, 06 Dec 2022 18:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Svineinfluensa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Svineinfluensa",
         "pubdate": "Tue, 06 Dec 2022 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Yassine Bounou",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Yassine%20Bounou",
+        "pubdate": "Tue, 06 Dec 2022 19:00:00 +0100"
       }
     ]
   ]

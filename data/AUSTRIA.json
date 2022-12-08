@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "08-12-2022 , 00:32:34",
+  "lastUpdate": "08-12-2022 , 02:07:32",
   "data": [
     [
       {
         "title": "Hermann Maier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hermann%20Maier",
         "pubdate": "Wed, 07 Dec 2022 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cristiano Ronaldo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Cristiano%20Ronaldo",
-        "pubdate": "Wed, 07 Dec 2022 14:00:00 +0100"
       }
     ],
     [
@@ -59,16 +52,16 @@
     ],
     [
       {
-        "title": "Cristina Kirchner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Cristina%20Kirchner",
-        "pubdate": "Wed, 07 Dec 2022 09:00:00 +0100"
+        "title": "Paramount plus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Paramount%20plus",
+        "pubdate": "Wed, 07 Dec 2022 23:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Paramount plus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Paramount%20plus",
-        "pubdate": "Wed, 07 Dec 2022 23:00:00 +0100"
+        "title": "Cristina Kirchner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Cristina%20Kirchner",
+        "pubdate": "Wed, 07 Dec 2022 09:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Maria Schrader",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Maria%20Schrader",
         "pubdate": "Tue, 06 Dec 2022 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Felix Neureuther",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Felix%20Neureuther",
+        "pubdate": "Tue, 06 Dec 2022 11:00:00 +0100"
       }
     ]
   ]

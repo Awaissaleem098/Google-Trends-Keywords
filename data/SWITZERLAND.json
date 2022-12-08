@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-12-2022 , 00:32:45",
+  "lastUpdate": "08-12-2022 , 02:07:44",
   "data": [
     [
       {
@@ -17,16 +17,16 @@
     ],
     [
       {
-        "title": "Chat GPT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chat%20GPT",
-        "pubdate": "Wed, 07 Dec 2022 11:00:00 +0100"
+        "title": "Wordle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wordle",
+        "pubdate": "Wed, 07 Dec 2022 23:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Wordle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wordle",
-        "pubdate": "Wed, 07 Dec 2022 23:00:00 +0100"
+        "title": "Chat GPT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chat%20GPT",
+        "pubdate": "Wed, 07 Dec 2022 11:00:00 +0100"
       }
     ],
     [
@@ -45,16 +45,16 @@
     ],
     [
       {
-        "title": "Rita Ora",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rita%20Ora",
-        "pubdate": "Wed, 07 Dec 2022 08:00:00 +0100"
+        "title": "Alain Berset",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alain%20Berset",
+        "pubdate": "Wed, 07 Dec 2022 09:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Alain Berset",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alain%20Berset",
-        "pubdate": "Wed, 07 Dec 2022 09:00:00 +0100"
+        "title": "Rita Ora",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rita%20Ora",
+        "pubdate": "Wed, 07 Dec 2022 08:00:00 +0100"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Titanic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Titanic",
+        "pubdate": "Wed, 07 Dec 2022 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Hermann Maier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hermann%20Maier",
         "pubdate": "Wed, 07 Dec 2022 21:00:00 +0100"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Titanic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Titanic",
-        "pubdate": "Wed, 07 Dec 2022 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Anne Heche",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Anne%20Heche",
-        "pubdate": "Wed, 07 Dec 2022 16:00:00 +0100"
+        "title": "Kate Winslet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kate%20Winslet",
+        "pubdate": "Wed, 07 Dec 2022 23:00:00 +0100"
       }
     ]
   ]
