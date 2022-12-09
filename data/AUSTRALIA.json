@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "09-12-2022 , 00:50:23",
+  "lastUpdate": "09-12-2022 , 02:17:00",
   "data": [
     [
       {
         "title": "Brittney Griner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Brittney%20Griner",
         "pubdate": "Fri, 09 Dec 2022 02:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Game Awards",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Game%20Awards",
+        "pubdate": "Fri, 09 Dec 2022 11:00:00 +1100"
       }
     ],
     [
@@ -20,6 +27,27 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal",
         "pubdate": "Fri, 09 Dec 2022 08:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Sandy Campbell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sandy%20Campbell",
+        "pubdate": "Fri, 09 Dec 2022 12:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Usman Khawaja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Usman%20Khawaja",
+        "pubdate": "Fri, 09 Dec 2022 11:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Abigail Spencer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Abigail%20Spencer",
+        "pubdate": "Fri, 09 Dec 2022 12:00:00 +1100"
       }
     ],
     [
@@ -101,13 +129,6 @@
     ],
     [
       {
-        "title": "Radar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Radar",
-        "pubdate": "Thu, 08 Dec 2022 15:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Tokyo Vice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tokyo%20Vice",
         "pubdate": "Thu, 08 Dec 2022 00:00:00 +1100"
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Gracie Piscopo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gracie%20Piscopo",
-        "pubdate": "Thu, 08 Dec 2022 15:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Manchester%20United",
-        "pubdate": "Thu, 08 Dec 2022 09:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Amsterdam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Amsterdam",
         "pubdate": "Thu, 08 Dec 2022 11:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Lana Del Rey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lana%20Del%20Rey",
-        "pubdate": "Thu, 08 Dec 2022 16:00:00 +1100"
       }
     ]
   ]

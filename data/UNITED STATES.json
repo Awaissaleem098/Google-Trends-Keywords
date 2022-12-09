@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-12-2022 , 00:50:23",
+  "lastUpdate": "09-12-2022 , 02:17:00",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Raiders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Raiders",
+        "pubdate": "Thu, 08 Dec 2022 16:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Meghan Markle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Meghan%20Markle",
         "pubdate": "Thu, 08 Dec 2022 07:00:00 -0800"
@@ -26,13 +33,6 @@
       {
         "title": "Boy in the Box",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Boy%20in%20the%20Box",
-        "pubdate": "Thu, 08 Dec 2022 08:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Warriors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Warriors",
         "pubdate": "Thu, 08 Dec 2022 08:00:00 -0800"
       }
     ],
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Carlos Correa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Carlos%20Correa",
+        "pubdate": "Thu, 08 Dec 2022 03:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Arsenal vs Lyon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arsenal%20vs%20Lyon",
         "pubdate": "Thu, 08 Dec 2022 10:00:00 -0800"
@@ -76,6 +83,20 @@
         "title": "Jennifer Lawrence",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jennifer%20Lawrence",
         "pubdate": "Thu, 08 Dec 2022 04:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Nick Carter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nick%20Carter",
+        "pubdate": "Thu, 08 Dec 2022 16:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Josh Jacobs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Josh%20Jacobs",
+        "pubdate": "Thu, 08 Dec 2022 16:00:00 -0800"
       }
     ],
     [
@@ -94,13 +115,6 @@
     ],
     [
       {
-        "title": "Desmond Ridder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Desmond%20Ridder",
-        "pubdate": "Thu, 08 Dec 2022 14:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Pearl Harbor Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pearl%20Harbor%20Day",
         "pubdate": "Wed, 07 Dec 2022 03:00:00 -0800"
@@ -108,9 +122,9 @@
     ],
     [
       {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trump",
-        "pubdate": "Wed, 07 Dec 2022 01:00:00 -0800"
+        "title": "Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Warriors",
+        "pubdate": "Wed, 07 Dec 2022 20:00:00 -0800"
       }
     ],
     [
@@ -122,22 +136,8 @@
     ],
     [
       {
-        "title": "Von Miller",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Von%20Miller",
-        "pubdate": "Wed, 07 Dec 2022 11:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Tage Thompson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tage%20Thompson",
-        "pubdate": "Wed, 07 Dec 2022 20:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Lana Del Rey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lana%20Del%20Rey",
+        "title": "Rams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rams",
         "pubdate": "Wed, 07 Dec 2022 11:00:00 -0800"
       }
     ]

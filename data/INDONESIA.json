@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "09-12-2022 , 00:50:31",
+  "lastUpdate": "09-12-2022 , 02:17:04",
   "data": [
     [
       {
-        "title": "Luis de La Fuente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Luis%20de%20La%20Fuente",
+        "title": "Endrick",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Endrick",
+        "pubdate": "Fri, 09 Dec 2022 07:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Luis de la Fuente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Luis%20de%20la%20Fuente",
         "pubdate": "Fri, 09 Dec 2022 00:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Gillingham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Gillingham",
+        "pubdate": "Fri, 09 Dec 2022 07:00:00 +0700"
       }
     ],
     [
@@ -20,6 +34,13 @@
         "title": "Kemenkumham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Kemenkumham",
         "pubdate": "Fri, 09 Dec 2022 01:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Sesar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Sesar",
+        "pubdate": "Fri, 09 Dec 2022 08:00:00 +0700"
       }
     ],
     [
@@ -52,13 +73,6 @@
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Manchester%20United",
-        "pubdate": "Thu, 08 Dec 2022 01:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Bali United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Bali%20United",
         "pubdate": "Thu, 08 Dec 2022 12:00:00 +0700"
@@ -66,9 +80,23 @@
     ],
     [
       {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Manchester%20United",
+        "pubdate": "Thu, 08 Dec 2022 01:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Connect",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Connect",
         "pubdate": "Thu, 08 Dec 2022 10:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "MU",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#MU",
+        "pubdate": "Thu, 08 Dec 2022 02:00:00 +0700"
       }
     ],
     [
@@ -87,16 +115,16 @@
     ],
     [
       {
-        "title": "Gangster Surabaya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Gangster%20Surabaya",
-        "pubdate": "Thu, 08 Dec 2022 12:00:00 +0700"
+        "title": "Lensa AI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Lensa%20AI",
+        "pubdate": "Thu, 08 Dec 2022 07:00:00 +0700"
       }
     ],
     [
       {
-        "title": "Lensa AI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Lensa%20AI",
-        "pubdate": "Thu, 08 Dec 2022 07:00:00 +0700"
+        "title": "Gangster Surabaya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Gangster%20Surabaya",
+        "pubdate": "Thu, 08 Dec 2022 12:00:00 +0700"
       }
     ],
     [
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "In Time",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#In%20Time",
-        "pubdate": "Thu, 08 Dec 2022 00:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "One Piece 1069",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#One%20Piece%201069",
-        "pubdate": "Thu, 08 Dec 2022 00:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Bupati Bangkalan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Bupati%20Bangkalan",
-        "pubdate": "Thu, 08 Dec 2022 09:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Meikarta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Meikarta",
-        "pubdate": "Thu, 08 Dec 2022 14:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Kris Wu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Kris%20Wu",
-        "pubdate": "Thu, 08 Dec 2022 17:00:00 +0700"
+        "title": "Sesar Lembang",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Sesar%20Lembang",
+        "pubdate": "Thu, 08 Dec 2022 20:00:00 +0700"
       }
     ]
   ]

@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "09-12-2022 , 00:50:38",
+  "lastUpdate": "09-12-2022 , 02:17:08",
   "data": [
-    [
-      {
-        "title": "Wirecard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Wirecard",
-        "pubdate": "Fri, 09 Dec 2022 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Stiff person syndrome",
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Game Awards",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Game%20Awards",
+        "pubdate": "Thu, 08 Dec 2022 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Schengen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Schengen",
         "pubdate": "Thu, 08 Dec 2022 20:00:00 +0100"
@@ -52,23 +52,9 @@
     ],
     [
       {
-        "title": "Prins Harry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Prins%20Harry",
-        "pubdate": "Thu, 08 Dec 2022 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Robinson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Robinson",
         "pubdate": "Thu, 08 Dec 2022 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Game Awards",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Game%20Awards",
-        "pubdate": "Thu, 08 Dec 2022 22:00:00 +0100"
       }
     ],
     [
@@ -80,9 +66,9 @@
     ],
     [
       {
-        "title": "Heinrich XIII Reuss",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Heinrich%20XIII%20Reuss",
-        "pubdate": "Wed, 07 Dec 2022 12:00:00 +0100"
+        "title": "Runar Sögaard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Runar%20S%C3%B6gaard",
+        "pubdate": "Wed, 07 Dec 2022 08:00:00 +0100"
       }
     ],
     [
@@ -90,6 +76,13 @@
         "title": "RS-virus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#RS-virus",
         "pubdate": "Wed, 07 Dec 2022 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Heinrich XIII",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Heinrich%20XIII",
+        "pubdate": "Wed, 07 Dec 2022 13:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Kirstie Alley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kirstie%20Alley",
         "pubdate": "Tue, 06 Dec 2022 03:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "MOROCCO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#MOROCCO",
+        "pubdate": "Tue, 06 Dec 2022 18:00:00 +0100"
       }
     ]
   ]
