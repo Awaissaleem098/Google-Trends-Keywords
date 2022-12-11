@@ -1,10 +1,24 @@
 {
-  "lastUpdate": "10-12-2022 , 23:57:18",
+  "lastUpdate": "11-12-2022 , 01:54:43",
   "data": [
+    [
+      {
+        "title": "Mu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Mu",
+        "pubdate": "Sun, 11 Dec 2022 07:00:00 +0700"
+      }
+    ],
     [
       {
         "title": "Jude Bellingham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Jude%20Bellingham",
+        "pubdate": "Sun, 11 Dec 2022 03:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Francis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Francis",
         "pubdate": "Sun, 11 Dec 2022 03:00:00 +0700"
       }
     ],
@@ -24,9 +38,9 @@
     ],
     [
       {
-        "title": "Francis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Francis",
-        "pubdate": "Sun, 11 Dec 2022 03:00:00 +0700"
+        "title": "Jiyeon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Jiyeon",
+        "pubdate": "Sun, 11 Dec 2022 00:00:00 +0700"
       }
     ],
     [
@@ -87,13 +101,6 @@
     ],
     [
       {
-        "title": "Frenkie de Jong",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Frenkie%20de%20Jong",
-        "pubdate": "Sat, 10 Dec 2022 02:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Top Skor Liga 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Top%20Skor%20Liga%201",
         "pubdate": "Sat, 10 Dec 2022 20:00:00 +0700"
@@ -108,20 +115,6 @@
     ],
     [
       {
-        "title": "The Foreigner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#The%20Foreigner",
-        "pubdate": "Sat, 10 Dec 2022 00:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Gvardiol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Gvardiol",
-        "pubdate": "Sat, 10 Dec 2022 01:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Harga logam mulia 1 gram",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Harga%20logam%20mulia%201%20gram",
         "pubdate": "Sat, 10 Dec 2022 22:00:00 +0700"
@@ -129,9 +122,9 @@
     ],
     [
       {
-        "title": "Tambang batu bara Sawahlunto meledak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Tambang%20batu%20bara%20Sawahlunto%20meledak",
-        "pubdate": "Sat, 10 Dec 2022 01:00:00 +0700"
+        "title": "The Foreigner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#The%20Foreigner",
+        "pubdate": "Sat, 10 Dec 2022 00:00:00 +0700"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Ramalan zodiak",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Ramalan%20zodiak",
         "pubdate": "Sat, 10 Dec 2022 15:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Forbidden Kingdom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Forbidden%20Kingdom",
+        "pubdate": "Sat, 10 Dec 2022 22:00:00 +0700"
       }
     ]
   ]

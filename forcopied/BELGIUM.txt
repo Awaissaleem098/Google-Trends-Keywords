@@ -1,1 +1,1 @@
-Yassine Bounou,Amrabat,Hakimi,Foot,Hakim Ziyech,Jude Bellingham,Griezmann,Boufal,Ounahi,Grant Wahl,Football,Walid Regragui,Romain Saïss,Tshala Muana,Joao Felix,Dembele,Harry Maguire,Manuel Neuer,Gerben Kuypers,Benzema
+Jordan Pickford,Amrabat,Hakimi,Hakim Ziyech,Jude Bellingham,Foot,Yassine Bounou,Boufal,Ounahi,Romain Saïss,Grant Wahl,Walid Regragui,Football,Tshala Muana,Dembele,Joao Felix,Manuel Neuer,Harry Maguire,Antoine Griezmann,Benzema

@@ -1,1 +1,1 @@
-Harry Kane,Betis - Manchester United,Griezmann,Yassine Bounou,Theo hernandez,Hugo Lloris,David Beckham,Red Bull Internacional 2022,Saka,Benzema,Harry Maguire,Tchouameni,Hakim Ziyech,Dembele,Hakimi,Walid Cheddira,Fenomeno La Niña,Sofiane Boufal,Phil Foden,Edgar Davids
+Harry Kane,Betis  Manchester United,Yassine Bounou,Red Bull Internacional 2022,Theo hernandez,Hugo Lloris,David Beckham,Saka,Benzema,Harry Maguire,Antoine Griezmann,Hakim Ziyech,Sofyan Amrabat,Hakimi,Dembele,Fenomeno La Niña,Sofiane Boufal,Phil Foden,Walid Regragui,Kun aguero

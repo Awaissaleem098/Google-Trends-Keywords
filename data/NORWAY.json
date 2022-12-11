@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "10-12-2022 , 23:57:21",
+  "lastUpdate": "11-12-2022 , 01:54:47",
   "data": [
     [
       {
-        "title": "Ronaldo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ronaldo",
-        "pubdate": "Sat, 10 Dec 2022 07:00:00 +0100"
+        "title": "Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Portugal",
+        "pubdate": "Sat, 10 Dec 2022 16:00:00 +0100"
       }
     ],
     [
@@ -13,6 +13,13 @@
         "title": "Harry Kane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Harry%20Kane",
         "pubdate": "Sat, 10 Dec 2022 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ronaldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ronaldo",
+        "pubdate": "Sat, 10 Dec 2022 07:00:00 +0100"
       }
     ],
     [
@@ -66,16 +73,16 @@
     ],
     [
       {
-        "title": "Astrid S",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Astrid%20S",
-        "pubdate": "Sat, 10 Dec 2022 13:00:00 +0100"
+        "title": "Kyle Walker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kyle%20Walker",
+        "pubdate": "Sat, 10 Dec 2022 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Kyle Walker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kyle%20Walker",
-        "pubdate": "Sat, 10 Dec 2022 21:00:00 +0100"
+        "title": "Astrid S",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Astrid%20S",
+        "pubdate": "Sat, 10 Dec 2022 13:00:00 +0100"
       }
     ],
     [
@@ -94,16 +101,16 @@
     ],
     [
       {
-        "title": "Pinnekjøtt oppskrift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pinnekj%C3%B8tt%20oppskrift",
-        "pubdate": "Sat, 10 Dec 2022 12:00:00 +0100"
+        "title": "Jersey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jersey",
+        "pubdate": "Sat, 10 Dec 2022 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Jersey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jersey",
-        "pubdate": "Sat, 10 Dec 2022 18:00:00 +0100"
+        "title": "Pinnekjøtt oppskrift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pinnekj%C3%B8tt%20oppskrift",
+        "pubdate": "Sat, 10 Dec 2022 12:00:00 +0100"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Mbappe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mbappe",
-        "pubdate": "Fri, 09 Dec 2022 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Tina Turner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tina%20Turner",
         "pubdate": "Fri, 09 Dec 2022 18:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Elden Ring",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Elden%20Ring",
-        "pubdate": "Fri, 09 Dec 2022 09:00:00 +0100"
+        "title": "Mbappe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mbappe",
+        "pubdate": "Fri, 09 Dec 2022 23:00:00 +0100"
       }
     ]
   ]

@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "10-12-2022 , 23:57:15",
+  "lastUpdate": "11-12-2022 , 01:54:38",
   "data": [
+    [
+      {
+        "title": "Harry Kane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Harry%20Kane",
+        "pubdate": "Sat, 10 Dec 2022 15:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Betis - Manchester United",
@@ -24,6 +31,13 @@
     ],
     [
       {
+        "title": "Leonardo Castro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Leonardo%20Castro",
+        "pubdate": "Sat, 10 Dec 2022 14:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "David Beckham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#David%20Beckham",
         "pubdate": "Sat, 10 Dec 2022 14:00:00 -0500"
@@ -34,6 +48,13 @@
         "title": "Pepe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Pepe",
         "pubdate": "Sat, 10 Dec 2022 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Georgina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Georgina",
+        "pubdate": "Sat, 10 Dec 2022 13:00:00 -0500"
       }
     ],
     [
@@ -52,23 +73,16 @@
     ],
     [
       {
-        "title": "Benzema",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Benzema",
-        "pubdate": "Sat, 10 Dec 2022 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Georgina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Georgina",
-        "pubdate": "Sat, 10 Dec 2022 13:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Grant Wahl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Grant%20Wahl",
         "pubdate": "Sat, 10 Dec 2022 05:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Benzema",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Benzema",
+        "pubdate": "Sat, 10 Dec 2022 16:00:00 -0500"
       }
     ],
     [
@@ -80,9 +94,9 @@
     ],
     [
       {
-        "title": "Olivier Giroud",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Olivier%20Giroud",
-        "pubdate": "Sat, 10 Dec 2022 16:00:00 -0500"
+        "title": "Gustavo Bolívar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Gustavo%20Bol%C3%ADvar",
+        "pubdate": "Sat, 10 Dec 2022 07:00:00 -0500"
       }
     ],
     [
@@ -108,9 +122,9 @@
     ],
     [
       {
-        "title": "Tchouameni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Tchouameni",
-        "pubdate": "Sat, 10 Dec 2022 15:00:00 -0500"
+        "title": "Alci Acosta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Alci%20Acosta",
+        "pubdate": "Sat, 10 Dec 2022 19:00:00 -0500"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Hugo Lloris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Hugo%20Lloris",
         "pubdate": "Sat, 10 Dec 2022 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Kun aguero",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Kun%20aguero",
-        "pubdate": "Sat, 10 Dec 2022 01:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Joao felix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Joao%20felix",
-        "pubdate": "Sat, 10 Dec 2022 12:00:00 -0500"
       }
     ]
   ]

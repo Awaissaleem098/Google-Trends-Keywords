@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "10-12-2022 , 23:57:13",
+  "lastUpdate": "11-12-2022 , 01:54:35",
   "data": [
     [
       {
         "title": "France vs Morocco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#France%20vs%20Morocco",
         "pubdate": "Sat, 10 Dec 2022 14:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Pelicans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pelicans",
+        "pubdate": "Sat, 10 Dec 2022 00:00:00 -0800"
       }
     ],
     [
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "Netherlands vs Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Netherlands%20vs%20Argentina",
-        "pubdate": "Fri, 09 Dec 2022 06:00:00 -0800"
+        "title": "Morocco vs Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Morocco%20vs%20Portugal",
+        "pubdate": "Fri, 09 Dec 2022 11:00:00 -0800"
       }
     ],
     [
       {
-        "title": "Morocco vs Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Morocco%20vs%20Portugal",
-        "pubdate": "Fri, 09 Dec 2022 11:00:00 -0800"
+        "title": "Netherlands vs Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Netherlands%20vs%20Argentina",
+        "pubdate": "Fri, 09 Dec 2022 06:00:00 -0800"
       }
     ],
     [
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Trevor Noah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trevor%20Noah",
-        "pubdate": "Fri, 09 Dec 2022 00:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Emancipation",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Emancipation",
         "pubdate": "Fri, 09 Dec 2022 18:00:00 -0800"
@@ -108,9 +108,9 @@
     ],
     [
       {
-        "title": "R. Kelly new album",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#R.%20Kelly%20new%20album",
-        "pubdate": "Fri, 09 Dec 2022 14:00:00 -0800"
+        "title": "Trevor Noah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trevor%20Noah",
+        "pubdate": "Fri, 09 Dec 2022 00:00:00 -0800"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Zion Williamson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Zion%20Williamson",
-        "pubdate": "Fri, 09 Dec 2022 23:00:00 -0800"
+        "title": "Diablo 4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Diablo%204",
+        "pubdate": "Fri, 09 Dec 2022 01:00:00 -0800"
       }
     ],
     [
       {
-        "title": "Diablo 4",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Diablo%204",
-        "pubdate": "Fri, 09 Dec 2022 01:00:00 -0800"
+        "title": "SZA SOS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#SZA%20SOS",
+        "pubdate": "Fri, 09 Dec 2022 11:00:00 -0800"
       }
     ]
   ]
