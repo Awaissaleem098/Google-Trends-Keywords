@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-12-2022 , 22:53:11",
+  "lastUpdate": "11-12-2022 , 23:16:12",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Hillary Clinton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hillary%20Clinton",
+        "pubdate": "Sun, 11 Dec 2022 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Harry Kane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Harry%20Kane",
         "pubdate": "Sat, 10 Dec 2022 20:00:00 +0100"
@@ -83,6 +90,13 @@
         "title": "Grant Wahl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Grant%20Wahl",
         "pubdate": "Sat, 10 Dec 2022 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Saka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Saka",
+        "pubdate": "Sat, 10 Dec 2022 21:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Astrid S",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Astrid%20S",
         "pubdate": "Sat, 10 Dec 2022 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kate Winslet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kate%20Winslet",
-        "pubdate": "Sat, 10 Dec 2022 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Galdhøpiggen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Galdh%C3%B8piggen",
-        "pubdate": "Sat, 10 Dec 2022 10:00:00 +0100"
       }
     ]
   ]
