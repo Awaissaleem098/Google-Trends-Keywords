@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "11-12-2022 , 01:54:48",
+  "lastUpdate": "11-12-2022 , 02:52:04",
   "data": [
+    [
+      {
+        "title": "Georgina Rodriguez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Georgina%20Rodriguez",
+        "pubdate": "Sun, 11 Dec 2022 02:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Alberto",
@@ -10,16 +17,23 @@
     ],
     [
       {
-        "title": "Lawina w Tatrach",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lawina%20w%20Tatrach",
+        "title": "Dawid Załęcki",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dawid%20Za%C5%82%C4%99cki",
+        "pubdate": "Sun, 11 Dec 2022 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lawina W Tatrach",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lawina%20W%20Tatrach",
         "pubdate": "Sun, 11 Dec 2022 01:00:00 +0100"
       }
     ],
     [
       {
-        "title": "High League 5",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#High%20League%205",
-        "pubdate": "Sat, 10 Dec 2022 13:00:00 +0100"
+        "title": "High League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#High%20League",
+        "pubdate": "Sat, 10 Dec 2022 00:00:00 +0100"
       }
     ],
     [
@@ -52,16 +66,16 @@
     ],
     [
       {
-        "title": "Eurowizja Junior 2022",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Eurowizja%20Junior%202022",
-        "pubdate": "Sat, 10 Dec 2022 13:00:00 +0100"
+        "title": "Iwona Wieczorek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Iwona%20Wieczorek",
+        "pubdate": "Sat, 10 Dec 2022 12:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Iwona Wieczorek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Iwona%20Wieczorek",
-        "pubdate": "Sat, 10 Dec 2022 12:00:00 +0100"
+        "title": "Eurowizja Junior 2022",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Eurowizja%20Junior%202022",
+        "pubdate": "Sat, 10 Dec 2022 13:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "11 grudnia niedziela handlowa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#11%20grudnia%20niedziela%20handlowa",
         "pubdate": "Sat, 10 Dec 2022 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Wielka Brytania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wielka%20Brytania",
-        "pubdate": "Sat, 10 Dec 2022 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Victoria Beckham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Victoria%20Beckham",
-        "pubdate": "Sat, 10 Dec 2022 22:00:00 +0100"
       }
     ]
   ]

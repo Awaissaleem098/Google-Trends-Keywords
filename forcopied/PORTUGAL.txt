@@ -1,1 +1,1 @@
-UFC 282,Explosão em Jersey,The Gentlemen,MasterChef,Margareth Menezes,Pepe,SIC,Fernando Santos,RTP,Rafael Leão,Copa do Mundo da FIFA Catar 2022™,Ronaldo,Qatar,Diogo Dalot,Yassine Bounou,Jogadores de seleção Portuguesa de Futebol,Cr7,Rui Rodrigues,Vaca na Segunda Circular,Raphael Guerreiro
+UFC 282,Explosão em Jersey,The Gentlemen,MasterChef,Margareth Menezes,Pepe,SIC,Seleção portuguesa de futebol,Fernando Santos,Rafael Leão,RTP,Ronaldo,Qatar,Diogo Dalot,Grant Wahl,Yassine Bounou,Rui Rodrigues,Vaca na Segunda Circular,Raphael Guerreiro,Hakim Ziyech

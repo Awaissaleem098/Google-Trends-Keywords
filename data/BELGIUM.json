@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "11-12-2022 , 01:54:37",
+  "lastUpdate": "11-12-2022 , 02:51:58",
   "data": [
+    [
+      {
+        "title": "Angele",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Angele",
+        "pubdate": "Sun, 11 Dec 2022 02:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Jordan Pickford",
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Foot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Foot",
-        "pubdate": "Sat, 10 Dec 2022 05:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Yassine Bounou",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Yassine%20Bounou",
         "pubdate": "Sat, 10 Dec 2022 17:00:00 +0100"
@@ -55,6 +55,13 @@
         "title": "Boufal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Boufal",
         "pubdate": "Sat, 10 Dec 2022 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Griezmann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Griezmann",
+        "pubdate": "Sat, 10 Dec 2022 21:00:00 +0100"
       }
     ],
     [
@@ -101,16 +108,16 @@
     ],
     [
       {
-        "title": "Dembele",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dembele",
-        "pubdate": "Sat, 10 Dec 2022 21:00:00 +0100"
+        "title": "Joao Felix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Joao%20Felix",
+        "pubdate": "Sat, 10 Dec 2022 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Joao Felix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Joao%20Felix",
-        "pubdate": "Sat, 10 Dec 2022 17:00:00 +0100"
+        "title": "Dembele",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dembele",
+        "pubdate": "Sat, 10 Dec 2022 21:00:00 +0100"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Nordin Amrabat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nordin%20Amrabat",
+        "pubdate": "Sat, 10 Dec 2022 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Harry Maguire",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Harry%20Maguire",
         "pubdate": "Sat, 10 Dec 2022 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Antoine Griezmann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antoine%20Griezmann",
-        "pubdate": "Sat, 10 Dec 2022 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Benzema",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Benzema",
-        "pubdate": "Sat, 10 Dec 2022 20:00:00 +0100"
       }
     ]
   ]

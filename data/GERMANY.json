@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-12-2022 , 01:54:41",
+  "lastUpdate": "11-12-2022 , 02:52:00",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Ebanie Bridges",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ebanie%20Bridges",
-        "pubdate": "Sat, 10 Dec 2022 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Ich bin dein Mensch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ich%20bin%20dein%20Mensch",
         "pubdate": "Sat, 10 Dec 2022 21:00:00 +0100"
@@ -138,6 +131,13 @@
       {
         "title": "Schweinsteiger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schweinsteiger",
+        "pubdate": "Fri, 09 Dec 2022 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kylian Mbappé!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kylian%20Mbapp%C3%A9!",
         "pubdate": "Fri, 09 Dec 2022 23:00:00 +0100"
       }
     ]

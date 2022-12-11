@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "11-12-2022 , 01:54:36",
+  "lastUpdate": "11-12-2022 , 02:51:58",
   "data": [
+    [
+      {
+        "title": "SBS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#SBS",
+        "pubdate": "Sun, 11 Dec 2022 03:00:00 +1100"
+      }
+    ],
     [
       {
         "title": "UFC 282",
@@ -13,6 +20,13 @@
         "title": "France vs Morocco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#France%20vs%20Morocco",
         "pubdate": "Sun, 11 Dec 2022 09:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "AFL fixture 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#AFL%20fixture%202023",
+        "pubdate": "Sun, 11 Dec 2022 12:00:00 +1100"
       }
     ],
     [
@@ -31,16 +45,16 @@
     ],
     [
       {
-        "title": "England vs France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#England%20vs%20France",
-        "pubdate": "Sat, 10 Dec 2022 09:00:00 +1100"
+        "title": "Morocco vs Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Morocco%20vs%20Portugal",
+        "pubdate": "Sat, 10 Dec 2022 06:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Morocco vs Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Morocco%20vs%20Portugal",
-        "pubdate": "Sat, 10 Dec 2022 06:00:00 +1100"
+        "title": "England vs France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#England%20vs%20France",
+        "pubdate": "Sat, 10 Dec 2022 09:00:00 +1100"
       }
     ],
     [
@@ -59,23 +73,9 @@
     ],
     [
       {
-        "title": "India vs Bangladesh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#India%20vs%20Bangladesh",
-        "pubdate": "Sat, 10 Dec 2022 17:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Argentina vs Croatia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Argentina%20vs%20Croatia",
         "pubdate": "Sat, 10 Dec 2022 10:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Billy Joel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Billy%20Joel",
-        "pubdate": "Sat, 10 Dec 2022 19:00:00 +1100"
       }
     ],
     [
@@ -101,16 +101,16 @@
     ],
     [
       {
-        "title": "Pele",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pele",
-        "pubdate": "Sat, 10 Dec 2022 23:00:00 +1100"
+        "title": "Pinocchio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pinocchio",
+        "pubdate": "Sat, 10 Dec 2022 00:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Pinocchio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pinocchio",
-        "pubdate": "Sat, 10 Dec 2022 00:00:00 +1100"
+        "title": "Telstra privacy breach",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Telstra%20privacy%20breach",
+        "pubdate": "Sat, 10 Dec 2022 23:00:00 +1100"
       }
     ],
     [
@@ -122,9 +122,9 @@
     ],
     [
       {
-        "title": "Sydney FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20FC",
-        "pubdate": "Sat, 10 Dec 2022 21:00:00 +1100"
+        "title": "Tina Arena",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tina%20Arena",
+        "pubdate": "Sat, 10 Dec 2022 19:00:00 +1100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Kyrsten Sinema",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kyrsten%20Sinema",
-        "pubdate": "Sat, 10 Dec 2022 12:00:00 +1100"
+        "title": "Sydney FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20FC",
+        "pubdate": "Sat, 10 Dec 2022 21:00:00 +1100"
       }
     ]
   ]

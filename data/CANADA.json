@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-12-2022 , 01:54:38",
+  "lastUpdate": "11-12-2022 , 02:51:59",
   "data": [
     [
       {
@@ -55,6 +55,13 @@
         "title": "JUDE BELLINGHAM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#JUDE%20BELLINGHAM",
         "pubdate": "Sat, 10 Dec 2022 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Flames vs Maple Leafs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Flames%20vs%20Maple%20Leafs",
+        "pubdate": "Sat, 10 Dec 2022 19:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Suspect",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Suspect",
         "pubdate": "Sat, 10 Dec 2022 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "World Cup teams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#World%20Cup%20teams",
-        "pubdate": "Sat, 10 Dec 2022 17:00:00 -0500"
       }
     ]
   ]
