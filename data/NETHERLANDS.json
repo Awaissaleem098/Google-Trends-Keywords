@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "13-12-2022 , 19:43:33",
+  "lastUpdate": "13-12-2022 , 19:56:38",
   "data": [
     [
       {
         "title": "Oreo-koekjes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Oreo-koekjes",
         "pubdate": "Tue, 13 Dec 2022 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Modric",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Modric",
+        "pubdate": "Tue, 13 Dec 2022 20:00:00 +0100"
       }
     ],
     [
@@ -34,6 +41,13 @@
         "title": "PlayStation",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PlayStation",
         "pubdate": "Tue, 13 Dec 2022 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mateu Lahoz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mateu%20Lahoz",
+        "pubdate": "Mon, 12 Dec 2022 21:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Paarse Vrijdag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Paarse%20Vrijdag",
         "pubdate": "Thu, 08 Dec 2022 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Harry & Meghan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Harry%20%26%20Meghan",
-        "pubdate": "Thu, 08 Dec 2022 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Rijkswaterstaat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rijkswaterstaat",
-        "pubdate": "Thu, 08 Dec 2022 19:00:00 +0100"
       }
     ]
   ]
