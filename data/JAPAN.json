@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "12-12-2022 , 23:51:36",
+  "lastUpdate": "13-12-2022 , 01:10:53",
   "data": [
+    [
+      {
+        "title": "クライシスコア",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%B7%E3%82%B9%E3%82%B3%E3%82%A2",
+        "pubdate": "Tue, 13 Dec 2022 00:00:00 +0900"
+      }
+    ],
     [
       {
         "title": "佐藤蛾次郎",
@@ -31,23 +38,9 @@
     ],
     [
       {
-        "title": "近藤健介",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E8%BF%91%E8%97%A4%E5%81%A5%E4%BB%8B",
-        "pubdate": "Mon, 12 Dec 2022 16:00:00 +0900"
-      }
-    ],
-    [
-      {
         "title": "Ispace",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#Ispace",
         "pubdate": "Mon, 12 Dec 2022 01:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "山崎賢人",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%B1%B1%E5%B4%8E%E8%B3%A2%E4%BA%BA",
-        "pubdate": "Mon, 12 Dec 2022 14:00:00 +0900"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "オランダ対アルゼンチン",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E5%AF%BE%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3",
         "pubdate": "Fri, 09 Dec 2022 13:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "現役ドラフト",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%8F%BE%E5%BD%B9%E3%83%89%E3%83%A9%E3%83%95%E3%83%88",
+        "pubdate": "Fri, 09 Dec 2022 09:00:00 +0900"
       }
     ]
   ]

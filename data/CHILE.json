@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "12-12-2022 , 23:51:32",
+  "lastUpdate": "13-12-2022 , 01:10:48",
   "data": [
-    [
-      {
-        "title": "Incendio Melipilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Incendio%20Melipilla",
-        "pubdate": "Mon, 12 Dec 2022 00:00:00 -0300"
-      }
-    ],
     [
       {
         "title": "The White Lotus",
@@ -20,6 +13,13 @@
         "title": "Nueva Zelanda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Nueva%20Zelanda",
         "pubdate": "Mon, 12 Dec 2022 13:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Audiolab",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Audiolab",
+        "pubdate": "Mon, 12 Dec 2022 16:00:00 -0300"
       }
     ],
     [
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Audiolab",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Audiolab",
-        "pubdate": "Mon, 12 Dec 2022 16:00:00 -0300"
+        "title": "Incendio en Melipilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Incendio%20en%20Melipilla",
+        "pubdate": "Mon, 12 Dec 2022 03:00:00 -0300"
       }
     ],
     [
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Aston Villa vs Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Aston%20Villa%20vs%20Chelsea",
-        "pubdate": "Mon, 12 Dec 2022 01:00:00 -0300"
+        "title": "Calvin Harris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Calvin%20Harris",
+        "pubdate": "Mon, 12 Dec 2022 20:00:00 -0300"
       }
     ],
     [
@@ -80,6 +80,34 @@
     ],
     [
       {
+        "title": "Aston Villa vs Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Aston%20Villa%20vs%20Chelsea",
+        "pubdate": "Mon, 12 Dec 2022 01:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Sector público",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sector%20p%C3%BAblico",
+        "pubdate": "Mon, 12 Dec 2022 21:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Rob Halford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rob%20Halford",
+        "pubdate": "Mon, 12 Dec 2022 20:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Pantera en Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Pantera%20en%20Chile",
+        "pubdate": "Mon, 12 Dec 2022 20:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Argentina vs Croacia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Argentina%20vs%20Croacia",
         "pubdate": "Sun, 11 Dec 2022 09:00:00 -0300"
@@ -87,8 +115,8 @@
     ],
     [
       {
-        "title": "Jardin Botanico Viña del Mar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jardin%20Botanico%20Vi%C3%B1a%20del%20Mar",
+        "title": "Jardin botanico Viña del Mar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jardin%20botanico%20Vi%C3%B1a%20del%20Mar",
         "pubdate": "Sun, 11 Dec 2022 18:00:00 -0300"
       }
     ],
@@ -111,34 +139,6 @@
         "title": "Temperatura Santiago",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temperatura%20Santiago",
         "pubdate": "Sun, 11 Dec 2022 10:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Jorge Valdivia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jorge%20Valdivia",
-        "pubdate": "Sun, 11 Dec 2022 19:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Colo Colo Femenino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colo%20Colo%20Femenino",
-        "pubdate": "Sun, 11 Dec 2022 20:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Iphone 14 pro max",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Iphone%2014%20pro%20max",
-        "pubdate": "Sun, 11 Dec 2022 23:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Estadio Monumental",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Estadio%20Monumental",
-        "pubdate": "Sun, 11 Dec 2022 12:00:00 -0300"
       }
     ]
   ]

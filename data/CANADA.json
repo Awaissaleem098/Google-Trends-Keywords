@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-12-2022 , 23:51:31",
+  "lastUpdate": "13-12-2022 , 01:10:48",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Miami Dolphins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Miami%20Dolphins",
+        "pubdate": "Mon, 12 Dec 2022 18:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Tempête de neige",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Temp%C3%AAte%20de%20neige",
         "pubdate": "Mon, 12 Dec 2022 06:00:00 -0500"
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Boston Bruins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Boston%20Bruins",
-        "pubdate": "Mon, 12 Dec 2022 02:00:00 -0500"
+        "title": "Bob Barker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bob%20Barker",
+        "pubdate": "Mon, 12 Dec 2022 14:00:00 -0500"
       }
     ],
     [
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "Elon Musk Twitter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Elon%20Musk%20Twitter",
-        "pubdate": "Mon, 12 Dec 2022 03:00:00 -0500"
+        "title": "Boston Bruins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Boston%20Bruins",
+        "pubdate": "Mon, 12 Dec 2022 02:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Bob Barker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bob%20Barker",
-        "pubdate": "Mon, 12 Dec 2022 14:00:00 -0500"
+        "title": "Elon Musk Twitter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Elon%20Musk%20Twitter",
+        "pubdate": "Mon, 12 Dec 2022 03:00:00 -0500"
       }
     ],
     [
@@ -94,9 +101,16 @@
     ],
     [
       {
-        "title": "Robin Williams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Robin%20Williams",
-        "pubdate": "Mon, 12 Dec 2022 00:00:00 -0500"
+        "title": "Kevin Hart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kevin%20Hart",
+        "pubdate": "Mon, 12 Dec 2022 18:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Bo Horvat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bo%20Horvat",
+        "pubdate": "Mon, 12 Dec 2022 18:00:00 -0500"
       }
     ],
     [
@@ -115,30 +129,16 @@
     ],
     [
       {
+        "title": "Oppenheimer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oppenheimer",
+        "pubdate": "Mon, 12 Dec 2022 19:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "White Lotus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#White%20Lotus",
         "pubdate": "Sun, 11 Dec 2022 23:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Brock Purdy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Brock%20Purdy",
-        "pubdate": "Sun, 11 Dec 2022 18:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Buffalo Bills",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Buffalo%20Bills",
-        "pubdate": "Sun, 11 Dec 2022 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Steve Martin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Steve%20Martin",
-        "pubdate": "Sun, 11 Dec 2022 00:00:00 -0500"
       }
     ]
   ]

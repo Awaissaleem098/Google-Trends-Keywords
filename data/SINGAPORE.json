@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "12-12-2022 , 23:51:40",
+  "lastUpdate": "13-12-2022 , 01:10:56",
   "data": [
+    [
+      {
+        "title": "Eva Kaili",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Eva%20Kaili",
+        "pubdate": "Tue, 13 Dec 2022 07:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Maria Telkes",
@@ -27,6 +34,13 @@
         "title": "White Lotus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#White%20Lotus",
         "pubdate": "Mon, 12 Dec 2022 16:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Mateu Lahoz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mateu%20Lahoz",
+        "pubdate": "Mon, 12 Dec 2022 20:00:00 +0800"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Trevor Noah Daily Show",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Trevor%20Noah%20Daily%20Show",
         "pubdate": "Sat, 10 Dec 2022 05:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Kyrsten Sinema",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Kyrsten%20Sinema",
-        "pubdate": "Sat, 10 Dec 2022 12:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Croatia vs Brazil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Croatia%20vs%20Brazil",
-        "pubdate": "Fri, 09 Dec 2022 14:00:00 +0800"
       }
     ]
   ]
