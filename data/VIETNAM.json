@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "14-12-2022 , 00:50:45",
+  "lastUpdate": "14-12-2022 , 02:22:05",
   "data": [
     [
       {
         "title": "Luka Modric",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Luka%20Modric",
         "pubdate": "Wed, 14 Dec 2022 02:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Alvarez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Alvarez",
-        "pubdate": "Wed, 14 Dec 2022 03:00:00 +0700"
       }
     ],
     [
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "Tai nạn giao thông",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tai%20n%E1%BA%A1n%20giao%20th%C3%B4ng",
+        "pubdate": "Wed, 14 Dec 2022 06:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Enzo Fernandez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Enzo%20Fernandez",
         "pubdate": "Wed, 14 Dec 2022 05:00:00 +0700"
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Tai nạn giao thông",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tai%20n%E1%BA%A1n%20giao%20th%C3%B4ng",
-        "pubdate": "Wed, 14 Dec 2022 06:00:00 +0700"
+        "title": "FTX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#FTX",
+        "pubdate": "Wed, 14 Dec 2022 07:00:00 +0700"
       }
     ],
     [
@@ -73,16 +73,16 @@
     ],
     [
       {
-        "title": "Bộ Công an",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%E1%BB%99%20C%C3%B4ng%20an",
-        "pubdate": "Tue, 13 Dec 2022 09:00:00 +0700"
+        "title": "Pháo hoa Z121",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ph%C3%A1o%20hoa%20Z121",
+        "pubdate": "Tue, 13 Dec 2022 19:00:00 +0700"
       }
     ],
     [
       {
-        "title": "Pháo hoa Z121",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ph%C3%A1o%20hoa%20Z121",
-        "pubdate": "Tue, 13 Dec 2022 19:00:00 +0700"
+        "title": "Bộ Công an",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%E1%BB%99%20C%C3%B4ng%20an",
+        "pubdate": "Tue, 13 Dec 2022 14:00:00 +0700"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Dương Mịch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#D%C6%B0%C6%A1ng%20M%E1%BB%8Bch",
-        "pubdate": "Tue, 13 Dec 2022 14:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Mưa sao băng",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#M%C6%B0a%20sao%20b%C4%83ng",
         "pubdate": "Tue, 13 Dec 2022 22:00:00 +0700"
@@ -129,9 +122,9 @@
     ],
     [
       {
-        "title": "Bảo Thanh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%E1%BA%A3o%20Thanh",
-        "pubdate": "Tue, 13 Dec 2022 13:00:00 +0700"
+        "title": "Dương Mịch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#D%C6%B0%C6%A1ng%20M%E1%BB%8Bch",
+        "pubdate": "Tue, 13 Dec 2022 14:00:00 +0700"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Văn Mai Hương",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#V%C4%83n%20Mai%20H%C6%B0%C6%A1ng",
         "pubdate": "Tue, 13 Dec 2022 21:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Richarlison Brazil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Richarlison%20Brazil",
+        "pubdate": "Tue, 13 Dec 2022 17:00:00 +0700"
       }
     ]
   ]

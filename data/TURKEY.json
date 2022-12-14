@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "14-12-2022 , 00:50:44",
+  "lastUpdate": "14-12-2022 , 02:22:04",
   "data": [
     [
       {
         "title": "Maradona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Maradona",
         "pubdate": "Wed, 14 Dec 2022 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Gvardiol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Gvardiol",
-        "pubdate": "Wed, 14 Dec 2022 01:00:00 +0300"
       }
     ],
     [
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Arjantin, Hırvatistan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Arjantin,%20H%C4%B1rvatistan",
+        "pubdate": "Tue, 13 Dec 2022 14:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Galatasaray - Lazio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Galatasaray%20-%20Lazio",
         "pubdate": "Tue, 13 Dec 2022 18:00:00 +0300"
@@ -45,23 +45,9 @@
     ],
     [
       {
-        "title": "Messi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Messi",
-        "pubdate": "Tue, 13 Dec 2022 17:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Son depremler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Son%20depremler",
         "pubdate": "Tue, 13 Dec 2022 07:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Son dakika deprem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Son%20dakika%20deprem",
-        "pubdate": "Tue, 13 Dec 2022 08:00:00 +0300"
       }
     ],
     [
@@ -90,6 +76,13 @@
         "title": "Avatar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Avatar",
         "pubdate": "Tue, 13 Dec 2022 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Deprem Son dakika",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Deprem%20Son%20dakika",
+        "pubdate": "Tue, 13 Dec 2022 08:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Alparslan Büyük Selçuklu 37. bölüm izle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Alparslan%20B%C3%BCy%C3%BCk%20Sel%C3%A7uklu%2037.%20b%C3%B6l%C3%BCm%20izle",
         "pubdate": "Tue, 13 Dec 2022 07:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Eser Yenenler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Eser%20Yenenler",
+        "pubdate": "Tue, 13 Dec 2022 21:00:00 +0300"
       }
     ]
   ]

@@ -1,11 +1,32 @@
 {
-  "lastUpdate": "14-12-2022 , 00:50:42",
+  "lastUpdate": "14-12-2022 , 02:22:01",
   "data": [
     [
       {
-        "title": "Inundações Lisboa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Inunda%C3%A7%C3%B5es%20Lisboa",
+        "title": "Diego Maradona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Diego%20Maradona",
+        "pubdate": "Wed, 14 Dec 2022 00:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "José Carlos Pereira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jos%C3%A9%20Carlos%20Pereira",
+        "pubdate": "Wed, 14 Dec 2022 00:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Metro Lisboa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Metro%20Lisboa",
         "pubdate": "Tue, 13 Dec 2022 01:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Sporting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting",
+        "pubdate": "Tue, 13 Dec 2022 18:00:00 +0000"
       }
     ],
     [
@@ -13,13 +34,6 @@
         "title": "Fernando Santos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fernando%20Santos",
         "pubdate": "Tue, 13 Dec 2022 16:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Sporting",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting",
-        "pubdate": "Tue, 13 Dec 2022 21:00:00 +0000"
       }
     ],
     [
@@ -38,8 +52,8 @@
     ],
     [
       {
-        "title": "SIC noticias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#SIC%20noticias",
+        "title": "Sic noticias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sic%20noticias",
         "pubdate": "Tue, 13 Dec 2022 09:00:00 +0000"
       }
     ],
@@ -54,6 +68,13 @@
       {
         "title": "Campo Maior",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Campo%20Maior",
+        "pubdate": "Tue, 13 Dec 2022 13:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#CNN",
         "pubdate": "Tue, 13 Dec 2022 13:00:00 +0000"
       }
     ],
@@ -94,16 +115,16 @@
     ],
     [
       {
-        "title": "Proteção Civil alertas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Prote%C3%A7%C3%A3o%20Civil%20alertas",
-        "pubdate": "Tue, 13 Dec 2022 08:00:00 +0000"
+        "title": "Rio Ave",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rio%20Ave",
+        "pubdate": "Tue, 13 Dec 2022 21:00:00 +0000"
       }
     ],
     [
       {
-        "title": "Jogo Sporting",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jogo%20Sporting",
-        "pubdate": "Tue, 13 Dec 2022 18:00:00 +0000"
+        "title": "Barragens portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Barragens%20portugal",
+        "pubdate": "Tue, 13 Dec 2022 07:00:00 +0000"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Luka modrić",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Luka%20modri%C4%87",
-        "pubdate": "Tue, 13 Dec 2022 20:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Escolas fechadas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Escolas%20fechadas",
         "pubdate": "Tue, 13 Dec 2022 12:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Taylor%20Swift",
-        "pubdate": "Tue, 13 Dec 2022 13:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Aeroporto Lisboa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Aeroporto%20Lisboa",
-        "pubdate": "Tue, 13 Dec 2022 15:00:00 +0000"
       }
     ]
   ]

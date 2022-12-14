@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-12-2022 , 00:50:37",
+  "lastUpdate": "14-12-2022 , 02:21:54",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Ottawa Senators",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ottawa%20Senators",
-        "pubdate": "Tue, 13 Dec 2022 13:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Bernard Arnault",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bernard%20Arnault",
         "pubdate": "Tue, 13 Dec 2022 12:00:00 -0500"
@@ -66,8 +59,22 @@
     ],
     [
       {
-        "title": "Twitch recap",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Twitch%20recap",
+        "title": "Ducks vs Maple Leafs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ducks%20vs%20Maple%20Leafs",
+        "pubdate": "Tue, 13 Dec 2022 19:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Ottawa Senators",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ottawa%20Senators",
+        "pubdate": "Tue, 13 Dec 2022 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Twitch Recap",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Twitch%20Recap",
         "pubdate": "Tue, 13 Dec 2022 14:00:00 -0500"
       }
     ],
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Sam Brinton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sam%20Brinton",
+        "pubdate": "Tue, 13 Dec 2022 14:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Cindy Crawford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cindy%20Crawford",
         "pubdate": "Tue, 13 Dec 2022 02:00:00 -0500"
@@ -115,30 +129,16 @@
     ],
     [
       {
-        "title": "Avatar: The Way of Water",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Avatar:%20The%20Way%20of%20Water",
-        "pubdate": "Tue, 13 Dec 2022 18:00:00 -0500"
+        "title": "MERS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#MERS",
+        "pubdate": "Tue, 13 Dec 2022 12:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Barry Sherman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Barry%20Sherman",
-        "pubdate": "Tue, 13 Dec 2022 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Indian Chinese troops",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Indian%20Chinese%20troops",
-        "pubdate": "Tue, 13 Dec 2022 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Argentina vs Croatia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Argentina%20vs%20Croatia",
-        "pubdate": "Mon, 12 Dec 2022 09:00:00 -0500"
+        "title": "Jacinda Ardern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jacinda%20Ardern",
+        "pubdate": "Tue, 13 Dec 2022 19:00:00 -0500"
       }
     ]
   ]

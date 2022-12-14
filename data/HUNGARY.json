@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "14-12-2022 , 00:50:39",
+  "lastUpdate": "14-12-2022 , 02:21:57",
   "data": [
+    [
+      {
+        "title": "MVM Dome",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MVM%20Dome",
+        "pubdate": "Wed, 14 Dec 2022 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Franciaország–Marokkó",
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Aaron Taylor-Johnson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Aaron%20Taylor-Johnson",
-        "pubdate": "Tue, 13 Dec 2022 06:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Vad Fruttik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vad%20Fruttik",
         "pubdate": "Tue, 13 Dec 2022 14:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Fehér Lótusz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Feh%C3%A9r%20L%C3%B3tusz",
-        "pubdate": "Tue, 13 Dec 2022 15:00:00 +0100"
+        "title": "Törőcsik Franciska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%B6r%C5%91csik%20Franciska",
+        "pubdate": "Tue, 13 Dec 2022 13:00:00 +0100"
       }
     ]
   ]

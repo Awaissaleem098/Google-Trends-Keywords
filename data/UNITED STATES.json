@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-12-2022 , 00:50:36",
+  "lastUpdate": "14-12-2022 , 02:21:52",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Taylor%20Swift",
-        "pubdate": "Tue, 13 Dec 2022 11:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Dua Lipa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dua%20Lipa",
         "pubdate": "Tue, 13 Dec 2022 08:00:00 -0800"
@@ -31,9 +24,9 @@
     ],
     [
       {
-        "title": "Cole Beasley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cole%20Beasley",
-        "pubdate": "Tue, 13 Dec 2022 08:00:00 -0800"
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Taylor%20Swift",
+        "pubdate": "Tue, 13 Dec 2022 11:00:00 -0800"
       }
     ],
     [
@@ -59,6 +52,13 @@
     ],
     [
       {
+        "title": "Respect for Marriage Act",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Respect%20for%20Marriage%20Act",
+        "pubdate": "Tue, 13 Dec 2022 15:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Avatar: The Way of Water",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Avatar:%20The%20Way%20of%20Water",
         "pubdate": "Tue, 13 Dec 2022 15:00:00 -0800"
@@ -73,27 +73,6 @@
     ],
     [
       {
-        "title": "Ali Spice death",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ali%20Spice%20death",
-        "pubdate": "Tue, 13 Dec 2022 13:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Inflation",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Inflation",
-        "pubdate": "Tue, 13 Dec 2022 12:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Blake Shelton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Blake%20Shelton",
-        "pubdate": "Tue, 13 Dec 2022 10:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Binance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Binance",
         "pubdate": "Tue, 13 Dec 2022 15:00:00 -0800"
@@ -101,9 +80,16 @@
     ],
     [
       {
-        "title": "Spider-Man: Across the Spider-Verse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Spider-Man:%20Across%20the%20Spider-Verse",
-        "pubdate": "Tue, 13 Dec 2022 15:00:00 -0800"
+        "title": "Tornado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tornado",
+        "pubdate": "Tue, 13 Dec 2022 14:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Blake Shelton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Blake%20Shelton",
+        "pubdate": "Tue, 13 Dec 2022 10:00:00 -0800"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Chris Beard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chris%20Beard",
         "pubdate": "Mon, 12 Dec 2022 07:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Golden Globe Nominations 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Golden%20Globe%20Nominations%202023",
+        "pubdate": "Mon, 12 Dec 2022 08:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "High on Life",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#High%20on%20Life",
+        "pubdate": "Mon, 12 Dec 2022 11:00:00 -0800"
       }
     ]
   ]
