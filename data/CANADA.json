@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "16-12-2022 , 01:40:28",
+  "lastUpdate": "16-12-2022 , 02:26:40",
   "data": [
     [
       {
         "title": "Donald Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Donald%20Trump",
         "pubdate": "Thu, 15 Dec 2022 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Bus cancellations",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bus%20cancellations",
-        "pubdate": "Thu, 15 Dec 2022 07:00:00 -0500"
       }
     ],
     [
@@ -31,13 +24,6 @@
     ],
     [
       {
-        "title": "TTC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#TTC",
-        "pubdate": "Thu, 15 Dec 2022 15:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Tyler Perry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tyler%20Perry",
         "pubdate": "Thu, 15 Dec 2022 15:00:00 -0500"
@@ -45,9 +31,23 @@
     ],
     [
       {
-        "title": "Storm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Storm",
-        "pubdate": "Thu, 15 Dec 2022 09:00:00 -0500"
+        "title": "Bus cancellations",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bus%20cancellations",
+        "pubdate": "Thu, 15 Dec 2022 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "TTC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#TTC",
+        "pubdate": "Thu, 15 Dec 2022 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Maple Leafs vs Rangers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Maple%20Leafs%20vs%20Rangers",
+        "pubdate": "Thu, 15 Dec 2022 19:00:00 -0500"
       }
     ],
     [
@@ -115,20 +115,6 @@
     ],
     [
       {
-        "title": "Arber Xhekaj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Arber%20Xhekaj",
-        "pubdate": "Thu, 15 Dec 2022 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Maple Leafs vs Rangers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Maple%20Leafs%20vs%20Rangers",
-        "pubdate": "Thu, 15 Dec 2022 19:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "MILF Manor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#MILF%20Manor",
         "pubdate": "Thu, 15 Dec 2022 18:00:00 -0500"
@@ -139,6 +125,20 @@
         "title": "Prince Harry Duke of Sussex",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Prince%20Harry%20Duke%20of%20Sussex",
         "pubdate": "Thu, 15 Dec 2022 17:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Arber Xhekaj",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Arber%20Xhekaj",
+        "pubdate": "Thu, 15 Dec 2022 17:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Meri Brown",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Meri%20Brown",
+        "pubdate": "Thu, 15 Dec 2022 19:00:00 -0500"
       }
     ]
   ]

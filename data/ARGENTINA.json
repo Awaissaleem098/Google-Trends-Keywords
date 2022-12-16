@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "16-12-2022 , 01:40:26",
+  "lastUpdate": "16-12-2022 , 02:26:38",
   "data": [
     [
       {
-        "title": "Virus del camello",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Virus%20del%20camello",
+        "title": "Virus del Camello",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Virus%20del%20Camello",
         "pubdate": "Thu, 15 Dec 2022 10:00:00 -0300"
       }
     ],
@@ -20,6 +20,13 @@
         "title": "Pluto TV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pluto%20TV",
         "pubdate": "Thu, 15 Dec 2022 14:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Gran Hermano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gran%20Hermano",
+        "pubdate": "Thu, 15 Dec 2022 22:00:00 -0300"
       }
     ],
     [
@@ -73,16 +80,16 @@
     ],
     [
       {
-        "title": "Inflacion noviembre 2022",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Inflacion%20noviembre%202022",
-        "pubdate": "Thu, 15 Dec 2022 16:00:00 -0300"
+        "title": "Cristina Fernández de Kirchner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cristina%20Fern%C3%A1ndez%20de%20Kirchner",
+        "pubdate": "Thu, 15 Dec 2022 17:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Cristina Fernández de Kirchner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cristina%20Fern%C3%A1ndez%20de%20Kirchner",
-        "pubdate": "Thu, 15 Dec 2022 17:00:00 -0300"
+        "title": "Inflacion noviembre 2022",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Inflacion%20noviembre%202022",
+        "pubdate": "Thu, 15 Dec 2022 16:00:00 -0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Nominaciones Gran Hermano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Nominaciones%20Gran%20Hermano",
         "pubdate": "Thu, 15 Dec 2022 10:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Nominación",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Nominaci%C3%B3n",
-        "pubdate": "Thu, 15 Dec 2022 02:00:00 -0300"
       }
     ]
   ]

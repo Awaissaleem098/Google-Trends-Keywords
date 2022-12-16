@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "16-12-2022 , 01:40:28",
+  "lastUpdate": "16-12-2022 , 02:26:40",
   "data": [
     [
       {
         "title": "Francia vs Marruecos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Francia%20vs%20Marruecos",
         "pubdate": "Thu, 15 Dec 2022 13:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Temperatura Santiago",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temperatura%20Santiago",
+        "pubdate": "Thu, 15 Dec 2022 17:00:00 -0300"
       }
     ],
     [
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Clima Santiago",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Clima%20Santiago",
-        "pubdate": "Thu, 15 Dec 2022 20:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Hakimi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Hakimi",
         "pubdate": "Thu, 15 Dec 2022 01:00:00 -0300"
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Mujer muere cirugia estetica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mujer%20muere%20cirugia%20estetica",
-        "pubdate": "Thu, 15 Dec 2022 16:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Gabriel Boric",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Gabriel%20Boric",
         "pubdate": "Thu, 15 Dec 2022 18:00:00 -0300"
@@ -59,9 +52,23 @@
     ],
     [
       {
+        "title": "Mujer muere cirugia estetica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mujer%20muere%20cirugia%20estetica",
+        "pubdate": "Thu, 15 Dec 2022 16:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Integra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Integra",
         "pubdate": "Thu, 15 Dec 2022 16:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Marruecos vs Croacia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Marruecos%20vs%20Croacia",
+        "pubdate": "Thu, 15 Dec 2022 15:00:00 -0300"
       }
     ],
     [
@@ -76,6 +83,20 @@
         "title": "Marta Herrera Fiscal Nacional",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Marta%20Herrera%20Fiscal%20Nacional",
         "pubdate": "Thu, 15 Dec 2022 20:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Incendios forestales",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Incendios%20forestales",
+        "pubdate": "Thu, 15 Dec 2022 15:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "MR Olympia 2022",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#MR%20Olympia%202022",
+        "pubdate": "Thu, 15 Dec 2022 22:00:00 -0300"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Benzema",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Benzema",
         "pubdate": "Wed, 14 Dec 2022 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Ticketmaster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ticketmaster",
-        "pubdate": "Wed, 14 Dec 2022 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "DirecTV GO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#DirecTV%20GO",
-        "pubdate": "Wed, 14 Dec 2022 15:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Griezmann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Griezmann",
-        "pubdate": "Wed, 14 Dec 2022 17:00:00 -0300"
       }
     ]
   ]
