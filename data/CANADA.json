@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "16-12-2022 , 20:49:15",
+  "lastUpdate": "16-12-2022 , 21:07:16",
   "data": [
+    [
+      {
+        "title": "Jane Fonda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jane%20Fonda",
+        "pubdate": "Fri, 16 Dec 2022 09:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Liverpool vs Milan",
@@ -13,13 +20,6 @@
         "title": "Mastodon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mastodon",
         "pubdate": "Fri, 16 Dec 2022 02:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Jane Fonda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jane%20Fonda",
-        "pubdate": "Fri, 16 Dec 2022 09:00:00 -0500"
       }
     ],
     [
@@ -66,16 +66,16 @@
     ],
     [
       {
-        "title": "Ana Cabrera CNN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ana%20Cabrera%20CNN",
-        "pubdate": "Fri, 16 Dec 2022 03:00:00 -0500"
+        "title": "Jimmy Vesey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jimmy%20Vesey",
+        "pubdate": "Fri, 16 Dec 2022 09:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Jimmy Vesey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jimmy%20Vesey",
-        "pubdate": "Fri, 16 Dec 2022 09:00:00 -0500"
+        "title": "Ana Cabrera CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ana%20Cabrera%20CNN",
+        "pubdate": "Fri, 16 Dec 2022 03:00:00 -0500"
       }
     ],
     [

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-12-2022 , 20:49:20",
+  "lastUpdate": "16-12-2022 , 21:07:22",
   "data": [
     [
       {
@@ -80,6 +80,20 @@
     ],
     [
       {
+        "title": "Russland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Russland",
+        "pubdate": "Thu, 15 Dec 2022 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "David Datro Fofana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#David%20Datro%20Fofana",
+        "pubdate": "Thu, 15 Dec 2022 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Glenn Diesen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Glenn%20Diesen",
         "pubdate": "Thu, 15 Dec 2022 18:00:00 +0100"
@@ -94,15 +108,15 @@
     ],
     [
       {
-        "title": "Norges Bank",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Norges%20Bank",
+        "title": "DONALD TRUMP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#DONALD%20TRUMP",
         "pubdate": "Thu, 15 Dec 2022 11:00:00 +0100"
       }
     ],
     [
       {
-        "title": "DONALD TRUMP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#DONALD%20TRUMP",
+        "title": "Norges Bank",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Norges%20Bank",
         "pubdate": "Thu, 15 Dec 2022 11:00:00 +0100"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Mandy Rose",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mandy%20Rose",
         "pubdate": "Thu, 15 Dec 2022 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lucia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lucia",
-        "pubdate": "Wed, 14 Dec 2022 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Avatar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Avatar",
-        "pubdate": "Wed, 14 Dec 2022 12:00:00 +0100"
       }
     ]
   ]

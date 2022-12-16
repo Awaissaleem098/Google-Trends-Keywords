@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "16-12-2022 , 20:49:17",
+  "lastUpdate": "16-12-2022 , 21:07:19",
   "data": [
-    [
-      {
-        "title": "Epic Games",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Epic%20Games",
-        "pubdate": "Fri, 16 Dec 2022 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Sinisa Mihajlovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sinisa%20Mihajlovic",
         "pubdate": "Fri, 16 Dec 2022 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Epic Games",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Epic%20Games",
+        "pubdate": "Fri, 16 Dec 2022 00:00:00 +0100"
       }
     ],
     [
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Berlin aquarium",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Berlin%20aquarium",
-        "pubdate": "Fri, 16 Dec 2022 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Nagy Zsolt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nagy%20Zsolt",
         "pubdate": "Fri, 16 Dec 2022 14:00:00 +0100"
@@ -52,9 +45,9 @@
     ],
     [
       {
-        "title": "Magyar rendőrség",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyar%20rend%C5%91rs%C3%A9g",
-        "pubdate": "Fri, 16 Dec 2022 05:00:00 +0100"
+        "title": "AquaDom Berlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#AquaDom%20Berlin",
+        "pubdate": "Fri, 16 Dec 2022 17:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Franciaország Marokkó",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Franciaorsz%C3%A1g%20Marokk%C3%B3",
         "pubdate": "Thu, 15 Dec 2022 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Orbán Viktor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Orb%C3%A1n%20Viktor",
+        "pubdate": "Thu, 15 Dec 2022 11:00:00 +0100"
       }
     ]
   ]
