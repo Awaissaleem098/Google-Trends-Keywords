@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-12-2022 , 23:59:08",
+  "lastUpdate": "16-12-2022 , 01:40:30",
   "data": [
     [
       {
@@ -48,13 +48,6 @@
         "title": "Henry Cavill",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Henry%20Cavill",
         "pubdate": "Thu, 15 Dec 2022 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Argentina vs France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Argentina%20vs%20France",
-        "pubdate": "Thu, 15 Dec 2022 12:00:00 +0200"
       }
     ],
     [
@@ -129,6 +122,13 @@
     ],
     [
       {
+        "title": "Olivier Giroud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Olivier%20Giroud",
+        "pubdate": "Wed, 14 Dec 2022 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Griezmann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Griezmann",
         "pubdate": "Wed, 14 Dec 2022 22:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Olivier Giroud",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Olivier%20Giroud",
-        "pubdate": "Wed, 14 Dec 2022 22:00:00 +0200"
+        "title": "Avatar 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Avatar%202",
+        "pubdate": "Wed, 14 Dec 2022 13:00:00 +0200"
       }
     ]
   ]

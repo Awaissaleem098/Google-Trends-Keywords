@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-12-2022 , 23:59:06",
+  "lastUpdate": "16-12-2022 , 01:40:27",
   "data": [
     [
       {
@@ -17,23 +17,9 @@
     ],
     [
       {
-        "title": "Jair Bolsonaro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jair%20Bolsonaro",
-        "pubdate": "Thu, 15 Dec 2022 13:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "OIBR3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#OIBR3",
         "pubdate": "Thu, 15 Dec 2022 08:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Etec",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Etec",
-        "pubdate": "Thu, 15 Dec 2022 12:00:00 -0500"
       }
     ],
     [
@@ -45,16 +31,16 @@
     ],
     [
       {
-        "title": "Dia do Arquiteto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20Arquiteto",
-        "pubdate": "Thu, 15 Dec 2022 07:00:00 -0500"
+        "title": "Caixa Tem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Caixa%20Tem",
+        "pubdate": "Thu, 15 Dec 2022 15:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Caixa Tem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Caixa%20Tem",
-        "pubdate": "Thu, 15 Dec 2022 15:00:00 -0500"
+        "title": "Dia do Arquiteto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20Arquiteto",
+        "pubdate": "Thu, 15 Dec 2022 07:00:00 -0500"
       }
     ],
     [
@@ -66,9 +52,23 @@
     ],
     [
       {
+        "title": "Etec",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Etec",
+        "pubdate": "Thu, 15 Dec 2022 14:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Quina 6024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Quina%206024",
         "pubdate": "Thu, 15 Dec 2022 02:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Saque extraordinário FGTS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Saque%20extraordin%C3%A1rio%20FGTS",
+        "pubdate": "Thu, 15 Dec 2022 04:00:00 -0500"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Saque extraordinário FGTS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Saque%20extraordin%C3%A1rio%20FGTS",
-        "pubdate": "Thu, 15 Dec 2022 04:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Rangers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rangers",
         "pubdate": "Thu, 15 Dec 2022 15:00:00 -0500"
@@ -108,8 +101,8 @@
     ],
     [
       {
-        "title": "São paulo futebol clube",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%A3o%20paulo%20futebol%20clube",
+        "title": "São Paulo futebol Clube",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%A3o%20Paulo%20futebol%20Clube",
         "pubdate": "Thu, 15 Dec 2022 18:00:00 -0500"
       }
     ],
@@ -118,6 +111,13 @@
         "title": "Eduardo Bolsonaro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Eduardo%20Bolsonaro",
         "pubdate": "Thu, 15 Dec 2022 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Posse do presidente do Brasil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Posse%20do%20presidente%20do%20Brasil",
+        "pubdate": "Thu, 15 Dec 2022 05:00:00 -0500"
       }
     ],
     [

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-12-2022 , 23:59:08",
+  "lastUpdate": "16-12-2022 , 01:40:29",
   "data": [
     [
       {
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Lars Aagaard Dansk Energi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lars%20Aagaard%20Dansk%20Energi",
+        "pubdate": "Thu, 15 Dec 2022 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Boris Becker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Boris%20Becker",
         "pubdate": "Thu, 15 Dec 2022 17:00:00 +0100"
@@ -115,8 +122,8 @@
     ],
     [
       {
-        "title": "tWitch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#tWitch",
+        "title": "tWitch dead",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#tWitch%20dead",
         "pubdate": "Wed, 14 Dec 2022 18:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Giroud",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Giroud",
         "pubdate": "Wed, 14 Dec 2022 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Griezmann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Griezmann",
-        "pubdate": "Wed, 14 Dec 2022 21:00:00 +0100"
       }
     ]
   ]

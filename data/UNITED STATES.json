@@ -1,17 +1,24 @@
 {
-  "lastUpdate": "15-12-2022 , 23:59:04",
+  "lastUpdate": "16-12-2022 , 01:40:26",
   "data": [
     [
       {
-        "title": "Trumpcards",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trumpcards",
+        "title": "Trump cards",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trump%20cards",
         "pubdate": "Thu, 15 Dec 2022 09:00:00 -0800"
       }
     ],
     [
       {
-        "title": "Seahawks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Seahawks",
+        "title": "49ers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#49ers",
+        "pubdate": "Thu, 15 Dec 2022 13:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Seattle Seahawks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Seattle%20Seahawks",
         "pubdate": "Thu, 15 Dec 2022 13:00:00 -0800"
       }
     ],
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Seattle Seahawks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Seattle%20Seahawks",
-        "pubdate": "Thu, 15 Dec 2022 13:00:00 -0800"
+        "title": "Charlie Baker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Charlie%20Baker",
+        "pubdate": "Thu, 15 Dec 2022 12:00:00 -0800"
       }
     ],
     [
@@ -48,13 +55,6 @@
         "title": "Survivor finale",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Survivor%20finale",
         "pubdate": "Thu, 15 Dec 2022 04:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Charlie Baker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Charlie%20Baker",
-        "pubdate": "Thu, 15 Dec 2022 12:00:00 -0800"
       }
     ],
     [
@@ -69,6 +69,13 @@
         "title": "Drew Brees",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Drew%20Brees",
         "pubdate": "Thu, 15 Dec 2022 14:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Universal Studios Hollywood",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Universal%20Studios%20Hollywood",
+        "pubdate": "Thu, 15 Dec 2022 00:00:00 -0800"
       }
     ],
     [
@@ -108,16 +115,16 @@
     ],
     [
       {
-        "title": "Aortic aneurysm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aortic%20aneurysm",
-        "pubdate": "Wed, 14 Dec 2022 07:00:00 -0800"
+        "title": "Henry Cavill",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Henry%20Cavill",
+        "pubdate": "Wed, 14 Dec 2022 19:00:00 -0800"
       }
     ],
     [
       {
-        "title": "Henry Cavill",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Henry%20Cavill",
-        "pubdate": "Wed, 14 Dec 2022 19:00:00 -0800"
+        "title": "Aortic aneurysm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aortic%20aneurysm",
+        "pubdate": "Wed, 14 Dec 2022 07:00:00 -0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Alex Ovechkin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Alex%20Ovechkin",
         "pubdate": "Wed, 14 Dec 2022 05:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Fed rate hike",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Fed%20rate%20hike",
-        "pubdate": "Wed, 14 Dec 2022 13:00:00 -0800"
       }
     ]
   ]
