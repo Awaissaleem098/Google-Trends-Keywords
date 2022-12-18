@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "18-12-2022 , 01:43:09",
+  "lastUpdate": "18-12-2022 , 02:28:13",
   "data": [
-    [
-      {
-        "title": "Yalı Çapkını fragman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Yal%C4%B1%20%C3%87apk%C4%B1n%C4%B1%20fragman",
-        "pubdate": "Sun, 18 Dec 2022 00:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "2023 asgari ücret zammı",
@@ -139,6 +132,13 @@
         "title": "Hull City, Sunderland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Hull%20City,%20Sunderland",
         "pubdate": "Sat, 17 Dec 2022 19:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Kostas Antetokounmpo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kostas%20Antetokounmpo",
+        "pubdate": "Sat, 17 Dec 2022 15:00:00 +0300"
       }
     ]
   ]

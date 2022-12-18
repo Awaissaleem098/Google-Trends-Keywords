@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "18-12-2022 , 01:43:09",
+  "lastUpdate": "18-12-2022 , 02:28:12",
   "data": [
+    [
+      {
+        "title": "France-Argentine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#France-Argentine",
+        "pubdate": "Sun, 18 Dec 2022 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Wladimir Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wladimir%20Putin",
+        "pubdate": "Sun, 18 Dec 2022 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Zug",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zug",
+        "pubdate": "Sun, 18 Dec 2022 02:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Ana Mercedes Hoyos",
@@ -24,6 +45,13 @@
     ],
     [
       {
+        "title": "Argentinien gegen Frankreich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Argentinien%20gegen%20Frankreich",
+        "pubdate": "Sat, 17 Dec 2022 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Miss France 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Miss%20France%202023",
         "pubdate": "Sat, 17 Dec 2022 11:00:00 +0100"
@@ -38,23 +66,9 @@
     ],
     [
       {
-        "title": "WM-Finale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#WM-Finale",
-        "pubdate": "Sat, 17 Dec 2022 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Gröden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gr%C3%B6den",
         "pubdate": "Sat, 17 Dec 2022 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sylvie Tellier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sylvie%20Tellier",
-        "pubdate": "Sat, 17 Dec 2022 23:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Betis 'Inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Betis%20'Inter",
         "pubdate": "Sat, 17 Dec 2022 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Twitter Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Twitter%20Elon%20Musk",
-        "pubdate": "Sat, 17 Dec 2022 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Goggia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Goggia",
-        "pubdate": "Sat, 17 Dec 2022 19:00:00 +0100"
       }
     ]
   ]

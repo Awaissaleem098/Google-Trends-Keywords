@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-12-2022 , 01:43:09",
+  "lastUpdate": "18-12-2022 , 02:28:12",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Johnossi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Johnossi",
         "pubdate": "Sat, 17 Dec 2022 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Modric",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Modric",
+        "pubdate": "Sat, 17 Dec 2022 23:00:00 +0100"
       }
     ],
     [
@@ -73,6 +80,13 @@
     ],
     [
       {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
+        "pubdate": "Fri, 16 Dec 2022 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Bränn alla mina brev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Br%C3%A4nn%20alla%20mina%20brev",
         "pubdate": "Fri, 16 Dec 2022 21:00:00 +0100"
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "Sweden Rock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sweden%20Rock",
-        "pubdate": "Fri, 16 Dec 2022 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "In Flames",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#In%20Flames",
         "pubdate": "Fri, 16 Dec 2022 22:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Mastodon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mastodon",
         "pubdate": "Fri, 16 Dec 2022 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Henry Cavill",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Henry%20Cavill",
-        "pubdate": "Thu, 15 Dec 2022 09:00:00 +0100"
       }
     ]
   ]
