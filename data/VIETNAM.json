@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-12-2022 , 23:59:31",
+  "lastUpdate": "18-12-2022 , 01:43:10",
   "data": [
     [
       {
@@ -31,8 +31,15 @@
     ],
     [
       {
-        "title": "Argentina – Pháp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Argentina%20%E2%80%93%20Ph%C3%A1p",
+        "title": "Hoa hậu Việt Nam 2022",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Hoa%20h%E1%BA%ADu%20Vi%E1%BB%87t%20Nam%202022",
+        "pubdate": "Sun, 18 Dec 2022 07:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "ARGENTINA – PHÁP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#ARGENTINA%20%E2%80%93%20PH%C3%81P",
         "pubdate": "Sat, 17 Dec 2022 00:00:00 +0700"
       }
     ],
@@ -87,16 +94,16 @@
     ],
     [
       {
-        "title": "Bộ Giáo dục và Đào tạo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%E1%BB%99%20Gi%C3%A1o%20d%E1%BB%A5c%20v%C3%A0%20%C4%90%C3%A0o%20t%E1%BA%A1o",
-        "pubdate": "Sat, 17 Dec 2022 11:00:00 +0700"
+        "title": "Đoàn Văn Hậu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#%C4%90o%C3%A0n%20V%C4%83n%20H%E1%BA%ADu",
+        "pubdate": "Sat, 17 Dec 2022 19:00:00 +0700"
       }
     ],
     [
       {
-        "title": "Đoàn Văn Hậu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#%C4%90o%C3%A0n%20V%C4%83n%20H%E1%BA%ADu",
-        "pubdate": "Sat, 17 Dec 2022 19:00:00 +0700"
+        "title": "Bộ Giáo dục và Đào tạo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%E1%BB%99%20Gi%C3%A1o%20d%E1%BB%A5c%20v%C3%A0%20%C4%90%C3%A0o%20t%E1%BA%A1o",
+        "pubdate": "Sat, 17 Dec 2022 11:00:00 +0700"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Dự báo thời tiết Đà Nẵng",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#D%E1%BB%B1%20b%C3%A1o%20th%E1%BB%9Di%20ti%E1%BA%BFt%20%C4%90%C3%A0%20N%E1%BA%B5ng",
+        "pubdate": "Sat, 17 Dec 2022 19:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Latvia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Latvia",
         "pubdate": "Sat, 17 Dec 2022 23:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Croatia – Maroc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Croatia%20%E2%80%93%20Maroc",
-        "pubdate": "Fri, 16 Dec 2022 07:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Liverpool",
-        "pubdate": "Fri, 16 Dec 2022 23:00:00 +0700"
       }
     ]
   ]

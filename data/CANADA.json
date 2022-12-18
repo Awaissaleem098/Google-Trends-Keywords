@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-12-2022 , 23:59:21",
+  "lastUpdate": "18-12-2022 , 01:43:02",
   "data": [
     [
       {
@@ -31,8 +31,8 @@
     ],
     [
       {
-        "title": "Vikings",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Vikings",
+        "title": "Minnesota Vikings",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Minnesota%20Vikings",
         "pubdate": "Sat, 17 Dec 2022 16:00:00 -0500"
       }
     ],
@@ -73,16 +73,16 @@
     ],
     [
       {
-        "title": "Brittney Griner basketball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Brittney%20Griner%20basketball",
-        "pubdate": "Sat, 17 Dec 2022 01:00:00 -0500"
+        "title": "Martin St-Louis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Martin%20St-Louis",
+        "pubdate": "Sat, 17 Dec 2022 14:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Martin St-Louis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Martin%20St-Louis",
-        "pubdate": "Sat, 17 Dec 2022 14:00:00 -0500"
+        "title": "Brittney Griner basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Brittney%20Griner%20basketball",
+        "pubdate": "Sat, 17 Dec 2022 01:00:00 -0500"
       }
     ],
     [
@@ -94,9 +94,23 @@
     ],
     [
       {
-        "title": "Warriors vs 76ers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Warriors%20vs%2076ers",
-        "pubdate": "Sat, 17 Dec 2022 03:00:00 -0500"
+        "title": "Christian Saulsberry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Christian%20Saulsberry",
+        "pubdate": "Sat, 17 Dec 2022 19:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Senators vs Red Wings",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Senators%20vs%20Red%20Wings",
+        "pubdate": "Sat, 17 Dec 2022 17:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "NFL games",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#NFL%20games",
+        "pubdate": "Sat, 17 Dec 2022 19:00:00 -0500"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Berlin aquarium burst",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Berlin%20aquarium%20burst",
         "pubdate": "Fri, 16 Dec 2022 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Margot Robbie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Margot%20Robbie",
-        "pubdate": "Fri, 16 Dec 2022 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Oilers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers",
-        "pubdate": "Fri, 16 Dec 2022 01:00:00 -0500"
       }
     ]
   ]

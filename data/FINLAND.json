@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "17-12-2022 , 23:59:23",
+  "lastUpdate": "18-12-2022 , 01:43:03",
   "data": [
+    [
+      {
+        "title": "Teemu Hartikainen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Teemu%20Hartikainen",
+        "pubdate": "Sun, 18 Dec 2022 02:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Croatia vs Morocco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Croatia%20vs%20Morocco",
         "pubdate": "Sat, 17 Dec 2022 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Whitney Houston",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Whitney%20Houston",
+        "pubdate": "Sat, 17 Dec 2022 22:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Tyler Perry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tyler%20Perry",
         "pubdate": "Fri, 16 Dec 2022 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Utah Jazz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Utah%20Jazz",
-        "pubdate": "Fri, 16 Dec 2022 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Erin Caffey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Erin%20Caffey",
-        "pubdate": "Fri, 16 Dec 2022 13:00:00 +0200"
       }
     ]
   ]
