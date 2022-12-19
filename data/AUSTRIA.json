@@ -1,32 +1,11 @@
 {
-  "lastUpdate": "18-12-2022 , 23:53:08",
+  "lastUpdate": "19-12-2022 , 01:14:15",
   "data": [
-    [
-      {
-        "title": "Fußball-WM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fu%C3%9Fball-WM",
-        "pubdate": "Sun, 18 Dec 2022 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Maradona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Maradona",
-        "pubdate": "Sun, 18 Dec 2022 18:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Enzo fernandez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Enzo%20fernandez",
         "pubdate": "Sun, 18 Dec 2022 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Weltmeisterschaft",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Weltmeisterschaft",
-        "pubdate": "Sun, 18 Dec 2022 19:00:00 +0100"
       }
     ],
     [
@@ -101,13 +80,6 @@
     ],
     [
       {
-        "title": "Torschützenkönig WM 2022",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Torsch%C3%BCtzenk%C3%B6nig%20WM%202022",
-        "pubdate": "Sun, 18 Dec 2022 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Mikaela Shiffrin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mikaela%20Shiffrin",
         "pubdate": "Sun, 18 Dec 2022 19:00:00 +0100"
@@ -118,6 +90,13 @@
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#PSG",
         "pubdate": "Sun, 18 Dec 2022 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Schnee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Schnee",
+        "pubdate": "Sun, 18 Dec 2022 20:00:00 +0100"
       }
     ],
     [
@@ -136,9 +115,30 @@
     ],
     [
       {
-        "title": "Schnee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Schnee",
-        "pubdate": "Sun, 18 Dec 2022 20:00:00 +0100"
+        "title": "Taraneh Alidoosti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Taraneh%20Alidoosti",
+        "pubdate": "Sun, 18 Dec 2022 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "ARD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ARD",
+        "pubdate": "Sun, 18 Dec 2022 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lisa Hauser",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lisa%20Hauser",
+        "pubdate": "Sun, 18 Dec 2022 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dean Martin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dean%20Martin",
+        "pubdate": "Sun, 18 Dec 2022 23:00:00 +0100"
       }
     ]
   ]

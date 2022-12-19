@@ -1,1 +1,1 @@
-NFL,Coman,Benzema,Macron,Alvarez,Infantino,Bundeswehr,Anne-Sophie Mutter,Upamecano,Taraneh Alidoosti,Blitzeis,Argentinien gegen Frankreich,Kroatien gegen Marokko,Weltmeisterschaft,Schlag den Star,Grünes Gewölbe,Skispringen,Roland Kaiser,Wladimir Klitschko,AquaDom Berlin
+ARD,Emiliano martínez,NFL,Katar,Coman,Benzema,Macron,Alvarez,Infantino,Bundeswehr,Anne-Sophie Mutter,Taraneh Alidoosti,Gina Lückenkemper,Tatort Berlin,Argentinien gegen Frankreich,Schlag den Star,Grünes Gewölbe,Skispringen,Fußball-Weltmeisterschaft,Roland Kaiser

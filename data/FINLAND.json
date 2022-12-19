@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "18-12-2022 , 23:53:10",
+  "lastUpdate": "19-12-2022 , 01:14:17",
   "data": [
     [
       {
         "title": "Vladimir Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Vladimir%20Putin",
         "pubdate": "Mon, 19 Dec 2022 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Haaland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Haaland",
+        "pubdate": "Mon, 19 Dec 2022 01:00:00 +0200"
       }
     ],
     [
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Maradona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Maradona",
-        "pubdate": "Sun, 18 Dec 2022 18:00:00 +0200"
+        "title": "Diego Maradona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Diego%20Maradona",
+        "pubdate": "Sun, 18 Dec 2022 20:00:00 +0200"
       }
     ],
     [
@@ -27,13 +34,6 @@
         "title": "Elizabeth Hurley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Elizabeth%20Hurley",
         "pubdate": "Sun, 18 Dec 2022 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Emiliano Martinez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Emiliano%20Martinez",
-        "pubdate": "Sun, 18 Dec 2022 20:00:00 +0200"
       }
     ],
     [
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Lloris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lloris",
-        "pubdate": "Sun, 18 Dec 2022 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Karim Benzema",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Karim%20Benzema",
         "pubdate": "Sun, 18 Dec 2022 18:00:00 +0200"
@@ -89,6 +82,13 @@
       {
         "title": "Macron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Macron",
+        "pubdate": "Sun, 18 Dec 2022 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Zlatan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Zlatan",
         "pubdate": "Sun, 18 Dec 2022 20:00:00 +0200"
       }
     ],
@@ -115,6 +115,20 @@
     ],
     [
       {
+        "title": "Messi wife",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Messi%20wife",
+        "pubdate": "Sun, 18 Dec 2022 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lloris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lloris",
+        "pubdate": "Sun, 18 Dec 2022 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Alvarez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Alvarez",
         "pubdate": "Sun, 18 Dec 2022 19:00:00 +0200"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Teemu Hartikainen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Teemu%20Hartikainen",
-        "pubdate": "Sun, 18 Dec 2022 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ronaldinho",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ronaldinho",
-        "pubdate": "Sun, 18 Dec 2022 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Messi wife",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Messi%20wife",
-        "pubdate": "Sun, 18 Dec 2022 20:00:00 +0200"
+        "title": "Modric",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Modric",
+        "pubdate": "Sun, 18 Dec 2022 12:00:00 +0200"
       }
     ]
   ]

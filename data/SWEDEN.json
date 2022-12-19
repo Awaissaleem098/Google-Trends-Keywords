@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "18-12-2022 , 23:53:18",
+  "lastUpdate": "19-12-2022 , 01:14:23",
   "data": [
+    [
+      {
+        "title": "Hattrick",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hattrick",
+        "pubdate": "Mon, 19 Dec 2022 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Messi",
@@ -24,15 +31,15 @@
     ],
     [
       {
-        "title": "Maradona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Maradona",
+        "title": "Di Maria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Di%20Maria",
         "pubdate": "Sun, 18 Dec 2022 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Di Maria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Di%20Maria",
+        "title": "Maradona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Maradona",
         "pubdate": "Sun, 18 Dec 2022 17:00:00 +0100"
       }
     ],
@@ -104,13 +111,6 @@
         "title": "Örebro Hockey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%96rebro%20Hockey",
         "pubdate": "Sun, 18 Dec 2022 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Daniela Rathana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Daniela%20Rathana",
-        "pubdate": "Sat, 17 Dec 2022 21:00:00 +0100"
       }
     ],
     [
