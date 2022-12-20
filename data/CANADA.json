@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "19-12-2022 , 23:55:35",
+  "lastUpdate": "20-12-2022 , 01:41:13",
   "data": [
-    [
-      {
-        "title": "Cristiano Ronaldo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cristiano%20Ronaldo",
-        "pubdate": "Mon, 19 Dec 2022 03:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Elon Musk",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Cristiano Ronaldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cristiano%20Ronaldo",
+        "pubdate": "Mon, 19 Dec 2022 09:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Dryden Hunt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dryden%20Hunt",
         "pubdate": "Mon, 19 Dec 2022 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Extreme cold warning",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Extreme%20cold%20warning",
+        "pubdate": "Mon, 19 Dec 2022 03:00:00 -0500"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "President Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#President%20Trump",
-        "pubdate": "Mon, 19 Dec 2022 01:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Judith Leyster",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Judith%20Leyster",
         "pubdate": "Mon, 19 Dec 2022 13:00:00 -0500"
@@ -73,9 +73,16 @@
     ],
     [
       {
-        "title": "Flames",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Flames",
-        "pubdate": "Mon, 19 Dec 2022 10:00:00 -0500"
+        "title": "President Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#President%20Trump",
+        "pubdate": "Mon, 19 Dec 2022 01:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Kari Lake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kari%20Lake",
+        "pubdate": "Mon, 19 Dec 2022 14:00:00 -0500"
       }
     ],
     [
@@ -94,16 +101,16 @@
     ],
     [
       {
-        "title": "Kari Lake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kari%20Lake",
-        "pubdate": "Mon, 19 Dec 2022 14:00:00 -0500"
+        "title": "Winter Solstice 2022",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Winter%20Solstice%202022",
+        "pubdate": "Mon, 19 Dec 2022 17:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Washington Commanders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Washington%20Commanders",
-        "pubdate": "Mon, 19 Dec 2022 06:00:00 -0500"
+        "title": "Flames",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Flames",
+        "pubdate": "Mon, 19 Dec 2022 10:00:00 -0500"
       }
     ],
     [
@@ -115,30 +122,23 @@
     ],
     [
       {
+        "title": "Washington Commanders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Washington%20Commanders",
+        "pubdate": "Mon, 19 Dec 2022 06:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "George Santos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#George%20Santos",
+        "pubdate": "Mon, 19 Dec 2022 19:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Rose Farquhar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rose%20Farquhar",
         "pubdate": "Mon, 19 Dec 2022 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "World Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#World%20Cup",
-        "pubdate": "Sun, 18 Dec 2022 03:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Coupe du monde 2022",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Coupe%20du%20monde%202022",
-        "pubdate": "Sun, 18 Dec 2022 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Vaughan shooting",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Vaughan%20shooting",
-        "pubdate": "Sun, 18 Dec 2022 20:00:00 -0500"
       }
     ]
   ]

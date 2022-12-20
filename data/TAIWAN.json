@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-12-2022 , 23:55:44",
+  "lastUpdate": "20-12-2022 , 01:41:20",
   "data": [
     [
       {
@@ -13,6 +13,20 @@
         "title": "GLC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#GLC",
         "pubdate": "Tue, 20 Dec 2022 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "茶葉蛋",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%8C%B6%E8%91%89%E8%9B%8B",
+        "pubdate": "Tue, 20 Dec 2022 07:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "梅西",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%A2%85%E8%A5%BF",
+        "pubdate": "Mon, 19 Dec 2022 00:00:00 +0800"
       }
     ],
     [
@@ -38,8 +52,15 @@
     ],
     [
       {
-        "title": "2026 世界盃",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#2026%20%E4%B8%96%E7%95%8C%E7%9B%83",
+        "title": "本澤馬",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9C%AC%E6%BE%A4%E9%A6%AC",
+        "pubdate": "Mon, 19 Dec 2022 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "2026世界盃",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#2026%E4%B8%96%E7%95%8C%E7%9B%83",
         "pubdate": "Mon, 19 Dec 2022 04:00:00 +0800"
       }
     ],
@@ -59,16 +80,16 @@
     ],
     [
       {
-        "title": "Kylian Mbappé",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Kylian%20Mbapp%C3%A9",
-        "pubdate": "Mon, 19 Dec 2022 08:00:00 +0800"
+        "title": "郭台銘",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%83%AD%E5%8F%B0%E9%8A%98",
+        "pubdate": "Mon, 19 Dec 2022 21:00:00 +0800"
       }
     ],
     [
       {
-        "title": "郭台銘",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%83%AD%E5%8F%B0%E9%8A%98",
-        "pubdate": "Mon, 19 Dec 2022 21:00:00 +0800"
+        "title": "Kylian Mbappé",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Kylian%20Mbapp%C3%A9",
+        "pubdate": "Mon, 19 Dec 2022 08:00:00 +0800"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "弘光科技大學",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%BC%98%E5%85%89%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8",
         "pubdate": "Mon, 19 Dec 2022 14:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Ditto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Ditto",
-        "pubdate": "Mon, 19 Dec 2022 23:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "De PAUL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#De%20PAUL",
-        "pubdate": "Mon, 19 Dec 2022 13:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "想見你電影版",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%83%B3%E8%A6%8B%E4%BD%A0%E9%9B%BB%E5%BD%B1%E7%89%88",
-        "pubdate": "Mon, 19 Dec 2022 04:00:00 +0800"
       }
     ]
   ]

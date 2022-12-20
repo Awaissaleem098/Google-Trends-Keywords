@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "19-12-2022 , 23:55:42",
+  "lastUpdate": "20-12-2022 , 01:41:18",
   "data": [
+    [
+      {
+        "title": "Aurea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Aurea",
+        "pubdate": "Tue, 20 Dec 2022 00:00:00 +0000"
+      }
+    ],
     [
       {
         "title": "Claudia Isabel",
@@ -10,16 +17,16 @@
     ],
     [
       {
-        "title": "Sporting Clube de Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting%20Clube%20de%20Portugal",
-        "pubdate": "Mon, 19 Dec 2022 21:00:00 +0000"
+        "title": "Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Elon%20Musk",
+        "pubdate": "Mon, 19 Dec 2022 12:00:00 +0000"
       }
     ],
     [
       {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Elon%20Musk",
-        "pubdate": "Mon, 19 Dec 2022 12:00:00 +0000"
+        "title": "Sporting Clube de Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting%20Clube%20de%20Portugal",
+        "pubdate": "Mon, 19 Dec 2022 21:00:00 +0000"
       }
     ],
     [
@@ -59,50 +66,8 @@
     ],
     [
       {
-        "title": "Jeremy Clarkson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jeremy%20Clarkson",
-        "pubdate": "Mon, 19 Dec 2022 09:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Rita Guerra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rita%20Guerra",
-        "pubdate": "Mon, 19 Dec 2022 07:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Amir Nasr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Amir%20Nasr",
-        "pubdate": "Mon, 19 Dec 2022 04:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Salt Bae",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Salt%20Bae",
-        "pubdate": "Mon, 19 Dec 2022 18:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Jhon duran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jhon%20duran",
-        "pubdate": "Mon, 19 Dec 2022 14:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Boas Festas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Boas%20Festas",
-        "pubdate": "Mon, 19 Dec 2022 12:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Alerta laranja chuva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alerta%20laranja%20chuva",
+        "title": "Sporting clube de braga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting%20clube%20de%20braga",
         "pubdate": "Mon, 19 Dec 2022 21:00:00 +0000"
       }
     ],
@@ -115,30 +80,65 @@
     ],
     [
       {
-        "title": "H&M justin bieber",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#H%26M%20justin%20bieber",
+        "title": "Rita Guerra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rita%20Guerra",
+        "pubdate": "Mon, 19 Dec 2022 07:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Nuno Homem de Sá",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nuno%20Homem%20de%20S%C3%A1",
+        "pubdate": "Mon, 19 Dec 2022 16:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Salt Bae",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Salt%20Bae",
+        "pubdate": "Mon, 19 Dec 2022 18:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Alerta laranja chuva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alerta%20laranja%20chuva",
+        "pubdate": "Mon, 19 Dec 2022 21:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Jeremy Clarkson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jeremy%20Clarkson",
+        "pubdate": "Mon, 19 Dec 2022 12:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Jhon duran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jhon%20duran",
+        "pubdate": "Mon, 19 Dec 2022 14:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Amir Nasr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Amir%20Nasr",
+        "pubdate": "Mon, 19 Dec 2022 04:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Boas Festas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Boas%20Festas",
+        "pubdate": "Mon, 19 Dec 2022 12:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "H&M! Justin Bieber",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#H%26M!%20Justin%20Bieber",
         "pubdate": "Mon, 19 Dec 2022 20:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Tini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tini",
-        "pubdate": "Mon, 19 Dec 2022 00:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Mastodon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mastodon",
-        "pubdate": "Mon, 19 Dec 2022 08:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Emi martinez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Emi%20martinez",
-        "pubdate": "Mon, 19 Dec 2022 10:00:00 +0000"
       }
     ]
   ]

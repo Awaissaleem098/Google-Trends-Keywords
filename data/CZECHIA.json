@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "19-12-2022 , 23:55:36",
+  "lastUpdate": "20-12-2022 , 01:41:13",
   "data": [
+    [
+      {
+        "title": "Respirační onemocnění",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Respira%C4%8Dn%C3%AD%20onemocn%C4%9Bn%C3%AD",
+        "pubdate": "Tue, 20 Dec 2022 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Vánoční cukroví",
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "Střelec",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#St%C5%99elec",
+        "pubdate": "Mon, 19 Dec 2022 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Hattrick",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hattrick",
         "pubdate": "Mon, 19 Dec 2022 10:00:00 +0100"
@@ -125,20 +139,6 @@
         "title": "Pele",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pele",
         "pubdate": "Sun, 18 Dec 2022 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Katar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Katar",
-        "pubdate": "Sun, 18 Dec 2022 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Emiliano Martinez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Emiliano%20Martinez",
-        "pubdate": "Sun, 18 Dec 2022 19:00:00 +0100"
       }
     ]
   ]
