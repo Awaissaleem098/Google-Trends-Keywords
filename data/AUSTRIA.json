@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "20-12-2022 , 23:53:19",
+  "lastUpdate": "21-12-2022 , 01:16:00",
   "data": [
+    [
+      {
+        "title": "Robert Redford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Robert%20Redford",
+        "pubdate": "Wed, 21 Dec 2022 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Fallon Sherrock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fallon%20Sherrock",
+        "pubdate": "Wed, 21 Dec 2022 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ennio Morricone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ennio%20Morricone",
+        "pubdate": "Wed, 21 Dec 2022 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Boris Becker",
@@ -10,8 +31,8 @@
     ],
     [
       {
-        "title": "Terry Hall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Terry%20Hall",
+        "title": "The Specials",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#The%20Specials",
         "pubdate": "Tue, 20 Dec 2022 08:00:00 +0100"
       }
     ],
@@ -20,13 +41,6 @@
         "title": "Harvey Weinstein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Harvey%20Weinstein",
         "pubdate": "Tue, 20 Dec 2022 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tatsächlich Liebe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tats%C3%A4chlich%20Liebe",
-        "pubdate": "Tue, 20 Dec 2022 21:00:00 +0100"
       }
     ],
     [
@@ -48,6 +62,13 @@
         "title": "Das Haus der Träume",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Das%20Haus%20der%20Tr%C3%A4ume",
         "pubdate": "Tue, 20 Dec 2022 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Fenerbahce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fenerbahce",
+        "pubdate": "Tue, 20 Dec 2022 19:00:00 +0100"
       }
     ],
     [
@@ -87,13 +108,6 @@
     ],
     [
       {
-        "title": "Fenerbahce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fenerbahce",
-        "pubdate": "Tue, 20 Dec 2022 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Fischbach",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fischbach",
         "pubdate": "Tue, 20 Dec 2022 14:00:00 +0100"
@@ -125,20 +139,6 @@
         "title": "Denise Rudolf Frank",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Denise%20Rudolf%20Frank",
         "pubdate": "Tue, 20 Dec 2022 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sebastian Vettel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sebastian%20Vettel",
-        "pubdate": "Tue, 20 Dec 2022 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ronaldo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ronaldo",
-        "pubdate": "Mon, 19 Dec 2022 03:00:00 +0100"
       }
     ]
   ]

@@ -1,25 +1,18 @@
 {
-  "lastUpdate": "20-12-2022 , 23:53:32",
+  "lastUpdate": "21-12-2022 , 01:16:12",
   "data": [
-    [
-      {
-        "title": "Vegemite",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Vegemite",
-        "pubdate": "Wed, 21 Dec 2022 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "MTV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#MTV",
-        "pubdate": "Wed, 21 Dec 2022 01:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "Başakşehir Göztepe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ba%C5%9Fak%C5%9Fehir%20G%C3%B6ztepe",
         "pubdate": "Tue, 20 Dec 2022 18:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Ekrem İmamoğlu kimdir",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ekrem%20%C4%B0mamo%C4%9Flu%20kimdir",
+        "pubdate": "Tue, 20 Dec 2022 02:00:00 +0300"
       }
     ],
     [
@@ -31,16 +24,16 @@
     ],
     [
       {
-        "title": "Sivasspor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Sivasspor",
-        "pubdate": "Tue, 20 Dec 2022 14:00:00 +0300"
+        "title": "Google Ekrem İmamoğlu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Google%20Ekrem%20%C4%B0mamo%C4%9Flu",
+        "pubdate": "Tue, 20 Dec 2022 08:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Google Ekrem İmamoğlu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Google%20Ekrem%20%C4%B0mamo%C4%9Flu",
-        "pubdate": "Tue, 20 Dec 2022 08:00:00 +0300"
+        "title": "Sivasspor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Sivasspor",
+        "pubdate": "Tue, 20 Dec 2022 14:00:00 +0300"
       }
     ],
     [
@@ -87,8 +80,8 @@
     ],
     [
       {
-        "title": "Beşiktaş - Şanlıurfaspor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Be%C5%9Fikta%C5%9F%20-%20%C5%9Eanl%C4%B1urfaspor",
+        "title": "Beşiktaş Şanlıurfaspor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Be%C5%9Fikta%C5%9F%20%C5%9Eanl%C4%B1urfaspor",
         "pubdate": "Tue, 20 Dec 2022 13:00:00 +0300"
       }
     ],
@@ -104,6 +97,13 @@
         "title": "Antalyaspor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Antalyaspor",
         "pubdate": "Tue, 20 Dec 2022 17:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Cumhurbaşkanı Son dakika Haberleri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Cumhurba%C5%9Fkan%C4%B1%20Son%20dakika%20Haberleri",
+        "pubdate": "Tue, 20 Dec 2022 19:00:00 +0300"
       }
     ],
     [
@@ -129,8 +129,8 @@
     ],
     [
       {
-        "title": "Trabzonspor - Samsunspor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Trabzonspor%20-%20Samsunspor",
+        "title": "Trabzonspor, Samsunspor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Trabzonspor,%20Samsunspor",
         "pubdate": "Tue, 20 Dec 2022 08:00:00 +0300"
       }
     ],

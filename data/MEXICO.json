@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "20-12-2022 , 23:53:26",
+  "lastUpdate": "21-12-2022 , 01:16:07",
   "data": [
-    [
-      {
-        "title": "Partido Revolucionario Institucional",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Partido%20Revolucionario%20Institucional",
-        "pubdate": "Tue, 20 Dec 2022 00:00:00 -0600"
-      }
-    ],
     [
       {
         "title": "Wolves  Gillingham",
@@ -17,8 +10,8 @@
     ],
     [
       {
-        "title": "Ricardo Salinas Pliego",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Ricardo%20Salinas%20Pliego",
+        "title": "Partido Revolucionario Institucional",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Partido%20Revolucionario%20Institucional",
         "pubdate": "Tue, 20 Dec 2022 00:00:00 -0600"
       }
     ],
@@ -31,16 +24,16 @@
     ],
     [
       {
-        "title": "Ernesto Laguardia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Ernesto%20Laguardia",
-        "pubdate": "Tue, 20 Dec 2022 09:00:00 -0600"
+        "title": "Ricardo Salinas Pliego",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Ricardo%20Salinas%20Pliego",
+        "pubdate": "Tue, 20 Dec 2022 00:00:00 -0600"
       }
     ],
     [
       {
-        "title": "Magico gonzalez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Magico%20gonzalez",
-        "pubdate": "Tue, 20 Dec 2022 00:00:00 -0600"
+        "title": "Ernesto Laguardia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Ernesto%20Laguardia",
+        "pubdate": "Tue, 20 Dec 2022 09:00:00 -0600"
       }
     ],
     [
@@ -54,13 +47,6 @@
       {
         "title": "Overwatch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Overwatch",
-        "pubdate": "Tue, 20 Dec 2022 02:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Maite Perroni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Maite%20Perroni",
         "pubdate": "Tue, 20 Dec 2022 02:00:00 -0600"
       }
     ],
@@ -80,9 +66,30 @@
     ],
     [
       {
+        "title": "Maite Perroni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Maite%20Perroni",
+        "pubdate": "Tue, 20 Dec 2022 02:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "PSG vs Quevilly",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#PSG%20vs%20Quevilly",
+        "pubdate": "Tue, 20 Dec 2022 15:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Impuesto Predial",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Impuesto%20Predial",
         "pubdate": "Tue, 20 Dec 2022 05:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "EFL Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#EFL%20Cup",
+        "pubdate": "Tue, 20 Dec 2022 18:00:00 -0600"
       }
     ],
     [
@@ -94,9 +101,16 @@
     ],
     [
       {
-        "title": "America",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#America",
+        "title": "Salernitana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Salernitana",
         "pubdate": "Mon, 19 Dec 2022 20:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Chivas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Chivas",
+        "pubdate": "Mon, 19 Dec 2022 19:00:00 -0600"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "America vs toluca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#America%20vs%20toluca",
-        "pubdate": "Mon, 19 Dec 2022 15:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Pepe Aguilar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Pepe%20Aguilar",
         "pubdate": "Mon, 19 Dec 2022 09:00:00 -0600"
@@ -122,9 +129,9 @@
     ],
     [
       {
-        "title": "Ricardo Peralta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Ricardo%20Peralta",
-        "pubdate": "Mon, 19 Dec 2022 00:00:00 -0600"
+        "title": "Green Bay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Green%20Bay",
+        "pubdate": "Mon, 19 Dec 2022 20:00:00 -0600"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Deportivo Toluca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Deportivo%20Toluca",
         "pubdate": "Mon, 19 Dec 2022 20:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Secretaría de Bienestar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Secretar%C3%ADa%20de%20Bienestar",
-        "pubdate": "Mon, 19 Dec 2022 16:00:00 -0600"
       }
     ]
   ]

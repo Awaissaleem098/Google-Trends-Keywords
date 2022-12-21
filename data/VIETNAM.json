@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-12-2022 , 23:53:32",
+  "lastUpdate": "21-12-2022 , 01:16:13",
   "data": [
+    [
+      {
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Newcastle",
+        "pubdate": "Wed, 21 Dec 2022 01:00:00 +0700"
+      }
+    ],
     [
       {
         "title": "Bộ Công an",
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Hành trình công lý tập 31",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#H%C3%A0nh%20tr%C3%ACnh%20c%C3%B4ng%20l%C3%BD%20t%E1%BA%ADp%2031",
-        "pubdate": "Tue, 20 Dec 2022 10:00:00 +0700"
+        "title": "Người lao động",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ng%C6%B0%E1%BB%9Di%20lao%20%C4%91%E1%BB%99ng",
+        "pubdate": "Tue, 20 Dec 2022 17:00:00 +0700"
       }
     ],
     [
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Người lao động",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ng%C6%B0%E1%BB%9Di%20lao%20%C4%91%E1%BB%99ng",
-        "pubdate": "Tue, 20 Dec 2022 17:00:00 +0700"
+        "title": "Gió mùa Đông Bắc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Gi%C3%B3%20m%C3%B9a%20%C4%90%C3%B4ng%20B%E1%BA%AFc",
+        "pubdate": "Tue, 20 Dec 2022 12:00:00 +0700"
       }
     ],
     [
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "Gió mùa Đông Bắc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Gi%C3%B3%20m%C3%B9a%20%C4%90%C3%B4ng%20B%E1%BA%AFc",
-        "pubdate": "Tue, 20 Dec 2022 12:00:00 +0700"
+        "title": "Cảnh sát",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#C%E1%BA%A3nh%20s%C3%A1t",
+        "pubdate": "Tue, 20 Dec 2022 15:00:00 +0700"
       }
     ],
     [
       {
-        "title": "Cảnh sát",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#C%E1%BA%A3nh%20s%C3%A1t",
-        "pubdate": "Tue, 20 Dec 2022 15:00:00 +0700"
+        "title": "Bóng đá AFF Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%C3%B3ng%20%C4%91%C3%A1%20AFF%20Cup",
+        "pubdate": "Tue, 20 Dec 2022 20:00:00 +0700"
       }
     ],
     [
@@ -87,9 +94,9 @@
     ],
     [
       {
-        "title": "Xăng",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#X%C4%83ng",
-        "pubdate": "Tue, 20 Dec 2022 13:00:00 +0700"
+        "title": "VinFuture",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#VinFuture",
+        "pubdate": "Tue, 20 Dec 2022 23:00:00 +0700"
       }
     ],
     [
@@ -108,27 +115,6 @@
     ],
     [
       {
-        "title": "VinFuture",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#VinFuture",
-        "pubdate": "Tue, 20 Dec 2022 23:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Hứa Khải",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#H%E1%BB%A9a%20Kh%E1%BA%A3i",
-        "pubdate": "Tue, 20 Dec 2022 11:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Thanh Sói",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Thanh%20S%C3%B3i",
-        "pubdate": "Tue, 20 Dec 2022 23:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Song Joong Ki Cậu Út Nhà Tài Phiệt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Song%20Joong%20Ki%20C%E1%BA%ADu%20%C3%9At%20Nh%C3%A0%20T%C3%A0i%20Phi%E1%BB%87t",
         "pubdate": "Tue, 20 Dec 2022 07:00:00 +0700"
@@ -139,6 +125,20 @@
         "title": "Lịch thi đấu AFF Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20AFF%20Cup",
         "pubdate": "Mon, 19 Dec 2022 12:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "AFF Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#AFF%20Cup",
+        "pubdate": "Mon, 19 Dec 2022 13:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Brunei – Thái Lan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Brunei%20%E2%80%93%20Th%C3%A1i%20Lan",
+        "pubdate": "Mon, 19 Dec 2022 11:00:00 +0700"
       }
     ]
   ]

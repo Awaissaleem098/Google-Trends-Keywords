@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "20-12-2022 , 23:53:28",
+  "lastUpdate": "21-12-2022 , 01:16:08",
   "data": [
+    [
+      {
+        "title": "Gazociąg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Gazoci%C4%85g",
+        "pubdate": "Wed, 21 Dec 2022 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Grażyna Torbicka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Gra%C5%BCyna%20Torbicka",
+        "pubdate": "Wed, 21 Dec 2022 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Tymoteusz Puchacz",
@@ -59,8 +73,8 @@
     ],
     [
       {
-        "title": "Dzień Dobry TVN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dzie%C5%84%20Dobry%20TVN",
+        "title": "Dzień dobry TVN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dzie%C5%84%20dobry%20TVN",
         "pubdate": "Tue, 20 Dec 2022 11:00:00 +0100"
       }
     ],
@@ -80,15 +94,15 @@
     ],
     [
       {
-        "title": "Jakub Błaszczykowski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jakub%20B%C5%82aszczykowski",
-        "pubdate": "Tue, 20 Dec 2022 17:00:00 +0100"
+        "title": "Irmgard Furchner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Irmgard%20Furchner",
+        "pubdate": "Tue, 20 Dec 2022 13:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Irmgard Furchner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Irmgard%20Furchner",
+        "title": "Harvey Weinstein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Harvey%20Weinstein",
         "pubdate": "Tue, 20 Dec 2022 13:00:00 +0100"
       }
     ],
@@ -97,13 +111,6 @@
         "title": "Amber Heard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Amber%20Heard",
         "pubdate": "Tue, 20 Dec 2022 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Harvey Weinstein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Harvey%20Weinstein",
-        "pubdate": "Tue, 20 Dec 2022 13:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Magda Linette",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Magda%20Linette",
         "pubdate": "Tue, 20 Dec 2022 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Marcelina zawadzka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marcelina%20zawadzka",
-        "pubdate": "Tue, 20 Dec 2022 19:00:00 +0100"
       }
     ]
   ]
