@@ -1,11 +1,32 @@
 {
-  "lastUpdate": "22-12-2022 , 17:38:55",
+  "lastUpdate": "22-12-2022 , 21:33:05",
   "data": [
     [
       {
         "title": "Franz Gertsch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Franz%20Gertsch",
         "pubdate": "Thu, 22 Dec 2022 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Man City gegen Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Man%20City%20gegen%20Liverpool",
+        "pubdate": "Thu, 22 Dec 2022 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liverpool",
+        "pubdate": "Thu, 22 Dec 2022 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Madonna di Campiglio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Madonna%20di%20Campiglio",
+        "pubdate": "Thu, 22 Dec 2022 18:00:00 +0100"
       }
     ],
     [
@@ -17,9 +38,9 @@
     ],
     [
       {
-        "title": "Juventus  Rijeka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Juventus%20%20Rijeka",
-        "pubdate": "Thu, 22 Dec 2022 15:00:00 +0100"
+        "title": "Pele",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pele",
+        "pubdate": "Thu, 22 Dec 2022 20:00:00 +0100"
       }
     ],
     [
@@ -31,16 +52,16 @@
     ],
     [
       {
-        "title": "Whitney Houston",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Whitney%20Houston",
-        "pubdate": "Thu, 22 Dec 2022 01:00:00 +0100"
+        "title": "Alice in Borderland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alice%20in%20Borderland",
+        "pubdate": "Thu, 22 Dec 2022 13:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Alice in Borderland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alice%20in%20Borderland",
-        "pubdate": "Thu, 22 Dec 2022 13:00:00 +0100"
+        "title": "Whitney Houston",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Whitney%20Houston",
+        "pubdate": "Thu, 22 Dec 2022 01:00:00 +0100"
       }
     ],
     [
@@ -59,9 +80,9 @@
     ],
     [
       {
-        "title": "El Gordo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#El%20Gordo",
-        "pubdate": "Thu, 22 Dec 2022 17:00:00 +0100"
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Galatasaray",
+        "pubdate": "Thu, 22 Dec 2022 21:00:00 +0100"
       }
     ],
     [
@@ -76,13 +97,6 @@
         "title": "Zürich Unfall",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Z%C3%BCrich%20Unfall",
         "pubdate": "Wed, 21 Dec 2022 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20United",
-        "pubdate": "Wed, 21 Dec 2022 22:00:00 +0100"
       }
     ],
     [
@@ -108,6 +122,13 @@
     ],
     [
       {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20United",
+        "pubdate": "Wed, 21 Dec 2022 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Charles Sobhraj",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Charles%20Sobhraj",
         "pubdate": "Wed, 21 Dec 2022 23:00:00 +0100"
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Lily Collins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lily%20Collins",
-        "pubdate": "Wed, 21 Dec 2022 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fentanyl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fentanyl",
-        "pubdate": "Wed, 21 Dec 2022 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Stiff-Person-Syndrom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stiff-Person-Syndrom",
-        "pubdate": "Wed, 21 Dec 2022 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sarah Connor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sarah%20Connor",
-        "pubdate": "Wed, 21 Dec 2022 13:00:00 +0100"
+        "title": "Manchester United – Burnley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20United%20%E2%80%93%20Burnley",
+        "pubdate": "Wed, 21 Dec 2022 22:00:00 +0100"
       }
     ]
   ]

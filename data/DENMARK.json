@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "22-12-2022 , 17:38:46",
+  "lastUpdate": "22-12-2022 , 21:32:57",
   "data": [
     [
       {
         "title": "Swarming",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Swarming",
         "pubdate": "Thu, 22 Dec 2022 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Whitney Houston",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Whitney%20Houston",
+        "pubdate": "Thu, 22 Dec 2022 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Vladimir Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vladimir%20Putin",
+        "pubdate": "Thu, 22 Dec 2022 07:00:00 +0100"
       }
     ],
     [
@@ -17,8 +31,8 @@
     ],
     [
       {
-        "title": "GOG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#GOG",
+        "title": "Charlbi Dean",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Charlbi%20Dean",
         "pubdate": "Thu, 22 Dec 2022 11:00:00 +0100"
       }
     ],
@@ -31,8 +45,8 @@
     ],
     [
       {
-        "title": "Charlbi Dean",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Charlbi%20Dean",
+        "title": "GOG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#GOG",
         "pubdate": "Thu, 22 Dec 2022 11:00:00 +0100"
       }
     ],
@@ -41,6 +55,13 @@
         "title": "Charles Sobhraj",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Charles%20Sobhraj",
         "pubdate": "Thu, 22 Dec 2022 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Holy Spider",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Holy%20Spider",
+        "pubdate": "Thu, 22 Dec 2022 07:00:00 +0100"
       }
     ],
     [
@@ -59,15 +80,15 @@
     ],
     [
       {
-        "title": "Vladimir Putin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vladimir%20Putin",
-        "pubdate": "Wed, 21 Dec 2022 22:00:00 +0100"
+        "title": "Man City  Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20City%20%20Liverpool",
+        "pubdate": "Wed, 21 Dec 2022 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Lily Collins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lily%20Collins",
+        "title": "Emily in Paris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Emily%20in%20Paris",
         "pubdate": "Wed, 21 Dec 2022 13:00:00 +0100"
       }
     ],
@@ -80,6 +101,13 @@
     ],
     [
       {
+        "title": "Zelensky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zelensky",
+        "pubdate": "Wed, 21 Dec 2022 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Patriot missiler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Patriot%20missiler",
         "pubdate": "Wed, 21 Dec 2022 23:00:00 +0100"
@@ -87,8 +115,8 @@
     ],
     [
       {
-        "title": "Old Fashioned",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Old%20Fashioned",
+        "title": "Old-Fashioned",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Old-Fashioned",
         "pubdate": "Wed, 21 Dec 2022 20:00:00 +0100"
       }
     ],
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "The aftermath",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20aftermath",
-        "pubdate": "Wed, 21 Dec 2022 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mandy Rose",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mandy%20Rose",
-        "pubdate": "Wed, 21 Dec 2022 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Christopher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Christopher",
-        "pubdate": "Wed, 21 Dec 2022 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fentanyl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fentanyl",
-        "pubdate": "Wed, 21 Dec 2022 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Winter solstice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Winter%20solstice",
-        "pubdate": "Wed, 21 Dec 2022 17:00:00 +0100"
+        "title": "Lily Collins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lily%20Collins",
+        "pubdate": "Wed, 21 Dec 2022 21:00:00 +0100"
       }
     ]
   ]

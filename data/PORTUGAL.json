@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "22-12-2022 , 17:38:53",
+  "lastUpdate": "22-12-2022 , 21:33:03",
   "data": [
+    [
+      {
+        "title": "City  Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#City%20%20Liverpool",
+        "pubdate": "Thu, 22 Dec 2022 09:00:00 +0000"
+      }
+    ],
     [
       {
         "title": "Pele",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pele",
         "pubdate": "Thu, 22 Dec 2022 12:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Sport Lisboa e Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sport%20Lisboa%20e%20Benfica",
-        "pubdate": "Thu, 22 Dec 2022 11:00:00 +0000"
       }
     ],
     [
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Sport Lisboa e Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sport%20Lisboa%20e%20Benfica",
+        "pubdate": "Thu, 22 Dec 2022 11:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Juventus  Rijeka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Juventus%20%20Rijeka",
         "pubdate": "Thu, 22 Dec 2022 14:00:00 +0000"
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Vladimir Putin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vladimir%20Putin",
-        "pubdate": "Thu, 22 Dec 2022 07:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Alice in Borderland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alice%20in%20Borderland",
         "pubdate": "Thu, 22 Dec 2022 01:00:00 +0000"
@@ -59,15 +59,43 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liverpool",
-        "pubdate": "Thu, 22 Dec 2022 09:00:00 +0000"
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Manchester%20City",
+        "pubdate": "Thu, 22 Dec 2022 13:00:00 +0000"
       }
     ],
     [
       {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Manchester%20City",
+        "title": "Vladimir Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vladimir%20Putin",
+        "pubdate": "Thu, 22 Dec 2022 07:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Man%20City",
+        "pubdate": "Thu, 22 Dec 2022 17:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Maria Cerqueira Gomes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Maria%20Cerqueira%20Gomes",
+        "pubdate": "Thu, 22 Dec 2022 20:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Seleção portuguesa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sele%C3%A7%C3%A3o%20portuguesa",
+        "pubdate": "Thu, 22 Dec 2022 18:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Basquetebol Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Basquetebol%20Benfica",
         "pubdate": "Thu, 22 Dec 2022 13:00:00 +0000"
       }
     ],
@@ -83,6 +111,13 @@
         "title": "Diaspora",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Diaspora",
         "pubdate": "Thu, 22 Dec 2022 06:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Uribe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Uribe",
+        "pubdate": "Thu, 22 Dec 2022 20:00:00 +0000"
       }
     ],
     [
@@ -104,41 +139,6 @@
         "title": "Manchester United  Burnley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Manchester%20United%20%20Burnley",
         "pubdate": "Wed, 21 Dec 2022 20:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Margarida Corceiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Margarida%20Corceiro",
-        "pubdate": "Wed, 21 Dec 2022 17:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Futebol clube do Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Futebol%20clube%20do%20Porto",
-        "pubdate": "Wed, 21 Dec 2022 22:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Zelensky",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Zelensky",
-        "pubdate": "Wed, 21 Dec 2022 14:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Emily in Paris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Emily%20in%20Paris",
-        "pubdate": "Wed, 21 Dec 2022 05:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "MEO Sudoeste 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#MEO%20Sudoeste%202023",
-        "pubdate": "Wed, 21 Dec 2022 23:00:00 +0000"
       }
     ]
   ]

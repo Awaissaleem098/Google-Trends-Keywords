@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "22-12-2022 , 17:38:49",
+  "lastUpdate": "22-12-2022 , 21:33:00",
   "data": [
+    [
+      {
+        "title": "Inter Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Inter%20Milan",
+        "pubdate": "Fri, 23 Dec 2022 01:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Tao Tsuchiya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Tao%20Tsuchiya",
+        "pubdate": "Fri, 23 Dec 2022 00:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Inter",
+        "pubdate": "Fri, 23 Dec 2022 02:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Song Hye Kyo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Song%20Hye%20Kyo",
+        "pubdate": "Fri, 23 Dec 2022 00:00:00 +0700"
+      }
+    ],
     [
       {
         "title": "Man utd vs Burnley",
@@ -10,16 +38,16 @@
     ],
     [
       {
-        "title": "PSG vs Quevilly",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#PSG%20vs%20Quevilly",
-        "pubdate": "Thu, 22 Dec 2022 08:00:00 +0700"
+        "title": "Man City Vs Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Man%20City%20Vs%20Liverpool",
+        "pubdate": "Thu, 22 Dec 2022 03:00:00 +0700"
       }
     ],
     [
       {
-        "title": "Man City vs Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Man%20City%20vs%20Liverpool",
-        "pubdate": "Thu, 22 Dec 2022 03:00:00 +0700"
+        "title": "PSG vs Quevilly",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#PSG%20vs%20Quevilly",
+        "pubdate": "Thu, 22 Dec 2022 08:00:00 +0700"
       }
     ],
     [
@@ -55,6 +83,13 @@
         "title": "Gubernur Jawa Timur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Gubernur%20Jawa%20Timur",
         "pubdate": "Thu, 22 Dec 2022 00:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Gempa Kuningan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Gempa%20Kuningan",
+        "pubdate": "Thu, 22 Dec 2022 10:00:00 +0700"
       }
     ],
     [
@@ -104,41 +139,6 @@
         "title": "PSIS Semarang vs Bali United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#PSIS%20Semarang%20vs%20Bali%20United",
         "pubdate": "Thu, 22 Dec 2022 20:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Tottenham",
-        "pubdate": "Thu, 22 Dec 2022 12:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Kemenag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Kemenag",
-        "pubdate": "Thu, 22 Dec 2022 12:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "One Piece 1070",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#One%20Piece%201070",
-        "pubdate": "Thu, 22 Dec 2022 12:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Mother",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Mother",
-        "pubdate": "Thu, 22 Dec 2022 17:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Napoli",
-        "pubdate": "Thu, 22 Dec 2022 12:00:00 +0700"
       }
     ]
   ]

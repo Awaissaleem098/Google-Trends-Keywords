@@ -1,32 +1,11 @@
 {
-  "lastUpdate": "22-12-2022 , 17:38:52",
+  "lastUpdate": "22-12-2022 , 21:33:03",
   "data": [
     [
       {
         "title": "Mateusz Morawiecki",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mateusz%20Morawiecki",
         "pubdate": "Thu, 22 Dec 2022 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jarosław Kaczyński",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jaros%C5%82aw%20Kaczy%C5%84ski",
-        "pubdate": "Thu, 22 Dec 2022 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Czesław Michniewicz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Czes%C5%82aw%20Michniewicz",
-        "pubdate": "Thu, 22 Dec 2022 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Przesilenie zimowe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Przesilenie%20zimowe",
-        "pubdate": "Thu, 22 Dec 2022 07:00:00 +0100"
       }
     ],
     [
@@ -38,6 +17,13 @@
     ],
     [
       {
+        "title": "Czesław Michniewicz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Czes%C5%82aw%20Michniewicz",
+        "pubdate": "Thu, 22 Dec 2022 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Sztab Generalny Wojska Polskiego",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sztab%20Generalny%20Wojska%20Polskiego",
         "pubdate": "Thu, 22 Dec 2022 09:00:00 +0100"
@@ -45,9 +31,9 @@
     ],
     [
       {
-        "title": "Stan Borys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Stan%20Borys",
-        "pubdate": "Thu, 22 Dec 2022 09:00:00 +0100"
+        "title": "Przesilenie zimowe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Przesilenie%20zimowe",
+        "pubdate": "Thu, 22 Dec 2022 07:00:00 +0100"
       }
     ],
     [
@@ -59,9 +45,58 @@
     ],
     [
       {
+        "title": "Stan Borys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Stan%20Borys",
+        "pubdate": "Thu, 22 Dec 2022 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Zyczenia na swieta bozego Narodzenia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zyczenia%20na%20swieta%20bozego%20Narodzenia",
+        "pubdate": "Thu, 22 Dec 2022 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Mistrzostwa Polski w skokach narciarskich 2022",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mistrzostwa%20Polski%20w%20skokach%20narciarskich%202022",
         "pubdate": "Thu, 22 Dec 2022 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Blanka Lipińska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Blanka%20Lipi%C5%84ska",
+        "pubdate": "Thu, 22 Dec 2022 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Vanessa Paradis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Vanessa%20Paradis",
+        "pubdate": "Thu, 22 Dec 2022 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Maciej Dowbor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maciej%20Dowbor",
+        "pubdate": "Thu, 22 Dec 2022 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "IO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#IO",
+        "pubdate": "Thu, 22 Dec 2022 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Johnny",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Johnny",
+        "pubdate": "Thu, 22 Dec 2022 19:00:00 +0100"
       }
     ],
     [
@@ -80,23 +115,9 @@
     ],
     [
       {
-        "title": "Al-Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Al-Nassr",
-        "pubdate": "Thu, 22 Dec 2022 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Blanka Lipińska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Blanka%20Lipi%C5%84ska",
-        "pubdate": "Thu, 22 Dec 2022 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Amy Schumer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Amy%20Schumer",
-        "pubdate": "Thu, 22 Dec 2022 09:00:00 +0100"
+        "title": "Manchester United FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Manchester%20United%20FC",
+        "pubdate": "Thu, 22 Dec 2022 00:00:00 +0100"
       }
     ],
     [
@@ -108,37 +129,16 @@
     ],
     [
       {
+        "title": "Amy Schumer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Amy%20Schumer",
+        "pubdate": "Thu, 22 Dec 2022 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Boris Becker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Boris%20Becker",
         "pubdate": "Thu, 22 Dec 2022 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Vanessa Paradis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Vanessa%20Paradis",
-        "pubdate": "Thu, 22 Dec 2022 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "IO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#IO",
-        "pubdate": "Thu, 22 Dec 2022 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Zbigniew Rybak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zbigniew%20Rybak",
-        "pubdate": "Wed, 21 Dec 2022 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Szkarlatyna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Szkarlatyna",
-        "pubdate": "Wed, 21 Dec 2022 17:00:00 +0100"
       }
     ]
   ]

@@ -1,1 +1,1 @@
-Kertész Ákos,Balázsék,Tamás gáspár miklós,Lengyel Tamás,Orosz-ukrán háború,Autó,Miller Dávid,Orbán Viktor,Gulyás Gergely,Botrány,Téli napforduló,Kulcsár Edina,Zendaya,Friderikusz Sándor,Sebestyén Balázs,Bereczki Zoltán,Alicia Silverstone,Manchester United,Mága Zoltán,Boris Becker
+Kertész Ákos,Tamás gáspár miklós,Orosz-ukrán háború,Szijjártó Péter,Balázsék,Lengyel Tamás,Koronavírusok,Autó,Miller Dávid,Nick Vujicic,Orbán Viktor,Gulyás Gergely,Botrány,Téli napforduló,Kulcsár Edina,Alicia Silverstone,Friderikusz Sándor,Bereczki Zoltán,Manchester United,Mága Zoltán

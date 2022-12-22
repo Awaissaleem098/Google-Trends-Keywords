@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-12-2022 , 17:38:54",
+  "lastUpdate": "22-12-2022 , 21:33:04",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Internship",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Internship",
         "pubdate": "Thu, 22 Dec 2022 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cape Town",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cape%20Town",
+        "pubdate": "Thu, 22 Dec 2022 15:00:00 +0200"
       }
     ],
     [
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Cape Town",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cape%20Town",
-        "pubdate": "Thu, 22 Dec 2022 15:00:00 +0200"
+        "title": "UWC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UWC",
+        "pubdate": "Thu, 22 Dec 2022 10:00:00 +0200"
       }
     ],
     [
@@ -45,9 +52,16 @@
     ],
     [
       {
-        "title": "UWC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UWC",
-        "pubdate": "Thu, 22 Dec 2022 10:00:00 +0200"
+        "title": "Charlbi Dean",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Charlbi%20Dean",
+        "pubdate": "Thu, 22 Dec 2022 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Valencia vs AZ alkmaar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Valencia%20vs%20AZ%20alkmaar",
+        "pubdate": "Thu, 22 Dec 2022 21:00:00 +0200"
       }
     ],
     [
@@ -87,13 +101,6 @@
     ],
     [
       {
-        "title": "Blackburn Rovers vs Nottm Forest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Blackburn%20Rovers%20vs%20Nottm%20Forest",
-        "pubdate": "Wed, 21 Dec 2022 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Seal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Seal",
         "pubdate": "Wed, 21 Dec 2022 21:00:00 +0200"
@@ -125,13 +132,6 @@
         "title": "Violent Night",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Violent%20Night",
         "pubdate": "Wed, 21 Dec 2022 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bonang Matheba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bonang%20Matheba",
-        "pubdate": "Wed, 21 Dec 2022 19:00:00 +0200"
       }
     ],
     [

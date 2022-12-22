@@ -1,25 +1,39 @@
 {
-  "lastUpdate": "22-12-2022 , 17:38:44",
+  "lastUpdate": "22-12-2022 , 21:32:55",
   "data": [
     [
       {
-        "title": "Juventus – Rijeka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juventus%20%E2%80%93%20Rijeka",
-        "pubdate": "Thu, 22 Dec 2022 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Wout van Aert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wout%20van%20Aert",
-        "pubdate": "Thu, 22 Dec 2022 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Manchester%20City",
+        "title": "Manchester City – Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Manchester%20City%20%E2%80%93%20Liverpool",
         "pubdate": "Thu, 22 Dec 2022 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Alice in Borderland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alice%20in%20Borderland",
+        "pubdate": "Thu, 22 Dec 2022 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Millie Bobby Brown",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Millie%20Bobby%20Brown",
+        "pubdate": "Thu, 22 Dec 2022 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "RSC Anderlecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RSC%20Anderlecht",
+        "pubdate": "Thu, 22 Dec 2022 05:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Julian Alaphilippe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Julian%20Alaphilippe",
+        "pubdate": "Thu, 22 Dec 2022 09:00:00 +0100"
       }
     ],
     [
@@ -31,9 +45,23 @@
     ],
     [
       {
-        "title": "Alice in Borderland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alice%20in%20Borderland",
-        "pubdate": "Thu, 22 Dec 2022 12:00:00 +0100"
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Man%20City",
+        "pubdate": "Thu, 22 Dec 2022 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Wout van Aert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wout%20van%20Aert",
+        "pubdate": "Thu, 22 Dec 2022 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Charlbi Dean",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Charlbi%20Dean",
+        "pubdate": "Thu, 22 Dec 2022 19:00:00 +0100"
       }
     ],
     [
@@ -52,16 +80,9 @@
     ],
     [
       {
-        "title": "Julian Alaphilippe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Julian%20Alaphilippe",
-        "pubdate": "Thu, 22 Dec 2022 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Loting Beker van belgie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Loting%20Beker%20van%20belgie",
-        "pubdate": "Thu, 22 Dec 2022 12:00:00 +0100"
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Galatasaray",
+        "pubdate": "Thu, 22 Dec 2022 20:00:00 +0100"
       }
     ],
     [
@@ -73,6 +94,13 @@
     ],
     [
       {
+        "title": "Nepobaby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nepobaby",
+        "pubdate": "Thu, 22 Dec 2022 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Brigitte Bardot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brigitte%20Bardot",
         "pubdate": "Thu, 22 Dec 2022 14:00:00 +0100"
@@ -80,9 +108,23 @@
     ],
     [
       {
-        "title": "Anderlecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht",
-        "pubdate": "Wed, 21 Dec 2022 21:00:00 +0100"
+        "title": "Carabao Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Carabao%20Cup",
+        "pubdate": "Thu, 22 Dec 2022 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Pelé",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pel%C3%A9",
+        "pubdate": "Thu, 22 Dec 2022 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "The Haunted Youth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Haunted%20Youth",
+        "pubdate": "Thu, 22 Dec 2022 20:00:00 +0100"
       }
     ],
     [
@@ -94,51 +136,9 @@
     ],
     [
       {
-        "title": "Manchester United – Burnley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Manchester%20United%20%E2%80%93%20Burnley",
+        "title": "Anderlecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht",
         "pubdate": "Wed, 21 Dec 2022 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Whitney Houston",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Whitney%20Houston",
-        "pubdate": "Wed, 21 Dec 2022 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Emily in Paris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Emily%20in%20Paris",
-        "pubdate": "Wed, 21 Dec 2022 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Barbra Streisand",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barbra%20Streisand",
-        "pubdate": "Wed, 21 Dec 2022 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "VTM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#VTM",
-        "pubdate": "Wed, 21 Dec 2022 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Petra De Sutter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Petra%20De%20Sutter",
-        "pubdate": "Wed, 21 Dec 2022 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Charles Sobhraj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Charles%20Sobhraj",
-        "pubdate": "Wed, 21 Dec 2022 22:00:00 +0100"
       }
     ]
   ]
