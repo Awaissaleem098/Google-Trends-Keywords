@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "24-12-2022 , 00:53:19",
+  "lastUpdate": "24-12-2022 , 02:05:21",
   "data": [
-    [
-      {
-        "title": "Der kleine Lord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Der%20kleine%20Lord",
-        "pubdate": "Fri, 23 Dec 2022 14:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Glass Onion",
@@ -33,7 +26,7 @@
       {
         "title": "USA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#USA",
-        "pubdate": "Fri, 23 Dec 2022 16:00:00 +0100"
+        "pubdate": "Fri, 23 Dec 2022 18:00:00 +0100"
       }
     ],
     [
@@ -55,13 +48,6 @@
         "title": "Rambo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rambo",
         "pubdate": "Fri, 23 Dec 2022 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lili Paul-Roncalli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lili%20Paul-Roncalli",
-        "pubdate": "Fri, 23 Dec 2022 23:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Terry Hall",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Terry%20Hall",
         "pubdate": "Tue, 20 Dec 2022 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Elon%20Musk",
+        "pubdate": "Mon, 19 Dec 2022 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FIFA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FIFA",
+        "pubdate": "Mon, 19 Dec 2022 03:00:00 +0100"
       }
     ]
   ]
