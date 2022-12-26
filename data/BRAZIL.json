@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-12-2022 , 23:48:13",
+  "lastUpdate": "26-12-2022 , 00:33:45",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Gloria Groove",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gloria%20Groove",
         "pubdate": "Sun, 25 Dec 2022 17:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Rita Lee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rita%20Lee",
+        "pubdate": "Sun, 25 Dec 2022 15:00:00 -0500"
       }
     ],
     [
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Jo Soares",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jo%20Soares",
+        "pubdate": "Sun, 25 Dec 2022 18:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Ze Vaqueiro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ze%20Vaqueiro",
         "pubdate": "Sun, 25 Dec 2022 03:00:00 -0500"
@@ -48,6 +62,13 @@
         "title": "Posto de gasolina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Posto%20de%20gasolina",
         "pubdate": "Sun, 25 Dec 2022 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Melhores do Ano 2022",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Melhores%20do%20Ano%202022",
+        "pubdate": "Sun, 25 Dec 2022 18:00:00 -0500"
       }
     ],
     [
@@ -66,9 +87,23 @@
     ],
     [
       {
+        "title": "Marjorie Estiano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Marjorie%20Estiano",
+        "pubdate": "Sun, 25 Dec 2022 17:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Rodrigo Faro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rodrigo%20Faro",
         "pubdate": "Sun, 25 Dec 2022 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Isabel Teixeira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Isabel%20Teixeira",
+        "pubdate": "Sun, 25 Dec 2022 18:00:00 -0500"
       }
     ],
     [
@@ -80,16 +115,9 @@
     ],
     [
       {
-        "title": "Marjorie Estiano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Marjorie%20Estiano",
-        "pubdate": "Sun, 25 Dec 2022 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Incendio Suzano Papel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Incendio%20Suzano%20Papel",
-        "pubdate": "Sun, 25 Dec 2022 14:00:00 -0500"
+        "title": "George Michael",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#George%20Michael",
+        "pubdate": "Sun, 25 Dec 2022 15:00:00 -0500"
       }
     ],
     [
@@ -101,44 +129,16 @@
     ],
     [
       {
+        "title": "Marcos Palmeira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Marcos%20Palmeira",
+        "pubdate": "Sun, 25 Dec 2022 18:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Feliz natal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Feliz%20natal",
         "pubdate": "Sat, 24 Dec 2022 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Epic Games",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Epic%20Games",
-        "pubdate": "Sat, 24 Dec 2022 19:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Merry Christmas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Merry%20Christmas",
-        "pubdate": "Sat, 24 Dec 2022 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Musicas de Natal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Musicas%20de%20Natal",
-        "pubdate": "Sat, 24 Dec 2022 08:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Fricasse de frango",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fricasse%20de%20frango",
-        "pubdate": "Sat, 24 Dec 2022 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Tom Cruise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tom%20Cruise",
-        "pubdate": "Sat, 24 Dec 2022 22:00:00 -0500"
       }
     ]
   ]

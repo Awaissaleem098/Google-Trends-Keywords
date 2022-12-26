@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-12-2022 , 23:48:12",
+  "lastUpdate": "26-12-2022 , 00:33:44",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "La Delio Valdez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#La%20Delio%20Valdez",
         "pubdate": "Sun, 25 Dec 2022 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "La mona jimenez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#La%20mona%20jimenez",
+        "pubdate": "Sun, 25 Dec 2022 02:00:00 -0300"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Palito Ortega",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Palito%20Ortega",
-        "pubdate": "Sun, 25 Dec 2022 02:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "George Michael",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#George%20Michael",
         "pubdate": "Sun, 25 Dec 2022 19:00:00 -0300"
@@ -73,16 +73,9 @@
     ],
     [
       {
-        "title": "Luis Miguel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Luis%20Miguel",
+        "title": "Palito Ortega",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Palito%20Ortega",
         "pubdate": "Sun, 25 Dec 2022 02:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Fuegos artificiales",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Fuegos%20artificiales",
-        "pubdate": "Sun, 25 Dec 2022 01:00:00 -0300"
       }
     ],
     [
@@ -94,9 +87,23 @@
     ],
     [
       {
+        "title": "Luis Miguel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Luis%20Miguel",
+        "pubdate": "Sun, 25 Dec 2022 02:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Stephan Bonnar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Stephan%20Bonnar",
         "pubdate": "Sun, 25 Dec 2022 12:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Fuegos artificiales",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Fuegos%20artificiales",
+        "pubdate": "Sun, 25 Dec 2022 01:00:00 -0300"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Messi Christmas!",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Messi%20Christmas!",
-        "pubdate": "Sun, 25 Dec 2022 01:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Mariah Carey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Mariah%20Carey",
         "pubdate": "Sun, 25 Dec 2022 01:00:00 -0300"
       }
     ]

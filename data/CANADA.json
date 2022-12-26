@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-12-2022 , 23:48:13",
+  "lastUpdate": "26-12-2022 , 00:33:45",
   "data": [
     [
       {
@@ -17,8 +17,15 @@
     ],
     [
       {
-        "title": "What's open on Christmas Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#What's%20open%20on%20Christmas%20Day",
+        "title": "Epic Games",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Epic%20Games",
+        "pubdate": "Sun, 25 Dec 2022 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "What is open on Christmas Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#What%20is%20open%20on%20Christmas%20Day",
         "pubdate": "Sun, 25 Dec 2022 04:00:00 -0500"
       }
     ],
@@ -45,16 +52,16 @@
     ],
     [
       {
-        "title": "Joyeux noel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Joyeux%20noel",
-        "pubdate": "Sun, 25 Dec 2022 01:00:00 -0500"
+        "title": "Green Bay Packers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Green%20Bay%20Packers",
+        "pubdate": "Sun, 25 Dec 2022 15:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Green Bay Packers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Green%20Bay%20Packers",
-        "pubdate": "Sun, 25 Dec 2022 15:00:00 -0500"
+        "title": "Joyeux noel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Joyeux%20noel",
+        "pubdate": "Sun, 25 Dec 2022 01:00:00 -0500"
       }
     ],
     [
@@ -73,16 +80,9 @@
     ],
     [
       {
-        "title": "Kari Lake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kari%20Lake",
-        "pubdate": "Sun, 25 Dec 2022 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Death Stranding",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Death%20Stranding",
-        "pubdate": "Sun, 25 Dec 2022 14:00:00 -0500"
+        "title": "Hydro quebec pannes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hydro%20quebec%20pannes",
+        "pubdate": "Sun, 25 Dec 2022 18:00:00 -0500"
       }
     ],
     [
@@ -90,6 +90,13 @@
         "title": "The Witcher: Blood Origin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#The%20Witcher:%20Blood%20Origin",
         "pubdate": "Sun, 25 Dec 2022 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Kari Lake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kari%20Lake",
+        "pubdate": "Sun, 25 Dec 2022 13:00:00 -0500"
       }
     ],
     [
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Raiders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Raiders",
-        "pubdate": "Sun, 25 Dec 2022 00:00:00 -0500"
+        "title": "Via Rail trains stranded",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Via%20Rail%20trains%20stranded",
+        "pubdate": "Sun, 25 Dec 2022 03:00:00 -0500"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Raiders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Raiders",
+        "pubdate": "Sun, 25 Dec 2022 00:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Christmas Story",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Christmas%20Story",
         "pubdate": "Sun, 25 Dec 2022 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Couche-Tard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Couche-Tard",
-        "pubdate": "Sun, 25 Dec 2022 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Matilda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Matilda",
-        "pubdate": "Sun, 25 Dec 2022 16:00:00 -0500"
       }
     ]
   ]

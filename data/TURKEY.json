@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-12-2022 , 23:48:21",
+  "lastUpdate": "26-12-2022 , 00:33:54",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Colombo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Colombo",
         "pubdate": "Mon, 26 Dec 2022 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Hasan Mezarcı",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Hasan%20Mezarc%C4%B1",
+        "pubdate": "Mon, 26 Dec 2022 02:00:00 +0300"
       }
     ],
     [
@@ -76,13 +83,6 @@
         "title": "Luis Alberto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Luis%20Alberto",
         "pubdate": "Sun, 25 Dec 2022 14:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Boluspor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Boluspor",
-        "pubdate": "Sun, 25 Dec 2022 18:00:00 +0300"
       }
     ],
     [

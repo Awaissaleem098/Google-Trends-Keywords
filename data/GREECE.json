@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-12-2022 , 23:48:15",
+  "lastUpdate": "26-12-2022 , 00:33:48",
   "data": [
     [
       {
@@ -12,14 +12,7 @@
       {
         "title": "ΤΖΟΚΕΡ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A4%CE%96%CE%9F%CE%9A%CE%95%CE%A1",
-        "pubdate": "Sun, 25 Dec 2022 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Στανιση",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A3%CF%84%CE%B1%CE%BD%CE%B9%CF%83%CE%B7",
-        "pubdate": "Sun, 25 Dec 2022 00:00:00 +0200"
+        "pubdate": "Sun, 25 Dec 2022 09:00:00 +0200"
       }
     ],
     [
@@ -27,6 +20,13 @@
         "title": "Epic Games",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Epic%20Games",
         "pubdate": "Sun, 25 Dec 2022 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Κατερίνα Στανίση",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9A%CE%B1%CF%84%CE%B5%CF%81%CE%AF%CE%BD%CE%B1%20%CE%A3%CF%84%CE%B1%CE%BD%CE%AF%CF%83%CE%B7",
+        "pubdate": "Sun, 25 Dec 2022 00:00:00 +0200"
       }
     ],
     [

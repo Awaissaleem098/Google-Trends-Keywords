@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-12-2022 , 23:48:18",
+  "lastUpdate": "26-12-2022 , 00:33:51",
   "data": [
     [
       {
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Merry Christmas!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Merry%20Christmas!",
-        "pubdate": "Sat, 24 Dec 2022 12:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Joker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Joker",
         "pubdate": "Sat, 24 Dec 2022 15:00:00 +0100"
@@ -138,6 +131,13 @@
       {
         "title": "Jarlsberg Avis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jarlsberg%20Avis",
+        "pubdate": "Sat, 24 Dec 2022 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Krigføring",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Krigf%C3%B8ring",
         "pubdate": "Sat, 24 Dec 2022 21:00:00 +0100"
       }
     ]
