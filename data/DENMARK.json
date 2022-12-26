@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "26-12-2022 , 00:33:46",
+  "lastUpdate": "26-12-2022 , 02:01:08",
   "data": [
     [
       {
         "title": "Emily in Paris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Emily%20in%20Paris",
         "pubdate": "Mon, 26 Dec 2022 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Emma Watson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Emma%20Watson",
+        "pubdate": "Mon, 26 Dec 2022 01:00:00 +0100"
       }
     ],
     [
@@ -73,16 +80,9 @@
     ],
     [
       {
-        "title": "iPhone 11",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#iPhone%2011",
+        "title": "Iphone 11",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Iphone%2011",
         "pubdate": "Sun, 25 Dec 2022 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Stephan Bonnar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Stephan%20Bonnar",
-        "pubdate": "Sun, 25 Dec 2022 10:00:00 +0100"
       }
     ],
     [
@@ -90,6 +90,13 @@
         "title": "The Witcher: Blood Origin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Witcher:%20Blood%20Origin",
         "pubdate": "Sun, 25 Dec 2022 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Stephan Bonnar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Stephan%20Bonnar",
+        "pubdate": "Sun, 25 Dec 2022 10:00:00 +0100"
       }
     ],
     [
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Tom Holland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tom%20Holland",
+        "pubdate": "Sun, 25 Dec 2022 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Michael Douglas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Michael%20Douglas",
         "pubdate": "Sun, 25 Dec 2022 00:00:00 +0100"
@@ -118,20 +132,6 @@
         "title": "iPhone 12",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#iPhone%2012",
         "pubdate": "Sun, 25 Dec 2022 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tom Holland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tom%20Holland",
-        "pubdate": "Sun, 25 Dec 2022 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Beverly D'Angelo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Beverly%20D'Angelo",
-        "pubdate": "Sun, 25 Dec 2022 17:00:00 +0100"
       }
     ],
     [

@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "26-12-2022 , 00:33:47",
+  "lastUpdate": "26-12-2022 , 02:01:08",
   "data": [
+    [
+      {
+        "title": "Kate Hudson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kate%20Hudson",
+        "pubdate": "Mon, 26 Dec 2022 03:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Emily in Paris",
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "iPhone 11",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#iPhone%2011",
+        "title": "Iphone 11",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Iphone%2011",
         "pubdate": "Sun, 25 Dec 2022 13:00:00 +0200"
       }
     ],
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "The Mechanic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20Mechanic",
+        "pubdate": "Sun, 25 Dec 2022 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Nakatomi Plaza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nakatomi%20Plaza",
         "pubdate": "Sun, 25 Dec 2022 01:00:00 +0200"
@@ -87,16 +101,16 @@
     ],
     [
       {
-        "title": "Robin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Robin",
-        "pubdate": "Sun, 25 Dec 2022 20:00:00 +0200"
+        "title": "Witcher: Blood Origin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Witcher:%20Blood%20Origin",
+        "pubdate": "Sun, 25 Dec 2022 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Witcher: Blood Origin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Witcher:%20Blood%20Origin",
-        "pubdate": "Sun, 25 Dec 2022 23:00:00 +0200"
+        "title": "Robin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Robin",
+        "pubdate": "Sun, 25 Dec 2022 20:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Maxi Jazz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Maxi%20Jazz",
         "pubdate": "Sat, 24 Dec 2022 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Irina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Irina",
-        "pubdate": "Sat, 24 Dec 2022 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "The Snowman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20Snowman",
-        "pubdate": "Sat, 24 Dec 2022 12:00:00 +0200"
       }
     ]
   ]

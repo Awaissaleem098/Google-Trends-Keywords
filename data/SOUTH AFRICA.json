@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-12-2022 , 00:33:53",
+  "lastUpdate": "26-12-2022 , 02:01:13",
   "data": [
     [
       {
@@ -52,8 +52,29 @@
     ],
     [
       {
+        "title": "Christmas carols",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Christmas%20carols",
+        "pubdate": "Sun, 25 Dec 2022 07:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tunisha Sharma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tunisha%20Sharma",
+        "pubdate": "Sun, 25 Dec 2022 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Xmas Wishes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Xmas%20Wishes",
+        "pubdate": "Sun, 25 Dec 2022 05:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "The Grinch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#The%20Grinch",
         "pubdate": "Sun, 25 Dec 2022 13:00:00 +0200"
       }
     ],
@@ -62,13 +83,6 @@
         "title": "The Witcher: Blood Origin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#The%20Witcher:%20Blood%20Origin",
         "pubdate": "Sun, 25 Dec 2022 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "The Grinch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#The%20Grinch",
-        "pubdate": "Sun, 25 Dec 2022 13:00:00 +0200"
       }
     ],
     [
@@ -83,6 +97,13 @@
         "title": "Arsenal vs West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Arsenal%20vs%20West%20Ham",
         "pubdate": "Sun, 25 Dec 2022 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Christmas greetings",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Christmas%20greetings",
+        "pubdate": "Sun, 25 Dec 2022 09:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Tory Lanez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tory%20Lanez",
         "pubdate": "Sat, 24 Dec 2022 05:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Christmas songs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Christmas%20songs",
-        "pubdate": "Sat, 24 Dec 2022 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Maxi Jazz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Maxi%20Jazz",
-        "pubdate": "Sat, 24 Dec 2022 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dolly Parton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dolly%20Parton",
-        "pubdate": "Sat, 24 Dec 2022 22:00:00 +0200"
       }
     ]
   ]

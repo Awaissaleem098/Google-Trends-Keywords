@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "26-12-2022 , 00:33:52",
+  "lastUpdate": "26-12-2022 , 02:01:12",
   "data": [
+    [
+      {
+        "title": "Matilda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Matilda",
+        "pubdate": "Mon, 26 Dec 2022 00:00:00 +0000"
+      }
+    ],
     [
       {
         "title": "Epic Games",
@@ -13,13 +20,6 @@
         "title": "McDonald's",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#McDonald's",
         "pubdate": "Sun, 25 Dec 2022 19:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Nintendo Switch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nintendo%20Switch",
-        "pubdate": "Sun, 25 Dec 2022 18:00:00 +0000"
       }
     ],
     [
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Nintendo Switch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nintendo%20Switch",
+        "pubdate": "Sun, 25 Dec 2022 19:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "iPhone 12",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#iPhone%2012",
         "pubdate": "Sun, 25 Dec 2022 19:00:00 +0000"
@@ -45,8 +52,8 @@
     ],
     [
       {
-        "title": "Airpods",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Airpods",
+        "title": "AirPods",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#AirPods",
         "pubdate": "Sun, 25 Dec 2022 17:00:00 +0000"
       }
     ],
@@ -80,8 +87,8 @@
     ],
     [
       {
-        "title": "The Rock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#The%20Rock",
+        "title": "Passagem de ano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Passagem%20de%20ano",
         "pubdate": "Sun, 25 Dec 2022 20:00:00 +0000"
       }
     ],
@@ -90,6 +97,13 @@
         "title": "The Witcher: Blood Origin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#The%20Witcher:%20Blood%20Origin",
         "pubdate": "Sun, 25 Dec 2022 19:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "The Rock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#The%20Rock",
+        "pubdate": "Sun, 25 Dec 2022 20:00:00 +0000"
       }
     ],
     [
@@ -108,30 +122,16 @@
     ],
     [
       {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lakers",
-        "pubdate": "Sun, 25 Dec 2022 22:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "George Clooney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#George%20Clooney",
+        "title": "Jennifer Lopez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jennifer%20Lopez",
         "pubdate": "Sun, 25 Dec 2022 19:00:00 +0000"
       }
     ],
     [
       {
-        "title": "Arouca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Arouca",
-        "pubdate": "Sun, 25 Dec 2022 06:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Fátima Lopes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#F%C3%A1tima%20Lopes",
-        "pubdate": "Sun, 25 Dec 2022 03:00:00 +0000"
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lakers",
+        "pubdate": "Sun, 25 Dec 2022 22:00:00 +0000"
       }
     ],
     [

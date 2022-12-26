@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-12-2022 , 00:33:45",
+  "lastUpdate": "26-12-2022 , 02:01:07",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Tiny house",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tiny%20house",
+        "pubdate": "Mon, 26 Dec 2022 01:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Titanic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Titanic",
         "pubdate": "Sun, 25 Dec 2022 21:00:00 +0100"
@@ -24,8 +31,8 @@
     ],
     [
       {
-        "title": "The Witcher Blood Origin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Witcher%20Blood%20Origin",
+        "title": "The Witcher : Blood Origin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Witcher%20:%20Blood%20Origin",
         "pubdate": "Sun, 25 Dec 2022 20:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Trabzonspor  Fenerbahçe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Trabzonspor%20%20Fenerbah%C3%A7e",
         "pubdate": "Sat, 24 Dec 2022 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mariah Carey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mariah%20Carey",
-        "pubdate": "Sat, 24 Dec 2022 21:00:00 +0100"
       }
     ]
   ]

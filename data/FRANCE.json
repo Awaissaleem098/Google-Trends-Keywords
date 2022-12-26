@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "26-12-2022 , 00:33:47",
+  "lastUpdate": "26-12-2022 , 02:01:08",
   "data": [
+    [
+      {
+        "title": "Avalanche Autriche",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Avalanche%20Autriche",
+        "pubdate": "Mon, 26 Dec 2022 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "HARRY POTTER",
@@ -20,13 +27,6 @@
         "title": "Pere noel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pere%20noel",
         "pubdate": "Sun, 25 Dec 2022 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Loto 25 decembre 2022",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Loto%2025%20decembre%202022",
-        "pubdate": "Sun, 25 Dec 2022 21:00:00 +0100"
       }
     ],
     [
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Dorothée",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Doroth%C3%A9e",
-        "pubdate": "Sun, 25 Dec 2022 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Alain Delon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alain%20Delon",
         "pubdate": "Sun, 25 Dec 2022 16:00:00 +0100"
@@ -90,13 +83,6 @@
         "title": "Damso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Damso",
         "pubdate": "Sun, 25 Dec 2022 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Patrick Timsit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Patrick%20Timsit",
-        "pubdate": "Sun, 25 Dec 2022 14:00:00 +0100"
       }
     ],
     [
@@ -129,8 +115,8 @@
     ],
     [
       {
-        "title": "Republique Dominicaine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Republique%20Dominicaine",
+        "title": "Republique dominicaine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Republique%20dominicaine",
         "pubdate": "Sun, 25 Dec 2022 19:00:00 +0100"
       }
     ],
@@ -139,6 +125,20 @@
         "title": "Sheila",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sheila",
         "pubdate": "Sun, 25 Dec 2022 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Marc Lavoine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marc%20Lavoine",
+        "pubdate": "Sun, 25 Dec 2022 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Last Christmas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Last%20Christmas",
+        "pubdate": "Sat, 24 Dec 2022 19:00:00 +0100"
       }
     ]
   ]
