@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-12-2022 , 23:52:31",
+  "lastUpdate": "29-12-2022 , 01:11:31",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Papa Francisco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Papa%20Francisco",
+        "pubdate": "Wed, 28 Dec 2022 09:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Lille",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lille",
         "pubdate": "Wed, 28 Dec 2022 10:00:00 -0500"
@@ -38,23 +45,9 @@
     ],
     [
       {
-        "title": "Papa Francisco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Papa%20Francisco",
-        "pubdate": "Wed, 28 Dec 2022 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Idas e Vindas do Amor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Idas%20e%20Vindas%20do%20Amor",
-        "pubdate": "Wed, 28 Dec 2022 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Bob Marley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bob%20Marley",
-        "pubdate": "Wed, 28 Dec 2022 08:00:00 -0500"
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lakers",
+        "pubdate": "Wed, 28 Dec 2022 07:00:00 -0500"
       }
     ],
     [
@@ -66,9 +59,16 @@
     ],
     [
       {
-        "title": "Monaco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Monaco",
-        "pubdate": "Wed, 28 Dec 2022 12:00:00 -0500"
+        "title": "Bob Marley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bob%20Marley",
+        "pubdate": "Wed, 28 Dec 2022 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Idas e Vindas do Amor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Idas%20e%20Vindas%20do%20Amor",
+        "pubdate": "Wed, 28 Dec 2022 14:00:00 -0500"
       }
     ],
     [
@@ -76,6 +76,20 @@
         "title": "Folha de s.paulo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Folha%20de%20s.paulo",
         "pubdate": "Wed, 28 Dec 2022 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Filha de Pedro Scooby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Filha%20de%20Pedro%20Scooby",
+        "pubdate": "Wed, 28 Dec 2022 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Monaco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Monaco",
+        "pubdate": "Wed, 28 Dec 2022 12:00:00 -0500"
       }
     ],
     [
@@ -101,16 +115,9 @@
     ],
     [
       {
-        "title": "Calendário pagamento AUXÍLIO BRASIL 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Calend%C3%A1rio%20pagamento%20AUX%C3%8DLIO%20BRASIL%202023",
-        "pubdate": "Wed, 28 Dec 2022 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Conselho Federal de Enfermagem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Conselho%20Federal%20de%20Enfermagem",
-        "pubdate": "Wed, 28 Dec 2022 17:00:00 -0500"
+        "title": "Zico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Zico",
+        "pubdate": "Wed, 28 Dec 2022 19:00:00 -0500"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Gasolina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gasolina",
-        "pubdate": "Wed, 28 Dec 2022 14:00:00 -0500"
+        "title": "Calendário pagamento AUXÍLIO BRASIL 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Calend%C3%A1rio%20pagamento%20AUX%C3%8DLIO%20BRASIL%202023",
+        "pubdate": "Wed, 28 Dec 2022 11:00:00 -0500"
       }
     ],
     [
       {
-        "title": "PAOK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PAOK",
-        "pubdate": "Wed, 28 Dec 2022 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "ABC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#ABC",
-        "pubdate": "Wed, 28 Dec 2022 15:00:00 -0500"
+        "title": "Conselho Federal de Enfermagem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Conselho%20Federal%20de%20Enfermagem",
+        "pubdate": "Wed, 28 Dec 2022 17:00:00 -0500"
       }
     ]
   ]
