@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "29-12-2022 , 04:51:29",
+  "lastUpdate": "29-12-2022 , 05:11:29",
   "data": [
     [
       {
         "title": "Lewis Hamilton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Lewis%20Hamilton",
         "pubdate": "Thu, 29 Dec 2022 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Greta Thunberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Greta%20Thunberg",
+        "pubdate": "Thu, 29 Dec 2022 06:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Aston Villa vs Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Aston%20Villa%20vs%20Liverpool",
         "pubdate": "Mon, 26 Dec 2022 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Man United vs nottm Forest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20United%20vs%20nottm%20Forest",
-        "pubdate": "Mon, 26 Dec 2022 12:00:00 +0200"
       }
     ]
   ]
