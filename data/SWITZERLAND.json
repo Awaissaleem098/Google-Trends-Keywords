@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "29-12-2022 , 23:55:24",
+  "lastUpdate": "30-12-2022 , 01:41:14",
   "data": [
     [
       {
-        "title": "Matthias Mayer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Matthias%20Mayer",
-        "pubdate": "Thu, 29 Dec 2022 10:00:00 +0100"
+        "title": "Sporting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sporting",
+        "pubdate": "Fri, 30 Dec 2022 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jude Law",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jude%20Law",
+        "pubdate": "Fri, 30 Dec 2022 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Atletico Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Atletico%20Madrid",
+        "pubdate": "Fri, 30 Dec 2022 01:00:00 +0100"
       }
     ],
     [
@@ -17,9 +31,23 @@
     ],
     [
       {
+        "title": "Matthias Mayer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Matthias%20Mayer",
+        "pubdate": "Thu, 29 Dec 2022 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Ligue 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ligue%201",
         "pubdate": "Thu, 29 Dec 2022 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Pele tot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pele%20tot",
+        "pubdate": "Thu, 29 Dec 2022 21:00:00 +0100"
       }
     ],
     [
@@ -31,16 +59,16 @@
     ],
     [
       {
-        "title": "George Santos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#George%20Santos",
-        "pubdate": "Thu, 29 Dec 2022 22:00:00 +0100"
+        "title": "Jean-Jacques Goldman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jean-Jacques%20Goldman",
+        "pubdate": "Thu, 29 Dec 2022 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Jean-Jacques Goldman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jean-Jacques%20Goldman",
-        "pubdate": "Thu, 29 Dec 2022 21:00:00 +0100"
+        "title": "George Santos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#George%20Santos",
+        "pubdate": "Thu, 29 Dec 2022 22:00:00 +0100"
       }
     ],
     [
@@ -52,16 +80,16 @@
     ],
     [
       {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Galatasaray",
-        "pubdate": "Thu, 29 Dec 2022 17:00:00 +0100"
+        "title": "ORF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ORF",
+        "pubdate": "Thu, 29 Dec 2022 12:00:00 +0100"
       }
     ],
     [
       {
-        "title": "ORF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ORF",
-        "pubdate": "Thu, 29 Dec 2022 12:00:00 +0100"
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Galatasaray",
+        "pubdate": "Thu, 29 Dec 2022 17:00:00 +0100"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Aline Danioth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Aline%20Danioth",
         "pubdate": "Thu, 29 Dec 2022 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tesla-Aktien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tesla-Aktien",
-        "pubdate": "Thu, 29 Dec 2022 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Venezuela",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Venezuela",
-        "pubdate": "Thu, 29 Dec 2022 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Benoit 16",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benoit%2016",
-        "pubdate": "Thu, 29 Dec 2022 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bad Säckingen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bad%20S%C3%A4ckingen",
-        "pubdate": "Thu, 29 Dec 2022 09:00:00 +0100"
       }
     ]
   ]

@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "29-12-2022 , 23:55:22",
+  "lastUpdate": "30-12-2022 , 01:41:11",
   "data": [
+    [
+      {
+        "title": "Pele",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pele",
+        "pubdate": "Thu, 29 Dec 2022 20:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Siergiej Ławrow",
@@ -13,6 +20,13 @@
         "title": "Vivienne Westwood",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Vivienne%20Westwood",
         "pubdate": "Thu, 29 Dec 2022 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kamil Stoch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kamil%20Stoch",
+        "pubdate": "Thu, 29 Dec 2022 19:00:00 +0100"
       }
     ],
     [
@@ -31,16 +45,16 @@
     ],
     [
       {
-        "title": "Magdalena Narożna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Magdalena%20Naro%C5%BCna",
-        "pubdate": "Thu, 29 Dec 2022 11:00:00 +0100"
+        "title": "Black Eyed Peas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Black%20Eyed%20Peas",
+        "pubdate": "Thu, 29 Dec 2022 12:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Black Eyed Peas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Black%20Eyed%20Peas",
-        "pubdate": "Thu, 29 Dec 2022 12:00:00 +0100"
+        "title": "Magdalena Narożna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Magdalena%20Naro%C5%BCna",
+        "pubdate": "Thu, 29 Dec 2022 11:00:00 +0100"
       }
     ],
     [
@@ -66,16 +80,16 @@
     ],
     [
       {
-        "title": "Bella Thorne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bella%20Thorne",
-        "pubdate": "Thu, 29 Dec 2022 14:00:00 +0100"
+        "title": "Pretty Woman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pretty%20Woman",
+        "pubdate": "Thu, 29 Dec 2022 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Pretty Woman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pretty%20Woman",
-        "pubdate": "Thu, 29 Dec 2022 22:00:00 +0100"
+        "title": "Bella Thorne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bella%20Thorne",
+        "pubdate": "Thu, 29 Dec 2022 14:00:00 +0100"
       }
     ],
     [
@@ -87,16 +101,16 @@
     ],
     [
       {
-        "title": "Jude Law",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jude%20Law",
-        "pubdate": "Thu, 29 Dec 2022 10:00:00 +0100"
+        "title": "Adam Małysz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Adam%20Ma%C5%82ysz",
+        "pubdate": "Thu, 29 Dec 2022 19:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Adam Małysz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Adam%20Ma%C5%82ysz",
-        "pubdate": "Thu, 29 Dec 2022 19:00:00 +0100"
+        "title": "Jude Law",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jude%20Law",
+        "pubdate": "Thu, 29 Dec 2022 10:00:00 +0100"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Maria Niklińska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maria%20Nikli%C5%84ska",
-        "pubdate": "Thu, 29 Dec 2022 01:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Paulina Krupińska",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Paulina%20Krupi%C5%84ska",
         "pubdate": "Thu, 29 Dec 2022 21:00:00 +0100"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Stan Lee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Stan%20Lee",
-        "pubdate": "Thu, 29 Dec 2022 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Zyczenia noworoczne 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zyczenia%20noworoczne%202023",
-        "pubdate": "Thu, 29 Dec 2022 20:00:00 +0100"
+        "title": "Maria Niklińska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maria%20Nikli%C5%84ska",
+        "pubdate": "Thu, 29 Dec 2022 01:00:00 +0100"
       }
     ]
   ]

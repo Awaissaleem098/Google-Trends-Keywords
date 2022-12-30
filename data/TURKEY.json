@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-12-2022 , 23:55:25",
+  "lastUpdate": "30-12-2022 , 01:41:15",
   "data": [
     [
       {
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Greta Thunberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Greta%20Thunberg",
-        "pubdate": "Thu, 29 Dec 2022 01:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "AFAD 70 personel alımı",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#AFAD%2070%20personel%20al%C4%B1m%C4%B1",
         "pubdate": "Thu, 29 Dec 2022 18:00:00 +0300"
@@ -89,6 +82,13 @@
       {
         "title": "KYK ne zaman yatacak",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#KYK%20ne%20zaman%20yatacak",
+        "pubdate": "Thu, 29 Dec 2022 09:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Andrew Tate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Andrew%20Tate",
         "pubdate": "Thu, 29 Dec 2022 09:00:00 +0300"
       }
     ],
@@ -115,16 +115,9 @@
     ],
     [
       {
-        "title": "Ligue 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ligue%201",
-        "pubdate": "Thu, 29 Dec 2022 08:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Erkan Özdamar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Erkan%20%C3%96zdamar",
-        "pubdate": "Thu, 29 Dec 2022 20:00:00 +0300"
+        "title": "EYT Bağ-Kur emeklilik şartları",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#EYT%20Ba%C4%9F-Kur%20emeklilik%20%C5%9Fartlar%C4%B1",
+        "pubdate": "Thu, 29 Dec 2022 14:00:00 +0300"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Ecem Erkek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ecem%20Erkek",
-        "pubdate": "Thu, 29 Dec 2022 11:00:00 +0300"
+        "title": "Erkan Özdamar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Erkan%20%C3%96zdamar",
+        "pubdate": "Thu, 29 Dec 2022 20:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Greta Thunberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Greta%20Thunberg",
+        "pubdate": "Thu, 29 Dec 2022 01:00:00 +0300"
       }
     ]
   ]
