@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-12-2022 , 01:39:23",
+  "lastUpdate": "31-12-2022 , 02:27:07",
   "data": [
     [
       {
@@ -17,15 +17,15 @@
     ],
     [
       {
-        "title": "Valladolid–real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Valladolid%E2%80%93real%20Madrid",
+        "title": "VALLADOLID–REAL MADRID",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#VALLADOLID%E2%80%93REAL%20MADRID",
         "pubdate": "Fri, 30 Dec 2022 13:00:00 +0100"
       }
     ],
     [
       {
-        "title": "LIVERPOOL–LEICESTER",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#LIVERPOOL%E2%80%93LEICESTER",
+        "title": "Liverpool–leicester",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool%E2%80%93leicester",
         "pubdate": "Fri, 30 Dec 2022 19:00:00 +0100"
       }
     ],
@@ -94,20 +94,6 @@
     ],
     [
       {
-        "title": "Leveles tészta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Leveles%20t%C3%A9szta",
-        "pubdate": "Fri, 30 Dec 2022 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gesztesi Károly",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gesztesi%20K%C3%A1roly",
-        "pubdate": "Fri, 30 Dec 2022 05:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "XVI. Benedek pápá",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#XVI.%20Benedek%20p%C3%A1p%C3%A1",
         "pubdate": "Fri, 30 Dec 2022 11:00:00 +0100"
@@ -122,13 +108,6 @@
     ],
     [
       {
-        "title": "Közúti baleset",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%C3%B6z%C3%BAti%20baleset",
-        "pubdate": "Fri, 30 Dec 2022 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Keanu Reeves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Keanu%20Reeves",
         "pubdate": "Fri, 30 Dec 2022 21:00:00 +0100"
@@ -136,9 +115,30 @@
     ],
     [
       {
+        "title": "Közúti baleset",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%C3%B6z%C3%BAti%20baleset",
+        "pubdate": "Fri, 30 Dec 2022 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Gáspár Győző",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G%C3%A1sp%C3%A1r%20Gy%C5%91z%C5%91",
         "pubdate": "Fri, 30 Dec 2022 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Szilágyi István",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szil%C3%A1gyi%20Istv%C3%A1n",
+        "pubdate": "Fri, 30 Dec 2022 03:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tolvai Reni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tolvai%20Reni",
+        "pubdate": "Fri, 30 Dec 2022 07:00:00 +0100"
       }
     ]
   ]

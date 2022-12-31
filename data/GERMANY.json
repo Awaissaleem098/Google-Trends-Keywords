@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-12-2022 , 01:39:22",
+  "lastUpdate": "31-12-2022 , 02:27:06",
   "data": [
     [
       {
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "The Imitation Game",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#The%20Imitation%20Game",
-        "pubdate": "Fri, 30 Dec 2022 21:00:00 +0100"
+        "title": "Stars in der Manege",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stars%20in%20der%20Manege",
+        "pubdate": "Fri, 30 Dec 2022 20:00:00 +0100"
       }
     ],
     [
@@ -62,13 +62,6 @@
         "title": "Vivienne Westwood",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Vivienne%20Westwood",
         "pubdate": "Thu, 29 Dec 2022 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Papst Benedikt XVI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Papst%20Benedikt%20XVI",
-        "pubdate": "Thu, 29 Dec 2022 16:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Taiwan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Taiwan",
         "pubdate": "Mon, 26 Dec 2022 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Premier%20League",
+        "pubdate": "Sun, 25 Dec 2022 19:00:00 +0100"
       }
     ]
   ]

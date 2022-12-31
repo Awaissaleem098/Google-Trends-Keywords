@@ -1,1 +1,1 @@
-Szilveszter 2022,Greta Thunberg,Valladolid–real Madrid,LIVERPOOL–LEICESTER,Ronaldo,Bruce Willis,Fidesz,Psv–milan,Marilyn Monroe,K2-vitamin,Lencsefozelek,Gelencsér Tímea,Kanye West,Leveles tészta,Gesztesi Károly,XVI. Benedek pápá,Fertőzés,Közúti baleset,Keanu Reeves,Gáspár Győző
+Szilveszter 2022,Greta Thunberg,VALLADOLID–REAL MADRID,Liverpool–leicester,Ronaldo,Bruce Willis,Fidesz,Psv–milan,Marilyn Monroe,K2-vitamin,Lencsefozelek,Gelencsér Tímea,Kanye West,XVI. Benedek pápá,Fertőzés,Keanu Reeves,Közúti baleset,Gáspár Győző,Szilágyi István,Tolvai Reni

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-12-2022 , 01:39:26",
+  "lastUpdate": "31-12-2022 , 02:27:11",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "David Neres",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#David%20Neres",
-        "pubdate": "Sat, 31 Dec 2022 00:00:00 +0000"
+        "title": "Bolsonaro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bolsonaro",
+        "pubdate": "Sat, 31 Dec 2022 01:00:00 +0000"
       }
     ],
     [
@@ -24,8 +24,15 @@
     ],
     [
       {
-        "title": "Juan Carlos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Juan%20Carlos",
+        "title": "Seleção portuguesa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sele%C3%A7%C3%A3o%20portuguesa",
+        "pubdate": "Sat, 31 Dec 2022 01:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "David Neres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#David%20Neres",
         "pubdate": "Sat, 31 Dec 2022 00:00:00 +0000"
       }
     ],
@@ -38,9 +45,16 @@
     ],
     [
       {
-        "title": "Greta Thunberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Greta%20Thunberg",
-        "pubdate": "Fri, 30 Dec 2022 00:00:00 +0000"
+        "title": "Juan Carlos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Juan%20Carlos",
+        "pubdate": "Sat, 31 Dec 2022 00:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Joao Neves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joao%20Neves",
+        "pubdate": "Sat, 31 Dec 2022 01:00:00 +0000"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Mae de pele",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mae%20de%20pele",
-        "pubdate": "Fri, 30 Dec 2022 01:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Passagem de ano Porto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Passagem%20de%20ano%20Porto",
         "pubdate": "Fri, 30 Dec 2022 19:00:00 +0000"
@@ -122,9 +129,9 @@
     ],
     [
       {
-        "title": "PSV  Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#PSV%20%20Milan",
-        "pubdate": "Fri, 30 Dec 2022 18:00:00 +0000"
+        "title": "Mae de pele",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mae%20de%20pele",
+        "pubdate": "Fri, 30 Dec 2022 01:00:00 +0000"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Mensagem de Ano Novo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mensagem%20de%20Ano%20Novo",
         "pubdate": "Fri, 30 Dec 2022 17:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "SL Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#SL%20Benfica",
-        "pubdate": "Fri, 30 Dec 2022 22:00:00 +0000"
       }
     ]
   ]

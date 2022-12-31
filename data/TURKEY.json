@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "31-12-2022 , 01:39:29",
+  "lastUpdate": "31-12-2022 , 02:27:14",
   "data": [
-    [
-      {
-        "title": "Fenerbahçe Beko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fenerbah%C3%A7e%20Beko",
-        "pubdate": "Sat, 31 Dec 2022 01:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "Real Madrid",
@@ -94,16 +87,16 @@
     ],
     [
       {
-        "title": "Son depremler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Son%20depremler",
-        "pubdate": "Fri, 30 Dec 2022 11:00:00 +0300"
+        "title": "Ronaldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ronaldo",
+        "pubdate": "Fri, 30 Dec 2022 22:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Ronaldo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ronaldo",
-        "pubdate": "Fri, 30 Dec 2022 22:00:00 +0300"
+        "title": "Son depremler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Son%20depremler",
+        "pubdate": "Fri, 30 Dec 2022 11:00:00 +0300"
       }
     ],
     [
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Star TV canlı izle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Star%20TV%20canl%C4%B1%20izle",
-        "pubdate": "Fri, 30 Dec 2022 21:00:00 +0300"
+        "title": "Liverpool Leicester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Liverpool%20Leicester%20City",
+        "pubdate": "Fri, 30 Dec 2022 23:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Liverpool Leicester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Liverpool%20Leicester%20City",
+        "title": "Fenerbahçe Beko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fenerbah%C3%A7e%20Beko",
         "pubdate": "Fri, 30 Dec 2022 23:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Galatasaray  Ankaragücü",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Galatasaray%20%20Ankarag%C3%BCc%C3%BC",
+        "pubdate": "Fri, 30 Dec 2022 18:00:00 +0300"
       }
     ]
   ]

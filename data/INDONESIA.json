@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "31-12-2022 , 01:39:23",
+  "lastUpdate": "31-12-2022 , 02:27:08",
   "data": [
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Liverpool",
+        "pubdate": "Sat, 31 Dec 2022 08:00:00 +0700"
+      }
+    ],
     [
       {
         "title": "AC Milan",
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Real Sociedad vs Osasuna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Real%20Sociedad%20vs%20Osasuna",
-        "pubdate": "Sat, 31 Dec 2022 06:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Pele",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Pele",
         "pubdate": "Fri, 30 Dec 2022 04:00:00 +0700"
@@ -52,8 +52,8 @@
     ],
     [
       {
-        "title": "Valladolid vs Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Valladolid%20vs%20Madrid",
+        "title": "Valladolid Vs Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Valladolid%20Vs%20Madrid",
         "pubdate": "Fri, 30 Dec 2022 06:00:00 +0700"
       }
     ],
@@ -94,15 +94,8 @@
     ],
     [
       {
-        "title": "PPKM adalah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#PPKM%20adalah",
-        "pubdate": "Fri, 30 Dec 2022 15:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Ucapan selamat tahun baru 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Ucapan%20selamat%20tahun%20baru%202023",
+        "title": "Ucapan Selamat Tahun Baru 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Ucapan%20Selamat%20Tahun%20Baru%202023",
         "pubdate": "Fri, 30 Dec 2022 11:00:00 +0700"
       }
     ],
@@ -132,6 +125,13 @@
         "title": "Getafe vs Mallorca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Getafe%20vs%20Mallorca",
         "pubdate": "Fri, 30 Dec 2022 07:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Al%20Nassr",
+        "pubdate": "Fri, 30 Dec 2022 13:00:00 +0700"
       }
     ],
     [
