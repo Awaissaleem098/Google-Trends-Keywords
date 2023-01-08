@@ -1,6 +1,55 @@
 {
-  "lastUpdate": "07-01-2023 , 23:48:14",
+  "lastUpdate": "08-01-2023 , 02:09:27",
   "data": [
+    [
+      {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Napoli",
+        "pubdate": "Sun, 08 Jan 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Gremlins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Gremlins",
+        "pubdate": "Sun, 08 Jan 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Antonino Cannavacciuolo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Antonino%20Cannavacciuolo",
+        "pubdate": "Sun, 08 Jan 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Villa Crespi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Villa%20Crespi",
+        "pubdate": "Sun, 08 Jan 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Classifica Serie B",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Classifica%20Serie%20B",
+        "pubdate": "Sun, 08 Jan 2023 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Il fuggitivo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Il%20fuggitivo",
+        "pubdate": "Sun, 08 Jan 2023 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bologna-Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bologna-Atalanta",
+        "pubdate": "Sun, 08 Jan 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "JUVENTUS-UDINESE",
@@ -19,7 +68,7 @@
       {
         "title": "Fiorentina-Sassuolo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fiorentina-Sassuolo",
-        "pubdate": "Sat, 07 Jan 2023 00:00:00 +0100"
+        "pubdate": "Sat, 07 Jan 2023 07:00:00 +0100"
       }
     ],
     [
@@ -27,6 +76,13 @@
         "title": "Can Yaman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Can%20Yaman",
         "pubdate": "Sat, 07 Jan 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Partite Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Partite%20Serie%20A",
+        "pubdate": "Sat, 07 Jan 2023 16:00:00 +0100"
       }
     ],
     [
@@ -45,30 +101,9 @@
     ],
     [
       {
-        "title": "Campionato serie a",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Campionato%20serie%20a",
-        "pubdate": "Sat, 07 Jan 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Serie B",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Serie%20B",
         "pubdate": "Sat, 07 Jan 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Catanzaro  Taranto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Catanzaro%20%20Taranto",
-        "pubdate": "Sat, 07 Jan 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Alba Baptista",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alba%20Baptista",
-        "pubdate": "Sat, 07 Jan 2023 10:00:00 +0100"
       }
     ],
     [
@@ -80,16 +115,16 @@
     ],
     [
       {
-        "title": "Zucchero condannato diffamazione",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Zucchero%20condannato%20diffamazione",
+        "title": "Zucchero condannato per diffamazione",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Zucchero%20condannato%20per%20diffamazione",
         "pubdate": "Sat, 07 Jan 2023 19:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Serie C",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Serie%20C",
-        "pubdate": "Sat, 07 Jan 2023 16:00:00 +0100"
+        "title": "Catanzaro-Taranto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Catanzaro-Taranto",
+        "pubdate": "Sat, 07 Jan 2023 18:00:00 +0100"
       }
     ],
     [
@@ -101,44 +136,9 @@
     ],
     [
       {
-        "title": "Adelboden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Adelboden",
-        "pubdate": "Sat, 07 Jan 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Andrew Howe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Andrew%20Howe",
-        "pubdate": "Sat, 07 Jan 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Massimo Ranieri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Massimo%20Ranieri",
-        "pubdate": "Sat, 07 Jan 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gran Torino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Gran%20Torino",
-        "pubdate": "Sat, 07 Jan 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "David Bowie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#David%20Bowie",
-        "pubdate": "Sat, 07 Jan 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Brad Pitt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Brad%20Pitt",
-        "pubdate": "Sat, 07 Jan 2023 06:00:00 +0100"
+        "title": "Alba Baptista",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alba%20Baptista",
+        "pubdate": "Sat, 07 Jan 2023 10:00:00 +0100"
       }
     ]
   ]

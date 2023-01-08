@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "07-01-2023 , 23:48:13",
+  "lastUpdate": "08-01-2023 , 02:09:26",
   "data": [
+    [
+      {
+        "title": "Orosz-ukrán háború",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Orosz-ukr%C3%A1n%20h%C3%A1bor%C3%BA",
+        "pubdate": "Sun, 08 Jan 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid CF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20Madrid%20CF",
+        "pubdate": "Sun, 08 Jan 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Halle Berry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Halle%20Berry",
+        "pubdate": "Sun, 08 Jan 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Morcsányi Géza",
@@ -10,16 +31,9 @@
     ],
     [
       {
-        "title": "Juventus–udinese",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Juventus%E2%80%93udinese",
+        "title": "Juventus–Udinese",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Juventus%E2%80%93Udinese",
         "pubdate": "Sat, 07 Jan 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fidesz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fidesz",
-        "pubdate": "Sat, 07 Jan 2023 22:00:00 +0100"
       }
     ],
     [
@@ -27,6 +41,13 @@
         "title": "Orbán Balázs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Orb%C3%A1n%20Bal%C3%A1zs",
         "pubdate": "Sat, 07 Jan 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Fidesz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fidesz",
+        "pubdate": "Sat, 07 Jan 2023 22:00:00 +0100"
       }
     ],
     [
@@ -73,8 +94,8 @@
     ],
     [
       {
-        "title": "Espanyol–girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Espanyol%E2%80%93girona",
+        "title": "Espanyol–Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Espanyol%E2%80%93Girona",
         "pubdate": "Sat, 07 Jan 2023 22:00:00 +0100"
       }
     ],
@@ -118,27 +139,6 @@
         "title": "Végjáték",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#V%C3%A9gj%C3%A1t%C3%A9k",
         "pubdate": "Sat, 07 Jan 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jessie J",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jessie%20J",
-        "pubdate": "Sat, 07 Jan 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Attila",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Attila",
-        "pubdate": "Sat, 07 Jan 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nótár Mary",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#N%C3%B3t%C3%A1r%20Mary",
-        "pubdate": "Sat, 07 Jan 2023 21:00:00 +0100"
       }
     ]
   ]

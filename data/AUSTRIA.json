@@ -1,10 +1,24 @@
 {
-  "lastUpdate": "07-01-2023 , 23:48:10",
+  "lastUpdate": "08-01-2023 , 02:09:23",
   "data": [
     [
       {
-        "title": "Adelboden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Adelboden",
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Real%20Madrid",
+        "pubdate": "Sun, 08 Jan 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Peter Wright",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Peter%20Wright",
+        "pubdate": "Sun, 08 Jan 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Victor Muffat-Jeandet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Victor%20Muffat-Jeandet",
         "pubdate": "Sat, 07 Jan 2023 10:00:00 +0100"
       }
     ],
@@ -38,6 +52,20 @@
     ],
     [
       {
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Serie%20A",
+        "pubdate": "Sat, 07 Jan 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kate Hudson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kate%20Hudson",
+        "pubdate": "Sat, 07 Jan 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Schnee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Schnee",
         "pubdate": "Sat, 07 Jan 2023 08:00:00 +0100"
@@ -52,16 +80,16 @@
     ],
     [
       {
-        "title": "Kate Hudson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kate%20Hudson",
-        "pubdate": "Sat, 07 Jan 2023 23:00:00 +0100"
+        "title": "Franz Beckenbauer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Franz%20Beckenbauer",
+        "pubdate": "Sat, 07 Jan 2023 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Franz Beckenbauer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Franz%20Beckenbauer",
-        "pubdate": "Sat, 07 Jan 2023 17:00:00 +0100"
+        "title": "Promi-Darts-WM 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Promi-Darts-WM%202023",
+        "pubdate": "Sat, 07 Jan 2023 21:00:00 +0100"
       }
     ],
     [
@@ -80,13 +108,6 @@
     ],
     [
       {
-        "title": "Promi-Darts-WM 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Promi-Darts-WM%202023",
-        "pubdate": "Sat, 07 Jan 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Helnwein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Helnwein",
         "pubdate": "Sat, 07 Jan 2023 18:00:00 +0100"
@@ -101,30 +122,9 @@
     ],
     [
       {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Juventus",
-        "pubdate": "Sat, 07 Jan 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Johannes Strolz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Johannes%20Strolz",
-        "pubdate": "Sat, 07 Jan 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Daniel Barenboim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Daniel%20Barenboim",
         "pubdate": "Sat, 07 Jan 2023 06:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sarah Engels",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sarah%20Engels",
-        "pubdate": "Sat, 07 Jan 2023 00:00:00 +0100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Ernst Grissemann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ernst%20Grissemann",
-        "pubdate": "Fri, 06 Jan 2023 18:00:00 +0100"
+        "title": "Sarah Engels",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sarah%20Engels",
+        "pubdate": "Sat, 07 Jan 2023 00:00:00 +0100"
       }
     ]
   ]
