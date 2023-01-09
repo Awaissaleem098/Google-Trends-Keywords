@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-01-2023 , 11:39:52",
+  "lastUpdate": "09-01-2023 , 14:36:47",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Niklas Dyrhaug",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Niklas%20Dyrhaug",
+        "pubdate": "Mon, 09 Jan 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Tour de Ski 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tour%20de%20Ski%202023",
         "pubdate": "Sun, 08 Jan 2023 17:00:00 +0100"
@@ -26,6 +33,13 @@
       {
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
+        "pubdate": "Sun, 08 Jan 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kristian Valen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kristian%20Valen",
         "pubdate": "Sun, 08 Jan 2023 19:00:00 +0100"
       }
     ],
@@ -45,13 +59,6 @@
     ],
     [
       {
-        "title": "Kristian Valen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kristian%20Valen",
-        "pubdate": "Sun, 08 Jan 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Adam Rich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Adam%20Rich",
         "pubdate": "Sun, 08 Jan 2023 17:00:00 +0100"
@@ -62,6 +69,13 @@
         "title": "Ragne Wiklund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ragne%20Wiklund",
         "pubdate": "Sun, 08 Jan 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool%20FC",
+        "pubdate": "Sun, 08 Jan 2023 02:00:00 +0100"
       }
     ],
     [
@@ -83,13 +97,6 @@
         "title": "Sheffield Wednesday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sheffield%20Wednesday",
         "pubdate": "Sun, 08 Jan 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
-        "pubdate": "Sat, 07 Jan 2023 23:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tottenham",
         "pubdate": "Sat, 07 Jan 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PSG",
-        "pubdate": "Sat, 07 Jan 2023 01:00:00 +0100"
       }
     ]
   ]

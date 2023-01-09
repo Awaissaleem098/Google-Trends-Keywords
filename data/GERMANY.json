@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "09-01-2023 , 11:39:48",
+  "lastUpdate": "09-01-2023 , 14:36:43",
   "data": [
+    [
+      {
+        "title": "Pietro Lombardi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pietro%20Lombardi",
+        "pubdate": "Mon, 09 Jan 2023 13:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "David Bowie",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Lützerath",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#L%C3%BCtzerath",
-        "pubdate": "Sun, 08 Jan 2023 15:00:00 +0100"
+        "title": "PCR-Tests",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#PCR-Tests",
+        "pubdate": "Mon, 09 Jan 2023 07:00:00 +0100"
       }
     ],
     [
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Letzte Generation",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Letzte%20Generation",
-        "pubdate": "Sun, 08 Jan 2023 21:00:00 +0100"
+        "title": "Polizei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Polizei",
+        "pubdate": "Sun, 08 Jan 2023 18:00:00 +0100"
       }
     ],
     [
@@ -62,20 +69,6 @@
         "title": "HSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
         "pubdate": "Sun, 08 Jan 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Manchester%20City",
-        "pubdate": "Sun, 08 Jan 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Corona PCR-Test",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Corona%20PCR-Test",
-        "pubdate": "Sun, 08 Jan 2023 22:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Harry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Harry",
         "pubdate": "Thu, 05 Jan 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bradley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bradley",
+        "pubdate": "Thu, 05 Jan 2023 12:00:00 +0100"
       }
     ]
   ]

@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "09-01-2023 , 11:39:52",
+  "lastUpdate": "09-01-2023 , 14:36:47",
   "data": [
+    [
+      {
+        "title": "Harry interview",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Harry%20interview",
+        "pubdate": "Tue, 10 Jan 2023 00:00:00 +1300"
+      }
+    ],
     [
       {
         "title": "Man City vs Chelsea",
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Aston Villa vs Stevenage",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Aston%20Villa%20vs%20Stevenage",
-        "pubdate": "Mon, 09 Jan 2023 08:00:00 +1300"
+        "title": "Adam Rich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Adam%20Rich",
+        "pubdate": "Mon, 09 Jan 2023 14:00:00 +1300"
       }
     ],
     [
       {
-        "title": "Adam Rich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Adam%20Rich",
-        "pubdate": "Mon, 09 Jan 2023 14:00:00 +1300"
+        "title": "Aston Villa vs Stevenage",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Aston%20Villa%20vs%20Stevenage",
+        "pubdate": "Mon, 09 Jan 2023 08:00:00 +1300"
       }
     ],
     [
@@ -54,6 +61,13 @@
       {
         "title": "Happy Valley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Happy%20Valley",
+        "pubdate": "Mon, 09 Jan 2023 21:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Notting Hill",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Notting%20Hill",
         "pubdate": "Mon, 09 Jan 2023 21:00:00 +1300"
       }
     ],
@@ -73,20 +87,6 @@
     ],
     [
       {
-        "title": "Notting Hill",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Notting%20Hill",
-        "pubdate": "Mon, 09 Jan 2023 21:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "ACC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#ACC",
-        "pubdate": "Mon, 09 Jan 2023 12:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Brazil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Brazil",
         "pubdate": "Mon, 09 Jan 2023 15:00:00 +1300"
@@ -101,8 +101,8 @@
     ],
     [
       {
-        "title": "Ami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ami",
+        "title": "AMI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#AMI",
         "pubdate": "Mon, 09 Jan 2023 14:00:00 +1300"
       }
     ],
@@ -122,9 +122,9 @@
     ],
     [
       {
-        "title": "Zoom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Zoom",
-        "pubdate": "Mon, 09 Jan 2023 17:00:00 +1300"
+        "title": "Andrew Tate hospital",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Andrew%20Tate%20hospital",
+        "pubdate": "Mon, 09 Jan 2023 22:00:00 +1300"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Andrew Tate hospital",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Andrew%20Tate%20hospital",
-        "pubdate": "Mon, 09 Jan 2023 22:00:00 +1300"
+        "title": "Shooting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Shooting",
+        "pubdate": "Mon, 09 Jan 2023 10:00:00 +1300"
       }
     ]
   ]

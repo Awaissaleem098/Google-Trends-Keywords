@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-01-2023 , 11:39:51",
+  "lastUpdate": "09-01-2023 , 14:36:46",
   "data": [
     [
       {
@@ -59,9 +59,23 @@
     ],
     [
       {
+        "title": "KGF Chapter 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#KGF%20Chapter%203",
+        "pubdate": "Mon, 09 Jan 2023 07:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Payment",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Payment",
         "pubdate": "Mon, 09 Jan 2023 13:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Malaysia Open 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Malaysia%20Open%202023",
+        "pubdate": "Mon, 09 Jan 2023 11:00:00 +0800"
       }
     ],
     [
@@ -73,8 +87,8 @@
     ],
     [
       {
-        "title": "Malaysia Open 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Malaysia%20Open%202023",
+        "title": "Genting share price",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Genting%20share%20price",
         "pubdate": "Mon, 09 Jan 2023 11:00:00 +0800"
       }
     ],
@@ -94,6 +108,13 @@
     ],
     [
       {
+        "title": "Khabib Nurmagomedov",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Khabib%20Nurmagomedov",
+        "pubdate": "Mon, 09 Jan 2023 13:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Tian Chua",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Tian%20Chua",
         "pubdate": "Mon, 09 Jan 2023 00:00:00 +0800"
@@ -101,9 +122,9 @@
     ],
     [
       {
-        "title": "Khabib Nurmagomedov",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Khabib%20Nurmagomedov",
-        "pubdate": "Mon, 09 Jan 2023 13:00:00 +0800"
+        "title": "Gundam: The Witch From Mercury",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Gundam:%20The%20Witch%20From%20Mercury",
+        "pubdate": "Mon, 09 Jan 2023 16:00:00 +0800"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Liverpool vs Wolves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Liverpool%20vs%20Wolves",
         "pubdate": "Sun, 08 Jan 2023 10:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Atlético Madrid vs Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Atl%C3%A9tico%20Madrid%20vs%20Barcelona",
-        "pubdate": "Sun, 08 Jan 2023 12:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Victoria Lee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Victoria%20Lee",
-        "pubdate": "Sun, 08 Jan 2023 11:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Cardiff City vs Leeds United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Cardiff%20City%20vs%20Leeds%20United",
-        "pubdate": "Sun, 08 Jan 2023 18:00:00 +0800"
       }
     ]
   ]

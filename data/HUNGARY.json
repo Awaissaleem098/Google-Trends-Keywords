@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-01-2023 , 11:39:49",
+  "lastUpdate": "09-01-2023 , 14:36:44",
   "data": [
     [
       {
@@ -17,9 +17,30 @@
     ],
     [
       {
+        "title": "G.w.M",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G.w.M",
+        "pubdate": "Mon, 09 Jan 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Erasmus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Erasmus",
         "pubdate": "Mon, 09 Jan 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Luke Evans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Luke%20Evans",
+        "pubdate": "Mon, 09 Jan 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mihalik Enikő",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mihalik%20Enik%C5%91",
+        "pubdate": "Mon, 09 Jan 2023 08:00:00 +0100"
       }
     ],
     [
@@ -31,9 +52,16 @@
     ],
     [
       {
-        "title": "Mihalik Enikő",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mihalik%20Enik%C5%91",
-        "pubdate": "Mon, 09 Jan 2023 08:00:00 +0100"
+        "title": "Dér Heni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#D%C3%A9r%20Heni",
+        "pubdate": "Mon, 09 Jan 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Victoria Lee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Victoria%20Lee",
+        "pubdate": "Mon, 09 Jan 2023 14:00:00 +0100"
       }
     ],
     [
@@ -48,13 +76,6 @@
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Napoli",
         "pubdate": "Mon, 09 Jan 2023 06:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Dér Heni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#D%C3%A9r%20Heni",
-        "pubdate": "Mon, 09 Jan 2023 11:00:00 +0100"
       }
     ],
     [
@@ -80,13 +101,6 @@
     ],
     [
       {
-        "title": "Gólkirályság",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G%C3%B3lkir%C3%A1lys%C3%A1g",
-        "pubdate": "Sun, 08 Jan 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Cápák között",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#C%C3%A1p%C3%A1k%20k%C3%B6z%C3%B6tt",
         "pubdate": "Sun, 08 Jan 2023 17:00:00 +0100"
@@ -97,13 +111,6 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool",
         "pubdate": "Sun, 08 Jan 2023 06:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Adam Rich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Adam%20Rich",
-        "pubdate": "Sun, 08 Jan 2023 23:00:00 +0100"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Aston villa–stevenage",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Aston%20villa%E2%80%93stevenage",
-        "pubdate": "Sun, 08 Jan 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Paulo Coelho",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Paulo%20Coelho",
         "pubdate": "Sun, 08 Jan 2023 21:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Solti Ádám",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Solti%20%C3%81d%C3%A1m",
-        "pubdate": "Sun, 08 Jan 2023 08:00:00 +0100"
+        "title": "Aston villa–stevenage",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Aston%20villa%E2%80%93stevenage",
+        "pubdate": "Sun, 08 Jan 2023 19:00:00 +0100"
       }
     ]
   ]

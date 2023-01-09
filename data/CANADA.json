@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "09-01-2023 , 11:39:46",
+  "lastUpdate": "09-01-2023 , 14:36:41",
   "data": [
     [
       {
-        "title": "Police",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Police",
-        "pubdate": "Mon, 09 Jan 2023 00:00:00 -0500"
+        "title": "Winter storm warning",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Winter%20storm%20warning",
+        "pubdate": "Mon, 09 Jan 2023 05:00:00 -0500"
       }
     ],
     [
@@ -17,9 +17,30 @@
     ],
     [
       {
+        "title": "Police",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Police",
+        "pubdate": "Mon, 09 Jan 2023 00:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Regina Pats",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Regina%20Pats",
         "pubdate": "Mon, 09 Jan 2023 03:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "PowerSchool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#PowerSchool",
+        "pubdate": "Mon, 09 Jan 2023 02:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Scott Caan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Scott%20Caan",
+        "pubdate": "Mon, 09 Jan 2023 00:00:00 -0500"
       }
     ],
     [
@@ -38,13 +59,6 @@
     ],
     [
       {
-        "title": "PowerSchool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#PowerSchool",
-        "pubdate": "Mon, 09 Jan 2023 02:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Adam Rich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Adam%20Rich",
         "pubdate": "Sun, 08 Jan 2023 12:00:00 -0500"
@@ -59,16 +73,16 @@
     ],
     [
       {
-        "title": "Seahawks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Seahawks",
-        "pubdate": "Sun, 08 Jan 2023 14:00:00 -0500"
+        "title": "Raptors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Raptors",
+        "pubdate": "Sun, 08 Jan 2023 17:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Raptors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Raptors",
-        "pubdate": "Sun, 08 Jan 2023 17:00:00 -0500"
+        "title": "Seahawks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Seahawks",
+        "pubdate": "Sun, 08 Jan 2023 14:00:00 -0500"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Dallas Cowboys",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dallas%20Cowboys",
         "pubdate": "Sun, 08 Jan 2023 18:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Elvis Presley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Elvis%20Presley",
-        "pubdate": "Sun, 08 Jan 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "PS752",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#PS752",
-        "pubdate": "Sun, 08 Jan 2023 19:00:00 -0500"
       }
     ]
   ]

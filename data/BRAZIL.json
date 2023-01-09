@@ -1,11 +1,32 @@
 {
-  "lastUpdate": "09-01-2023 , 11:39:46",
+  "lastUpdate": "09-01-2023 , 14:36:41",
   "data": [
     [
       {
-        "title": "Correio braziliense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Correio%20braziliense",
+        "title": "Correio Braziliense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Correio%20Braziliense",
         "pubdate": "Mon, 09 Jan 2023 04:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Celina Leão",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Celina%20Le%C3%A3o",
+        "pubdate": "Mon, 09 Jan 2023 06:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Luciana Gimenez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Luciana%20Gimenez",
+        "pubdate": "Mon, 09 Jan 2023 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Biden",
+        "pubdate": "Mon, 09 Jan 2023 06:00:00 -0500"
       }
     ],
     [
@@ -17,9 +38,16 @@
     ],
     [
       {
-        "title": "Bom Dia segunda-feira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bom%20Dia%20segunda-feira",
-        "pubdate": "Mon, 09 Jan 2023 05:00:00 -0500"
+        "title": "JP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#JP",
+        "pubdate": "Mon, 09 Jan 2023 06:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Scheila Carvalho",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Scheila%20Carvalho",
+        "pubdate": "Mon, 09 Jan 2023 07:00:00 -0500"
       }
     ],
     [
@@ -31,9 +59,16 @@
     ],
     [
       {
-        "title": "Invasao Congresso brasilia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Invasao%20Congresso%20brasilia",
-        "pubdate": "Mon, 09 Jan 2023 04:00:00 -0500"
+        "title": "Invasão do Capitólio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Invas%C3%A3o%20do%20Capit%C3%B3lio",
+        "pubdate": "Mon, 09 Jan 2023 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Protestos brasilia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Protestos%20brasilia",
+        "pubdate": "Mon, 09 Jan 2023 08:00:00 -0500"
       }
     ],
     [
@@ -52,6 +87,13 @@
     ],
     [
       {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Manchester%20City",
+        "pubdate": "Sun, 08 Jan 2023 12:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "SANTA CRUZ X BOTAFOGO-PB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#SANTA%20CRUZ%20X%20BOTAFOGO-PB",
         "pubdate": "Sun, 08 Jan 2023 13:00:00 -0500"
@@ -59,30 +101,9 @@
     ],
     [
       {
-        "title": "CNN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CNN",
-        "pubdate": "Sun, 08 Jan 2023 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "UOL noticias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#UOL%20noticias",
-        "pubdate": "Sun, 08 Jan 2023 18:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Napoli",
-        "pubdate": "Sun, 08 Jan 2023 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "PIS/Pasep",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PIS/Pasep",
-        "pubdate": "Sun, 08 Jan 2023 09:00:00 -0500"
+        "title": "Zico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Zico",
+        "pubdate": "Sun, 08 Jan 2023 11:00:00 -0500"
       }
     ],
     [
@@ -94,6 +115,13 @@
     ],
     [
       {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Napoli",
+        "pubdate": "Sun, 08 Jan 2023 00:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Jovem Pan news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jovem%20Pan%20news",
         "pubdate": "Sun, 08 Jan 2023 15:00:00 -0500"
@@ -101,44 +129,16 @@
     ],
     [
       {
+        "title": "PIS/Pasep",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PIS/Pasep",
+        "pubdate": "Sun, 08 Jan 2023 09:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "New York Times",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#New%20York%20Times",
         "pubdate": "Sun, 08 Jan 2023 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "O que é anistia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#O%20que%20%C3%A9%20anistia",
-        "pubdate": "Sun, 08 Jan 2023 21:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Noticias de hoje",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Noticias%20de%20hoje",
-        "pubdate": "Sun, 08 Jan 2023 18:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Vitoria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vitoria",
-        "pubdate": "Sun, 08 Jan 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Ultimas noticias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ultimas%20noticias",
-        "pubdate": "Sun, 08 Jan 2023 18:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Fenerbahçe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fenerbah%C3%A7e",
-        "pubdate": "Sun, 08 Jan 2023 11:00:00 -0500"
       }
     ]
   ]

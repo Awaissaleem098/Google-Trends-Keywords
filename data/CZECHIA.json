@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-01-2023 , 11:39:47",
+  "lastUpdate": "09-01-2023 , 14:36:42",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "NHL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#NHL",
-        "pubdate": "Mon, 09 Jan 2023 07:00:00 +0100"
+        "title": "Ct",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ct",
+        "pubdate": "Mon, 09 Jan 2023 01:00:00 +0100"
       }
     ],
     [
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "NHL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#NHL",
+        "pubdate": "Mon, 09 Jan 2023 07:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona",
         "pubdate": "Mon, 09 Jan 2023 00:00:00 +0100"
@@ -31,23 +38,9 @@
     ],
     [
       {
-        "title": "Zima",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zima",
-        "pubdate": "Mon, 09 Jan 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Manchester%20City",
-        "pubdate": "Mon, 09 Jan 2023 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "David Bowie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#David%20Bowie",
-        "pubdate": "Mon, 09 Jan 2023 01:00:00 +0100"
+        "title": "Tereza Pergnerová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tereza%20Pergnerov%C3%A1",
+        "pubdate": "Mon, 09 Jan 2023 08:00:00 +0100"
       }
     ],
     [
@@ -59,9 +52,16 @@
     ],
     [
       {
-        "title": "Česká koruna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8Cesk%C3%A1%20koruna",
-        "pubdate": "Mon, 09 Jan 2023 07:00:00 +0100"
+        "title": "Su-57",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Su-57",
+        "pubdate": "Mon, 09 Jan 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "David Bowie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#David%20Bowie",
+        "pubdate": "Mon, 09 Jan 2023 01:00:00 +0100"
       }
     ],
     [
@@ -73,9 +73,9 @@
     ],
     [
       {
-        "title": "SPD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#SPD",
-        "pubdate": "Mon, 09 Jan 2023 01:00:00 +0100"
+        "title": "Česká koruna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8Cesk%C3%A1%20koruna",
+        "pubdate": "Mon, 09 Jan 2023 07:00:00 +0100"
       }
     ],
     [
@@ -94,23 +94,9 @@
     ],
     [
       {
-        "title": "Kandidáti na prezidenta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kandid%C3%A1ti%20na%20prezidenta",
-        "pubdate": "Sun, 08 Jan 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Středula",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#St%C5%99edula",
+        "title": "Danuše Nerudová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Danu%C5%A1e%20Nerudov%C3%A1",
         "pubdate": "Sun, 08 Jan 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Danuše nerudová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Danu%C5%A1e%20nerudov%C3%A1",
-        "pubdate": "Sun, 08 Jan 2023 22:00:00 +0100"
       }
     ],
     [
@@ -122,16 +108,30 @@
     ],
     [
       {
-        "title": "Tomáš Zima",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20Zima",
+        "title": "Středula",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#St%C5%99edula",
         "pubdate": "Sun, 08 Jan 2023 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Miloš Zeman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Milo%C5%A1%20Zeman",
-        "pubdate": "Sun, 08 Jan 2023 23:00:00 +0100"
+        "title": "Man City – Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Man%20City%20%E2%80%93%20Chelsea",
+        "pubdate": "Sun, 08 Jan 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Prezidentská debata",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Prezidentsk%C3%A1%20debata",
+        "pubdate": "Sun, 08 Jan 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tomáš Zima",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20Zima",
+        "pubdate": "Sun, 08 Jan 2023 21:00:00 +0100"
       }
     ],
     [
