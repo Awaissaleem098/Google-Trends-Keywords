@@ -1,17 +1,17 @@
 {
-  "lastUpdate": "10-01-2023 , 00:34:19",
+  "lastUpdate": "10-01-2023 , 02:09:16",
   "data": [
     [
       {
-        "title": "Detroit Lions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Detroit%20Lions",
-        "pubdate": "Mon, 09 Jan 2023 11:00:00 -0800"
+        "title": "Georgia football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Georgia%20football",
+        "pubdate": "Mon, 09 Jan 2023 05:00:00 -0800"
       }
     ],
     [
       {
-        "title": "Georgia Football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Georgia%20Football",
+        "title": "Detroit Lions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Detroit%20Lions",
         "pubdate": "Mon, 09 Jan 2023 11:00:00 -0800"
       }
     ],
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Tua Tagovailoa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tua%20Tagovailoa",
-        "pubdate": "Mon, 09 Jan 2023 11:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Dow",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dow",
         "pubdate": "Mon, 09 Jan 2023 11:00:00 -0800"
@@ -87,37 +80,16 @@
     ],
     [
       {
-        "title": "NFL news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NFL%20news",
-        "pubdate": "Mon, 09 Jan 2023 12:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "TSLA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#TSLA",
-        "pubdate": "Mon, 09 Jan 2023 12:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Cardinals",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cardinals",
-        "pubdate": "Mon, 09 Jan 2023 10:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "PBS KIDS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#PBS%20KIDS",
-        "pubdate": "Mon, 09 Jan 2023 11:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Big Scarr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Big%20Scarr",
         "pubdate": "Mon, 09 Jan 2023 13:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Max Duggan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Max%20Duggan",
+        "pubdate": "Mon, 09 Jan 2023 15:00:00 -0800"
       }
     ],
     [
@@ -129,16 +101,44 @@
     ],
     [
       {
-        "title": "Apple Stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Apple%20Stock",
-        "pubdate": "Mon, 09 Jan 2023 13:00:00 -0800"
+        "title": "Microsoft Teams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Microsoft%20Teams",
+        "pubdate": "Mon, 09 Jan 2023 14:00:00 -0800"
       }
     ],
     [
       {
-        "title": "Max Duggan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Max%20Duggan",
-        "pubdate": "Mon, 09 Jan 2023 15:00:00 -0800"
+        "title": "Green Bay Packers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Green%20Bay%20Packers",
+        "pubdate": "Sun, 08 Jan 2023 18:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Buffalo Bills",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Buffalo%20Bills",
+        "pubdate": "Sun, 08 Jan 2023 06:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Dallas Cowboys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dallas%20Cowboys",
+        "pubdate": "Sun, 08 Jan 2023 09:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Seahawks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Seahawks",
+        "pubdate": "Sun, 08 Jan 2023 06:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Adam Rich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Adam%20Rich",
+        "pubdate": "Sun, 08 Jan 2023 09:00:00 -0800"
       }
     ]
   ]

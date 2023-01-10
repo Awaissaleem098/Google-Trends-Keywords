@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-01-2023 , 00:34:25",
+  "lastUpdate": "10-01-2023 , 02:09:24",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Robert De Niro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Robert%20De%20Niro",
         "pubdate": "Tue, 10 Jan 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Libro Harry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Libro%20Harry",
+        "pubdate": "Tue, 10 Jan 2023 01:00:00 +0100"
       }
     ],
     [
@@ -52,8 +59,8 @@
     ],
     [
       {
-        "title": "Vaticano Emanuela Orlandi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Vaticano%20Emanuela%20Orlandi",
+        "title": "Emanuela Orlandi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Emanuela%20Orlandi",
         "pubdate": "Mon, 09 Jan 2023 18:00:00 +0100"
       }
     ],
@@ -66,16 +73,16 @@
     ],
     [
       {
-        "title": "ChatGPT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#ChatGPT",
-        "pubdate": "Mon, 09 Jan 2023 13:00:00 +0100"
+        "title": "Coronavirus variante Kraken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Coronavirus%20variante%20Kraken",
+        "pubdate": "Mon, 09 Jan 2023 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Coronavirus variante Kraken",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Coronavirus%20variante%20Kraken",
-        "pubdate": "Mon, 09 Jan 2023 18:00:00 +0100"
+        "title": "ChatGPT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#ChatGPT",
+        "pubdate": "Mon, 09 Jan 2023 13:00:00 +0100"
       }
     ],
     [
@@ -115,15 +122,15 @@
     ],
     [
       {
-        "title": "Quei bravi ragazzi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Quei%20bravi%20ragazzi",
+        "title": "Alvaro Vitali",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alvaro%20Vitali",
         "pubdate": "Mon, 09 Jan 2023 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Alvaro Vitali",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alvaro%20Vitali",
+        "title": "Quei bravi ragazzi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Quei%20bravi%20ragazzi",
         "pubdate": "Mon, 09 Jan 2023 21:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Domenico Modugno",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Domenico%20Modugno",
         "pubdate": "Mon, 09 Jan 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nek",
-        "pubdate": "Mon, 09 Jan 2023 00:00:00 +0100"
       }
     ]
   ]

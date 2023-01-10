@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "10-01-2023 , 00:34:23",
+  "lastUpdate": "10-01-2023 , 02:09:21",
   "data": [
     [
       {
         "title": "Gestern waren wir noch Kinder",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gestern%20waren%20wir%20noch%20Kinder",
         "pubdate": "Mon, 09 Jan 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Brasilien Bolsonaro-Anhänger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Brasilien%20Bolsonaro-Anh%C3%A4nger",
+        "pubdate": "Mon, 09 Jan 2023 08:00:00 +0100"
       }
     ],
     [
@@ -52,23 +59,16 @@
     ],
     [
       {
+        "title": "Thomas Müller",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Thomas%20M%C3%BCller",
+        "pubdate": "Mon, 09 Jan 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Lützerath",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#L%C3%BCtzerath",
         "pubdate": "Sun, 08 Jan 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "NFL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NFL",
-        "pubdate": "Sun, 08 Jan 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Brasilien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Brasilien",
-        "pubdate": "Sun, 08 Jan 2023 22:00:00 +0100"
       }
     ],
     [

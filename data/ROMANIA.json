@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "10-01-2023 , 00:34:28",
+  "lastUpdate": "10-01-2023 , 02:09:28",
   "data": [
+    [
+      {
+        "title": "Soledar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Soledar",
+        "pubdate": "Tue, 10 Jan 2023 02:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Maps",
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "Capital",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Capital",
-        "pubdate": "Mon, 09 Jan 2023 08:00:00 +0200"
+        "title": "Oxford utd  Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Oxford%20utd%20%20Arsenal",
+        "pubdate": "Mon, 09 Jan 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Oxford utd Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Oxford%20utd%20Arsenal",
-        "pubdate": "Mon, 09 Jan 2023 22:00:00 +0200"
+        "title": "Capital",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Capital",
+        "pubdate": "Mon, 09 Jan 2023 08:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Ana Bogdan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ana%20Bogdan",
         "pubdate": "Mon, 09 Jan 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mircea geoana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mircea%20geoana",
-        "pubdate": "Mon, 09 Jan 2023 17:00:00 +0200"
       }
     ]
   ]

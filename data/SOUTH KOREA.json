@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "10-01-2023 , 00:34:29",
+  "lastUpdate": "10-01-2023 , 02:09:30",
   "data": [
+    [
+      {
+        "title": "한국사능력검정시험",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%95%9C%EA%B5%AD%EC%82%AC%EB%8A%A5%EB%A0%A5%EA%B2%80%EC%A0%95%EC%8B%9C%ED%97%98",
+        "pubdate": "Tue, 10 Jan 2023 09:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "최정원",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B5%9C%EC%A0%95%EC%9B%90",
+        "pubdate": "Tue, 10 Jan 2023 09:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "규제",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B7%9C%EC%A0%9C",
+        "pubdate": "Tue, 10 Jan 2023 09:00:00 +0900"
+      }
+    ],
     [
       {
         "title": "지진",
@@ -52,30 +73,9 @@
     ],
     [
       {
-        "title": "김의겸",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EC%9D%98%EA%B2%B8",
-        "pubdate": "Mon, 09 Jan 2023 08:00:00 +0900"
-      }
-    ],
-    [
-      {
         "title": "대통령",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%8C%80%ED%86%B5%EB%A0%B9",
         "pubdate": "Mon, 09 Jan 2023 23:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "김종민",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EC%A2%85%EB%AF%BC",
-        "pubdate": "Mon, 09 Jan 2023 08:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "아버지",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%95%84%EB%B2%84%EC%A7%80",
-        "pubdate": "Mon, 09 Jan 2023 13:00:00 +0900"
       }
     ],
     [
@@ -87,9 +87,23 @@
     ],
     [
       {
+        "title": "아버지",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%95%84%EB%B2%84%EC%A7%80",
+        "pubdate": "Mon, 09 Jan 2023 13:00:00 +0900"
+      }
+    ],
+    [
+      {
         "title": "백두산",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B0%B1%EB%91%90%EC%82%B0",
         "pubdate": "Mon, 09 Jan 2023 07:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "박항서",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B0%95%ED%95%AD%EC%84%9C",
+        "pubdate": "Mon, 09 Jan 2023 22:00:00 +0900"
       }
     ],
     [
@@ -104,13 +118,6 @@
         "title": "이대호",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EB%8C%80%ED%98%B8",
         "pubdate": "Mon, 09 Jan 2023 09:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "박항서",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B0%95%ED%95%AD%EC%84%9C",
-        "pubdate": "Mon, 09 Jan 2023 22:00:00 +0900"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "이혼",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%ED%98%BC",
         "pubdate": "Mon, 09 Jan 2023 08:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "김가영",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EA%B0%80%EC%98%81",
-        "pubdate": "Mon, 09 Jan 2023 01:00:00 +0900"
       }
     ]
   ]

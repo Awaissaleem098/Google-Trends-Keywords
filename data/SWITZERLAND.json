@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "10-01-2023 , 00:34:30",
+  "lastUpdate": "10-01-2023 , 02:09:30",
   "data": [
+    [
+      {
+        "title": "Kate Middleton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kate%20Middleton",
+        "pubdate": "Tue, 10 Jan 2023 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Maps",
@@ -73,6 +80,13 @@
     ],
     [
       {
+        "title": "Oxford gegen Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Oxford%20gegen%20Arsenal",
+        "pubdate": "Mon, 09 Jan 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "OneDrive",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#OneDrive",
         "pubdate": "Mon, 09 Jan 2023 10:00:00 +0100"
@@ -80,16 +94,16 @@
     ],
     [
       {
-        "title": "Kjetil Jansrud",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kjetil%20Jansrud",
-        "pubdate": "Mon, 09 Jan 2023 17:00:00 +0100"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arsenal",
+        "pubdate": "Mon, 09 Jan 2023 23:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Brasilien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Brasilien",
-        "pubdate": "Mon, 09 Jan 2023 08:00:00 +0100"
+        "title": "Kjetil Jansrud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kjetil%20Jansrud",
+        "pubdate": "Mon, 09 Jan 2023 17:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Anton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Anton",
         "pubdate": "Mon, 09 Jan 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Oxford gegen Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Oxford%20gegen%20Arsenal",
-        "pubdate": "Mon, 09 Jan 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "NFL-Playoffs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#NFL-Playoffs",
-        "pubdate": "Mon, 09 Jan 2023 02:00:00 +0100"
       }
     ]
   ]
