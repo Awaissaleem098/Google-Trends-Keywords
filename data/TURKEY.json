@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "09-01-2023 , 23:48:11",
+  "lastUpdate": "10-01-2023 , 00:34:30",
   "data": [
     [
       {
         "title": "Atalanta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Atalanta",
-        "pubdate": "Tue, 10 Jan 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Erkan Kandemir",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Erkan%20Kandemir",
         "pubdate": "Tue, 10 Jan 2023 00:00:00 +0300"
       }
     ],
@@ -24,8 +17,15 @@
     ],
     [
       {
-        "title": "Galatasaray, Fenerbahçe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Galatasaray,%20Fenerbah%C3%A7e",
+        "title": "Erkan Kandemir",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Erkan%20Kandemir",
+        "pubdate": "Tue, 10 Jan 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Galatasaray Fenerbahçe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Galatasaray%20Fenerbah%C3%A7e",
         "pubdate": "Mon, 09 Jan 2023 02:00:00 +0300"
       }
     ],
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "VAKKO*",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#VAKKO*",
+        "pubdate": "Mon, 09 Jan 2023 16:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Ülkü Ocakları",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C3%9Clk%C3%BC%20Ocaklar%C4%B1",
         "pubdate": "Mon, 09 Jan 2023 22:00:00 +0300"
@@ -90,6 +97,13 @@
         "title": "Kurtlar Vadisi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kurtlar%20Vadisi",
         "pubdate": "Mon, 09 Jan 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Yarın okullar tatil mi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Yar%C4%B1n%20okullar%20tatil%20mi",
+        "pubdate": "Mon, 09 Jan 2023 01:00:00 +0300"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Söke Un halka arz sonuçları",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#S%C3%B6ke%20Un%20halka%20arz%20sonu%C3%A7lar%C4%B1",
-        "pubdate": "Mon, 09 Jan 2023 17:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Haji Wright",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Haji%20Wright",
         "pubdate": "Mon, 09 Jan 2023 21:00:00 +0300"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Trabzon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Trabzon",
-        "pubdate": "Mon, 09 Jan 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Kim Milyoner Olmak İster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kim%20Milyoner%20Olmak%20%C4%B0ster",
-        "pubdate": "Mon, 09 Jan 2023 18:00:00 +0300"
+        "title": "Söke Un halka arz sonuçları",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#S%C3%B6ke%20Un%20halka%20arz%20sonu%C3%A7lar%C4%B1",
+        "pubdate": "Mon, 09 Jan 2023 17:00:00 +0300"
       }
     ]
   ]

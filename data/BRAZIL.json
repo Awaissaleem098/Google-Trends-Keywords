@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-01-2023 , 23:47:58",
+  "lastUpdate": "10-01-2023 , 00:34:20",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "Bale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bale",
-        "pubdate": "Mon, 09 Jan 2023 11:00:00 -0500"
+        "title": "Bolsonaro internado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bolsonaro%20internado",
+        "pubdate": "Mon, 09 Jan 2023 13:00:00 -0500"
       }
     ],
     [
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Bolsonaro internado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bolsonaro%20internado",
-        "pubdate": "Mon, 09 Jan 2023 13:00:00 -0500"
+        "title": "Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atalanta",
+        "pubdate": "Mon, 09 Jan 2023 07:00:00 -0500"
       }
     ],
     [
@@ -59,6 +59,20 @@
     ],
     [
       {
+        "title": "Gareth Bale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gareth%20Bale",
+        "pubdate": "Mon, 09 Jan 2023 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Ministério da Defesa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Minist%C3%A9rio%20da%20Defesa",
+        "pubdate": "Mon, 09 Jan 2023 06:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Luciana Gimenez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Luciana%20Gimenez",
         "pubdate": "Mon, 09 Jan 2023 07:00:00 -0500"
@@ -73,6 +87,13 @@
     ],
     [
       {
+        "title": "Google Meet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Google%20Meet",
+        "pubdate": "Mon, 09 Jan 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Cindy Mendes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cindy%20Mendes",
         "pubdate": "Mon, 09 Jan 2023 11:00:00 -0500"
@@ -80,15 +101,29 @@
     ],
     [
       {
-        "title": "Ministério da Defesa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Minist%C3%A9rio%20da%20Defesa",
-        "pubdate": "Mon, 09 Jan 2023 06:00:00 -0500"
+        "title": "Forças Armadas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#For%C3%A7as%20Armadas",
+        "pubdate": "Mon, 09 Jan 2023 13:00:00 -0500"
       }
     ],
     [
       {
         "title": "Paddington 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Paddington%202",
+        "pubdate": "Mon, 09 Jan 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Biden",
+        "pubdate": "Mon, 09 Jan 2023 06:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Agustín Rossi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Agust%C3%ADn%20Rossi",
         "pubdate": "Mon, 09 Jan 2023 15:00:00 -0500"
       }
     ],
@@ -104,41 +139,6 @@
         "title": "Paulo Pimenta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Paulo%20Pimenta",
         "pubdate": "Mon, 09 Jan 2023 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Magno Malta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Magno%20Malta",
-        "pubdate": "Mon, 09 Jan 2023 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Solange Gomes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Solange%20Gomes",
-        "pubdate": "Mon, 09 Jan 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Daniel Alves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Daniel%20Alves",
-        "pubdate": "Mon, 09 Jan 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Forças Armadas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#For%C3%A7as%20Armadas",
-        "pubdate": "Mon, 09 Jan 2023 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Ministério",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Minist%C3%A9rio",
-        "pubdate": "Mon, 09 Jan 2023 15:00:00 -0500"
       }
     ]
   ]

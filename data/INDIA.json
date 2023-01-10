@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-01-2023 , 23:48:03",
+  "lastUpdate": "10-01-2023 , 00:34:24",
   "data": [
     [
       {
@@ -12,7 +12,7 @@
       {
         "title": "TCS share Price",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#TCS%20share%20Price",
-        "pubdate": "Mon, 09 Jan 2023 19:30:00 +0530"
+        "pubdate": "Mon, 09 Jan 2023 11:30:00 +0530"
       }
     ],
     [
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Infosys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Infosys",
-        "pubdate": "Mon, 09 Jan 2023 11:30:00 +0530"
-      }
-    ],
-    [
-      {
         "title": "PAK vs NZ ODI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#PAK%20vs%20NZ%20ODI",
         "pubdate": "Mon, 09 Jan 2023 17:30:00 +0530"
@@ -90,13 +83,6 @@
         "title": "Zinedine Zidane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Zinedine%20Zidane",
         "pubdate": "Mon, 09 Jan 2023 21:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Pak-vs-nz Live",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Pak-vs-nz%20Live",
-        "pubdate": "Mon, 09 Jan 2023 22:30:00 +0530"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Real%20Madrid",
         "pubdate": "Sun, 08 Jan 2023 12:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "iQOO 11",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#iQOO%2011",
+        "pubdate": "Sun, 08 Jan 2023 13:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Rohit Sharma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Rohit%20Sharma",
+        "pubdate": "Sun, 08 Jan 2023 16:30:00 +0530"
       }
     ]
   ]

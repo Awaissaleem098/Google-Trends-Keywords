@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-01-2023 , 23:48:06",
+  "lastUpdate": "10-01-2023 , 00:34:26",
   "data": [
     [
       {
@@ -17,9 +17,9 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arsenal",
-        "pubdate": "Tue, 10 Jan 2023 11:00:00 +1300"
+        "title": "Waka Kotahi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Waka%20Kotahi",
+        "pubdate": "Tue, 10 Jan 2023 12:00:00 +1300"
       }
     ],
     [
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "LinkedIn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#LinkedIn",
-        "pubdate": "Mon, 09 Jan 2023 13:00:00 +1300"
+        "title": "Kraken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kraken",
+        "pubdate": "Mon, 09 Jan 2023 20:00:00 +1300"
       }
     ],
     [
@@ -55,13 +55,6 @@
         "title": "Xero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Xero",
         "pubdate": "Mon, 09 Jan 2023 10:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Kraken",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kraken",
-        "pubdate": "Mon, 09 Jan 2023 20:00:00 +1300"
       }
     ],
     [
@@ -129,8 +122,8 @@
     ],
     [
       {
-        "title": "Ami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ami",
+        "title": "AMI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#AMI",
         "pubdate": "Mon, 09 Jan 2023 14:00:00 +1300"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Cardiff City vs Leeds United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cardiff%20City%20vs%20Leeds%20United",
         "pubdate": "Mon, 09 Jan 2023 10:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Auckland Council",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Auckland%20Council",
+        "pubdate": "Mon, 09 Jan 2023 16:00:00 +1300"
       }
     ]
   ]

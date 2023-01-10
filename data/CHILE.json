@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "09-01-2023 , 23:47:58",
+  "lastUpdate": "10-01-2023 , 00:34:21",
   "data": [
+    [
+      {
+        "title": "Centro Sismológico Nacional",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Centro%20Sismol%C3%B3gico%20Nacional",
+        "pubdate": "Mon, 09 Jan 2023 20:00:00 -0300"
+      }
+    ],
     [
       {
         "title": "WhatsApp Web",
@@ -38,8 +45,8 @@
     ],
     [
       {
-        "title": "Oxford United  Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Oxford%20United%20%20Arsenal",
+        "title": "Oxford United vs Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Oxford%20United%20vs%20Arsenal",
         "pubdate": "Mon, 09 Jan 2023 17:00:00 -0300"
       }
     ],
@@ -73,6 +80,13 @@
     ],
     [
       {
+        "title": "Mercado publico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mercado%20publico",
+        "pubdate": "Mon, 09 Jan 2023 10:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Pantanal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Pantanal",
         "pubdate": "Mon, 09 Jan 2023 00:00:00 -0300"
@@ -87,22 +101,15 @@
     ],
     [
       {
-        "title": "IPS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#IPS",
-        "pubdate": "Mon, 09 Jan 2023 15:00:00 -0300"
+        "title": "Zoom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Zoom",
+        "pubdate": "Mon, 09 Jan 2023 11:00:00 -0300"
       }
     ],
     [
       {
         "title": "Inspeccion del Trabajo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inspeccion%20del%20Trabajo",
-        "pubdate": "Mon, 09 Jan 2023 11:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Zoom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Zoom",
         "pubdate": "Mon, 09 Jan 2023 11:00:00 -0300"
       }
     ],
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Universidad catolica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Universidad%20catolica",
+        "pubdate": "Mon, 09 Jan 2023 20:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Inside Job",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inside%20Job",
         "pubdate": "Mon, 09 Jan 2023 13:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "UTM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#UTM",
-        "pubdate": "Mon, 09 Jan 2023 13:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Secretos del Matrimonio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Secretos%20del%20Matrimonio",
-        "pubdate": "Mon, 09 Jan 2023 15:00:00 -0300"
       }
     ]
   ]

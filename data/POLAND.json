@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-01-2023 , 23:48:07",
+  "lastUpdate": "10-01-2023 , 00:34:27",
   "data": [
     [
       {
@@ -17,15 +17,15 @@
     ],
     [
       {
-        "title": "Bilbao",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bilbao",
+        "title": "Oxford United – Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Oxford%20United%20%E2%80%93%20Arsenal",
         "pubdate": "Mon, 09 Jan 2023 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Oxford United – Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Oxford%20United%20%E2%80%93%20Arsenal",
+        "title": "Bilbao",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bilbao",
         "pubdate": "Mon, 09 Jan 2023 21:00:00 +0100"
       }
     ],
@@ -34,13 +34,6 @@
         "title": "Nagranie z wypadku w Lublinie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Nagranie%20z%20wypadku%20w%20Lublinie",
         "pubdate": "Mon, 09 Jan 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Żołnierz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%BBo%C5%82nierz",
-        "pubdate": "Mon, 09 Jan 2023 08:00:00 +0100"
       }
     ],
     [
@@ -73,16 +66,16 @@
     ],
     [
       {
-        "title": "Zidane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zidane",
-        "pubdate": "Mon, 09 Jan 2023 09:00:00 +0100"
+        "title": "Szwecja – Finlandia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Szwecja%20%E2%80%93%20Finlandia",
+        "pubdate": "Mon, 09 Jan 2023 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Szwecja – Finlandia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Szwecja%20%E2%80%93%20Finlandia",
-        "pubdate": "Mon, 09 Jan 2023 20:00:00 +0100"
+        "title": "Zidane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zidane",
+        "pubdate": "Mon, 09 Jan 2023 09:00:00 +0100"
       }
     ],
     [
@@ -108,6 +101,13 @@
     ],
     [
       {
+        "title": "Challenger 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Challenger%202",
+        "pubdate": "Mon, 09 Jan 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Magdalena Fręch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Magdalena%20Fr%C4%99ch",
         "pubdate": "Mon, 09 Jan 2023 13:00:00 +0100"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Challenger 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Challenger%202",
-        "pubdate": "Mon, 09 Jan 2023 19:00:00 +0100"
+        "title": "Piotr Zieliński",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Piotr%20Zieli%C5%84ski",
+        "pubdate": "Mon, 09 Jan 2023 10:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Piotr Zieliński",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Piotr%20Zieli%C5%84ski",
-        "pubdate": "Mon, 09 Jan 2023 10:00:00 +0100"
+        "title": "Elżbieta Zającówna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#El%C5%BCbieta%20Zaj%C4%85c%C3%B3wna",
+        "pubdate": "Mon, 09 Jan 2023 09:00:00 +0100"
       }
     ]
   ]
