@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-01-2023 , 00:52:09",
+  "lastUpdate": "11-01-2023 , 02:16:58",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "MasterChef",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#MasterChef",
+        "pubdate": "Tue, 10 Jan 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "EuroLeague",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#EuroLeague",
         "pubdate": "Tue, 10 Jan 2023 23:00:00 +0300"
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Aslan balığı",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Aslan%20bal%C4%B1%C4%9F%C4%B1",
-        "pubdate": "Tue, 10 Jan 2023 23:00:00 +0300"
+        "title": "Seren Serengil Söylemezsem Olmaz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Seren%20Serengil%20S%C3%B6ylemezsem%20Olmaz",
+        "pubdate": "Tue, 10 Jan 2023 03:00:00 +0300"
       }
     ],
     [
@@ -55,13 +62,6 @@
         "title": "Inter - Parma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Inter%20-%20Parma",
         "pubdate": "Tue, 10 Jan 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Seren Serengil Söylemezsem Olmaz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Seren%20Serengil%20S%C3%B6ylemezsem%20Olmaz",
-        "pubdate": "Tue, 10 Jan 2023 13:00:00 +0300"
       }
     ],
     [
@@ -94,8 +94,8 @@
     ],
     [
       {
-        "title": "Taçsız Prenses oyuncuları",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ta%C3%A7s%C4%B1z%20Prenses%20oyuncular%C4%B1",
+        "title": "Taçsız prenses oyuncuları",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ta%C3%A7s%C4%B1z%20prenses%20oyuncular%C4%B1",
         "pubdate": "Tue, 10 Jan 2023 21:00:00 +0300"
       }
     ],
@@ -104,6 +104,13 @@
         "title": "Barış Atay kimdir",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bar%C4%B1%C5%9F%20Atay%20kimdir",
         "pubdate": "Tue, 10 Jan 2023 13:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "MG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#MG",
+        "pubdate": "Tue, 10 Jan 2023 22:00:00 +0300"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Yahya Baş",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Yahya%20Ba%C5%9F",
-        "pubdate": "Tue, 10 Jan 2023 09:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Fed) Başkanı Powell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fed)%20Ba%C5%9Fkan%C4%B1%20Powell",
-        "pubdate": "Tue, 10 Jan 2023 22:00:00 +0300"
+        "title": "Kemal Sunal Tokatçı filmi nerede çekildi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kemal%20Sunal%20Tokat%C3%A7%C4%B1%20filmi%20nerede%20%C3%A7ekildi",
+        "pubdate": "Tue, 10 Jan 2023 23:00:00 +0300"
       }
     ]
   ]

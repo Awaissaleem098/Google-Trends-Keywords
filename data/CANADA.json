@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "11-01-2023 , 00:52:01",
+  "lastUpdate": "11-01-2023 , 02:16:45",
   "data": [
+    [
+      {
+        "title": "Golden Globes 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Golden%20Globes%202023",
+        "pubdate": "Tue, 10 Jan 2023 17:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Man United vs Charlton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Man%20United%20vs%20Charlton",
         "pubdate": "Tue, 10 Jan 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Oilers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers",
+        "pubdate": "Tue, 10 Jan 2023 03:00:00 -0500"
       }
     ],
     [
@@ -17,16 +31,16 @@
     ],
     [
       {
-        "title": "Sophie Brochu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sophie%20Brochu",
-        "pubdate": "Tue, 10 Jan 2023 11:00:00 -0500"
+        "title": "Spare",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Spare",
+        "pubdate": "Tue, 10 Jan 2023 15:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Spare",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Spare",
-        "pubdate": "Tue, 10 Jan 2023 15:00:00 -0500"
+        "title": "Canadiens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canadiens",
+        "pubdate": "Tue, 10 Jan 2023 11:00:00 -0500"
       }
     ],
     [
@@ -41,6 +55,27 @@
         "title": "Play airlines",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Play%20airlines",
         "pubdate": "Tue, 10 Jan 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "California",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#California",
+        "pubdate": "Tue, 10 Jan 2023 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Coachella",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Coachella",
+        "pubdate": "Tue, 10 Jan 2023 18:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "MODOK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#MODOK",
+        "pubdate": "Tue, 10 Jan 2023 11:00:00 -0500"
       }
     ],
     [
@@ -80,9 +115,16 @@
     ],
     [
       {
-        "title": "MODOK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#MODOK",
-        "pubdate": "Tue, 10 Jan 2023 11:00:00 -0500"
+        "title": "Billie Eilish",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Billie%20Eilish",
+        "pubdate": "Tue, 10 Jan 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Jerrod Carmichael",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jerrod%20Carmichael",
+        "pubdate": "Tue, 10 Jan 2023 20:00:00 -0500"
       }
     ],
     [
@@ -94,51 +136,9 @@
     ],
     [
       {
-        "title": "California",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#California",
-        "pubdate": "Tue, 10 Jan 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Don Alfonso 1890",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Don%20Alfonso%201890",
         "pubdate": "Tue, 10 Jan 2023 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "California, weather",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#California,%20weather",
-        "pubdate": "Tue, 10 Jan 2023 07:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Paige spiranac",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Paige%20spiranac",
-        "pubdate": "Tue, 10 Jan 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Carlos Correa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Carlos%20Correa",
-        "pubdate": "Tue, 10 Jan 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Bella Ramsey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bella%20Ramsey",
-        "pubdate": "Tue, 10 Jan 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Kris Letang",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kris%20Letang",
-        "pubdate": "Tue, 10 Jan 2023 15:00:00 -0500"
       }
     ]
   ]

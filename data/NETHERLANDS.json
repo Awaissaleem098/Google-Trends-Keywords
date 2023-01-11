@@ -1,10 +1,24 @@
 {
-  "lastUpdate": "11-01-2023 , 00:52:06",
+  "lastUpdate": "11-01-2023 , 02:16:53",
   "data": [
+    [
+      {
+        "title": "De Graafschap",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20Graafschap",
+        "pubdate": "Wed, 11 Jan 2023 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
+        "pubdate": "Tue, 10 Jan 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "KNVB Beker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#KNVB%20Beker",
         "pubdate": "Tue, 10 Jan 2023 15:00:00 +0100"
       }
     ],
@@ -13,13 +27,6 @@
         "title": "Joran van der Sloot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Joran%20van%20der%20Sloot",
         "pubdate": "Tue, 10 Jan 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Twente  Telstar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Twente%20%20Telstar",
-        "pubdate": "Tue, 10 Jan 2023 19:00:00 +0100"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Isimat-Mirin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Isimat-Mirin",
-        "pubdate": "Tue, 10 Jan 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Shakira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Shakira",
         "pubdate": "Tue, 10 Jan 2023 23:00:00 +0100"
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Babylon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Babylon",
-        "pubdate": "Tue, 10 Jan 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Gareth Bale",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gareth%20Bale",
         "pubdate": "Mon, 09 Jan 2023 17:00:00 +0100"
@@ -108,23 +101,16 @@
     ],
     [
       {
-        "title": "Noma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Noma",
-        "pubdate": "Mon, 09 Jan 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arsenal",
-        "pubdate": "Mon, 09 Jan 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Blue Monday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Blue%20Monday",
         "pubdate": "Mon, 09 Jan 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Noma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Noma",
+        "pubdate": "Mon, 09 Jan 2023 23:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Bolsonaro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bolsonaro",
         "pubdate": "Mon, 09 Jan 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
+        "pubdate": "Sun, 08 Jan 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
+        "pubdate": "Sun, 08 Jan 2023 12:00:00 +0100"
       }
     ]
   ]

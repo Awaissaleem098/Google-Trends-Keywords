@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-01-2023 , 00:52:08",
+  "lastUpdate": "11-01-2023 , 02:16:57",
   "data": [
     [
       {
@@ -87,9 +87,9 @@
     ],
     [
       {
-        "title": "Enhle Mbali",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Enhle%20Mbali",
-        "pubdate": "Tue, 10 Jan 2023 21:00:00 +0200"
+        "title": "Jake White",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Jake%20White",
+        "pubdate": "Tue, 10 Jan 2023 06:00:00 +0200"
       }
     ],
     [
@@ -97,13 +97,6 @@
         "title": "Gift of the Givers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Gift%20of%20the%20Givers",
         "pubdate": "Tue, 10 Jan 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jake White",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Jake%20White",
-        "pubdate": "Tue, 10 Jan 2023 06:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "FNB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#FNB",
         "pubdate": "Mon, 09 Jan 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Google Maps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Google%20Maps",
+        "pubdate": "Mon, 09 Jan 2023 13:00:00 +0200"
       }
     ]
   ]
