@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "10-01-2023 , 23:50:07",
+  "lastUpdate": "11-01-2023 , 00:52:03",
   "data": [
+    [
+      {
+        "title": "Παναθηναικοσ Φενερ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A0%CE%B1%CE%BD%CE%B1%CE%B8%CE%B7%CE%BD%CE%B1%CE%B9%CE%BA%CE%BF%CF%83%20%CE%A6%CE%B5%CE%BD%CE%B5%CF%81",
+        "pubdate": "Wed, 11 Jan 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Βρισηίδα",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%92%CF%81%CE%B9%CF%83%CE%B7%CE%AF%CE%B4%CE%B1",
+        "pubdate": "Wed, 11 Jan 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Βασιλιασ κωνσταντινοσ",
@@ -87,16 +101,16 @@
     ],
     [
       {
-        "title": "Γελη αγγελοπουλου",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%93%CE%B5%CE%BB%CE%B7%20%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%BF%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%85",
-        "pubdate": "Tue, 10 Jan 2023 22:00:00 +0200"
+        "title": "Ντογιακοσ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9D%CF%84%CE%BF%CE%B3%CE%B9%CE%B1%CE%BA%CE%BF%CF%83",
+        "pubdate": "Tue, 10 Jan 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Ντογιακοσ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9D%CF%84%CE%BF%CE%B3%CE%B9%CE%B1%CE%BA%CE%BF%CF%83",
-        "pubdate": "Tue, 10 Jan 2023 20:00:00 +0200"
+        "title": "Γελη αγγελοπουλου",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%93%CE%B5%CE%BB%CE%B7%20%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%BF%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%85",
+        "pubdate": "Tue, 10 Jan 2023 22:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Αγρινιο ΝΕΑ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%91%CE%B3%CF%81%CE%B9%CE%BD%CE%B9%CE%BF%20%CE%9D%CE%95%CE%91",
         "pubdate": "Tue, 10 Jan 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ανδρέας Μικρούτσικος",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%91%CE%BD%CE%B4%CF%81%CE%AD%CE%B1%CF%82%20%CE%9C%CE%B9%CE%BA%CF%81%CE%BF%CF%8D%CF%84%CF%83%CE%B9%CE%BA%CE%BF%CF%82",
-        "pubdate": "Tue, 10 Jan 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Καλλιθεα λαμια",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9A%CE%B1%CE%BB%CE%BB%CE%B9%CE%B8%CE%B5%CE%B1%20%CE%BB%CE%B1%CE%BC%CE%B9%CE%B1",
-        "pubdate": "Tue, 10 Jan 2023 19:00:00 +0200"
       }
     ]
   ]

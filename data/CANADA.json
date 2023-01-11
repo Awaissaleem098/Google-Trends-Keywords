@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-01-2023 , 23:50:05",
+  "lastUpdate": "11-01-2023 , 00:52:01",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Spare",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Spare",
+        "pubdate": "Tue, 10 Jan 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Chase Sui Wonders",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chase%20Sui%20Wonders",
         "pubdate": "Tue, 10 Jan 2023 00:00:00 -0500"
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "Spare",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Spare",
+        "title": "Play airlines",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Play%20airlines",
         "pubdate": "Tue, 10 Jan 2023 15:00:00 -0500"
       }
     ],
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Play Airlines",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Play%20Airlines",
-        "pubdate": "Tue, 10 Jan 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Beau Is Afraid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Beau%20Is%20Afraid",
         "pubdate": "Tue, 10 Jan 2023 13:00:00 -0500"
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Lakers vs Nuggets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lakers%20vs%20Nuggets",
-        "pubdate": "Tue, 10 Jan 2023 00:00:00 -0500"
+        "title": "CF Montreal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CF%20Montreal",
+        "pubdate": "Tue, 10 Jan 2023 11:00:00 -0500"
       }
     ],
     [
@@ -73,9 +73,9 @@
     ],
     [
       {
-        "title": "CF Montreal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CF%20Montreal",
-        "pubdate": "Tue, 10 Jan 2023 11:00:00 -0500"
+        "title": "Lakers vs Nuggets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lakers%20vs%20Nuggets",
+        "pubdate": "Tue, 10 Jan 2023 00:00:00 -0500"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Don Alfonso 1890",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Don%20Alfonso%201890",
-        "pubdate": "Tue, 10 Jan 2023 00:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "California",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#California",
         "pubdate": "Tue, 10 Jan 2023 14:00:00 -0500"
@@ -108,8 +101,15 @@
     ],
     [
       {
-        "title": "California weather",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#California%20weather",
+        "title": "Don Alfonso 1890",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Don%20Alfonso%201890",
+        "pubdate": "Tue, 10 Jan 2023 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "California, weather",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#California,%20weather",
         "pubdate": "Tue, 10 Jan 2023 07:00:00 -0500"
       }
     ],

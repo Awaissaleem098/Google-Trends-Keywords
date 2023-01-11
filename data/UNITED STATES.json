@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-01-2023 , 23:50:04",
+  "lastUpdate": "11-01-2023 , 00:52:00",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Coachella 2023 lineup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Coachella%202023%20lineup",
+        "title": "Coachella 2023 Lineup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Coachella%202023%20Lineup",
         "pubdate": "Tue, 10 Jan 2023 13:00:00 -0800"
       }
     ],
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Golden Globes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Golden%20Globes",
+        "pubdate": "Tue, 10 Jan 2023 14:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "College football rankings",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#College%20football%20rankings",
         "pubdate": "Tue, 10 Jan 2023 14:00:00 -0800"
@@ -73,15 +80,8 @@
     ],
     [
       {
-        "title": "Golden Globes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Golden%20Globes",
-        "pubdate": "Tue, 10 Jan 2023 14:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Georgia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Georgia",
+        "title": "Georgia football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Georgia%20football",
         "pubdate": "Mon, 09 Jan 2023 11:00:00 -0800"
       }
     ],

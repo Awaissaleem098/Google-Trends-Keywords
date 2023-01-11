@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "10-01-2023 , 23:50:04",
+  "lastUpdate": "11-01-2023 , 00:52:00",
   "data": [
     [
       {
-        "title": "NBL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NBL",
-        "pubdate": "Wed, 11 Jan 2023 02:00:00 +1100"
+        "title": "Cardinal Pell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cardinal%20Pell",
+        "pubdate": "Wed, 11 Jan 2023 10:00:00 +1100"
       }
     ],
     [
@@ -13,6 +13,13 @@
         "title": "Newcastle vs Leicester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Newcastle%20vs%20Leicester%20City",
         "pubdate": "Wed, 11 Jan 2023 08:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "NBL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NBL",
+        "pubdate": "Wed, 11 Jan 2023 02:00:00 +1100"
       }
     ],
     [
@@ -34,6 +41,13 @@
         "title": "Virat Kohli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Virat%20Kohli",
         "pubdate": "Wed, 11 Jan 2023 04:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Bubble O' Bill",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bubble%20O'%20Bill",
+        "pubdate": "Wed, 11 Jan 2023 09:00:00 +1100"
       }
     ],
     [
@@ -66,16 +80,16 @@
     ],
     [
       {
-        "title": "Gareth Bale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gareth%20Bale",
-        "pubdate": "Tue, 10 Jan 2023 07:00:00 +1100"
+        "title": "The Last of Us TV show",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Last%20of%20Us%20TV%20show",
+        "pubdate": "Tue, 10 Jan 2023 21:00:00 +1100"
       }
     ],
     [
       {
-        "title": "The Last of Us TV show",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Last%20of%20Us%20TV%20show",
-        "pubdate": "Tue, 10 Jan 2023 21:00:00 +1100"
+        "title": "Gareth Bale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gareth%20Bale",
+        "pubdate": "Tue, 10 Jan 2023 07:00:00 +1100"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Andrew Callaghan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Andrew%20Callaghan",
-        "pubdate": "Tue, 10 Jan 2023 15:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Adelaide Strikers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Adelaide%20Strikers",
         "pubdate": "Tue, 10 Jan 2023 22:00:00 +1100"
@@ -132,13 +139,6 @@
         "title": "Joao Felix",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Joao%20Felix",
         "pubdate": "Tue, 10 Jan 2023 11:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Strep A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Strep%20A",
-        "pubdate": "Tue, 10 Jan 2023 08:00:00 +1100"
       }
     ]
   ]

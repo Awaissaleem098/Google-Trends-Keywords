@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "10-01-2023 , 23:50:04",
+  "lastUpdate": "11-01-2023 , 00:52:01",
   "data": [
+    [
+      {
+        "title": "Vincent Van Quickenborne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vincent%20Van%20Quickenborne",
+        "pubdate": "Wed, 11 Jan 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sinead O'Connor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sinead%20O'Connor",
+        "pubdate": "Wed, 11 Jan 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Eva Kaili",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eva%20Kaili",
+        "pubdate": "Wed, 11 Jan 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Alerte à la bombe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alerte%20%C3%A0%20la%20bombe",
+        "pubdate": "Wed, 11 Jan 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Affaire d'Outreau",
@@ -45,6 +73,13 @@
     ],
     [
       {
+        "title": "Inter Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Inter%20Milan",
+        "pubdate": "Tue, 10 Jan 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Nikki Reed",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nikki%20Reed",
         "pubdate": "Tue, 10 Jan 2023 19:00:00 +0100"
@@ -59,9 +94,9 @@
     ],
     [
       {
-        "title": "Brigitte Macron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brigitte%20Macron",
-        "pubdate": "Tue, 10 Jan 2023 15:00:00 +0100"
+        "title": "Dieudonné",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dieudonn%C3%A9",
+        "pubdate": "Tue, 10 Jan 2023 22:00:00 +0100"
       }
     ],
     [
@@ -73,23 +108,9 @@
     ],
     [
       {
-        "title": "Dieudonné",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dieudonn%C3%A9",
-        "pubdate": "Tue, 10 Jan 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Euronav",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Euronav",
         "pubdate": "Tue, 10 Jan 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Caroline Margeridon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Caroline%20Margeridon",
-        "pubdate": "Tue, 10 Jan 2023 00:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Kate Middleton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kate%20Middleton",
         "pubdate": "Tue, 10 Jan 2023 04:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Eurovision 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eurovision%202023",
-        "pubdate": "Tue, 10 Jan 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Quinn Redeker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Quinn%20Redeker",
-        "pubdate": "Tue, 10 Jan 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Livre prince Harry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Livre%20prince%20Harry",
-        "pubdate": "Tue, 10 Jan 2023 20:00:00 +0100"
       }
     ]
   ]

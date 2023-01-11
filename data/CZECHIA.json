@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "10-01-2023 , 23:50:05",
+  "lastUpdate": "11-01-2023 , 00:52:02",
   "data": [
     [
       {
         "title": "Obsazení Jedna ruka netleská",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Obsazen%C3%AD%20Jedna%20ruka%20netlesk%C3%A1",
         "pubdate": "Tue, 10 Jan 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Smrt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Smrt",
+        "pubdate": "Tue, 10 Jan 2023 19:00:00 +0100"
       }
     ],
     [
@@ -101,9 +108,9 @@
     ],
     [
       {
-        "title": "Zlínský kraj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zl%C3%ADnsk%C3%BD%20kraj",
-        "pubdate": "Tue, 10 Jan 2023 14:00:00 +0100"
+        "title": "Flachau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Flachau",
+        "pubdate": "Tue, 10 Jan 2023 22:00:00 +0100"
       }
     ],
     [
@@ -111,6 +118,13 @@
         "title": "Dacia Jogger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dacia%20Jogger",
         "pubdate": "Tue, 10 Jan 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "ZLÍNSKÝ KRAJ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#ZL%C3%8DNSK%C3%9D%20KRAJ",
+        "pubdate": "Tue, 10 Jan 2023 14:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Prezidentské volby 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Prezidentsk%C3%A9%20volby%202023",
         "pubdate": "Mon, 09 Jan 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tomáš Voženílek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20Vo%C5%BEen%C3%ADlek",
-        "pubdate": "Mon, 09 Jan 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ct",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ct",
-        "pubdate": "Mon, 09 Jan 2023 01:00:00 +0100"
       }
     ]
   ]
