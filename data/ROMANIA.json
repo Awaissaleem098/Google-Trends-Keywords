@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-01-2023 , 00:42:39",
+  "lastUpdate": "14-01-2023 , 02:00:45",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Aston Villa  Leeds",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Aston%20Villa%20%20Leeds",
+        "title": "Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Aston%20Villa",
         "pubdate": "Sat, 14 Jan 2023 00:00:00 +0200"
       }
     ],
@@ -38,9 +38,16 @@
     ],
     [
       {
-        "title": "Priscilla Presley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Priscilla%20Presley",
+        "title": "Elvis Presley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Elvis%20Presley",
         "pubdate": "Fri, 13 Jan 2023 04:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona",
+        "pubdate": "Fri, 13 Jan 2023 01:00:00 +0200"
       }
     ],
     [
@@ -66,16 +73,9 @@
     ],
     [
       {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FC%20Barcelona",
-        "pubdate": "Fri, 13 Jan 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sorana Cîrstea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sorana%20C%C3%AErstea",
-        "pubdate": "Fri, 13 Jan 2023 10:00:00 +0200"
+        "title": "Bianca Censori",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bianca%20Censori",
+        "pubdate": "Fri, 13 Jan 2023 16:00:00 +0200"
       }
     ],
     [

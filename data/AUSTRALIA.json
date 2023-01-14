@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-01-2023 , 00:42:29",
+  "lastUpdate": "14-01-2023 , 02:00:36",
   "data": [
     [
       {
@@ -17,8 +17,8 @@
     ],
     [
       {
-        "title": "Miley Cyrus Flowers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Miley%20Cyrus%20Flowers",
+        "title": "Miley Cyrus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Miley%20Cyrus",
         "pubdate": "Sat, 14 Jan 2023 10:00:00 +1100"
       }
     ],
@@ -27,6 +27,27 @@
         "title": "Robbie Knievel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Robbie%20Knievel",
         "pubdate": "Sat, 14 Jan 2023 09:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Man United vs Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20United%20vs%20Man%20City",
+        "pubdate": "Sat, 14 Jan 2023 12:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "KSI vs Temperrr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#KSI%20vs%20Temperrr",
+        "pubdate": "Sat, 14 Jan 2023 10:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Iggy Azalea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Iggy%20Azalea",
+        "pubdate": "Sat, 14 Jan 2023 12:00:00 +1100"
       }
     ],
     [
@@ -45,9 +66,16 @@
     ],
     [
       {
-        "title": "KSI vs Temperrr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#KSI%20vs%20Temperrr",
-        "pubdate": "Sat, 14 Jan 2023 10:00:00 +1100"
+        "title": "Bachman-Turner Overdrive",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bachman-Turner%20Overdrive",
+        "pubdate": "Sat, 14 Jan 2023 12:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Benjamin Mendy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Benjamin%20Mendy",
+        "pubdate": "Sat, 14 Jan 2023 12:00:00 +1100"
       }
     ],
     [
@@ -59,16 +87,16 @@
     ],
     [
       {
-        "title": "Fulham vs Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fulham%20vs%20Chelsea",
-        "pubdate": "Fri, 13 Jan 2023 02:00:00 +1100"
+        "title": "Nick Kyrgios",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nick%20Kyrgios",
+        "pubdate": "Fri, 13 Jan 2023 18:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Nick Kyrgios",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nick%20Kyrgios",
-        "pubdate": "Fri, 13 Jan 2023 18:00:00 +1100"
+        "title": "Fulham vs Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fulham%20vs%20Chelsea",
+        "pubdate": "Fri, 13 Jan 2023 02:00:00 +1100"
       }
     ],
     [
@@ -80,16 +108,9 @@
     ],
     [
       {
-        "title": "Elton John Melbourne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Elton%20John%20Melbourne",
+        "title": "Elton John",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Elton%20John",
         "pubdate": "Fri, 13 Jan 2023 18:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Bautista Agut",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bautista%20Agut",
-        "pubdate": "Fri, 13 Jan 2023 21:00:00 +1100"
       }
     ],
     [
@@ -101,13 +122,6 @@
     ],
     [
       {
-        "title": "Friday the 13th",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Friday%20the%2013th",
-        "pubdate": "Fri, 13 Jan 2023 09:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Sydney Thunder vs Perth Scorchers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20Thunder%20vs%20Perth%20Scorchers",
         "pubdate": "Fri, 13 Jan 2023 19:00:00 +1100"
@@ -115,30 +129,16 @@
     ],
     [
       {
-        "title": "President Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#President%20Joe%20Biden",
+        "title": "Bautista Agut",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bautista%20Agut",
+        "pubdate": "Fri, 13 Jan 2023 21:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Friday the 13th",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Friday%20the%2013th",
         "pubdate": "Fri, 13 Jan 2023 09:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Shakira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Shakira",
-        "pubdate": "Fri, 13 Jan 2023 02:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Ben Simmons",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ben%20Simmons",
-        "pubdate": "Fri, 13 Jan 2023 15:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lakers",
-        "pubdate": "Fri, 13 Jan 2023 18:00:00 +1100"
       }
     ]
   ]

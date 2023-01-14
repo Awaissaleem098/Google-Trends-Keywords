@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "14-01-2023 , 00:42:37",
+  "lastUpdate": "14-01-2023 , 02:00:43",
   "data": [
     [
       {
-        "title": "Napoli  Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Napoli%20%20Juventus",
+        "title": "Napoli vs Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Napoli%20vs%20Juventus",
         "pubdate": "Fri, 13 Jan 2023 07:00:00 -0600"
       }
     ],
@@ -31,8 +31,8 @@
     ],
     [
       {
-        "title": "Aston Villa - Leeds",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Aston%20Villa%20-%20Leeds",
+        "title": "Aston Villa  Leeds",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Aston%20Villa%20%20Leeds",
         "pubdate": "Fri, 13 Jan 2023 15:00:00 -0600"
       }
     ],
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bayern",
-        "pubdate": "Fri, 13 Jan 2023 13:00:00 -0600"
+        "title": "Fin de semana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Fin%20de%20semana",
+        "pubdate": "Fri, 13 Jan 2023 08:00:00 -0600"
       }
     ],
     [
@@ -73,9 +73,16 @@
     ],
     [
       {
-        "title": "Fin de semana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Fin%20de%20semana",
-        "pubdate": "Fri, 13 Jan 2023 08:00:00 -0600"
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bayern",
+        "pubdate": "Fri, 13 Jan 2023 13:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Manchester United vs Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Manchester%20United%20vs%20Manchester%20City",
+        "pubdate": "Fri, 13 Jan 2023 18:00:00 -0600"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Marco Antonio Regil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Marco%20Antonio%20Regil",
-        "pubdate": "Fri, 13 Jan 2023 01:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Martha Debayle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Martha%20Debayle",
         "pubdate": "Fri, 13 Jan 2023 04:00:00 -0600"
@@ -101,16 +101,23 @@
     ],
     [
       {
-        "title": "Tribunal Electoral del Poder Judicial de la Federación",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tribunal%20Electoral%20del%20Poder%20Judicial%20de%20la%20Federaci%C3%B3n",
-        "pubdate": "Fri, 13 Jan 2023 00:00:00 -0600"
+        "title": "Marco Antonio Regil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Marco%20Antonio%20Regil",
+        "pubdate": "Fri, 13 Jan 2023 01:00:00 -0600"
       }
     ],
     [
       {
-        "title": "Atlas FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Atlas%20FC",
-        "pubdate": "Fri, 13 Jan 2023 00:00:00 -0600"
+        "title": "Puebla vs queretaro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Puebla%20vs%20queretaro",
+        "pubdate": "Fri, 13 Jan 2023 18:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "13 de enero",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#13%20de%20enero",
+        "pubdate": "Fri, 13 Jan 2023 15:00:00 -0600"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Clint Eastwood",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Clint%20Eastwood",
         "pubdate": "Fri, 13 Jan 2023 16:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Dónde mirar Atlético San Luis contra Chivas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#D%C3%B3nde%20mirar%20Atl%C3%A9tico%20San%20Luis%20contra%20Chivas",
-        "pubdate": "Fri, 13 Jan 2023 17:00:00 -0600"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-01-2023 , 00:42:30",
+  "lastUpdate": "14-01-2023 , 02:00:36",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Lützerath",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#L%C3%BCtzerath",
-        "pubdate": "Fri, 13 Jan 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Tesla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tesla",
         "pubdate": "Fri, 13 Jan 2023 10:00:00 +0100"
@@ -48,6 +41,13 @@
         "title": "Supermodel Tatjana Patitz gestorben",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Supermodel%20Tatjana%20Patitz%20gestorben",
         "pubdate": "Fri, 13 Jan 2023 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Brand Michelhausen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Brand%20Michelhausen",
+        "pubdate": "Fri, 13 Jan 2023 15:00:00 +0100"
       }
     ],
     [
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Serie%20A",
+        "pubdate": "Fri, 13 Jan 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Bianca Censori",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bianca%20Censori",
         "pubdate": "Fri, 13 Jan 2023 13:00:00 +0100"
@@ -76,13 +83,6 @@
         "title": "Austin Butler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Austin%20Butler",
         "pubdate": "Fri, 13 Jan 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Brand Michelhausen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Brand%20Michelhausen",
-        "pubdate": "Fri, 13 Jan 2023 15:00:00 +0100"
       }
     ],
     [
@@ -101,9 +101,9 @@
     ],
     [
       {
-        "title": "Demonstration",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Demonstration",
-        "pubdate": "Fri, 13 Jan 2023 09:00:00 +0100"
+        "title": "Jolina Mennen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jolina%20Mennen",
+        "pubdate": "Fri, 13 Jan 2023 23:00:00 +0100"
       }
     ],
     [
@@ -115,9 +115,9 @@
     ],
     [
       {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Juventus",
-        "pubdate": "Fri, 13 Jan 2023 22:00:00 +0100"
+        "title": "HTL Mödling",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#HTL%20M%C3%B6dling",
+        "pubdate": "Fri, 13 Jan 2023 00:00:00 +0100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Eurozone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Eurozone",
-        "pubdate": "Fri, 13 Jan 2023 09:00:00 +0100"
+        "title": "Lambrecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lambrecht",
+        "pubdate": "Fri, 13 Jan 2023 23:00:00 +0100"
       }
     ]
   ]
