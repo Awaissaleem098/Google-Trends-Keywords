@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "18-01-2023 , 23:56:17",
+  "lastUpdate": "19-01-2023 , 01:48:36",
   "data": [
+    [
+      {
+        "title": "L'ECO DI BERGAMO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#L'ECO%20DI%20BERGAMO",
+        "pubdate": "Thu, 19 Jan 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Robert De Niro",
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Mamma ho preso il morbillo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mamma%20ho%20preso%20il%20morbillo",
-        "pubdate": "Wed, 18 Jan 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Juventus-Monza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Juventus-Monza",
         "pubdate": "Wed, 18 Jan 2023 00:00:00 +0100"
@@ -115,6 +115,20 @@
     ],
     [
       {
+        "title": "Gianluca Ferrero",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Gianluca%20Ferrero",
+        "pubdate": "Wed, 18 Jan 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Valmontone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Valmontone",
+        "pubdate": "Wed, 18 Jan 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Davide Nicola",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Davide%20Nicola",
         "pubdate": "Wed, 18 Jan 2023 15:00:00 +0100"
@@ -125,20 +139,6 @@
         "title": "Il cacciatore film",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Il%20cacciatore%20film",
         "pubdate": "Wed, 18 Jan 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Il vento del perdono",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Il%20vento%20del%20perdono",
-        "pubdate": "Wed, 18 Jan 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Il nemico alle porte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Il%20nemico%20alle%20porte",
-        "pubdate": "Wed, 18 Jan 2023 21:00:00 +0100"
       }
     ]
   ]
