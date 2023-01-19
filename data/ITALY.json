@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "19-01-2023 , 23:46:44",
+  "lastUpdate": "19-01-2023 , 23:59:48",
   "data": [
+    [
+      {
+        "title": "David Crosby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#David%20Crosby",
+        "pubdate": "Fri, 20 Jan 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dorothea Wierer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Dorothea%20Wierer",
+        "pubdate": "Fri, 20 Jan 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "PAG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#PAG",
+        "pubdate": "Fri, 20 Jan 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Milan-Inter",
@@ -24,8 +45,8 @@
     ],
     [
       {
-        "title": "Manchester City-Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Manchester%20City-Tottenham",
+        "title": "Manchester City  Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Manchester%20City%20%20Tottenham",
         "pubdate": "Thu, 19 Jan 2023 20:00:00 +0100"
       }
     ],
@@ -34,6 +55,13 @@
         "title": "Jacinda Ardern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Jacinda%20Ardern",
         "pubdate": "Thu, 19 Jan 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Villarreal-Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Villarreal-Real%20Madrid",
+        "pubdate": "Thu, 19 Jan 2023 21:00:00 +0100"
       }
     ],
     [
@@ -52,9 +80,9 @@
     ],
     [
       {
-        "title": "Villarreal-Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Villarreal-Real%20Madrid",
-        "pubdate": "Thu, 19 Jan 2023 21:00:00 +0100"
+        "title": "Maneskin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Maneskin",
+        "pubdate": "Thu, 19 Jan 2023 20:00:00 +0100"
       }
     ],
     [
@@ -73,6 +101,13 @@
     ],
     [
       {
+        "title": "Ferruccio Lamborghini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ferruccio%20Lamborghini",
+        "pubdate": "Thu, 19 Jan 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Djokovic",
         "pubdate": "Thu, 19 Jan 2023 16:00:00 +0100"
@@ -83,13 +118,6 @@
         "title": "Julian Sands",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Julian%20Sands",
         "pubdate": "Thu, 19 Jan 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ferruccio Lamborghini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ferruccio%20Lamborghini",
-        "pubdate": "Thu, 19 Jan 2023 15:00:00 +0100"
       }
     ],
     [
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "Maneskin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Maneskin",
-        "pubdate": "Thu, 19 Jan 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Neve",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Neve",
         "pubdate": "Thu, 19 Jan 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Dario Baldan Bembo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Dario%20Baldan%20Bembo",
-        "pubdate": "Thu, 19 Jan 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Zaniolo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Zaniolo",
-        "pubdate": "Thu, 19 Jan 2023 06:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Uto Ughi Maneskin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Uto%20Ughi%20Maneskin",
-        "pubdate": "Thu, 19 Jan 2023 19:00:00 +0100"
       }
     ]
   ]

@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "19-01-2023 , 23:46:41",
+  "lastUpdate": "19-01-2023 , 23:59:44",
   "data": [
-    [
-      {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#PSG",
-        "pubdate": "Thu, 19 Jan 2023 09:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Manchester City  Tottenham",
@@ -20,13 +13,6 @@
         "title": "Juventus  Monza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Juventus%20%20Monza",
         "pubdate": "Thu, 19 Jan 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Atalanta  Spezia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Atalanta%20%20Spezia",
-        "pubdate": "Thu, 19 Jan 2023 09:00:00 -0500"
       }
     ],
     [
@@ -45,9 +31,37 @@
     ],
     [
       {
+        "title": "Sudamericano sub-20 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Sudamericano%20sub-20%202023",
+        "pubdate": "Thu, 19 Jan 2023 17:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid Club de Fútbol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Real%20Madrid%20Club%20de%20F%C3%BAtbol",
+        "pubdate": "Thu, 19 Jan 2023 17:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Andy Murray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Andy%20Murray",
         "pubdate": "Thu, 19 Jan 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Perú sub-20 vs Brasil sub-20",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Per%C3%BA%20sub-20%20vs%20Brasil%20sub-20",
+        "pubdate": "Thu, 19 Jan 2023 17:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Atalanta",
+        "pubdate": "Thu, 19 Jan 2023 11:00:00 -0500"
       }
     ],
     [
@@ -66,13 +80,6 @@
     ],
     [
       {
-        "title": "Perú Sub-20 vs Brasil Sub-20",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Per%C3%BA%20Sub-20%20vs%20Brasil%20Sub-20",
-        "pubdate": "Thu, 19 Jan 2023 17:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Victor de Currea-Lugo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Victor%20de%20Currea-Lugo",
         "pubdate": "Thu, 19 Jan 2023 13:00:00 -0500"
@@ -83,6 +90,34 @@
         "title": "Colfuturo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Colfuturo",
         "pubdate": "Thu, 19 Jan 2023 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Brasil Sub 20",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Brasil%20Sub%2020",
+        "pubdate": "Thu, 19 Jan 2023 18:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "David González",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#David%20Gonz%C3%A1lez",
+        "pubdate": "Thu, 19 Jan 2023 18:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Corrupción",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Corrupci%C3%B3n",
+        "pubdate": "Thu, 19 Jan 2023 18:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#PSG",
+        "pubdate": "Wed, 18 Jan 2023 15:00:00 -0500"
       }
     ],
     [
@@ -104,41 +139,6 @@
         "title": "Milan vs Inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Milan%20vs%20Inter",
         "pubdate": "Wed, 18 Jan 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Colombia sub-20 vs Paraguay sub-20",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Colombia%20sub-20%20vs%20Paraguay%20sub-20",
-        "pubdate": "Wed, 18 Jan 2023 22:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Betis vs Osasuna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Betis%20vs%20Osasuna",
-        "pubdate": "Wed, 18 Jan 2023 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Levante  Atlético Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Levante%20%20Atl%C3%A9tico%20Madrid",
-        "pubdate": "Wed, 18 Jan 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Colombia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Colombia",
-        "pubdate": "Wed, 18 Jan 2023 21:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Rafael Nadal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Rafael%20Nadal",
-        "pubdate": "Wed, 18 Jan 2023 08:00:00 -0500"
       }
     ]
   ]

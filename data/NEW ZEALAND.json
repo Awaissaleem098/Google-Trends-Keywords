@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-01-2023 , 23:46:45",
+  "lastUpdate": "19-01-2023 , 23:59:49",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Novak%20Djokovic",
         "pubdate": "Fri, 20 Jan 2023 00:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "BBC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#BBC",
-        "pubdate": "Fri, 20 Jan 2023 10:00:00 +1300"
       }
     ],
     [
@@ -48,6 +41,13 @@
         "title": "New York Times",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#New%20York%20Times",
         "pubdate": "Fri, 20 Jan 2023 07:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "David Crosby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#David%20Crosby",
+        "pubdate": "Fri, 20 Jan 2023 12:00:00 +1300"
       }
     ],
     [
@@ -115,6 +115,20 @@
     ],
     [
       {
+        "title": "Megan Woods",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Megan%20Woods",
+        "pubdate": "Thu, 19 Jan 2023 17:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "That '90s Show",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#That%20'90s%20Show",
+        "pubdate": "Thu, 19 Jan 2023 23:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Casper Ruud",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Casper%20Ruud",
         "pubdate": "Thu, 19 Jan 2023 20:00:00 +1300"
@@ -125,20 +139,6 @@
         "title": "Premier league games",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Premier%20league%20games",
         "pubdate": "Thu, 19 Jan 2023 14:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Breaking news NZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Breaking%20news%20NZ",
-        "pubdate": "Thu, 19 Jan 2023 14:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Julian Sands",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Julian%20Sands",
-        "pubdate": "Thu, 19 Jan 2023 21:00:00 +1300"
       }
     ]
   ]

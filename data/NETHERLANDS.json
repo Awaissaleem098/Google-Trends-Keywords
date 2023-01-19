@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-01-2023 , 23:46:45",
+  "lastUpdate": "19-01-2023 , 23:59:49",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Jacinda Ardern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jacinda%20Ardern",
         "pubdate": "Thu, 19 Jan 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Man%20City",
+        "pubdate": "Thu, 19 Jan 2023 23:00:00 +0100"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Berget Lewis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Berget%20Lewis",
-        "pubdate": "Thu, 19 Jan 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Dolly Parton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dolly%20Parton",
         "pubdate": "Thu, 19 Jan 2023 11:00:00 +0100"
@@ -69,13 +69,6 @@
         "title": "Inter Scaldes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Inter%20Scaldes",
         "pubdate": "Thu, 19 Jan 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tottenham",
-        "pubdate": "Thu, 19 Jan 2023 23:00:00 +0100"
       }
     ],
     [
@@ -103,7 +96,7 @@
       {
         "title": "Staking openbaar vervoer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Staking%20openbaar%20vervoer",
-        "pubdate": "Wed, 18 Jan 2023 10:00:00 +0100"
+        "pubdate": "Wed, 18 Jan 2023 11:00:00 +0100"
       }
     ],
     [
@@ -115,13 +108,6 @@
     ],
     [
       {
-        "title": "Nyck de Vries",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nyck%20de%20Vries",
-        "pubdate": "Wed, 18 Jan 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Andre Hazes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Andre%20Hazes",
         "pubdate": "Wed, 18 Jan 2023 19:00:00 +0100"
@@ -129,9 +115,9 @@
     ],
     [
       {
-        "title": "Nadal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nadal",
-        "pubdate": "Wed, 18 Jan 2023 11:00:00 +0100"
+        "title": "Nyck de Vries",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nyck%20de%20Vries",
+        "pubdate": "Wed, 18 Jan 2023 23:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Griekspoor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Griekspoor",
         "pubdate": "Wed, 18 Jan 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Madonna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Madonna",
+        "pubdate": "Tue, 17 Jan 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "ASML",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ASML",
+        "pubdate": "Tue, 17 Jan 2023 18:00:00 +0100"
       }
     ]
   ]

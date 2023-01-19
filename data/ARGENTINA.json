@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-01-2023 , 23:46:39",
+  "lastUpdate": "19-01-2023 , 23:59:42",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Pity martinez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pity%20martinez",
+        "pubdate": "Thu, 19 Jan 2023 15:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Atletico tucuman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Atletico%20tucuman",
         "pubdate": "Thu, 19 Jan 2023 00:00:00 -0300"
@@ -52,8 +59,22 @@
     ],
     [
       {
-        "title": "Pity martinez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pity%20martinez",
+        "title": "Sudamericano Sub 20",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sudamericano%20Sub%2020",
+        "pubdate": "Thu, 19 Jan 2023 19:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Posiciones de Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Posiciones%20de%20Manchester%20City",
+        "pubdate": "Thu, 19 Jan 2023 19:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "ESPN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#ESPN",
         "pubdate": "Thu, 19 Jan 2023 15:00:00 -0300"
       }
     ],
@@ -101,27 +122,6 @@
     ],
     [
       {
-        "title": "Corrientes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Corrientes",
-        "pubdate": "Thu, 19 Jan 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "City vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#City%20vs",
-        "pubdate": "Thu, 19 Jan 2023 19:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Talisca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Talisca",
-        "pubdate": "Thu, 19 Jan 2023 16:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Percy Hynes White",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Percy%20Hynes%20White",
         "pubdate": "Thu, 19 Jan 2023 17:00:00 -0300"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Jacinda Ardern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Jacinda%20Ardern",
-        "pubdate": "Thu, 19 Jan 2023 12:00:00 -0300"
+        "title": "Corrientes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Corrientes",
+        "pubdate": "Thu, 19 Jan 2023 00:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Argentina vs Francia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Argentina%20vs%20Francia",
-        "pubdate": "Thu, 19 Jan 2023 00:00:00 -0300"
+        "title": "Superintendencia de Servicios de Salud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Superintendencia%20de%20Servicios%20de%20Salud",
+        "pubdate": "Thu, 19 Jan 2023 17:00:00 -0300"
       }
     ]
   ]

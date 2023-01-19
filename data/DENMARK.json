@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "19-01-2023 , 23:46:41",
+  "lastUpdate": "19-01-2023 , 23:59:44",
   "data": [
     [
       {
-        "title": "Man City  Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20City%20%20Tottenham",
+        "title": "David Crosby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#David%20Crosby",
+        "pubdate": "Fri, 20 Jan 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Man City:  Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20City:%20%20Tottenham",
         "pubdate": "Thu, 19 Jan 2023 21:00:00 +0100"
       }
     ],
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "That '90s Show",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#That%20'90s%20Show",
-        "pubdate": "Thu, 19 Jan 2023 20:00:00 +0100"
+        "title": "Villarreal Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Villarreal%20Real%20Madrid",
+        "pubdate": "Thu, 19 Jan 2023 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Villarreal Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Villarreal%20Real%20Madrid",
-        "pubdate": "Thu, 19 Jan 2023 22:00:00 +0100"
+        "title": "That '90s Show",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#That%20'90s%20Show",
+        "pubdate": "Thu, 19 Jan 2023 20:00:00 +0100"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Cape Verde",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Cape%20Verde",
-        "pubdate": "Wed, 18 Jan 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Victor Kristiansen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Victor%20Kristiansen",
         "pubdate": "Wed, 18 Jan 2023 19:00:00 +0100"
       }
     ]
