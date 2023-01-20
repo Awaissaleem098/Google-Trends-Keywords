@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "19-01-2023 , 23:59:48",
+  "lastUpdate": "20-01-2023 , 01:50:24",
   "data": [
     [
       {
         "title": "Sheila Kwamboka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sheila%20Kwamboka",
         "pubdate": "Fri, 20 Jan 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Alec Baldwin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Alec%20Baldwin",
+        "pubdate": "Fri, 20 Jan 2023 03:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Man City vs Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20City%20vs%20Tottenham",
         "pubdate": "Wed, 18 Jan 2023 14:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Riyadh XI vs PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Riyadh%20XI%20vs%20PSG",
-        "pubdate": "Wed, 18 Jan 2023 09:00:00 +0300"
       }
     ]
   ]

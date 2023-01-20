@@ -1,1 +1,1 @@
-Hosszú Katinka,PSG,Villarreal–real Madrid,Manchester City–Tottenham,Juventus–Monza,Julian Sands,Aubrey Plaza,Manchester United,Andy Murray,Jacinda Ardern,Anton Walkes,Fehér Lótusz,Janis Joplin,Tolvai Reni,Judy,Magyar Zene Háza,Magyar Honvédség,Inter,Ecuador,Richard Gere
+PSG,Villarreal–real Madrid,Manchester City–Tottenham,Juventus–Monza,Julian Sands,Aubrey Plaza,Andy Murray,Manchester United,Jacinda Ardern,Anton Walkes,Fehér Lótusz,Tolvai Reni,Judy,Magyar Zene Háza,Magyar Honvédség,Opitz Barbi,Inter,Richard Gere,Ecuador,Alec Baldwin

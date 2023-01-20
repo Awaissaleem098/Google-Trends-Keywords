@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "19-01-2023 , 23:59:52",
+  "lastUpdate": "20-01-2023 , 01:50:29",
   "data": [
     [
       {
         "title": "Alec Baldwin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alec%20Baldwin",
         "pubdate": "Thu, 19 Jan 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tottenham",
+        "pubdate": "Thu, 19 Jan 2023 20:00:00 +0100"
       }
     ],
     [
@@ -20,13 +27,6 @@
         "title": "Fboy island",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fboy%20island",
         "pubdate": "Thu, 19 Jan 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tottenham",
-        "pubdate": "Thu, 19 Jan 2023 20:00:00 +0100"
       }
     ],
     [
@@ -69,13 +69,6 @@
         "title": "Öresundsbron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%96resundsbron",
         "pubdate": "Thu, 19 Jan 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tilda Johansson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tilda%20Johansson",
-        "pubdate": "Thu, 19 Jan 2023 18:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Polarn och Pyret",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Polarn%20och%20Pyret",
         "pubdate": "Wed, 18 Jan 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Viagra boys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Viagra%20boys",
+        "pubdate": "Wed, 18 Jan 2023 09:00:00 +0100"
       }
     ]
   ]

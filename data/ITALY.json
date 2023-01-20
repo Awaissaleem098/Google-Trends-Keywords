@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-01-2023 , 23:59:48",
+  "lastUpdate": "20-01-2023 , 01:50:23",
   "data": [
     [
       {
@@ -13,6 +13,20 @@
         "title": "Dorothea Wierer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Dorothea%20Wierer",
         "pubdate": "Fri, 20 Jan 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Verona-Lecce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Verona-Lecce",
+        "pubdate": "Fri, 20 Jan 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Il Cantante Mascherato",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Il%20Cantante%20Mascherato",
+        "pubdate": "Fri, 20 Jan 2023 01:00:00 +0100"
       }
     ],
     [
@@ -45,16 +59,9 @@
     ],
     [
       {
-        "title": "Manchester City  Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Manchester%20City%20%20Tottenham",
+        "title": "Manchester City-Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Manchester%20City-Tottenham",
         "pubdate": "Thu, 19 Jan 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jacinda Ardern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Jacinda%20Ardern",
-        "pubdate": "Thu, 19 Jan 2023 09:00:00 +0100"
       }
     ],
     [
@@ -66,9 +73,23 @@
     ],
     [
       {
+        "title": "Jacinda Ardern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Jacinda%20Ardern",
+        "pubdate": "Thu, 19 Jan 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Putin",
         "pubdate": "Thu, 19 Jan 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Murray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Murray",
+        "pubdate": "Thu, 19 Jan 2023 16:00:00 +0100"
       }
     ],
     [
@@ -87,9 +108,9 @@
     ],
     [
       {
-        "title": "Murray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Murray",
-        "pubdate": "Thu, 19 Jan 2023 16:00:00 +0100"
+        "title": "Ferruccio Lamborghini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ferruccio%20Lamborghini",
+        "pubdate": "Thu, 19 Jan 2023 15:00:00 +0100"
       }
     ],
     [
@@ -97,13 +118,6 @@
         "title": "Capezzoli liberi su Facebook e Instagram",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Capezzoli%20liberi%20su%20Facebook%20e%20Instagram",
         "pubdate": "Thu, 19 Jan 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ferruccio Lamborghini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ferruccio%20Lamborghini",
-        "pubdate": "Thu, 19 Jan 2023 15:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Giorgi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giorgi",
         "pubdate": "Thu, 19 Jan 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Babylon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Babylon",
-        "pubdate": "Thu, 19 Jan 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Neve",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Neve",
-        "pubdate": "Thu, 19 Jan 2023 15:00:00 +0100"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-01-2023 , 23:59:42",
+  "lastUpdate": "20-01-2023 , 01:50:16",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "David Crosby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#David%20Crosby",
+        "pubdate": "Thu, 19 Jan 2023 15:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Man City vs Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Man%20City%20vs%20Tottenham",
         "pubdate": "Thu, 19 Jan 2023 11:00:00 -0800"
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "David Crosby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#David%20Crosby",
-        "pubdate": "Thu, 19 Jan 2023 15:00:00 -0800"
+        "title": "That '90s Show",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#That%20'90s%20Show",
+        "pubdate": "Thu, 19 Jan 2023 08:00:00 -0800"
       }
     ],
     [
@@ -73,9 +80,9 @@
     ],
     [
       {
-        "title": "Ted Lasso season 3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ted%20Lasso%20season%203",
-        "pubdate": "Thu, 19 Jan 2023 05:00:00 -0800"
+        "title": "Greg Roman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Greg%20Roman",
+        "pubdate": "Thu, 19 Jan 2023 13:00:00 -0800"
       }
     ],
     [
@@ -83,6 +90,13 @@
         "title": "Danny Masterson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Danny%20Masterson",
         "pubdate": "Thu, 19 Jan 2023 14:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Ted Lasso season 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ted%20Lasso%20season%203",
+        "pubdate": "Thu, 19 Jan 2023 05:00:00 -0800"
       }
     ],
     [
@@ -97,13 +111,6 @@
         "title": "Scream",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Scream",
         "pubdate": "Thu, 19 Jan 2023 14:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Julian Edelman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Julian%20Edelman",
-        "pubdate": "Thu, 19 Jan 2023 15:00:00 -0800"
       }
     ],
     [
@@ -125,13 +132,6 @@
         "title": "Julian Sands",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Julian%20Sands",
         "pubdate": "Wed, 18 Jan 2023 18:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Crystal Palace vs Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Crystal%20Palace%20vs%20Man%20United",
-        "pubdate": "Wed, 18 Jan 2023 11:00:00 -0800"
       }
     ],
     [

@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "19-01-2023 , 23:59:46",
+  "lastUpdate": "20-01-2023 , 01:50:22",
   "data": [
-    [
-      {
-        "title": "Hosszú Katinka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hossz%C3%BA%20Katinka",
-        "pubdate": "Fri, 20 Jan 2023 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "PSG",
@@ -52,16 +45,16 @@
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20United",
-        "pubdate": "Thu, 19 Jan 2023 05:00:00 +0100"
+        "title": "Andy Murray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Andy%20Murray",
+        "pubdate": "Thu, 19 Jan 2023 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Andy Murray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Andy%20Murray",
-        "pubdate": "Thu, 19 Jan 2023 17:00:00 +0100"
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20United",
+        "pubdate": "Thu, 19 Jan 2023 06:00:00 +0100"
       }
     ],
     [
@@ -83,13 +76,6 @@
         "title": "Fehér Lótusz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Feh%C3%A9r%20L%C3%B3tusz",
         "pubdate": "Thu, 19 Jan 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Janis Joplin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Janis%20Joplin",
-        "pubdate": "Thu, 19 Jan 2023 16:00:00 +0100"
       }
     ],
     [
@@ -122,9 +108,23 @@
     ],
     [
       {
+        "title": "Opitz Barbi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Opitz%20Barbi",
+        "pubdate": "Thu, 19 Jan 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Inter",
         "pubdate": "Thu, 19 Jan 2023 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Richard Gere",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Richard%20Gere",
+        "pubdate": "Thu, 19 Jan 2023 22:00:00 +0100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Richard Gere",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Richard%20Gere",
-        "pubdate": "Thu, 19 Jan 2023 22:00:00 +0100"
+        "title": "Alec Baldwin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Alec%20Baldwin",
+        "pubdate": "Thu, 19 Jan 2023 21:00:00 +0100"
       }
     ]
   ]

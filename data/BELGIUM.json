@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "19-01-2023 , 23:59:43",
+  "lastUpdate": "20-01-2023 , 01:50:17",
   "data": [
+    [
+      {
+        "title": "David Crosby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#David%20Crosby",
+        "pubdate": "Fri, 20 Jan 2023 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Villarreal – Real Madrid",
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "WRC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#WRC",
+        "pubdate": "Thu, 19 Jan 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "KV Kortrijk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KV%20Kortrijk",
         "pubdate": "Thu, 19 Jan 2023 20:00:00 +0100"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Julian Alaphilippe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Julian%20Alaphilippe",
-        "pubdate": "Thu, 19 Jan 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Ceuta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ceuta",
         "pubdate": "Thu, 19 Jan 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Énergie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#%C3%89nergie",
-        "pubdate": "Thu, 19 Jan 2023 08:00:00 +0100"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-01-2023 , 23:59:49",
+  "lastUpdate": "20-01-2023 , 01:50:25",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Mac Miller",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mac%20Miller",
-        "pubdate": "Thu, 19 Jan 2023 02:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Vídeo de Babo Cartel de Santa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#V%C3%ADdeo%20de%20Babo%20Cartel%20de%20Santa",
         "pubdate": "Thu, 19 Jan 2023 14:00:00 -0600"
@@ -45,9 +38,9 @@
     ],
     [
       {
-        "title": "Real Madrid Club de Fútbol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Real%20Madrid%20Club%20de%20F%C3%BAtbol",
-        "pubdate": "Thu, 19 Jan 2023 16:00:00 -0600"
+        "title": "Mac Miller",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mac%20Miller",
+        "pubdate": "Thu, 19 Jan 2023 02:00:00 -0600"
       }
     ],
     [
@@ -80,6 +73,13 @@
     ],
     [
       {
+        "title": "Percy Hynes White",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Percy%20Hynes%20White",
+        "pubdate": "Thu, 19 Jan 2023 14:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Clonazepam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Clonazepam",
         "pubdate": "Thu, 19 Jan 2023 16:00:00 -0600"
@@ -90,13 +90,6 @@
         "title": "Andy Murray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Andy%20Murray",
         "pubdate": "Thu, 19 Jan 2023 11:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Percy Hynes White",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Percy%20Hynes%20White",
-        "pubdate": "Thu, 19 Jan 2023 14:00:00 -0600"
       }
     ],
     [
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "El señor de los cielos 8 capitulo 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#El%20se%C3%B1or%20de%20los%20cielos%208%20capitulo%202",
-        "pubdate": "Thu, 19 Jan 2023 02:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Scream 6",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Scream%206",
         "pubdate": "Thu, 19 Jan 2023 12:00:00 -0600"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "El señor de los cielos 8 capitulo 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#El%20se%C3%B1or%20de%20los%20cielos%208%20capitulo%202",
+        "pubdate": "Thu, 19 Jan 2023 02:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Atalanta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Atalanta",
         "pubdate": "Thu, 19 Jan 2023 10:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Anton Walkes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Anton%20Walkes",
+        "pubdate": "Thu, 19 Jan 2023 14:00:00 -0600"
       }
     ]
   ]
