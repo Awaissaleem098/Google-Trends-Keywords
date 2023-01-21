@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "20-01-2023 , 23:55:05",
+  "lastUpdate": "21-01-2023 , 01:40:27",
   "data": [
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Real%20Madrid",
-        "pubdate": "Fri, 20 Jan 2023 00:00:00 +0100"
+        "title": "Malo Gusto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Malo%20Gusto",
+        "pubdate": "Sat, 21 Jan 2023 01:00:00 +0100"
       }
     ],
     [
@@ -17,8 +17,8 @@
     ],
     [
       {
-        "title": "Shanty Town",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Shanty%20Town",
+        "title": "Shanty town",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Shanty%20town",
         "pubdate": "Fri, 20 Jan 2023 16:00:00 +0100"
       }
     ],
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Burnley vs West Brom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Burnley%20vs%20West%20Brom",
-        "pubdate": "Fri, 20 Jan 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Shanty Town movie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Shanty%20Town%20movie",
         "pubdate": "Fri, 20 Jan 2023 17:00:00 +0100"
@@ -52,16 +45,16 @@
     ],
     [
       {
-        "title": "Real Madrid FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Real%20Madrid%20FC",
-        "pubdate": "Fri, 20 Jan 2023 15:00:00 +0100"
+        "title": "Burnley vs West Brom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Burnley%20vs%20West%20Brom",
+        "pubdate": "Fri, 20 Jan 2023 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Ivan Fresneda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ivan%20Fresneda",
-        "pubdate": "Fri, 20 Jan 2023 16:00:00 +0100"
+        "title": "Real Madrid FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Real%20Madrid%20FC",
+        "pubdate": "Fri, 20 Jan 2023 15:00:00 +0100"
       }
     ],
     [
@@ -101,8 +94,8 @@
     ],
     [
       {
-        "title": "Chelsea new signing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea%20new%20signing",
+        "title": "Fresneda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Fresneda",
         "pubdate": "Fri, 20 Jan 2023 17:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Nnamdi Kanu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Nnamdi%20Kanu",
         "pubdate": "Fri, 20 Jan 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "APC explosion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#APC%20explosion",
+        "pubdate": "Fri, 20 Jan 2023 13:00:00 +0100"
       }
     ]
   ]

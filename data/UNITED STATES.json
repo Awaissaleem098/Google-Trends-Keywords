@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-01-2023 , 23:54:56",
+  "lastUpdate": "21-01-2023 , 01:40:19",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "John Legend",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#John%20Legend",
+        "pubdate": "Fri, 20 Jan 2023 06:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Nikki Haley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nikki%20Haley",
         "pubdate": "Fri, 20 Jan 2023 07:00:00 -0800"
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "John Legend",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#John%20Legend",
-        "pubdate": "Fri, 20 Jan 2023 06:00:00 -0800"
+        "title": "Elizabeth Holmes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Elizabeth%20Holmes",
+        "pubdate": "Fri, 20 Jan 2023 15:00:00 -0800"
       }
     ],
     [
@@ -45,9 +52,30 @@
     ],
     [
       {
+        "title": "Bayern Munich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bayern%20Munich",
+        "pubdate": "Fri, 20 Jan 2023 15:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Dark Side of the Moon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dark%20Side%20of%20the%20Moon",
+        "pubdate": "Fri, 20 Jan 2023 16:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "David Crosby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#David%20Crosby",
         "pubdate": "Thu, 19 Jan 2023 15:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Alec Baldwin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Alec%20Baldwin",
+        "pubdate": "Thu, 19 Jan 2023 08:00:00 -0800"
       }
     ],
     [
@@ -73,13 +101,6 @@
     ],
     [
       {
-        "title": "Miley Cyrus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Miley%20Cyrus",
-        "pubdate": "Thu, 19 Jan 2023 11:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lakers",
         "pubdate": "Thu, 19 Jan 2023 06:00:00 -0800"
@@ -90,13 +111,6 @@
         "title": "Anton Walkes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Anton%20Walkes",
         "pubdate": "Thu, 19 Jan 2023 08:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Involuntary manslaughter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Involuntary%20manslaughter",
-        "pubdate": "Thu, 19 Jan 2023 09:00:00 -0800"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Andy Murray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Andy%20Murray",
         "pubdate": "Thu, 19 Jan 2023 10:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Supplemental nutrition assistance program",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Supplemental%20nutrition%20assistance%20program",
-        "pubdate": "Thu, 19 Jan 2023 17:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Phoenix Suns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Phoenix%20Suns",
-        "pubdate": "Thu, 19 Jan 2023 22:00:00 -0800"
       }
     ]
   ]

@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-01-2023 , 23:55:00",
+  "lastUpdate": "21-01-2023 , 01:40:23",
   "data": [
+    [
+      {
+        "title": "Handball-WM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball-WM",
+        "pubdate": "Fri, 20 Jan 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "David Crosby",
@@ -24,16 +31,9 @@
     ],
     [
       {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern",
-        "pubdate": "Fri, 20 Jan 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fussball Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fussball%20Bundesliga",
-        "pubdate": "Fri, 20 Jan 2023 19:00:00 +0100"
+        "title": "Claudia Michelsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Claudia%20Michelsen",
+        "pubdate": "Fri, 20 Jan 2023 09:00:00 +0100"
       }
     ],
     [
@@ -66,23 +66,9 @@
     ],
     [
       {
-        "title": "WM Handball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#WM%20Handball",
-        "pubdate": "Fri, 20 Jan 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Rammstein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rammstein",
         "pubdate": "Fri, 20 Jan 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "The Rock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#The%20Rock",
-        "pubdate": "Fri, 20 Jan 2023 21:00:00 +0100"
       }
     ],
     [
@@ -94,9 +80,9 @@
     ],
     [
       {
-        "title": "Kitzbühel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kitzb%C3%BChel",
-        "pubdate": "Fri, 20 Jan 2023 13:00:00 +0100"
+        "title": "The Rock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#The%20Rock",
+        "pubdate": "Fri, 20 Jan 2023 21:00:00 +0100"
       }
     ],
     [
@@ -108,23 +94,9 @@
     ],
     [
       {
-        "title": "Handball-WM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball-WM",
-        "pubdate": "Thu, 19 Jan 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Post streik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Post%20streik",
+        "title": "Poststreik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Poststreik",
         "pubdate": "Thu, 19 Jan 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Julian Sands",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Julian%20Sands",
-        "pubdate": "Thu, 19 Jan 2023 10:00:00 +0100"
       }
     ],
     [
@@ -139,6 +111,34 @@
         "title": "Alec Baldwin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alec%20Baldwin",
         "pubdate": "Thu, 19 Jan 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Luisa Neubauer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Luisa%20Neubauer",
+        "pubdate": "Thu, 19 Jan 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jacinda Ardern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jacinda%20Ardern",
+        "pubdate": "Thu, 19 Jan 2023 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Julian Sands",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Julian%20Sands",
+        "pubdate": "Thu, 19 Jan 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern",
+        "pubdate": "Thu, 19 Jan 2023 11:00:00 +0100"
       }
     ]
   ]
