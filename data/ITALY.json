@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-01-2023 , 01:40:25",
+  "lastUpdate": "21-01-2023 , 02:31:54",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Classifica di Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Classifica%20di%20Bundesliga",
         "pubdate": "Sat, 21 Jan 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Serie B",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Serie%20B",
-        "pubdate": "Fri, 20 Jan 2023 19:00:00 +0100"
       }
     ],
     [
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Serie B",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Serie%20B",
+        "pubdate": "Fri, 20 Jan 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Dani Alves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Dani%20Alves",
         "pubdate": "Fri, 20 Jan 2023 12:00:00 +0100"
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Sofia Goggia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sofia%20Goggia",
-        "pubdate": "Fri, 20 Jan 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Salernitana-Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Salernitana-Napoli",
         "pubdate": "Fri, 20 Jan 2023 16:00:00 +0100"
@@ -66,9 +59,23 @@
     ],
     [
       {
+        "title": "Sofia Goggia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sofia%20Goggia",
+        "pubdate": "Fri, 20 Jan 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jannik Sinner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Jannik%20Sinner",
         "pubdate": "Fri, 20 Jan 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Steven Zhang",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Steven%20Zhang",
+        "pubdate": "Fri, 20 Jan 2023 00:00:00 +0100"
       }
     ],
     [
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Mechanic: Resurrection",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mechanic:%20Resurrection",
-        "pubdate": "Fri, 20 Jan 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Federico Fashion Style",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Federico%20Fashion%20Style",
         "pubdate": "Fri, 20 Jan 2023 19:00:00 +0100"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Fiorentina-Torino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fiorentina-Torino",
-        "pubdate": "Fri, 20 Jan 2023 11:00:00 +0100"
+        "title": "Mechanic: Resurrection",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mechanic:%20Resurrection",
+        "pubdate": "Fri, 20 Jan 2023 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Invictus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Invictus",
-        "pubdate": "Fri, 20 Jan 2023 22:00:00 +0100"
+        "title": "Fiorentina-Torino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fiorentina-Torino",
+        "pubdate": "Fri, 20 Jan 2023 11:00:00 +0100"
       }
     ]
   ]

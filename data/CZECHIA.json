@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-01-2023 , 01:40:21",
+  "lastUpdate": "21-01-2023 , 02:31:49",
   "data": [
     [
       {
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Taťána Kuchařová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ta%C5%A5%C3%A1na%20Kucha%C5%99ov%C3%A1",
-        "pubdate": "Fri, 20 Jan 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Skoda Auto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Skoda%20Auto",
         "pubdate": "Fri, 20 Jan 2023 20:00:00 +0100"
@@ -129,6 +122,13 @@
     ],
     [
       {
+        "title": "Dani Alves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dani%20Alves",
+        "pubdate": "Fri, 20 Jan 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Novak djoković",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Novak%20djokovi%C4%87",
         "pubdate": "Fri, 20 Jan 2023 08:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Dani Alves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dani%20Alves",
-        "pubdate": "Fri, 20 Jan 2023 23:00:00 +0100"
+        "title": "MasterChef",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#MasterChef",
+        "pubdate": "Fri, 20 Jan 2023 21:00:00 +0100"
       }
     ]
   ]

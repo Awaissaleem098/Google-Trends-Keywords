@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "21-01-2023 , 01:40:22",
+  "lastUpdate": "21-01-2023 , 02:31:51",
   "data": [
     [
       {
         "title": "Sochaux",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sochaux",
+        "pubdate": "Sat, 21 Jan 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ramzy Bedia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ramzy%20Bedia",
         "pubdate": "Sat, 21 Jan 2023 00:00:00 +0100"
       }
     ],
@@ -59,23 +66,9 @@
     ],
     [
       {
-        "title": "Parti socialiste",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Parti%20socialiste",
-        "pubdate": "Fri, 20 Jan 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Magali Berdah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Magali%20Berdah",
         "pubdate": "Fri, 20 Jan 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gilles Lellouche",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gilles%20Lellouche",
-        "pubdate": "Fri, 20 Jan 2023 23:00:00 +0100"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Élodie Frégé",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#%C3%89lodie%20Fr%C3%A9g%C3%A9",
+        "pubdate": "Fri, 20 Jan 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jean-Pascal Zadi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jean-Pascal%20Zadi",
         "pubdate": "Fri, 20 Jan 2023 23:00:00 +0100"
       }
     ]
