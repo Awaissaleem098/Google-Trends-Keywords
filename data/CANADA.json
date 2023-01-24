@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-01-2023 , 01:08:14",
+  "lastUpdate": "24-01-2023 , 02:20:41",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Rui Hachimura",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rui%20Hachimura",
-        "pubdate": "Mon, 23 Jan 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Coldplay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Coldplay",
         "pubdate": "Mon, 23 Jan 2023 01:00:00 -0500"
@@ -45,9 +38,23 @@
     ],
     [
       {
+        "title": "Rui Hachimura",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rui%20Hachimura",
+        "pubdate": "Mon, 23 Jan 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Maya Rudolph",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Maya%20Rudolph",
         "pubdate": "Mon, 23 Jan 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Tempête de neige",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Temp%C3%AAte%20de%20neige",
+        "pubdate": "Mon, 23 Jan 2023 15:00:00 -0500"
       }
     ],
     [
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Tempête de neige",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Temp%C3%AAte%20de%20neige",
-        "pubdate": "Mon, 23 Jan 2023 15:00:00 -0500"
+        "title": "Alex Fraser Bridge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Alex%20Fraser%20Bridge",
+        "pubdate": "Mon, 23 Jan 2023 18:00:00 -0500"
       }
     ],
     [
@@ -108,23 +115,9 @@
     ],
     [
       {
-        "title": "Jelena Dokic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jelena%20Dokic",
-        "pubdate": "Mon, 23 Jan 2023 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Alex Fraser Bridge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Alex%20Fraser%20Bridge",
-        "pubdate": "Mon, 23 Jan 2023 18:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Brooke Shields",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Brooke%20Shields",
-        "pubdate": "Mon, 23 Jan 2023 19:00:00 -0500"
+        "title": "Cordyceps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cordyceps",
+        "pubdate": "Mon, 23 Jan 2023 00:00:00 -0500"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Tina Turner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tina%20Turner",
-        "pubdate": "Mon, 23 Jan 2023 09:00:00 -0500"
+        "title": "Brooke Shields",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Brooke%20Shields",
+        "pubdate": "Mon, 23 Jan 2023 19:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Nickelback",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nickelback",
+        "pubdate": "Mon, 23 Jan 2023 14:00:00 -0500"
       }
     ]
   ]

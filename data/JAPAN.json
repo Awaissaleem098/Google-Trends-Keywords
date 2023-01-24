@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-01-2023 , 01:08:18",
+  "lastUpdate": "24-01-2023 , 02:20:45",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "八村塁",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%85%AB%E6%9D%91%E5%A1%81",
         "pubdate": "Tue, 24 Jan 2023 09:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "The Last of Us",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#The%20Last%20of%20Us",
+        "pubdate": "Tue, 24 Jan 2023 10:00:00 +0900"
       }
     ],
     [
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "西岡良仁",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E8%A5%BF%E5%B2%A1%E8%89%AF%E4%BB%81",
-        "pubdate": "Mon, 23 Jan 2023 06:00:00 +0900"
+        "title": "日本アカデミー賞",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%97%A5%E6%9C%AC%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC%E8%B3%9E",
+        "pubdate": "Mon, 23 Jan 2023 20:00:00 +0900"
       }
     ],
     [
       {
-        "title": "日本アカデミー賞",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%97%A5%E6%9C%AC%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC%E8%B3%9E",
-        "pubdate": "Mon, 23 Jan 2023 20:00:00 +0900"
+        "title": "西岡良仁",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E8%A5%BF%E5%B2%A1%E8%89%AF%E4%BB%81",
+        "pubdate": "Mon, 23 Jan 2023 06:00:00 +0900"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "東京 雪",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%9D%B1%E4%BA%AC%20%E9%9B%AA",
-        "pubdate": "Mon, 23 Jan 2023 17:00:00 +0900"
-      }
-    ],
-    [
-      {
         "title": "山梨県知事選挙",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%B1%B1%E6%A2%A8%E7%9C%8C%E7%9F%A5%E4%BA%8B%E9%81%B8%E6%8C%99",
         "pubdate": "Mon, 23 Jan 2023 00:00:00 +0900"
@@ -73,9 +73,9 @@
     ],
     [
       {
-        "title": "新田真剣佑 結婚",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%96%B0%E7%94%B0%E7%9C%9F%E5%89%A3%E4%BD%91%20%E7%B5%90%E5%A9%9A",
-        "pubdate": "Sun, 22 Jan 2023 20:00:00 +0900"
+        "title": "新田真剣佑",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%96%B0%E7%94%B0%E7%9C%9F%E5%89%A3%E4%BD%91",
+        "pubdate": "Sun, 22 Jan 2023 19:00:00 +0900"
       }
     ],
     [

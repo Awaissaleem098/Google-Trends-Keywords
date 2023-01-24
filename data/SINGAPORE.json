@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-01-2023 , 01:08:22",
+  "lastUpdate": "24-01-2023 , 02:20:48",
   "data": [
     [
       {
@@ -13,6 +13,20 @@
         "title": "Athiya Shetty",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Athiya%20Shetty",
         "pubdate": "Tue, 24 Jan 2023 01:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Rui Hachimura",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Rui%20Hachimura",
+        "pubdate": "Tue, 24 Jan 2023 09:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Inter Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Inter%20Milan",
+        "pubdate": "Tue, 24 Jan 2023 09:00:00 +0800"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Chinese New Year",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chinese%20New%20Year",
         "pubdate": "Sun, 22 Jan 2023 12:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Malaysia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Malaysia",
-        "pubdate": "Sun, 22 Jan 2023 16:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Buzz Aldrin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Buzz%20Aldrin",
-        "pubdate": "Sun, 22 Jan 2023 03:00:00 +0800"
       }
     ]
   ]

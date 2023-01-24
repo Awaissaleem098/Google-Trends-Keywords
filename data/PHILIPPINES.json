@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-01-2023 , 01:08:20",
+  "lastUpdate": "24-01-2023 , 02:20:47",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Magic vs Celtics",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Magic%20vs%20Celtics",
+        "pubdate": "Tue, 24 Jan 2023 09:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Novak%20Djokovic",
         "pubdate": "Tue, 24 Jan 2023 01:00:00 +0800"
@@ -31,9 +38,16 @@
     ],
     [
       {
-        "title": "Lpga tournament",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Lpga%20tournament",
+        "title": "LPGA tournament",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#LPGA%20tournament",
         "pubdate": "Tue, 24 Jan 2023 05:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Pistons vs Bucks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Pistons%20vs%20Bucks",
+        "pubdate": "Tue, 24 Jan 2023 09:00:00 +0800"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Dirty Linen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Dirty%20Linen",
-        "pubdate": "Mon, 23 Jan 2023 22:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Ne-Yo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Ne-Yo",
         "pubdate": "Mon, 23 Jan 2023 22:00:00 +0800"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Axie Infinity",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Axie%20Infinity",
-        "pubdate": "Mon, 23 Jan 2023 15:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Fournier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Fournier",
-        "pubdate": "Mon, 23 Jan 2023 19:00:00 +0800"
+        "title": "Dirty Linen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Dirty%20Linen",
+        "pubdate": "Mon, 23 Jan 2023 22:00:00 +0800"
       }
     ]
   ]

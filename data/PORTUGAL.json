@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-01-2023 , 01:08:21",
+  "lastUpdate": "24-01-2023 , 02:20:47",
   "data": [
     [
       {
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Cláudia Vieira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cl%C3%A1udia%20Vieira",
-        "pubdate": "Mon, 23 Jan 2023 00:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Incêndio em Gondomar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Inc%C3%AAndio%20em%20Gondomar",
         "pubdate": "Mon, 23 Jan 2023 14:00:00 +0000"
@@ -94,9 +87,9 @@
     ],
     [
       {
-        "title": "XXXTENTACION",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#XXXTENTACION",
-        "pubdate": "Mon, 23 Jan 2023 12:00:00 +0000"
+        "title": "Cláudia Vieira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cl%C3%A1udia%20Vieira",
+        "pubdate": "Mon, 23 Jan 2023 00:00:00 +0000"
       }
     ],
     [
@@ -104,6 +97,13 @@
         "title": "Forspoken",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Forspoken",
         "pubdate": "Mon, 23 Jan 2023 15:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "XXXTENTACION",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#XXXTENTACION",
+        "pubdate": "Mon, 23 Jan 2023 12:00:00 +0000"
       }
     ],
     [

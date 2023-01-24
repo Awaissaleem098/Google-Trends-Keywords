@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-01-2023 , 01:08:22",
+  "lastUpdate": "24-01-2023 , 02:20:48",
   "data": [
     [
       {
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Man%20City",
-        "pubdate": "Sun, 22 Jan 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Athletic Club vs Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Athletic%20Club%20vs%20Real%20Madrid",
         "pubdate": "Sun, 22 Jan 2023 12:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Juventus vs Atalanta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Juventus%20vs%20Atalanta",
         "pubdate": "Sun, 22 Jan 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Paul Mashatile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Paul%20Mashatile",
+        "pubdate": "Sun, 22 Jan 2023 10:00:00 +0200"
       }
     ]
   ]
