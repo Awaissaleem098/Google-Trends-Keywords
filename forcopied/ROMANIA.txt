@@ -1,1 +1,1 @@
-PSG,Tottenham,Sofia Vicoveanca,Moldova,Farul Constanța  CFR Cluj,Unirea Principatelor romane,Juventus,Zanzibar,Novak Djokovic,FC Arges,Theo Rose,F.C. Farul Constanța,Selly,Nicolae Ceaușescu,Pays de Cassel,Credit,Ben Shelton,Gabriela Ruse,Serghei Lavrov,Pakistan
+OMV Petrom,Pegula,Sofia Vicoveanca,Novak Djokovic,Tottenham,Inter,Moldova,Farul Constanța - CFR Cluj,Unirea Principatelor romane,PSG,Juventus,Zanzibar,Theo Rose,F.C. Farul Constanța,Selly,Bordea,Nicolae Ceaușescu,Cove,Credit,Ben Shelton
