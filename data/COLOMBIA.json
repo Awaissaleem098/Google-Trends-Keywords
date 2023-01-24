@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-01-2023 , 23:51:43",
+  "lastUpdate": "24-01-2023 , 01:08:14",
   "data": [
     [
       {
@@ -59,9 +59,30 @@
     ],
     [
       {
+        "title": "Valencia CF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Valencia%20CF",
+        "pubdate": "Mon, 23 Jan 2023 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Paraguay Sub-20 vs Perú Sub-20",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Paraguay%20Sub-20%20vs%20Per%C3%BA%20Sub-20",
+        "pubdate": "Mon, 23 Jan 2023 18:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Lisa Marie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Lisa%20Marie",
         "pubdate": "Mon, 23 Jan 2023 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Bolonia vs Cremonese",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Bolonia%20vs%20Cremonese",
+        "pubdate": "Mon, 23 Jan 2023 13:00:00 -0500"
       }
     ],
     [
@@ -87,6 +108,20 @@
     ],
     [
       {
+        "title": "Empresas Públicas de Medellín",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Empresas%20P%C3%BAblicas%20de%20Medell%C3%ADn",
+        "pubdate": "Mon, 23 Jan 2023 12:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Polo Polo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Polo%20Polo",
+        "pubdate": "Mon, 23 Jan 2023 19:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Unidad Nacional para la Gestión del Riesgo de Desastres",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Unidad%20Nacional%20para%20la%20Gesti%C3%B3n%20del%20Riesgo%20de%20Desastres",
         "pubdate": "Mon, 23 Jan 2023 09:00:00 -0500"
@@ -101,44 +136,9 @@
     ],
     [
       {
-        "title": "SAE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#SAE",
-        "pubdate": "Mon, 23 Jan 2023 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Manchester City vs Wolves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Manchester%20City%20vs%20Wolves",
-        "pubdate": "Sun, 22 Jan 2023 08:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Pays de Cassel  PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Pays%20de%20Cassel%20%20PSG",
-        "pubdate": "Sun, 22 Jan 2023 23:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Al%20Nassr",
-        "pubdate": "Sun, 22 Jan 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Athletic - Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Athletic%20-%20Real%20Madrid",
-        "pubdate": "Sun, 22 Jan 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Juventus vs Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Juventus%20vs%20Atalanta",
-        "pubdate": "Sun, 22 Jan 2023 14:00:00 -0500"
+        "title": "Doja Cat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Doja%20Cat",
+        "pubdate": "Mon, 23 Jan 2023 19:00:00 -0500"
       }
     ]
   ]

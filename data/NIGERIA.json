@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-01-2023 , 23:51:49",
+  "lastUpdate": "24-01-2023 , 01:08:20",
   "data": [
     [
       {
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Epl top scorers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Epl%20top%20scorers",
-        "pubdate": "Mon, 23 Jan 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Eduardo Camavinga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Eduardo%20Camavinga",
         "pubdate": "Mon, 23 Jan 2023 09:00:00 +0100"
@@ -101,8 +94,15 @@
     ],
     [
       {
-        "title": "Shanty Town netflix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Shanty%20Town%20netflix",
+        "title": "Militant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Militant",
+        "pubdate": "Mon, 23 Jan 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Shanty town Netflix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Shanty%20town%20Netflix",
         "pubdate": "Mon, 23 Jan 2023 18:00:00 +0100"
       }
     ],

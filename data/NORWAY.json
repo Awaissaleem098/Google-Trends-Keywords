@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "23-01-2023 , 23:51:49",
+  "lastUpdate": "24-01-2023 , 01:08:20",
   "data": [
+    [
+      {
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Donald%20Trump",
+        "pubdate": "Tue, 24 Jan 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sander Sagosen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sander%20Sagosen",
+        "pubdate": "Mon, 23 Jan 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "The Bolder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20Bolder",
+        "pubdate": "Mon, 23 Jan 2023 20:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Bocuse d'Or 2023",
@@ -17,16 +38,16 @@
     ],
     [
       {
-        "title": "Sha’carri Richardson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sha%E2%80%99carri%20Richardson",
-        "pubdate": "Mon, 23 Jan 2023 12:00:00 +0100"
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tottenham",
+        "pubdate": "Mon, 23 Jan 2023 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tottenham",
-        "pubdate": "Mon, 23 Jan 2023 22:00:00 +0100"
+        "title": "Sha’carri Richardson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sha%E2%80%99carri%20Richardson",
+        "pubdate": "Mon, 23 Jan 2023 12:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20United",
         "pubdate": "Sun, 22 Jan 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
-        "pubdate": "Sun, 22 Jan 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sander Sagosen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sander%20Sagosen",
-        "pubdate": "Sun, 22 Jan 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Endometriose",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Endometriose",
-        "pubdate": "Sun, 22 Jan 2023 13:00:00 +0100"
       }
     ]
   ]

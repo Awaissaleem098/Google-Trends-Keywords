@@ -1,27 +1,6 @@
 {
-  "lastUpdate": "23-01-2023 , 23:51:41",
+  "lastUpdate": "24-01-2023 , 01:08:12",
   "data": [
-    [
-      {
-        "title": "Pays de Cassel - PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pays%20de%20Cassel%20-%20PSG",
-        "pubdate": "Mon, 23 Jan 2023 17:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Alerta roja",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Alerta%20roja",
-        "pubdate": "Mon, 23 Jan 2023 18:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Inter",
-        "pubdate": "Mon, 23 Jan 2023 16:00:00 -0300"
-      }
-    ],
     [
       {
         "title": "Spinetta",
@@ -31,9 +10,23 @@
     ],
     [
       {
-        "title": "Fulham  Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Fulham%20%20Tottenham",
+        "title": "Fulham - Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Fulham%20-%20Tottenham",
         "pubdate": "Mon, 23 Jan 2023 17:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Alerta Roja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Alerta%20Roja",
+        "pubdate": "Mon, 23 Jan 2023 18:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Inter",
+        "pubdate": "Mon, 23 Jan 2023 16:00:00 -0300"
       }
     ],
     [
@@ -52,9 +45,9 @@
     ],
     [
       {
-        "title": "Luis Alberto Spinetta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Luis%20Alberto%20Spinetta",
-        "pubdate": "Mon, 23 Jan 2023 12:00:00 -0300"
+        "title": "Moneda comun Argentina Brasil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Moneda%20comun%20Argentina%20Brasil",
+        "pubdate": "Mon, 23 Jan 2023 08:00:00 -0300"
       }
     ],
     [
@@ -87,6 +80,13 @@
     ],
     [
       {
+        "title": "Hijo de milagros Sala",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Hijo%20de%20milagros%20Sala",
+        "pubdate": "Mon, 23 Jan 2023 19:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Cordyceps",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cordyceps",
         "pubdate": "Mon, 23 Jan 2023 09:00:00 -0300"
@@ -94,16 +94,16 @@
     ],
     [
       {
-        "title": "Moneda comun Argentina Brasil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Moneda%20comun%20Argentina%20Brasil",
-        "pubdate": "Mon, 23 Jan 2023 08:00:00 -0300"
+        "title": "Maduro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Maduro",
+        "pubdate": "Mon, 23 Jan 2023 16:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Maduro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Maduro",
-        "pubdate": "Mon, 23 Jan 2023 16:00:00 -0300"
+        "title": "Argentina Sub-20 ... Brasil Sub-20",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Argentina%20Sub-20%20...%20Brasil%20Sub-20",
+        "pubdate": "Mon, 23 Jan 2023 21:00:00 -0300"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Hijo de Milagros Sala",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Hijo%20de%20Milagros%20Sala",
-        "pubdate": "Mon, 23 Jan 2023 19:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Hamlet Lima Quintana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Hamlet%20Lima%20Quintana",
         "pubdate": "Mon, 23 Jan 2023 00:00:00 -0300"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Hawaii",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Hawaii",
-        "pubdate": "Mon, 23 Jan 2023 17:00:00 -0300"
+        "title": "Norovirus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Norovirus",
+        "pubdate": "Mon, 23 Jan 2023 19:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Fuerza Aérea Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Fuerza%20A%C3%A9rea%20Argentina",
+        "pubdate": "Mon, 23 Jan 2023 08:00:00 -0300"
       }
     ]
   ]

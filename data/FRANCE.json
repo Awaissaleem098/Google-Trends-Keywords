@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "23-01-2023 , 23:51:45",
+  "lastUpdate": "24-01-2023 , 01:08:16",
   "data": [
+    [
+      {
+        "title": "Nicolas Maury",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nicolas%20Maury",
+        "pubdate": "Tue, 24 Jan 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Valérie Karsenti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Val%C3%A9rie%20Karsenti",
+        "pubdate": "Tue, 24 Jan 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Pays de Cassel – paris-sg",
@@ -13,20 +27,6 @@
         "title": "Piste noire",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Piste%20noire",
         "pubdate": "Mon, 23 Jan 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ne le dis à personne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ne%20le%20dis%20%C3%A0%20personne",
-        "pubdate": "Mon, 23 Jan 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fulham – Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Fulham%20%E2%80%93%20Tottenham",
-        "pubdate": "Mon, 23 Jan 2023 21:00:00 +0100"
       }
     ],
     [
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Hedy Lamarr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Hedy%20Lamarr",
-        "pubdate": "Mon, 23 Jan 2023 00:00:00 +0100"
+        "title": "Les Petits Mouchoirs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Les%20Petits%20Mouchoirs",
+        "pubdate": "Mon, 23 Jan 2023 22:00:00 +0100"
       }
     ],
     [
@@ -69,13 +69,6 @@
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Novak%20Djokovic",
         "pubdate": "Mon, 23 Jan 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Les Petits Mouchoirs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Les%20Petits%20Mouchoirs",
-        "pubdate": "Mon, 23 Jan 2023 22:00:00 +0100"
       }
     ],
     [
@@ -101,16 +94,16 @@
     ],
     [
       {
-        "title": "Gabriel Attal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gabriel%20Attal",
-        "pubdate": "Mon, 23 Jan 2023 20:00:00 +0100"
+        "title": "Olivier Dussopt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Olivier%20Dussopt",
+        "pubdate": "Mon, 23 Jan 2023 16:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Olivier Dussopt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Olivier%20Dussopt",
-        "pubdate": "Mon, 23 Jan 2023 16:00:00 +0100"
+        "title": "Gabriel Attal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gabriel%20Attal",
+        "pubdate": "Mon, 23 Jan 2023 20:00:00 +0100"
       }
     ],
     [
@@ -122,6 +115,13 @@
     ],
     [
       {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tottenham",
+        "pubdate": "Mon, 23 Jan 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jeanne Moreau",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jeanne%20Moreau",
         "pubdate": "Mon, 23 Jan 2023 15:00:00 +0100"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Soudan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Soudan",
-        "pubdate": "Mon, 23 Jan 2023 00:00:00 +0100"
+        "title": "Ben Shelton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ben%20Shelton",
+        "pubdate": "Mon, 23 Jan 2023 13:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Ben Shelton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ben%20Shelton",
-        "pubdate": "Mon, 23 Jan 2023 13:00:00 +0100"
+        "title": "Thauvin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Thauvin",
+        "pubdate": "Mon, 23 Jan 2023 23:00:00 +0100"
       }
     ]
   ]

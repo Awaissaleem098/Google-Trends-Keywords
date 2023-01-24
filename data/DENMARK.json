@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-01-2023 , 23:51:44",
+  "lastUpdate": "24-01-2023 , 01:08:15",
   "data": [
     [
       {
@@ -55,6 +55,13 @@
         "title": "Emilia clarke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Emilia%20clarke",
         "pubdate": "Mon, 23 Jan 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Forspoken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Forspoken",
+        "pubdate": "Mon, 23 Jan 2023 20:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Kylie Jenner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kylie%20Jenner",
         "pubdate": "Sun, 22 Jan 2023 03:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20City",
-        "pubdate": "Sun, 22 Jan 2023 17:00:00 +0100"
       }
     ]
   ]

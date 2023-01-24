@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-01-2023 , 23:51:51",
+  "lastUpdate": "24-01-2023 , 01:08:23",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Arnold Schwarzenegger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arnold%20Schwarzenegger",
         "pubdate": "Mon, 23 Jan 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Inter  Empoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter%20%20Empoli",
-        "pubdate": "Mon, 23 Jan 2023 21:00:00 +0100"
       }
     ],
     [
@@ -52,8 +45,22 @@
     ],
     [
       {
+        "title": "Fulham – Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fulham%20%E2%80%93%20Tottenham",
+        "pubdate": "Mon, 23 Jan 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter",
+        "pubdate": "Mon, 23 Jan 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sidney Poitier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sidney%20Poitier",
         "pubdate": "Mon, 23 Jan 2023 22:00:00 +0100"
       }
     ],
@@ -73,9 +80,9 @@
     ],
     [
       {
-        "title": "Sidney Poitier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sidney%20Poitier",
-        "pubdate": "Mon, 23 Jan 2023 22:00:00 +0100"
+        "title": "Piste noire",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Piste%20noire",
+        "pubdate": "Mon, 23 Jan 2023 23:00:00 +0100"
       }
     ],
     [
@@ -94,6 +101,13 @@
     ],
     [
       {
+        "title": "Forspoken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Forspoken",
+        "pubdate": "Mon, 23 Jan 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Willem Geubbels",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Willem%20Geubbels",
         "pubdate": "Mon, 23 Jan 2023 15:00:00 +0100"
@@ -101,9 +115,9 @@
     ],
     [
       {
-        "title": "Forspoken",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Forspoken",
-        "pubdate": "Mon, 23 Jan 2023 19:00:00 +0100"
+        "title": "Mandy Capristo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mandy%20Capristo",
+        "pubdate": "Mon, 23 Jan 2023 22:00:00 +0100"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Natalia Wörner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Natalia%20W%C3%B6rner",
-        "pubdate": "Mon, 23 Jan 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mandy Capristo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mandy%20Capristo",
-        "pubdate": "Mon, 23 Jan 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tottenham",
-        "pubdate": "Mon, 23 Jan 2023 23:00:00 +0100"
+        "title": "HCD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#HCD",
+        "pubdate": "Mon, 23 Jan 2023 18:00:00 +0100"
       }
     ]
   ]
