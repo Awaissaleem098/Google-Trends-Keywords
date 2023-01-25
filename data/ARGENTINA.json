@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-01-2023 , 01:42:16",
+  "lastUpdate": "25-01-2023 , 02:33:25",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Copa Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Copa%20Argentina",
+        "pubdate": "Tue, 24 Jan 2023 12:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Lazio vs Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lazio%20vs%20Milan",
         "pubdate": "Tue, 24 Jan 2023 18:00:00 -0300"
@@ -34,13 +41,6 @@
         "title": "Nucleo de la Tierra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Nucleo%20de%20la%20Tierra",
         "pubdate": "Tue, 24 Jan 2023 10:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Copa Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Copa%20Argentina",
-        "pubdate": "Tue, 24 Jan 2023 12:00:00 -0300"
       }
     ],
     [
@@ -69,6 +69,20 @@
         "title": "Bayern vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bayern%20vs",
         "pubdate": "Tue, 24 Jan 2023 19:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Perrone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Perrone",
+        "pubdate": "Tue, 24 Jan 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Monte Hermoso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Monte%20Hermoso",
+        "pubdate": "Tue, 24 Jan 2023 22:00:00 -0300"
       }
     ],
     [
@@ -108,6 +122,13 @@
     ],
     [
       {
+        "title": "Comunidad de Estados Latinoamericanos y Caribeños",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Comunidad%20de%20Estados%20Latinoamericanos%20y%20Caribe%C3%B1os",
+        "pubdate": "Tue, 24 Jan 2023 19:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Triquinosis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Triquinosis",
         "pubdate": "Tue, 24 Jan 2023 08:00:00 -0300"
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "San Vicente y las Granadinas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#San%20Vicente%20y%20las%20Granadinas",
+        "title": "Justin Roiland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Justin%20Roiland",
         "pubdate": "Tue, 24 Jan 2023 21:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Steve Jobs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Steve%20Jobs",
-        "pubdate": "Tue, 24 Jan 2023 01:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Tim Allen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tim%20Allen",
-        "pubdate": "Tue, 24 Jan 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Paul Mescal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Paul%20Mescal",
-        "pubdate": "Tue, 24 Jan 2023 15:00:00 -0300"
       }
     ]
   ]

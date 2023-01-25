@@ -1,1 +1,1 @@
-Paul Walker,Ted Bundy,Justin Roiland,Primark,PSG,Szijjártó Péter,FTC,A sziget szellemei,League of Legends,Fertőzés,Szíj Melinda,Nagykövet,Doja Cat,RB Leipzig,Stohl András,Esztergályos Cecília,Göncz Dalma,Lionel Messi,Sharon Tate,AC Milan
+Paul Walker,Ted Bundy,Justin Roiland,Primark,FTC,PSG,Szijjártó Péter,A sziget szellemei,Fertőzés,League of Legends,Szíj Melinda,Nagykövet,Doja Cat,RB Leipzig,Stohl András,Esztergályos Cecília,Göncz Dalma,Lionel Messi,Sharon Tate,AC Milan

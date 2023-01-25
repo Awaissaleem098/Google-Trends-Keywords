@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-01-2023 , 01:42:21",
+  "lastUpdate": "25-01-2023 , 02:33:30",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Terremoto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Terremoto",
-        "pubdate": "Tue, 24 Jan 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Plan de Corones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Plan%20de%20Corones",
         "pubdate": "Tue, 24 Jan 2023 14:00:00 +0100"
@@ -101,13 +94,6 @@
     ],
     [
       {
-        "title": "John Elkann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#John%20Elkann",
-        "pubdate": "Tue, 24 Jan 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Stefania Fogliata",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Stefania%20Fogliata",
         "pubdate": "Tue, 24 Jan 2023 11:00:00 +0100"
@@ -122,13 +108,6 @@
     ],
     [
       {
-        "title": "Elisabetta Gregoraci",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Elisabetta%20Gregoraci",
-        "pubdate": "Tue, 24 Jan 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Patrizio Billio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Patrizio%20Billio",
         "pubdate": "Tue, 24 Jan 2023 17:00:00 +0100"
@@ -139,6 +118,27 @@
         "title": "Angela Celentano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Angela%20Celentano",
         "pubdate": "Tue, 24 Jan 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Partito democratico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Partito%20democratico",
+        "pubdate": "Tue, 24 Jan 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "La verità negata",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#La%20verit%C3%A0%20negata",
+        "pubdate": "Tue, 24 Jan 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "De Cecco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#De%20Cecco",
+        "pubdate": "Tue, 24 Jan 2023 21:00:00 +0100"
       }
     ]
   ]

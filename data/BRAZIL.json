@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-01-2023 , 01:42:17",
+  "lastUpdate": "25-01-2023 , 02:33:26",
   "data": [
     [
       {
@@ -38,16 +38,16 @@
     ],
     [
       {
-        "title": "RBD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#RBD",
-        "pubdate": "Tue, 24 Jan 2023 10:00:00 -0500"
+        "title": "Sport Recife x Belo Jardim",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sport%20Recife%20x%20Belo%20Jardim",
+        "pubdate": "Tue, 24 Jan 2023 08:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Sport Recife x Belo Jardim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sport%20Recife%20x%20Belo%20Jardim",
-        "pubdate": "Tue, 24 Jan 2023 08:00:00 -0500"
+        "title": "RBD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#RBD",
+        "pubdate": "Tue, 24 Jan 2023 10:00:00 -0500"
       }
     ],
     [
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Guarani Futebol Clube",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Guarani%20Futebol%20Clube",
+        "pubdate": "Tue, 24 Jan 2023 18:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Palácio do Planalto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Pal%C3%A1cio%20do%20Planalto",
         "pubdate": "Tue, 24 Jan 2023 09:00:00 -0500"
@@ -108,23 +115,9 @@
     ],
     [
       {
-        "title": "Guarani Futebol Clube",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Guarani%20Futebol%20Clube",
-        "pubdate": "Tue, 24 Jan 2023 18:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Nada de Novo no Front",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nada%20de%20Novo%20no%20Front",
         "pubdate": "Tue, 24 Jan 2023 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Boston Celtics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Boston%20Celtics",
-        "pubdate": "Tue, 24 Jan 2023 14:00:00 -0500"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Lucas Barreto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lucas%20Barreto",
-        "pubdate": "Tue, 24 Jan 2023 11:00:00 -0500"
+        "title": "Jogos de Corinthians",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogos%20de%20Corinthians",
+        "pubdate": "Tue, 24 Jan 2023 19:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Boston Celtics",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Boston%20Celtics",
+        "pubdate": "Tue, 24 Jan 2023 14:00:00 -0500"
       }
     ]
   ]

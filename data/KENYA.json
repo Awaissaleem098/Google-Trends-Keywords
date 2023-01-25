@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-01-2023 , 01:42:21",
+  "lastUpdate": "25-01-2023 , 02:33:31",
   "data": [
     [
       {
@@ -48,13 +48,6 @@
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#PSG",
         "pubdate": "Tue, 24 Jan 2023 09:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Breaking news Kenya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Breaking%20news%20Kenya",
-        "pubdate": "Tue, 24 Jan 2023 19:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Nice vs Lille",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Nice%20vs%20Lille",
         "pubdate": "Tue, 24 Jan 2023 11:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Professor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Professor",
+        "pubdate": "Tue, 24 Jan 2023 23:00:00 +0300"
       }
     ]
   ]
