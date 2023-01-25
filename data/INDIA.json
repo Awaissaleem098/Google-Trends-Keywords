@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-01-2023 , 23:55:59",
+  "lastUpdate": "25-01-2023 , 01:42:20",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Cricket",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Cricket",
+        "pubdate": "Tue, 24 Jan 2023 16:30:00 +0530"
+      }
+    ],
+    [
+      {
         "title": "Sports",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Sports",
         "pubdate": "Tue, 24 Jan 2023 16:30:00 +0530"
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "Earthquake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Earthquake",
-        "pubdate": "Tue, 24 Jan 2023 14:30:00 +0530"
+        "title": "Shubman Gill",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Shubman%20Gill",
+        "pubdate": "Tue, 24 Jan 2023 15:30:00 +0530"
       }
     ],
     [
       {
-        "title": "Shubman Gill",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Shubman%20Gill",
-        "pubdate": "Tue, 24 Jan 2023 15:30:00 +0530"
+        "title": "Earthquake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Earthquake",
+        "pubdate": "Tue, 24 Jan 2023 14:30:00 +0530"
       }
     ],
     [
@@ -66,9 +73,16 @@
     ],
     [
       {
-        "title": "BBC Documentary on Modi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#BBC%20Documentary%20on%20Modi",
-        "pubdate": "Tue, 24 Jan 2023 21:30:00 +0530"
+        "title": "Earthquake in Delhi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Earthquake%20in%20Delhi",
+        "pubdate": "Tue, 24 Jan 2023 14:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "BBC documentary on Modi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#BBC%20documentary%20on%20Modi",
+        "pubdate": "Tue, 24 Jan 2023 23:30:00 +0530"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "IND vs NZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#IND%20vs%20NZ",
         "pubdate": "Mon, 23 Jan 2023 14:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Al%20Nassr",
-        "pubdate": "Mon, 23 Jan 2023 00:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Republic Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Republic%20Day",
-        "pubdate": "Mon, 23 Jan 2023 19:30:00 +0530"
       }
     ]
   ]

@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "24-01-2023 , 23:56:01",
+  "lastUpdate": "25-01-2023 , 01:42:21",
   "data": [
-    [
-      {
-        "title": "Bayern vs Colonia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bayern%20vs%20Colonia",
-        "pubdate": "Tue, 24 Jan 2023 10:00:00 -0600"
-      }
-    ],
     [
       {
         "title": "Nominaciones Oscar 2023",
@@ -20,6 +13,13 @@
         "title": "Lazio vs Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lazio%20vs%20Milan",
         "pubdate": "Tue, 24 Jan 2023 08:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bundesliga",
+        "pubdate": "Tue, 24 Jan 2023 12:00:00 -0600"
       }
     ],
     [
@@ -52,6 +52,20 @@
     ],
     [
       {
+        "title": "Justin Roiland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Justin%20Roiland",
+        "pubdate": "Tue, 24 Jan 2023 17:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Jackson Wang",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Jackson%20Wang",
+        "pubdate": "Tue, 24 Jan 2023 15:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Schalke 04 - RB Leipzig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Schalke%2004%20-%20RB%20Leipzig",
         "pubdate": "Tue, 24 Jan 2023 13:00:00 -0600"
@@ -62,6 +76,13 @@
         "title": "Temperatura Hermosillo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Temperatura%20Hermosillo",
         "pubdate": "Tue, 24 Jan 2023 00:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Gael garcia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Gael%20garcia",
+        "pubdate": "Tue, 24 Jan 2023 17:00:00 -0600"
       }
     ],
     [
@@ -87,16 +108,16 @@
     ],
     [
       {
-        "title": "Gabriel Soto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Gabriel%20Soto",
-        "pubdate": "Tue, 24 Jan 2023 09:00:00 -0600"
+        "title": "Carlos Loret de Mola",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Carlos%20Loret%20de%20Mola",
+        "pubdate": "Tue, 24 Jan 2023 14:00:00 -0600"
       }
     ],
     [
       {
-        "title": "Carlos Loret de Mola",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Carlos%20Loret%20de%20Mola",
-        "pubdate": "Tue, 24 Jan 2023 14:00:00 -0600"
+        "title": "Sin novedad en el frente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Sin%20novedad%20en%20el%20frente",
+        "pubdate": "Tue, 24 Jan 2023 13:00:00 -0600"
       }
     ],
     [
@@ -108,20 +129,6 @@
     ],
     [
       {
-        "title": "All Quiet on the Western Front",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#All%20Quiet%20on%20the%20Western%20Front",
-        "pubdate": "Tue, 24 Jan 2023 12:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Jackson Wang",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Jackson%20Wang",
-        "pubdate": "Tue, 24 Jan 2023 15:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Triangle of Sadness",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Triangle%20of%20Sadness",
         "pubdate": "Tue, 24 Jan 2023 12:00:00 -0600"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Bardo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bardo",
-        "pubdate": "Tue, 24 Jan 2023 13:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Clio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Clio",
-        "pubdate": "Tue, 24 Jan 2023 16:00:00 -0600"
+        "title": "All Quiet on the Western Front",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#All%20Quiet%20on%20the%20Western%20Front",
+        "pubdate": "Tue, 24 Jan 2023 12:00:00 -0600"
       }
     ]
   ]

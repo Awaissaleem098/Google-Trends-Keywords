@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-01-2023 , 23:55:55",
+  "lastUpdate": "25-01-2023 , 01:42:16",
   "data": [
     [
       {
@@ -17,9 +17,23 @@
     ],
     [
       {
-        "title": "Panic! at the Disco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Panic!%20at%20the%20Disco",
+        "title": "Panic! At The Disco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Panic!%20At%20The%20Disco",
         "pubdate": "Wed, 25 Jan 2023 08:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Paul Mescal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Paul%20Mescal",
+        "pubdate": "Wed, 25 Jan 2023 10:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Doomsday Clock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Doomsday%20Clock",
+        "pubdate": "Wed, 25 Jan 2023 10:00:00 +1100"
       }
     ],
     [
@@ -31,9 +45,37 @@
     ],
     [
       {
-        "title": "Kari Lake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kari%20Lake",
-        "pubdate": "Wed, 25 Jan 2023 00:00:00 +1100"
+        "title": "Guy Sebastian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Guy%20Sebastian",
+        "pubdate": "Wed, 25 Jan 2023 11:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "How I Met Your Father",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#How%20I%20Met%20Your%20Father",
+        "pubdate": "Wed, 25 Jan 2023 11:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Danjuma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Danjuma",
+        "pubdate": "Wed, 25 Jan 2023 11:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Shubman Gill",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Shubman%20Gill",
+        "pubdate": "Wed, 25 Jan 2023 11:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Toyah Cordingley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Toyah%20Cordingley",
+        "pubdate": "Wed, 25 Jan 2023 11:00:00 +1100"
       }
     ],
     [
@@ -66,6 +108,13 @@
     ],
     [
       {
+        "title": "Oscar Nominations 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Oscar%20Nominations%202023",
+        "pubdate": "Tue, 24 Jan 2023 20:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Fulham vs Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fulham%20vs%20Tottenham",
         "pubdate": "Tue, 24 Jan 2023 00:00:00 +1100"
@@ -73,23 +122,9 @@
     ],
     [
       {
-        "title": "IND vs NZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#IND%20vs%20NZ",
-        "pubdate": "Tue, 24 Jan 2023 21:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Kanye West",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kanye%20West",
         "pubdate": "Tue, 24 Jan 2023 09:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Oscar Nominations 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Oscar%20Nominations%202023",
-        "pubdate": "Tue, 24 Jan 2023 20:00:00 +1100"
       }
     ],
     [
@@ -104,41 +139,6 @@
         "title": "Rui Hachimura",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rui%20Hachimura",
         "pubdate": "Tue, 24 Jan 2023 09:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Doja Cat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Doja%20Cat",
-        "pubdate": "Tue, 24 Jan 2023 11:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Maya Rudolph",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Maya%20Rudolph",
-        "pubdate": "Tue, 24 Jan 2023 10:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Frank Lampard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Frank%20Lampard",
-        "pubdate": "Tue, 24 Jan 2023 10:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Radar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Radar",
-        "pubdate": "Tue, 24 Jan 2023 17:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Steve Smith",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Steve%20Smith",
-        "pubdate": "Tue, 24 Jan 2023 16:00:00 +1100"
       }
     ]
   ]

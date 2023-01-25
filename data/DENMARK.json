@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "24-01-2023 , 23:55:57",
+  "lastUpdate": "25-01-2023 , 01:42:18",
   "data": [
     [
       {
-        "title": "Oscar nominations 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Oscar%20nominations%202023",
+        "title": "Oscar Nominations 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Oscar%20Nominations%202023",
         "pubdate": "Tue, 24 Jan 2023 14:00:00 +0100"
       }
     ],
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bundesliga",
-        "pubdate": "Tue, 24 Jan 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Polestar 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Polestar%202",
         "pubdate": "Tue, 24 Jan 2023 19:00:00 +0100"
@@ -45,9 +38,23 @@
     ],
     [
       {
+        "title": "Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bundesliga",
+        "pubdate": "Tue, 24 Jan 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Triangle of Sadness",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Triangle%20of%20Sadness",
         "pubdate": "Tue, 24 Jan 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Carabao Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Carabao%20Cup",
+        "pubdate": "Tue, 24 Jan 2023 23:00:00 +0100"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Pays de Cassel  PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pays%20de%20Cassel%20%20PSG",
-        "pubdate": "Mon, 23 Jan 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Leopard 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Leopard%202",
         "pubdate": "Mon, 23 Jan 2023 18:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Tim Allen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tim%20Allen",
-        "pubdate": "Mon, 23 Jan 2023 14:00:00 +0100"
+        "title": "Pays de Cassel  PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pays%20de%20Cassel%20%20PSG",
+        "pubdate": "Mon, 23 Jan 2023 22:00:00 +0100"
       }
     ]
   ]

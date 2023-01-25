@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "24-01-2023 , 23:55:55",
+  "lastUpdate": "25-01-2023 , 01:42:15",
   "data": [
     [
       {
-        "title": "Panic! at the Disco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Panic!%20at%20the%20Disco",
+        "title": "Panic! At The Disco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Panic!%20At%20The%20Disco",
         "pubdate": "Tue, 24 Jan 2023 08:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Triangle of Sadness",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Triangle%20of%20Sadness",
-        "pubdate": "Tue, 24 Jan 2023 07:00:00 -0800"
       }
     ],
     [
@@ -24,8 +17,22 @@
     ],
     [
       {
+        "title": "Triangle of Sadness",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Triangle%20of%20Sadness",
+        "pubdate": "Tue, 24 Jan 2023 07:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Women Talking",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Women%20Talking",
+        "pubdate": "Tue, 24 Jan 2023 10:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Doomsday Clock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Doomsday%20Clock",
         "pubdate": "Tue, 24 Jan 2023 10:00:00 -0800"
       }
     ],
@@ -38,16 +45,9 @@
     ],
     [
       {
-        "title": "The Fabelmans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20Fabelmans",
-        "pubdate": "Tue, 24 Jan 2023 11:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Doomsday Clock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Doomsday%20Clock",
-        "pubdate": "Tue, 24 Jan 2023 10:00:00 -0800"
+        "title": "Margot Robbie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Margot%20Robbie",
+        "pubdate": "Tue, 24 Jan 2023 16:00:00 -0800"
       }
     ],
     [
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Stevie Nicks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Stevie%20Nicks",
-        "pubdate": "Tue, 24 Jan 2023 04:00:00 -0800"
+        "title": "MSFT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#MSFT",
+        "pubdate": "Tue, 24 Jan 2023 15:00:00 -0800"
       }
     ],
     [
@@ -80,8 +80,43 @@
     ],
     [
       {
-        "title": "Oscar nominations 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Oscar%20nominations%202023",
+        "title": "Mike Clevinger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mike%20Clevinger",
+        "pubdate": "Tue, 24 Jan 2023 15:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Mikaela Shiffrin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mikaela%20Shiffrin",
+        "pubdate": "Tue, 24 Jan 2023 16:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Tristan Thompson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tristan%20Thompson",
+        "pubdate": "Tue, 24 Jan 2023 12:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Stevie Nicks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Stevie%20Nicks",
+        "pubdate": "Tue, 24 Jan 2023 04:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Lakers trade",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lakers%20trade",
+        "pubdate": "Tue, 24 Jan 2023 07:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Oscar Nominations 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Oscar%20Nominations%202023",
         "pubdate": "Mon, 23 Jan 2023 22:00:00 -0800"
       }
     ],
@@ -101,44 +136,9 @@
     ],
     [
       {
-        "title": "Rui Hachimura",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rui%20Hachimura",
-        "pubdate": "Mon, 23 Jan 2023 10:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Celtics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Celtics",
-        "pubdate": "Mon, 23 Jan 2023 18:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#PSG",
-        "pubdate": "Mon, 23 Jan 2023 16:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Fulham vs Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Fulham%20vs%20Tottenham",
-        "pubdate": "Mon, 23 Jan 2023 12:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Doja Cat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Doja%20Cat",
-        "pubdate": "Mon, 23 Jan 2023 13:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Forspoken",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Forspoken",
-        "pubdate": "Mon, 23 Jan 2023 09:00:00 -0800"
+        "title": "Half Moon Bay shooter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Half%20Moon%20Bay%20shooter",
+        "pubdate": "Mon, 23 Jan 2023 19:00:00 -0800"
       }
     ]
   ]
