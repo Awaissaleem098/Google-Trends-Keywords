@@ -1,20 +1,6 @@
 {
-  "lastUpdate": "27-01-2023 , 00:32:41",
+  "lastUpdate": "27-01-2023 , 02:06:25",
   "data": [
-    [
-      {
-        "title": "Regaip kandili",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Regaip%20kandili",
-        "pubdate": "Thu, 26 Jan 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Aufbackbrötchen Öko-Test",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Aufbackbr%C3%B6tchen%20%C3%96ko-Test",
-        "pubdate": "Thu, 26 Jan 2023 14:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Rybakina",
@@ -38,16 +24,9 @@
     ],
     [
       {
-        "title": "Scalable Capital",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Scalable%20Capital",
-        "pubdate": "Thu, 26 Jan 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kobe Bryant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kobe%20Bryant",
-        "pubdate": "Thu, 26 Jan 2023 14:00:00 +0100"
+        "title": "Öko-Test Aufbackbrötchen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#%C3%96ko-Test%20Aufbackbr%C3%B6tchen",
+        "pubdate": "Thu, 26 Jan 2023 17:00:00 +0100"
       }
     ],
     [
@@ -129,16 +108,37 @@
     ],
     [
       {
-        "title": "Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dortmund",
-        "pubdate": "Wed, 25 Jan 2023 20:00:00 +0100"
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Barcelona",
+        "pubdate": "Wed, 25 Jan 2023 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Barcelona",
-        "pubdate": "Wed, 25 Jan 2023 22:00:00 +0100"
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Novak%20Djokovic",
+        "pubdate": "Wed, 25 Jan 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Pathaan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pathaan",
+        "pubdate": "Wed, 25 Jan 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Djokovic",
+        "pubdate": "Wed, 25 Jan 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Russland news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Russland%20news",
+        "pubdate": "Wed, 25 Jan 2023 18:00:00 +0100"
       }
     ]
   ]

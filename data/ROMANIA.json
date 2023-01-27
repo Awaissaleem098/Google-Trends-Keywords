@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "27-01-2023 , 00:32:46",
+  "lastUpdate": "27-01-2023 , 02:06:32",
   "data": [
+    [
+      {
+        "title": "Salma Hayek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Salma%20Hayek",
+        "pubdate": "Fri, 27 Jan 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Horoscop 27 ianuarie 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Horoscop%2027%20ianuarie%202023",
+        "pubdate": "Fri, 27 Jan 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ajax",
+        "pubdate": "Fri, 27 Jan 2023 03:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Real Madrid  atlético Madrid",
@@ -118,27 +139,6 @@
         "title": "Rybakina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rybakina",
         "pubdate": "Wed, 25 Jan 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Justin Roiland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Justin%20Roiland",
-        "pubdate": "Wed, 25 Jan 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Permis de conducere",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Permis%20de%20conducere",
-        "pubdate": "Wed, 25 Jan 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Leopard 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Leopard%202",
-        "pubdate": "Wed, 25 Jan 2023 00:00:00 +0200"
       }
     ]
   ]

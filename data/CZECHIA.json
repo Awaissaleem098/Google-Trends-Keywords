@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-01-2023 , 00:32:39",
+  "lastUpdate": "27-01-2023 , 02:06:23",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Luke Evans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Luke%20Evans",
+        "pubdate": "Thu, 26 Jan 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jiří Lábus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20L%C3%A1bus",
         "pubdate": "Thu, 26 Jan 2023 17:00:00 +0100"
@@ -76,13 +83,6 @@
         "title": "Referendum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Referendum",
         "pubdate": "Thu, 26 Jan 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Luke Evans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Luke%20Evans",
-        "pubdate": "Thu, 26 Jan 2023 23:00:00 +0100"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Forum24.cz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Forum24.cz",
-        "pubdate": "Thu, 26 Jan 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Výsledky voleb 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%BDsledky%20voleb%202023",
         "pubdate": "Thu, 26 Jan 2023 23:00:00 +0100"
@@ -122,9 +115,9 @@
     ],
     [
       {
-        "title": "Prima",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Prima",
-        "pubdate": "Wed, 25 Jan 2023 20:00:00 +0100"
+        "title": "CNN Prima News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#CNN%20Prima%20News",
+        "pubdate": "Wed, 25 Jan 2023 15:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Survivor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Survivor",
         "pubdate": "Wed, 25 Jan 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Plat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Plat",
+        "pubdate": "Wed, 25 Jan 2023 08:00:00 +0100"
       }
     ]
   ]
