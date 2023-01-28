@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "28-01-2023 , 01:03:36",
+  "lastUpdate": "28-01-2023 , 02:24:33",
   "data": [
     [
       {
-        "title": "Tô Lâm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#T%C3%B4%20L%C3%A2m",
-        "pubdate": "Sat, 28 Jan 2023 06:00:00 +0700"
+        "title": "Bologna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bologna",
+        "pubdate": "Sat, 28 Jan 2023 02:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Nguyễn Quang Tuấn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Nguy%E1%BB%85n%20Quang%20Tu%E1%BA%A5n",
+        "pubdate": "Sat, 28 Jan 2023 08:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Văn phòng Chính phủ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#V%C4%83n%20ph%C3%B2ng%20Ch%C3%ADnh%20ph%E1%BB%A7",
+        "pubdate": "Sat, 28 Jan 2023 08:00:00 +0700"
       }
     ],
     [
@@ -66,13 +80,6 @@
     ],
     [
       {
-        "title": "Cái tát của mẹ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#C%C3%A1i%20t%C3%A1t%20c%E1%BB%A7a%20m%E1%BA%B9",
-        "pubdate": "Fri, 27 Jan 2023 00:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Quốc hội Việt Nam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Qu%E1%BB%91c%20h%E1%BB%99i%20Vi%E1%BB%87t%20Nam",
         "pubdate": "Fri, 27 Jan 2023 15:00:00 +0700"
@@ -87,16 +94,16 @@
     ],
     [
       {
-        "title": "Lorient – Rennes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Lorient%20%E2%80%93%20Rennes",
-        "pubdate": "Fri, 27 Jan 2023 20:00:00 +0700"
+        "title": "Cúng khai trương",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#C%C3%BAng%20khai%20tr%C6%B0%C6%A1ng",
+        "pubdate": "Fri, 27 Jan 2023 07:00:00 +0700"
       }
     ],
     [
       {
-        "title": "Cúng khai trương",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#C%C3%BAng%20khai%20tr%C6%B0%C6%A1ng",
-        "pubdate": "Fri, 27 Jan 2023 07:00:00 +0700"
+        "title": "Nghệ sĩ Xuân Bắc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ngh%E1%BB%87%20s%C4%A9%20Xu%C3%A2n%20B%E1%BA%AFc",
+        "pubdate": "Fri, 27 Jan 2023 09:00:00 +0700"
       }
     ],
     [
@@ -122,22 +129,15 @@
     ],
     [
       {
+        "title": "Saitama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Saitama",
+        "pubdate": "Fri, 27 Jan 2023 09:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "DOJI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#DOJI",
-        "pubdate": "Fri, 27 Jan 2023 16:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Ibrahimovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ibrahimovic",
-        "pubdate": "Fri, 27 Jan 2023 15:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Atletico madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Atletico%20madrid",
         "pubdate": "Fri, 27 Jan 2023 16:00:00 +0700"
       }
     ]

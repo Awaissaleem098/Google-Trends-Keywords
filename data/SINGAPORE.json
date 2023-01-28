@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "28-01-2023 , 01:03:34",
+  "lastUpdate": "28-01-2023 , 02:24:30",
   "data": [
     [
       {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arsenal",
         "pubdate": "Sat, 28 Jan 2023 03:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Auckland flooding",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Auckland%20flooding",
+        "pubdate": "Sat, 28 Jan 2023 09:00:00 +0800"
       }
     ],
     [
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Masaba Gupta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Masaba%20Gupta",
-        "pubdate": "Sat, 28 Jan 2023 01:00:00 +0800"
+        "title": "You People",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#You%20People",
+        "pubdate": "Sat, 28 Jan 2023 02:00:00 +0800"
       }
     ],
     [
       {
-        "title": "You People",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#You%20People",
-        "pubdate": "Sat, 28 Jan 2023 02:00:00 +0800"
+        "title": "Masaba Gupta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Masaba%20Gupta",
+        "pubdate": "Sat, 28 Jan 2023 01:00:00 +0800"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Blake Lively",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Blake%20Lively",
-        "pubdate": "Fri, 27 Jan 2023 21:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Tyre Nichols",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tyre%20Nichols",
         "pubdate": "Fri, 27 Jan 2023 11:00:00 +0800"
@@ -73,9 +73,9 @@
     ],
     [
       {
-        "title": "Character ai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Character%20ai",
-        "pubdate": "Fri, 27 Jan 2023 20:00:00 +0800"
+        "title": "Blake Lively",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Blake%20Lively",
+        "pubdate": "Fri, 27 Jan 2023 21:00:00 +0800"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Bondee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bondee",
-        "pubdate": "Thu, 26 Jan 2023 20:00:00 +0800"
+        "title": "Man City vs Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20City%20vs%20Arsenal",
+        "pubdate": "Thu, 26 Jan 2023 18:00:00 +0800"
       }
     ]
   ]

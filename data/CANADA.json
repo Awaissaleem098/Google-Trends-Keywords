@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "28-01-2023 , 01:03:26",
+  "lastUpdate": "28-01-2023 , 02:24:17",
   "data": [
     [
       {
         "title": "You People",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#You%20People",
         "pubdate": "Fri, 27 Jan 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Arsenal",
-        "pubdate": "Fri, 27 Jan 2023 16:00:00 -0500"
       }
     ],
     [
@@ -38,8 +31,8 @@
     ],
     [
       {
-        "title": "Lavender Haze",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lavender%20Haze",
+        "title": "Lavender Haze music video",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lavender%20Haze%20music%20video",
         "pubdate": "Fri, 27 Jan 2023 14:00:00 -0500"
       }
     ],
@@ -52,6 +45,13 @@
     ],
     [
       {
+        "title": "Senators vs Maple Leafs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Senators%20vs%20Maple%20Leafs",
+        "pubdate": "Fri, 27 Jan 2023 19:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Jay Leno",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jay%20Leno",
         "pubdate": "Fri, 27 Jan 2023 14:00:00 -0500"
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Allegation",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Allegation",
-        "pubdate": "Fri, 27 Jan 2023 05:00:00 -0500"
+        "title": "Lauren London",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lauren%20London",
+        "pubdate": "Fri, 27 Jan 2023 16:00:00 -0500"
       }
     ],
     [
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Lauren London",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lauren%20London",
-        "pubdate": "Fri, 27 Jan 2023 16:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Conor McGregor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Conor%20McGregor",
         "pubdate": "Fri, 27 Jan 2023 17:00:00 -0500"
@@ -101,13 +94,6 @@
     ],
     [
       {
-        "title": "John Ventimiglia daughter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#John%20Ventimiglia%20daughter",
-        "pubdate": "Fri, 27 Jan 2023 07:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Lucid stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lucid%20stock",
         "pubdate": "Fri, 27 Jan 2023 15:00:00 -0500"
@@ -118,6 +104,13 @@
         "title": "Shrinking",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Shrinking",
         "pubdate": "Fri, 27 Jan 2023 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "John Ventimiglia daughter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#John%20Ventimiglia%20daughter",
+        "pubdate": "Fri, 27 Jan 2023 07:00:00 -0500"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "NBA All-Star 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#NBA%20All-Star%202023",
         "pubdate": "Fri, 27 Jan 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Sania Mirza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sania%20Mirza",
+        "pubdate": "Fri, 27 Jan 2023 09:00:00 -0500"
       }
     ]
   ]

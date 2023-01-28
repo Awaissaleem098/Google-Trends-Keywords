@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-01-2023 , 01:03:36",
+  "lastUpdate": "28-01-2023 , 02:24:33",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Claire Foy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Claire%20Foy",
         "pubdate": "Sat, 28 Jan 2023 00:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Doja Cat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Doja%20Cat",
+        "pubdate": "Sat, 28 Jan 2023 01:00:00 +0000"
       }
     ],
     [
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Sylvia Syms",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sylvia%20Syms",
-        "pubdate": "Fri, 27 Jan 2023 17:00:00 +0000"
+        "title": "Tyre Nichols",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Tyre%20Nichols",
+        "pubdate": "Fri, 27 Jan 2023 00:00:00 +0000"
       }
     ],
     [
       {
-        "title": "Tyre Nichols",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Tyre%20Nichols",
-        "pubdate": "Fri, 27 Jan 2023 00:00:00 +0000"
+        "title": "Sylvia Syms",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sylvia%20Syms",
+        "pubdate": "Fri, 27 Jan 2023 17:00:00 +0000"
       }
     ],
     [
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "Rita Ora",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Rita%20Ora",
-        "pubdate": "Fri, 27 Jan 2023 17:00:00 +0000"
+        "title": "You People",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#You%20People",
+        "pubdate": "Fri, 27 Jan 2023 18:00:00 +0000"
       }
     ],
     [
       {
-        "title": "You People",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#You%20People",
-        "pubdate": "Fri, 27 Jan 2023 18:00:00 +0000"
+        "title": "Rita Ora",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Rita%20Ora",
+        "pubdate": "Fri, 27 Jan 2023 17:00:00 +0000"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Holocaust Memorial Day 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Holocaust%20Memorial%20Day%202023",
-        "pubdate": "Fri, 27 Jan 2023 22:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Brendan Fraser",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Brendan%20Fraser",
-        "pubdate": "Fri, 27 Jan 2023 15:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Sarah Michelle Gellar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sarah%20Michelle%20Gellar",
         "pubdate": "Fri, 27 Jan 2023 23:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Holocaust Memorial Day 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Holocaust%20Memorial%20Day%202023",
+        "pubdate": "Fri, 27 Jan 2023 22:00:00 +0000"
       }
     ]
   ]

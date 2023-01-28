@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-01-2023 , 01:03:33",
+  "lastUpdate": "28-01-2023 , 02:24:28",
   "data": [
     [
       {
@@ -10,16 +10,9 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Arsenal",
+        "title": "City  Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#City%20%20Arsenal",
         "pubdate": "Fri, 27 Jan 2023 20:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Boate Kiss mortos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Boate%20Kiss%20mortos",
-        "pubdate": "Fri, 27 Jan 2023 23:00:00 +0000"
       }
     ],
     [
@@ -31,8 +24,8 @@
     ],
     [
       {
-        "title": "Michael Bublé",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Michael%20Bubl%C3%A9",
+        "title": "Michael buble",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Michael%20buble",
         "pubdate": "Fri, 27 Jan 2023 16:00:00 +0000"
       }
     ],
@@ -66,9 +59,9 @@
     ],
     [
       {
-        "title": "Dead Space",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dead%20Space",
-        "pubdate": "Fri, 27 Jan 2023 18:00:00 +0000"
+        "title": "Holocausto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Holocausto",
+        "pubdate": "Fri, 27 Jan 2023 11:00:00 +0000"
       }
     ],
     [
@@ -80,9 +73,23 @@
     ],
     [
       {
+        "title": "Dead Space",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dead%20Space",
+        "pubdate": "Fri, 27 Jan 2023 18:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "FA Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#FA%20Cup",
         "pubdate": "Fri, 27 Jan 2023 21:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Rege Jean-Page",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rege%20Jean-Page",
+        "pubdate": "Fri, 27 Jan 2023 14:00:00 +0000"
       }
     ],
     [
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Auschwitz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Auschwitz",
-        "pubdate": "Fri, 27 Jan 2023 22:00:00 +0000"
+        "title": "Paul Pelosi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Paul%20Pelosi",
+        "pubdate": "Fri, 27 Jan 2023 23:00:00 +0000"
       }
     ],
     [
@@ -122,9 +129,9 @@
     ],
     [
       {
-        "title": "Paul Pelosi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Paul%20Pelosi",
-        "pubdate": "Fri, 27 Jan 2023 23:00:00 +0000"
+        "title": "Auschwitz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Auschwitz",
+        "pubdate": "Fri, 27 Jan 2023 22:00:00 +0000"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Formula e",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Formula%20e",
         "pubdate": "Fri, 27 Jan 2023 19:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Besiktas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Besiktas",
-        "pubdate": "Fri, 27 Jan 2023 20:00:00 +0000"
       }
     ]
   ]

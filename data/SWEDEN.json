@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-01-2023 , 01:03:35",
+  "lastUpdate": "28-01-2023 , 02:24:31",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "Laleh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Laleh",
-        "pubdate": "Fri, 27 Jan 2023 21:00:00 +0100"
+        "title": "Benny Andersson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Benny%20Andersson",
+        "pubdate": "Fri, 27 Jan 2023 20:00:00 +0100"
       }
     ],
     [
@@ -31,16 +31,9 @@
     ],
     [
       {
-        "title": "Benny Andersson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Benny%20Andersson",
+        "title": "Laleh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Laleh",
         "pubdate": "Fri, 27 Jan 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FA-Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#FA-Cup",
-        "pubdate": "Fri, 27 Jan 2023 22:00:00 +0100"
       }
     ],
     [
@@ -52,13 +45,6 @@
     ],
     [
       {
-        "title": "Auschwitz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Auschwitz",
-        "pubdate": "Fri, 27 Jan 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Zara Larsson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Zara%20Larsson",
         "pubdate": "Fri, 27 Jan 2023 09:00:00 +0100"
@@ -66,9 +52,9 @@
     ],
     [
       {
-        "title": "Karabatic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Karabatic",
-        "pubdate": "Fri, 27 Jan 2023 22:00:00 +0100"
+        "title": "Auschwitz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Auschwitz",
+        "pubdate": "Fri, 27 Jan 2023 10:00:00 +0100"
       }
     ],
     [
@@ -90,6 +76,13 @@
         "title": "Frölunda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda",
         "pubdate": "Fri, 27 Jan 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lennixx",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lennixx",
+        "pubdate": "Fri, 27 Jan 2023 22:00:00 +0100"
       }
     ],
     [
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Dika Mem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dika%20Mem",
-        "pubdate": "Fri, 27 Jan 2023 22:00:00 +0100"
+        "title": "Akon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Akon",
+        "pubdate": "Fri, 27 Jan 2023 09:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Akon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Akon",
-        "pubdate": "Fri, 27 Jan 2023 09:00:00 +0100"
+        "title": "Colin Farrell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Colin%20Farrell",
+        "pubdate": "Fri, 27 Jan 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Race of Champions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Race%20of%20Champions",
+        "pubdate": "Fri, 27 Jan 2023 22:00:00 +0100"
       }
     ]
   ]
