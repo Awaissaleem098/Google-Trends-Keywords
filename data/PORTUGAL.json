@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "27-01-2023 , 23:51:28",
+  "lastUpdate": "28-01-2023 , 01:03:33",
   "data": [
+    [
+      {
+        "title": "Georgina Rodríguez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Georgina%20Rodr%C3%ADguez",
+        "pubdate": "Sat, 28 Jan 2023 00:00:00 +0000"
+      }
+    ],
     [
       {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Arsenal",
         "pubdate": "Fri, 27 Jan 2023 20:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Boate Kiss mortos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Boate%20Kiss%20mortos",
+        "pubdate": "Fri, 27 Jan 2023 23:00:00 +0000"
       }
     ],
     [
@@ -31,16 +45,16 @@
     ],
     [
       {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Djokovic",
-        "pubdate": "Fri, 27 Jan 2023 16:00:00 +0000"
+        "title": "Nelson Semedo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nelson%20Semedo",
+        "pubdate": "Fri, 27 Jan 2023 20:00:00 +0000"
       }
     ],
     [
       {
-        "title": "Holocausto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Holocausto",
-        "pubdate": "Fri, 27 Jan 2023 11:00:00 +0000"
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Djokovic",
+        "pubdate": "Fri, 27 Jan 2023 16:00:00 +0000"
       }
     ],
     [
@@ -52,16 +66,23 @@
     ],
     [
       {
-        "title": "Dead Space Remake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dead%20Space%20Remake",
+        "title": "Dead Space",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dead%20Space",
         "pubdate": "Fri, 27 Jan 2023 18:00:00 +0000"
       }
     ],
     [
       {
-        "title": "Nelson Semedo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nelson%20Semedo",
-        "pubdate": "Fri, 27 Jan 2023 20:00:00 +0000"
+        "title": "Tyre Nichols",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tyre%20Nichols",
+        "pubdate": "Fri, 27 Jan 2023 10:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "FA Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#FA%20Cup",
+        "pubdate": "Fri, 27 Jan 2023 21:00:00 +0000"
       }
     ],
     [
@@ -69,13 +90,6 @@
         "title": "Jovem morre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jovem%20morre",
         "pubdate": "Fri, 27 Jan 2023 09:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Rege Jean-Page",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rege%20Jean-Page",
-        "pubdate": "Fri, 27 Jan 2023 14:00:00 +0000"
       }
     ],
     [
@@ -101,9 +115,16 @@
     ],
     [
       {
-        "title": "Besiktas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Besiktas",
-        "pubdate": "Fri, 27 Jan 2023 20:00:00 +0000"
+        "title": "Cruz Vermelha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cruz%20Vermelha",
+        "pubdate": "Fri, 27 Jan 2023 23:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Paul Pelosi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Paul%20Pelosi",
+        "pubdate": "Fri, 27 Jan 2023 23:00:00 +0000"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "São Paulo  Portuguesa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#S%C3%A3o%20Paulo%20%20Portuguesa",
-        "pubdate": "Fri, 27 Jan 2023 12:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Kate Middleton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Kate%20Middleton",
-        "pubdate": "Fri, 27 Jan 2023 21:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Wolf Pack",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Wolf%20Pack",
-        "pubdate": "Fri, 27 Jan 2023 01:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Valencia  Ath Bilbao",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Valencia%20%20Ath%20Bilbao",
-        "pubdate": "Fri, 27 Jan 2023 01:00:00 +0000"
+        "title": "Besiktas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Besiktas",
+        "pubdate": "Fri, 27 Jan 2023 20:00:00 +0000"
       }
     ]
   ]

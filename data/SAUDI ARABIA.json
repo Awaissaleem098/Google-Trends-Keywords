@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "27-01-2023 , 23:51:29",
+  "lastUpdate": "28-01-2023 , 01:03:34",
   "data": [
+    [
+      {
+        "title": "ترتيب الدوري المصري",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8%20%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A%20%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A",
+        "pubdate": "Sat, 28 Jan 2023 02:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "عبدالله بانعمه",
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Lucid stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#Lucid%20stock",
-        "pubdate": "Fri, 27 Jan 2023 22:00:00 +0300"
+        "title": "لوسيد",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D9%84%D9%88%D8%B3%D9%8A%D8%AF",
+        "pubdate": "Fri, 27 Jan 2023 23:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "النصر",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A7%D9%84%D9%86%D8%B5%D8%B1",
         "pubdate": "Thu, 26 Jan 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "الهلال",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SA#%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84",
-        "pubdate": "Thu, 26 Jan 2023 16:00:00 +0300"
       }
     ]
   ]

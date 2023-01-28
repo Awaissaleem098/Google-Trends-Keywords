@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "27-01-2023 , 23:51:20",
+  "lastUpdate": "28-01-2023 , 01:03:26",
   "data": [
+    [
+      {
+        "title": "Palmeiras x Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Palmeiras%20x%20Flamengo",
+        "pubdate": "Fri, 27 Jan 2023 17:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Anitta",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Palmeiras x Flamengo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Palmeiras%20x%20Flamengo",
-        "pubdate": "Fri, 27 Jan 2023 17:00:00 -0500"
+        "title": "Nubank",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nubank",
+        "pubdate": "Fri, 27 Jan 2023 19:00:00 -0500"
       }
     ],
     [
@@ -27,13 +34,6 @@
         "title": "RB Leipzig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#RB%20Leipzig",
         "pubdate": "Fri, 27 Jan 2023 02:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Cara de Sapato",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cara%20de%20Sapato",
-        "pubdate": "Fri, 27 Jan 2023 12:00:00 -0500"
       }
     ],
     [
@@ -66,16 +66,16 @@
     ],
     [
       {
-        "title": "Banco Central",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Banco%20Central",
-        "pubdate": "Fri, 27 Jan 2023 08:00:00 -0500"
+        "title": "Casamento Armado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Casamento%20Armado",
+        "pubdate": "Fri, 27 Jan 2023 12:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Ratatouille",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ratatouille",
-        "pubdate": "Fri, 27 Jan 2023 14:00:00 -0500"
+        "title": "Banco Central",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Banco%20Central",
+        "pubdate": "Fri, 27 Jan 2023 08:00:00 -0500"
       }
     ],
     [
@@ -87,16 +87,16 @@
     ],
     [
       {
-        "title": "Dallas Mavericks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dallas%20Mavericks",
-        "pubdate": "Fri, 27 Jan 2023 01:00:00 -0500"
+        "title": "Ratatouille",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ratatouille",
+        "pubdate": "Fri, 27 Jan 2023 14:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Comunidade WhatsApp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Comunidade%20WhatsApp",
-        "pubdate": "Fri, 27 Jan 2023 11:00:00 -0500"
+        "title": "Dallas Mavericks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dallas%20Mavericks",
+        "pubdate": "Fri, 27 Jan 2023 01:00:00 -0500"
       }
     ],
     [
@@ -108,9 +108,16 @@
     ],
     [
       {
-        "title": "Ary Fontoura",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ary%20Fontoura",
-        "pubdate": "Fri, 27 Jan 2023 09:00:00 -0500"
+        "title": "Girona x Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Girona%20x%20Barcelona",
+        "pubdate": "Fri, 27 Jan 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Comunidade WhatsApp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Comunidade%20WhatsApp",
+        "pubdate": "Fri, 27 Jan 2023 11:00:00 -0500"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Casamento Armado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Casamento%20Armado",
-        "pubdate": "Fri, 27 Jan 2023 12:00:00 -0500"
+        "title": "Ary Fontoura",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ary%20Fontoura",
+        "pubdate": "Fri, 27 Jan 2023 09:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Girona x Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Girona%20x%20Barcelona",
-        "pubdate": "Fri, 27 Jan 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "CIEL3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CIEL3",
-        "pubdate": "Fri, 27 Jan 2023 08:00:00 -0500"
+        "title": "USP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#USP",
+        "pubdate": "Fri, 27 Jan 2023 18:00:00 -0500"
       }
     ]
   ]
