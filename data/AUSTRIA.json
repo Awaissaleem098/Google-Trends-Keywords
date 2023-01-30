@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "30-01-2023 , 05:57:28",
+  "lastUpdate": "30-01-2023 , 06:27:05",
   "data": [
     [
       {
         "title": "Landtag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Landtag",
         "pubdate": "Mon, 30 Jan 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Monika Gruber",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Monika%20Gruber",
+        "pubdate": "Mon, 30 Jan 2023 05:00:00 +0100"
       }
     ],
     [
@@ -45,9 +52,23 @@
     ],
     [
       {
+        "title": "Real Madrid gegen Real Sociedad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Real%20Madrid%20gegen%20Real%20Sociedad",
+        "pubdate": "Sun, 29 Jan 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Skifliegen Kulm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Skifliegen%20Kulm",
         "pubdate": "Sun, 29 Jan 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Annie Wersching",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Annie%20Wersching",
+        "pubdate": "Sun, 29 Jan 2023 22:00:00 +0100"
       }
     ],
     [
@@ -94,8 +115,8 @@
     ],
     [
       {
-        "title": "Annie Wersching",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Annie%20Wersching",
+        "title": "Philadelphia Eagles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Philadelphia%20Eagles",
         "pubdate": "Sun, 29 Jan 2023 22:00:00 +0100"
       }
     ],
@@ -104,13 +125,6 @@
         "title": "Tatort: Die Kälte der Erde",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tatort:%20Die%20K%C3%A4lte%20der%20Erde",
         "pubdate": "Sun, 29 Jan 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Philadelphia Eagles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Philadelphia%20Eagles",
-        "pubdate": "Sun, 29 Jan 2023 22:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Daniela Katzenberger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Daniela%20Katzenberger",
         "pubdate": "Sun, 29 Jan 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lukas Feurstein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lukas%20Feurstein",
-        "pubdate": "Sun, 29 Jan 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Manchester%20United",
-        "pubdate": "Sun, 29 Jan 2023 01:00:00 +0100"
       }
     ]
   ]
