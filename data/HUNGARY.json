@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-02-2023 , 00:31:36",
+  "lastUpdate": "02-02-2023 , 02:08:09",
   "data": [
     [
       {
@@ -31,9 +31,16 @@
     ],
     [
       {
-        "title": "Montpellier–psg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Montpellier%E2%80%93psg",
+        "title": "Montpellier–PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Montpellier%E2%80%93PSG",
         "pubdate": "Wed, 01 Feb 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mainz–bayern München",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mainz%E2%80%93bayern%20M%C3%BCnchen",
+        "pubdate": "Wed, 01 Feb 2023 20:00:00 +0100"
       }
     ],
     [
@@ -55,13 +62,6 @@
         "title": "Új Szó",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Aj%20Sz%C3%B3",
         "pubdate": "Wed, 01 Feb 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tápai Szabina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%A1pai%20Szabina",
-        "pubdate": "Wed, 01 Feb 2023 22:00:00 +0100"
       }
     ],
     [

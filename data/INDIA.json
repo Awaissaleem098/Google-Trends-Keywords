@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-02-2023 , 00:31:37",
+  "lastUpdate": "02-02-2023 , 02:08:09",
   "data": [
     [
       {
@@ -24,9 +24,23 @@
     ],
     [
       {
+        "title": "Ind बनाम NZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ind%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%AE%20NZ",
+        "pubdate": "Wed, 01 Feb 2023 21:30:00 +0530"
+      }
+    ],
+    [
+      {
         "title": "UPSC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#UPSC",
         "pubdate": "Wed, 01 Feb 2023 13:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Man United vs nottm Forest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Man%20United%20vs%20nottm%20Forest",
+        "pubdate": "Wed, 01 Feb 2023 00:30:00 +0530"
       }
     ],
     [
@@ -45,9 +59,9 @@
     ],
     [
       {
-        "title": "Man United vs nottm Forest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Man%20United%20vs%20nottm%20Forest",
-        "pubdate": "Wed, 01 Feb 2023 00:30:00 +0530"
+        "title": "Real Betis vs Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Real%20Betis%20vs%20Barcelona",
+        "pubdate": "Wed, 01 Feb 2023 15:30:00 +0530"
       }
     ],
     [
@@ -59,30 +73,9 @@
     ],
     [
       {
-        "title": "Real Betis vs Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Real%20Betis%20vs%20Barcelona",
-        "pubdate": "Wed, 01 Feb 2023 15:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Adani Enterprises",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Adani%20Enterprises",
-        "pubdate": "Wed, 01 Feb 2023 15:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Budget 2023 Hindi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Budget%202023%20Hindi",
+        "title": "Railway Budget 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Railway%20Budget%202023",
         "pubdate": "Wed, 01 Feb 2023 16:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "England at South Africa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#England%20at%20South%20Africa",
-        "pubdate": "Wed, 01 Feb 2023 18:30:00 +0530"
       }
     ],
     [
@@ -108,9 +101,9 @@
     ],
     [
       {
-        "title": "ITC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#ITC",
-        "pubdate": "Wed, 01 Feb 2023 19:30:00 +0530"
+        "title": "England at South Africa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#England%20at%20South%20Africa",
+        "pubdate": "Wed, 01 Feb 2023 18:30:00 +0530"
       }
     ],
     [
@@ -136,8 +129,15 @@
     ],
     [
       {
-        "title": "BTS' Yet To Come in Cinemas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#BTS'%20Yet%20To%20Come%20in%20Cinemas",
+        "title": "BTS: Yet to Come in Cinemas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#BTS:%20Yet%20to%20Come%20in%20Cinemas",
+        "pubdate": "Wed, 01 Feb 2023 19:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "ITC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#ITC",
         "pubdate": "Wed, 01 Feb 2023 19:30:00 +0530"
       }
     ]

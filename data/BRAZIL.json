@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-02-2023 , 00:31:34",
+  "lastUpdate": "02-02-2023 , 02:08:06",
   "data": [
+    [
+      {
+        "title": "Flamengo x Boavista",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20x%20Boavista",
+        "pubdate": "Wed, 01 Feb 2023 20:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "PSG",
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Governo Lula",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Governo%20Lula",
+        "pubdate": "Wed, 01 Feb 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Inhumas x Goiás",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inhumas%20x%20Goi%C3%A1s",
         "pubdate": "Wed, 01 Feb 2023 12:00:00 -0500"
@@ -38,9 +52,9 @@
     ],
     [
       {
-        "title": "Arthur Lira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Arthur%20Lira",
-        "pubdate": "Wed, 01 Feb 2023 09:00:00 -0500"
+        "title": "Sport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sport",
+        "pubdate": "Wed, 01 Feb 2023 20:00:00 -0500"
       }
     ],
     [
@@ -52,16 +66,16 @@
     ],
     [
       {
-        "title": "Fiorentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fiorentina",
-        "pubdate": "Wed, 01 Feb 2023 07:00:00 -0500"
+        "title": "Cometa verde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cometa%20verde",
+        "pubdate": "Wed, 01 Feb 2023 13:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Unesp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Unesp",
-        "pubdate": "Wed, 01 Feb 2023 08:00:00 -0500"
+        "title": "TV SENADO AO VIVO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#TV%20SENADO%20AO%20VIVO",
+        "pubdate": "Wed, 01 Feb 2023 14:00:00 -0500"
       }
     ],
     [
@@ -73,9 +87,16 @@
     ],
     [
       {
-        "title": "Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Roma",
-        "pubdate": "Wed, 01 Feb 2023 12:00:00 -0500"
+        "title": "RB Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#RB%20Leipzig",
+        "pubdate": "Wed, 01 Feb 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Unesp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Unesp",
+        "pubdate": "Wed, 01 Feb 2023 08:00:00 -0500"
       }
     ],
     [
@@ -87,6 +108,20 @@
     ],
     [
       {
+        "title": "Presidente da camara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Presidente%20da%20camara",
+        "pubdate": "Wed, 01 Feb 2023 17:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Roma",
+        "pubdate": "Wed, 01 Feb 2023 12:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Harry Styles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Harry%20Styles",
         "pubdate": "Wed, 01 Feb 2023 07:00:00 -0500"
@@ -94,16 +129,9 @@
     ],
     [
       {
-        "title": "Lille",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lille",
-        "pubdate": "Wed, 01 Feb 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Cometa verde",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cometa%20verde",
-        "pubdate": "Wed, 01 Feb 2023 13:00:00 -0500"
+        "title": "Santa Cruz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santa%20Cruz",
+        "pubdate": "Wed, 01 Feb 2023 20:00:00 -0500"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Sporting",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sporting",
         "pubdate": "Wed, 01 Feb 2023 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "MITA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#MITA",
-        "pubdate": "Wed, 01 Feb 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Olympique de Marseille",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Olympique%20de%20Marseille",
-        "pubdate": "Wed, 01 Feb 2023 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Procurador-geral da República",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Procurador-geral%20da%20Rep%C3%BAblica",
-        "pubdate": "Wed, 01 Feb 2023 06:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Beyonce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Beyonce",
-        "pubdate": "Wed, 01 Feb 2023 10:00:00 -0500"
       }
     ]
   ]

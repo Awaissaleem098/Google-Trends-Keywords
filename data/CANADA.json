@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-02-2023 , 00:31:34",
+  "lastUpdate": "02-02-2023 , 02:08:06",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Montpellier vs PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Montpellier%20vs%20PSG",
+        "pubdate": "Wed, 01 Feb 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#PSG",
         "pubdate": "Wed, 01 Feb 2023 07:00:00 -0500"
@@ -45,30 +52,9 @@
     ],
     [
       {
-        "title": "Nathan Chasing Horse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nathan%20Chasing%20Horse",
-        "pubdate": "Wed, 01 Feb 2023 07:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Groundhog Day 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Groundhog%20Day%202023",
-        "pubdate": "Wed, 01 Feb 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Meta stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Meta%20stock",
-        "pubdate": "Wed, 01 Feb 2023 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "FOMC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#FOMC",
-        "pubdate": "Wed, 01 Feb 2023 15:00:00 -0500"
+        "title": "Green comet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Green%20comet",
+        "pubdate": "Wed, 01 Feb 2023 10:00:00 -0500"
       }
     ],
     [
@@ -80,8 +66,36 @@
     ],
     [
       {
-        "title": "Montpellier vs PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Montpellier%20vs%20PSG",
+        "title": "Nathan Chasing Horse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nathan%20Chasing%20Horse",
+        "pubdate": "Wed, 01 Feb 2023 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Meta stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Meta%20stock",
+        "pubdate": "Wed, 01 Feb 2023 17:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Groundhog Day 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Groundhog%20Day%202023",
+        "pubdate": "Wed, 01 Feb 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "FOMC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#FOMC",
+        "pubdate": "Wed, 01 Feb 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Lily Allen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lily%20Allen",
         "pubdate": "Wed, 01 Feb 2023 15:00:00 -0500"
       }
     ],
@@ -101,15 +115,8 @@
     ],
     [
       {
-        "title": "February",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#February",
-        "pubdate": "Wed, 01 Feb 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Green comet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Green%20comet",
+        "title": "Ozzy Osbourne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ozzy%20Osbourne",
         "pubdate": "Wed, 01 Feb 2023 10:00:00 -0500"
       }
     ],
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Ozzy Osbourne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ozzy%20Osbourne",
-        "pubdate": "Wed, 01 Feb 2023 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Lily Allen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lily%20Allen",
-        "pubdate": "Wed, 01 Feb 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Ottawa Senators",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ottawa%20Senators",
         "pubdate": "Wed, 01 Feb 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Babylon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Babylon",
+        "pubdate": "Wed, 01 Feb 2023 12:00:00 -0500"
       }
     ]
   ]
