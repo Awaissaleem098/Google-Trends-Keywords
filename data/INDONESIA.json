@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "04-02-2023 , 23:53:02",
+  "lastUpdate": "05-02-2023 , 01:23:39",
   "data": [
-    [
-      {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Premier%20League",
-        "pubdate": "Sun, 05 Feb 2023 00:00:00 +0700"
-      }
-    ],
     [
       {
         "title": "Barcelona vs Sevilla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Barcelona%20vs%20Sevilla",
         "pubdate": "Sun, 05 Feb 2023 02:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Nottingham Forest vs Leeds",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Nottingham%20Forest%20vs%20Leeds",
+        "pubdate": "Sun, 05 Feb 2023 01:00:00 +0700"
       }
     ],
     [
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "Nottingham Forest vs Leeds",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Nottingham%20Forest%20vs%20Leeds",
-        "pubdate": "Sun, 05 Feb 2023 01:00:00 +0700"
+        "title": "Nikita",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Nikita",
+        "pubdate": "Sun, 05 Feb 2023 06:00:00 +0700"
       }
     ],
     [
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Roma vs Empoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Roma%20vs%20Empoli",
+        "pubdate": "Sat, 04 Feb 2023 10:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Brentford vs Southampton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Brentford%20vs%20Southampton",
         "pubdate": "Sat, 04 Feb 2023 09:00:00 +0700"
@@ -87,29 +94,15 @@
     ],
     [
       {
-        "title": "Roma vs Empoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Roma%20vs%20Empoli",
+        "title": "Dortmund vs Freiburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Dortmund%20vs%20Freiburg",
         "pubdate": "Sat, 04 Feb 2023 10:00:00 +0700"
       }
     ],
     [
       {
-        "title": "PSIS Semarang",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#PSIS%20Semarang",
-        "pubdate": "Sat, 04 Feb 2023 17:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Atlético Madrid vs Getafe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Atl%C3%A9tico%20Madrid%20vs%20Getafe",
-        "pubdate": "Sat, 04 Feb 2023 11:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Dortmund vs Freiburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Dortmund%20vs%20Freiburg",
+        "title": "Sassuolo vs Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Sassuolo%20vs%20Atalanta",
         "pubdate": "Sat, 04 Feb 2023 10:00:00 +0700"
       }
     ],
@@ -129,9 +122,9 @@
     ],
     [
       {
-        "title": "Sassuolo vs Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Sassuolo%20vs%20Atalanta",
-        "pubdate": "Sat, 04 Feb 2023 10:00:00 +0700"
+        "title": "Cremonese vs Lecce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Cremonese%20vs%20Lecce",
+        "pubdate": "Sat, 04 Feb 2023 13:00:00 +0700"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Knives Out",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Knives%20Out",
         "pubdate": "Sat, 04 Feb 2023 00:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Jeka Saragih vs Anshul Jubli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Jeka%20Saragih%20vs%20Anshul%20Jubli",
+        "pubdate": "Sat, 04 Feb 2023 10:00:00 +0700"
       }
     ]
   ]

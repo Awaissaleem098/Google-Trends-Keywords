@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-02-2023 , 23:53:03",
+  "lastUpdate": "05-02-2023 , 01:23:40",
   "data": [
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Arsenal",
+        "pubdate": "Sun, 05 Feb 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "מיכל ינאי",
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "הפועל באר שבע",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%94%D7%A4%D7%95%D7%A2%D7%9C%20%D7%91%D7%90%D7%A8%20%D7%A9%D7%91%D7%A2",
-        "pubdate": "Sat, 04 Feb 2023 17:00:00 +0200"
+        "title": "זאב רז",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%96%D7%90%D7%91%20%D7%A8%D7%96",
+        "pubdate": "Sat, 04 Feb 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "זאב רז",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%96%D7%90%D7%91%20%D7%A8%D7%96",
-        "pubdate": "Sat, 04 Feb 2023 21:00:00 +0200"
+        "title": "הפועל באר שבע",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%94%D7%A4%D7%95%D7%A2%D7%9C%20%D7%91%D7%90%D7%A8%20%D7%A9%D7%91%D7%A2",
+        "pubdate": "Sat, 04 Feb 2023 17:00:00 +0200"
       }
     ],
     [
@@ -97,13 +104,6 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Liverpool",
         "pubdate": "Sat, 04 Feb 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Chelsea",
-        "pubdate": "Sat, 04 Feb 2023 00:00:00 +0200"
       }
     ],
     [

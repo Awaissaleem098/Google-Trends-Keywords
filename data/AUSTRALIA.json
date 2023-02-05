@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "04-02-2023 , 23:52:55",
+  "lastUpdate": "05-02-2023 , 01:23:35",
   "data": [
-    [
-      {
-        "title": "Lantern Festival",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lantern%20Festival",
-        "pubdate": "Sun, 05 Feb 2023 00:00:00 +1100"
-      }
-    ],
     [
       {
         "title": "Wolves vs Liverpool",
@@ -17,8 +10,8 @@
     ],
     [
       {
-        "title": "PSG Vs Toulouse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PSG%20Vs%20Toulouse",
+        "title": "PSG vs Toulouse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PSG%20vs%20Toulouse",
         "pubdate": "Sun, 05 Feb 2023 05:00:00 +1100"
       }
     ],
@@ -34,6 +27,13 @@
         "title": "Brighton vs Bournemouth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Brighton%20vs%20Bournemouth",
         "pubdate": "Sun, 05 Feb 2023 03:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Everton",
+        "pubdate": "Sun, 05 Feb 2023 02:00:00 +1100"
       }
     ],
     [
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Sean Dyche",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sean%20Dyche",
-        "pubdate": "Sun, 05 Feb 2023 08:00:00 +1100"
+        "title": "Latrell Mitchell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Latrell%20Mitchell",
+        "pubdate": "Sun, 05 Feb 2023 11:00:00 +1100"
       }
     ],
     [
@@ -90,6 +90,13 @@
         "title": "Chelsea vs Fulham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chelsea%20vs%20Fulham",
         "pubdate": "Sat, 04 Feb 2023 00:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Kyrie Irving",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kyrie%20Irving",
+        "pubdate": "Sat, 04 Feb 2023 09:00:00 +1100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Gary Glitter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gary%20Glitter",
         "pubdate": "Sat, 04 Feb 2023 08:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "True Spirit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#True%20Spirit",
-        "pubdate": "Sat, 04 Feb 2023 12:00:00 +1100"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-02-2023 , 23:52:57",
+  "lastUpdate": "05-02-2023 , 01:23:36",
   "data": [
     [
       {
@@ -31,23 +31,16 @@
     ],
     [
       {
+        "title": "Marie Laberge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Marie%20Laberge",
+        "pubdate": "Sat, 04 Feb 2023 19:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Mount Washington",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mount%20Washington",
         "pubdate": "Sat, 04 Feb 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Kiara Advani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kiara%20Advani",
-        "pubdate": "Sat, 04 Feb 2023 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "CAA quebec",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CAA%20quebec",
-        "pubdate": "Sat, 04 Feb 2023 07:00:00 -0500"
       }
     ],
     [
@@ -59,6 +52,13 @@
     ],
     [
       {
+        "title": "CAA quebec",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CAA%20quebec",
+        "pubdate": "Sat, 04 Feb 2023 07:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Brighton vs Bournemouth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Brighton%20vs%20Bournemouth",
         "pubdate": "Sat, 04 Feb 2023 12:00:00 -0500"
@@ -66,8 +66,22 @@
     ],
     [
       {
-        "title": "Brentford vs Southampton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Brentford%20vs%20Southampton",
+        "title": "Matthew Tkachuk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Matthew%20Tkachuk",
+        "pubdate": "Sat, 04 Feb 2023 17:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Brady Tkachuk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Brady%20Tkachuk",
+        "pubdate": "Sat, 04 Feb 2023 19:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Kiara Advani",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kiara%20Advani",
         "pubdate": "Sat, 04 Feb 2023 12:00:00 -0500"
       }
     ],
@@ -80,37 +94,9 @@
     ],
     [
       {
-        "title": "Matthew Tkachuk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Matthew%20Tkachuk",
-        "pubdate": "Sat, 04 Feb 2023 17:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Alexander Ovechkin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Alexander%20Ovechkin",
         "pubdate": "Sat, 04 Feb 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Power outage",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Power%20outage",
-        "pubdate": "Sat, 04 Feb 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Vani Jayaram",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Vani%20Jayaram",
-        "pubdate": "Sat, 04 Feb 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Pablo Lyle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pablo%20Lyle",
-        "pubdate": "Sat, 04 Feb 2023 14:00:00 -0500"
       }
     ],
     [
@@ -122,9 +108,16 @@
     ],
     [
       {
-        "title": "Vacation",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Vacation",
-        "pubdate": "Sat, 04 Feb 2023 16:00:00 -0500"
+        "title": "Vani Jayaram",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Vani%20Jayaram",
+        "pubdate": "Sat, 04 Feb 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Power outage",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Power%20outage",
+        "pubdate": "Sat, 04 Feb 2023 09:00:00 -0500"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "NHL All-Star Game",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#NHL%20All-Star%20Game",
-        "pubdate": "Fri, 03 Feb 2023 13:00:00 -0500"
+        "title": "Bellator",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bellator",
+        "pubdate": "Sat, 04 Feb 2023 19:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Pablo Lyle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pablo%20Lyle",
+        "pubdate": "Sat, 04 Feb 2023 14:00:00 -0500"
       }
     ]
   ]

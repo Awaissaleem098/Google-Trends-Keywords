@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "04-02-2023 , 23:53:00",
+  "lastUpdate": "05-02-2023 , 01:23:38",
   "data": [
     [
       {
         "title": "BVB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
         "pubdate": "Sat, 04 Feb 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Schalke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke",
-        "pubdate": "Sat, 04 Feb 2023 19:00:00 +0100"
       }
     ],
     [
@@ -24,23 +17,9 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Liverpool",
-        "pubdate": "Sat, 04 Feb 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Al-Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Al-Nassr",
-        "pubdate": "Sat, 04 Feb 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FC Köln",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20K%C3%B6ln",
-        "pubdate": "Sat, 04 Feb 2023 17:00:00 +0100"
+        "title": "Köln – RB Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#K%C3%B6ln%20%E2%80%93%20RB%20Leipzig",
+        "pubdate": "Sat, 04 Feb 2023 16:00:00 +0100"
       }
     ],
     [
@@ -52,9 +31,23 @@
     ],
     [
       {
+        "title": "FC Köln",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20K%C3%B6ln",
+        "pubdate": "Sat, 04 Feb 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Eintracht Braunschweig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Braunschweig",
         "pubdate": "Sat, 04 Feb 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Liverpool",
+        "pubdate": "Sat, 04 Feb 2023 18:00:00 +0100"
       }
     ],
     [
@@ -80,9 +73,9 @@
     ],
     [
       {
-        "title": "1. FC Nürnberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#1.%20FC%20N%C3%BCrnberg",
-        "pubdate": "Sat, 04 Feb 2023 22:00:00 +0100"
+        "title": "Lukas Podolski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lukas%20Podolski",
+        "pubdate": "Sat, 04 Feb 2023 18:00:00 +0100"
       }
     ],
     [
@@ -101,9 +94,16 @@
     ],
     [
       {
-        "title": "Köln gegen RB Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#K%C3%B6ln%20gegen%20RB%20Leipzig",
-        "pubdate": "Fri, 03 Feb 2023 17:00:00 +0100"
+        "title": "Katharina Althaus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Katharina%20Althaus",
+        "pubdate": "Sat, 04 Feb 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mönchengladbach gegen Schalke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#M%C3%B6nchengladbach%20gegen%20Schalke",
+        "pubdate": "Fri, 03 Feb 2023 19:00:00 +0100"
       }
     ],
     [
