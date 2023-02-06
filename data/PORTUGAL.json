@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "05-02-2023 , 23:53:19",
+  "lastUpdate": "06-02-2023 , 01:19:18",
   "data": [
+    [
+      {
+        "title": "Lionel Messi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lionel%20Messi",
+        "pubdate": "Mon, 06 Feb 2023 00:00:00 +0000"
+      }
+    ],
     [
       {
         "title": "Cristiano Ronaldo",
@@ -38,23 +45,16 @@
     ],
     [
       {
-        "title": "Chaves-Marítimo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Chaves-Mar%C3%ADtimo",
-        "pubdate": "Sun, 05 Feb 2023 16:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Gil Vicente,  Arouca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gil%20Vicente,%20%20Arouca",
-        "pubdate": "Sun, 05 Feb 2023 20:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Grammys",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Grammys",
         "pubdate": "Sun, 05 Feb 2023 08:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Gil Vicente-Arouca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gil%20Vicente-Arouca",
+        "pubdate": "Sun, 05 Feb 2023 20:00:00 +0000"
       }
     ],
     [
@@ -68,7 +68,7 @@
       {
         "title": "Inter  Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Inter%20%20Milan",
-        "pubdate": "Sun, 05 Feb 2023 20:00:00 +0000"
+        "pubdate": "Sun, 05 Feb 2023 11:00:00 +0000"
       }
     ],
     [
@@ -80,15 +80,15 @@
     ],
     [
       {
-        "title": "Rio Ave  Sporting",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rio%20Ave%20%20Sporting",
+        "title": "Rio Ave-Sporting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rio%20Ave-Sporting",
         "pubdate": "Sun, 05 Feb 2023 14:00:00 +0000"
       }
     ],
     [
       {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Napoli",
+        "title": "Spezia  Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Spezia%20%20Napoli",
         "pubdate": "Sun, 05 Feb 2023 13:00:00 +0000"
       }
     ],
@@ -104,13 +104,6 @@
         "title": "Cruzeiro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cruzeiro",
         "pubdate": "Sun, 05 Feb 2023 00:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bayern",
-        "pubdate": "Sun, 05 Feb 2023 20:00:00 +0000"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "PewDiePie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#PewDiePie",
         "pubdate": "Sun, 05 Feb 2023 17:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Futebol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Futebol",
+        "pubdate": "Sun, 05 Feb 2023 22:00:00 +0000"
       }
     ]
   ]

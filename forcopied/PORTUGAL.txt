@@ -1,1 +1,1 @@
-Cristiano Ronaldo,Mallorca  Real Madrid,Neymar,Braga vs Famalicão,Barcelona  Sevilla,Chaves-Marítimo,Gil Vicente,  Arouca,Grammys,Wolfsburg  Bayern,Inter  Milan,Rúben Amorim,Rio Ave  Sporting,Napoli,Cr7,Cruzeiro,Bayern,Andorra,Nottingham Forest  Leeds,Futebol Benfica,PewDiePie
+Lionel Messi,Cristiano Ronaldo,Mallorca  Real Madrid,Neymar,Braga vs Famalicão,Barcelona  Sevilla,Grammys,Gil Vicente-Arouca,Wolfsburg  Bayern,Inter  Milan,Rúben Amorim,Rio Ave-Sporting,Spezia  Napoli,Cr7,Cruzeiro,Andorra,Nottingham Forest  Leeds,Futebol Benfica,PewDiePie,Futebol

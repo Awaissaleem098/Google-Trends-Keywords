@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "05-02-2023 , 23:53:16",
+  "lastUpdate": "06-02-2023 , 01:19:15",
   "data": [
+    [
+      {
+        "title": "Verona vs Lazio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Verona%20vs%20Lazio",
+        "pubdate": "Mon, 06 Feb 2023 07:00:00 +0700"
+      }
+    ],
     [
       {
         "title": "Mallorca Vs Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Mallorca%20Vs%20Madrid",
         "pubdate": "Sun, 05 Feb 2023 11:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Bali United vs Barito Putera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Bali%20United%20vs%20Barito%20Putera",
+        "pubdate": "Sun, 05 Feb 2023 19:00:00 +0700"
       }
     ],
     [
@@ -31,16 +45,16 @@
     ],
     [
       {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Premier%20League",
-        "pubdate": "Sun, 05 Feb 2023 00:00:00 +0700"
+        "title": "Wolfsburg vs Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Wolfsburg%20vs%20Bayern",
+        "pubdate": "Sun, 05 Feb 2023 03:00:00 +0700"
       }
     ],
     [
       {
-        "title": "Wolfsburg vs Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Wolfsburg%20vs%20Bayern",
-        "pubdate": "Sun, 05 Feb 2023 03:00:00 +0700"
+        "title": "Bali United Vs Persib Bandung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Bali%20United%20Vs%20Persib%20Bandung",
+        "pubdate": "Sun, 05 Feb 2023 15:00:00 +0700"
       }
     ],
     [
@@ -52,13 +66,6 @@
     ],
     [
       {
-        "title": "Neymar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Neymar",
-        "pubdate": "Sun, 05 Feb 2023 06:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Persita vs Persija Jakarta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Persita%20vs%20Persija%20Jakarta",
         "pubdate": "Sun, 05 Feb 2023 20:00:00 +0700"
@@ -66,16 +73,16 @@
     ],
     [
       {
-        "title": "Torino vs Udinese",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Torino%20vs%20Udinese",
-        "pubdate": "Sun, 05 Feb 2023 12:00:00 +0700"
+        "title": "Neymar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Neymar",
+        "pubdate": "Sun, 05 Feb 2023 06:00:00 +0700"
       }
     ],
     [
       {
-        "title": "Ronaldo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Ronaldo",
-        "pubdate": "Sun, 05 Feb 2023 10:00:00 +0700"
+        "title": "Torino vs Udinese",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Torino%20vs%20Udinese",
+        "pubdate": "Sun, 05 Feb 2023 12:00:00 +0700"
       }
     ],
     [
@@ -90,6 +97,13 @@
         "title": "Fiorentina vs Bologna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Fiorentina%20vs%20Bologna",
         "pubdate": "Sun, 05 Feb 2023 12:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Ronaldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Ronaldo",
+        "pubdate": "Sun, 05 Feb 2023 10:00:00 +0700"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Wuling Air EV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Wuling%20Air%20EV",
-        "pubdate": "Sun, 05 Feb 2023 11:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Benfica",
-        "pubdate": "Sun, 05 Feb 2023 00:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Jorginho",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Jorginho",
-        "pubdate": "Sun, 05 Feb 2023 15:00:00 +0700"
+        "title": "Ressa Herlambang",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Ressa%20Herlambang",
+        "pubdate": "Sun, 05 Feb 2023 12:00:00 +0700"
       }
     ]
   ]

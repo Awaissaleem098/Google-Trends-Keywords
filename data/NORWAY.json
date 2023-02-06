@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "05-02-2023 , 23:53:18",
+  "lastUpdate": "06-02-2023 , 01:19:17",
   "data": [
     [
       {
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
         "pubdate": "Sun, 05 Feb 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Toblach",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Toblach",
+        "pubdate": "Sun, 05 Feb 2023 14:00:00 +0100"
       }
     ],
     [
@@ -17,6 +24,13 @@
     ],
     [
       {
+        "title": "Barcelona mot Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona%20mot%20Sevilla",
+        "pubdate": "Sun, 05 Feb 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Danniella Westbrook",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Danniella%20Westbrook",
         "pubdate": "Sun, 05 Feb 2023 16:00:00 +0100"
@@ -24,9 +38,9 @@
     ],
     [
       {
-        "title": "Barcelona mot Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona%20mot%20Sevilla",
-        "pubdate": "Sun, 05 Feb 2023 21:00:00 +0100"
+        "title": "Kim Wigaard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kim%20Wigaard",
+        "pubdate": "Sun, 05 Feb 2023 15:00:00 +0100"
       }
     ],
     [
@@ -45,16 +59,16 @@
     ],
     [
       {
-        "title": "Bakhmut",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bakhmut",
-        "pubdate": "Sun, 05 Feb 2023 19:00:00 +0100"
+        "title": "Grammy Awards 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Grammy%20Awards%202023",
+        "pubdate": "Sun, 05 Feb 2023 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Grammy Awards 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Grammy%20Awards%202023",
-        "pubdate": "Sun, 05 Feb 2023 22:00:00 +0100"
+        "title": "Bakhmut",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bakhmut",
+        "pubdate": "Sun, 05 Feb 2023 19:00:00 +0100"
       }
     ],
     [
@@ -69,6 +83,13 @@
         "title": "MGP 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#MGP%202023",
         "pubdate": "Sat, 04 Feb 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Gaute Ormåsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gaute%20Orm%C3%A5sen",
+        "pubdate": "Sat, 04 Feb 2023 22:00:00 +0100"
       }
     ],
     [
@@ -101,15 +122,8 @@
     ],
     [
       {
-        "title": "Subwoolfer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Subwoolfer",
-        "pubdate": "Sat, 04 Feb 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Restaurant Festningen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Restaurant%20Festningen",
+        "title": "NRK mgp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NRK%20mgp",
         "pubdate": "Sat, 04 Feb 2023 20:00:00 +0100"
       }
     ],
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Eurovision",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eurovision",
-        "pubdate": "Sat, 04 Feb 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Swing it",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Swing%20it",
         "pubdate": "Sat, 04 Feb 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Casemiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Casemiro",
-        "pubdate": "Sat, 04 Feb 2023 18:00:00 +0100"
       }
     ]
   ]
