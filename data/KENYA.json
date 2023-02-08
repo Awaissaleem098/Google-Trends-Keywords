@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-02-2023 , 08:57:46",
+  "lastUpdate": "08-02-2023 , 09:23:16",
   "data": [
     [
       {
@@ -27,6 +27,20 @@
         "title": "Sunderland vs Fulham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sunderland%20vs%20Fulham",
         "pubdate": "Wed, 08 Feb 2023 09:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Bing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bing",
+        "pubdate": "Wed, 08 Feb 2023 11:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Chitembwe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chitembwe",
+        "pubdate": "Wed, 08 Feb 2023 11:00:00 +0300"
       }
     ],
     [
@@ -87,23 +101,9 @@
     ],
     [
       {
-        "title": "KETRACO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#KETRACO",
-        "pubdate": "Tue, 07 Feb 2023 11:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Grimsby vs Luton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Grimsby%20vs%20Luton",
         "pubdate": "Tue, 07 Feb 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Controversy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Controversy",
-        "pubdate": "Tue, 07 Feb 2023 00:00:00 +0300"
       }
     ],
     [
@@ -115,16 +115,16 @@
     ],
     [
       {
-        "title": "Port Vale vs Accrington",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Port%20Vale%20vs%20Accrington",
-        "pubdate": "Tue, 07 Feb 2023 20:00:00 +0300"
+        "title": "Gautam Adani Group",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Gautam%20Adani%20Group",
+        "pubdate": "Tue, 07 Feb 2023 15:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Flamengo vs Al-Hilal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Flamengo%20vs%20Al-Hilal",
-        "pubdate": "Tue, 07 Feb 2023 23:00:00 +0300"
+        "title": "Port Vale vs Accrington",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Port%20Vale%20vs%20Accrington",
+        "pubdate": "Tue, 07 Feb 2023 20:00:00 +0300"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Nairobi Expressway",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Nairobi%20Expressway",
-        "pubdate": "Tue, 07 Feb 2023 03:00:00 +0300"
+        "title": "Flamengo vs Al-Hilal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Flamengo%20vs%20Al-Hilal",
+        "pubdate": "Tue, 07 Feb 2023 23:00:00 +0300"
       }
     ]
   ]
