@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "09-02-2023 , 11:57:27",
+  "lastUpdate": "09-02-2023 , 14:56:37",
   "data": [
     [
       {
         "title": "Kyrie Irving",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kyrie%20Irving",
-        "pubdate": "Fri, 10 Feb 2023 00:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "NBA trade deadline",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NBA%20trade%20deadline",
         "pubdate": "Fri, 10 Feb 2023 00:00:00 +1300"
       }
     ],
@@ -27,13 +20,6 @@
         "title": "Kevin Durant",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kevin%20Durant",
         "pubdate": "Thu, 09 Feb 2023 20:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Warriors vs Wests Tigers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Warriors%20vs%20Wests%20Tigers",
-        "pubdate": "Thu, 09 Feb 2023 21:00:00 +1300"
       }
     ],
     [
@@ -59,6 +45,13 @@
     ],
     [
       {
+        "title": "Warriors vs Wests Tigers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Warriors%20vs%20Wests%20Tigers",
+        "pubdate": "Thu, 09 Feb 2023 21:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Marseille vs PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Marseille%20vs%20PSG",
         "pubdate": "Thu, 09 Feb 2023 11:00:00 +1300"
@@ -73,9 +66,9 @@
     ],
     [
       {
-        "title": "India vs Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#India%20vs%20Australia",
-        "pubdate": "Thu, 09 Feb 2023 21:00:00 +1300"
+        "title": "Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Warriors",
+        "pubdate": "Thu, 09 Feb 2023 22:00:00 +1300"
       }
     ],
     [
@@ -101,16 +94,16 @@
     ],
     [
       {
-        "title": "Leeds United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Leeds%20United",
-        "pubdate": "Thu, 09 Feb 2023 15:00:00 +1300"
+        "title": "Rangatahi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Rangatahi",
+        "pubdate": "Thu, 09 Feb 2023 20:00:00 +1300"
       }
     ],
     [
       {
-        "title": "Rangatahi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Rangatahi",
-        "pubdate": "Thu, 09 Feb 2023 20:00:00 +1300"
+        "title": "Leeds United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Leeds%20United",
+        "pubdate": "Thu, 09 Feb 2023 15:00:00 +1300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Kareem Abdul-Jabbar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kareem%20Abdul-Jabbar",
         "pubdate": "Wed, 08 Feb 2023 14:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Australia vs India",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Australia%20vs%20India",
+        "pubdate": "Wed, 08 Feb 2023 21:00:00 +1300"
       }
     ]
   ]

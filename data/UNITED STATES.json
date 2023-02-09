@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "09-02-2023 , 11:57:15",
+  "lastUpdate": "09-02-2023 , 14:56:28",
   "data": [
+    [
+      {
+        "title": "Cavs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cavs",
+        "pubdate": "Thu, 09 Feb 2023 04:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Norovirus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Norovirus",
+        "pubdate": "Thu, 09 Feb 2023 02:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "John Fetterman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#John%20Fetterman",
+        "pubdate": "Thu, 09 Feb 2023 05:00:00 -0800"
+      }
+    ],
     [
       {
         "title": "Real Madrid",
@@ -52,6 +73,20 @@
     ],
     [
       {
+        "title": "Toy Story 5",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Toy%20Story%205",
+        "pubdate": "Wed, 08 Feb 2023 18:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Fabuloso recall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Fabuloso%20recall",
+        "pubdate": "Wed, 08 Feb 2023 17:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Metroid Prime Remastered",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Metroid%20Prime%20Remastered",
         "pubdate": "Wed, 08 Feb 2023 17:00:00 -0800"
@@ -66,16 +101,16 @@
     ],
     [
       {
-        "title": "Fabuloso recall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Fabuloso%20recall",
-        "pubdate": "Wed, 08 Feb 2023 17:00:00 -0800"
+        "title": "You season 4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#You%20season%204",
+        "pubdate": "Wed, 08 Feb 2023 22:00:00 -0800"
       }
     ],
     [
       {
-        "title": "You season 4",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#You%20season%204",
-        "pubdate": "Wed, 08 Feb 2023 22:00:00 -0800"
+        "title": "Disney stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Disney%20stock",
+        "pubdate": "Wed, 08 Feb 2023 16:00:00 -0800"
       }
     ],
     [
@@ -87,13 +122,6 @@
     ],
     [
       {
-        "title": "MSCHF Big Red Boots",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#MSCHF%20Big%20Red%20Boots",
-        "pubdate": "Wed, 08 Feb 2023 05:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Jaylen Brown",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jaylen%20Brown",
         "pubdate": "Wed, 08 Feb 2023 20:00:00 -0800"
@@ -101,44 +129,16 @@
     ],
     [
       {
+        "title": "MSCHF Big Red Boots",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#MSCHF%20Big%20Red%20Boots",
+        "pubdate": "Wed, 08 Feb 2023 05:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Bill Russell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bill%20Russell",
         "pubdate": "Wed, 08 Feb 2023 15:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "San Antonio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#San%20Antonio",
-        "pubdate": "Wed, 08 Feb 2023 17:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "IND vs AUS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#IND%20vs%20AUS",
-        "pubdate": "Wed, 08 Feb 2023 23:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Jill Biden Kiss",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jill%20Biden%20Kiss",
-        "pubdate": "Wed, 08 Feb 2023 17:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Mitch McConnell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mitch%20McConnell",
-        "pubdate": "Wed, 08 Feb 2023 14:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lakers",
-        "pubdate": "Tue, 07 Feb 2023 20:00:00 -0800"
       }
     ]
   ]
