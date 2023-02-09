@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "09-02-2023 , 00:31:06",
+  "lastUpdate": "09-02-2023 , 02:08:41",
   "data": [
     [
       {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Real%20Madrid",
-        "pubdate": "Wed, 08 Feb 2023 09:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Bing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bing",
         "pubdate": "Wed, 08 Feb 2023 09:00:00 -0800"
       }
     ],
@@ -24,16 +17,23 @@
     ],
     [
       {
-        "title": "Marseille vs PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Marseille%20vs%20PSG",
-        "pubdate": "Wed, 08 Feb 2023 12:00:00 -0800"
+        "title": "Bing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bing",
+        "pubdate": "Wed, 08 Feb 2023 09:00:00 -0800"
       }
     ],
     [
       {
-        "title": "Al-ahly vs Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Al-ahly%20vs%20Real%20Madrid",
-        "pubdate": "Wed, 08 Feb 2023 11:00:00 -0800"
+        "title": "Russell Westbrook",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Russell%20Westbrook",
+        "pubdate": "Wed, 08 Feb 2023 14:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Marseille vs PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Marseille%20vs%20PSG",
+        "pubdate": "Wed, 08 Feb 2023 12:00:00 -0800"
       }
     ],
     [
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Google stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Google%20stock",
+        "pubdate": "Wed, 08 Feb 2023 12:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Mitt Romney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mitt%20Romney",
         "pubdate": "Wed, 08 Feb 2023 07:00:00 -0800"
@@ -59,16 +66,23 @@
     ],
     [
       {
-        "title": "D'Angelo Russell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#D'Angelo%20Russell",
-        "pubdate": "Wed, 08 Feb 2023 14:00:00 -0800"
+        "title": "MSCHF Big Red Boots",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#MSCHF%20Big%20Red%20Boots",
+        "pubdate": "Wed, 08 Feb 2023 05:00:00 -0800"
       }
     ],
     [
       {
-        "title": "MSCHF Big Red boots",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#MSCHF%20Big%20Red%20boots",
-        "pubdate": "Wed, 08 Feb 2023 05:00:00 -0800"
+        "title": "Tears of the Kingdom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tears%20of%20the%20Kingdom",
+        "pubdate": "Wed, 08 Feb 2023 16:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Disney stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Disney%20stock",
+        "pubdate": "Wed, 08 Feb 2023 16:00:00 -0800"
       }
     ],
     [
@@ -76,6 +90,20 @@
         "title": "Bill Russell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bill%20Russell",
         "pubdate": "Wed, 08 Feb 2023 15:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Metroid Prime Remastered",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Metroid%20Prime%20Remastered",
+        "pubdate": "Wed, 08 Feb 2023 17:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Fabuloso recall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Fabuloso%20recall",
+        "pubdate": "Wed, 08 Feb 2023 17:00:00 -0800"
       }
     ],
     [
@@ -94,23 +122,9 @@
     ],
     [
       {
-        "title": "Powerball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Powerball",
-        "pubdate": "Tue, 07 Feb 2023 10:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Sarah Huckabee Sanders response",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sarah%20Huckabee%20Sanders%20response",
         "pubdate": "Tue, 07 Feb 2023 20:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Leonardo DiCaprio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Leonardo%20DiCaprio",
-        "pubdate": "Tue, 07 Feb 2023 17:00:00 -0800"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Phoenix Suns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Phoenix%20Suns",
-        "pubdate": "Tue, 07 Feb 2023 20:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Joe Rogan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Joe%20Rogan",
-        "pubdate": "Tue, 07 Feb 2023 15:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Kyle Busch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kyle%20Busch",
-        "pubdate": "Tue, 07 Feb 2023 13:00:00 -0800"
+        "title": "Leonardo DiCaprio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Leonardo%20DiCaprio",
+        "pubdate": "Tue, 07 Feb 2023 17:00:00 -0800"
       }
     ]
   ]

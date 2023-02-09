@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-02-2023 , 00:31:07",
+  "lastUpdate": "09-02-2023 , 02:08:41",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Manchester United  Leeds",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Manchester%20United%20%20Leeds",
+        "title": "Manchester United vs Leeds",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Manchester%20United%20vs%20Leeds",
         "pubdate": "Wed, 08 Feb 2023 12:00:00 -0300"
       }
     ],
@@ -31,9 +31,16 @@
     ],
     [
       {
-        "title": "Leonardo DiCaprio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Leonardo%20DiCaprio",
-        "pubdate": "Wed, 08 Feb 2023 00:00:00 -0300"
+        "title": "Tigre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tigre",
+        "pubdate": "Wed, 08 Feb 2023 21:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Club Atlético Independiente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Club%20Atl%C3%A9tico%20Independiente",
+        "pubdate": "Wed, 08 Feb 2023 22:00:00 -0300"
       }
     ],
     [
@@ -41,6 +48,13 @@
         "title": "Eduardo Costantini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Eduardo%20Costantini",
         "pubdate": "Wed, 08 Feb 2023 02:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Leonardo DiCaprio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Leonardo%20DiCaprio",
+        "pubdate": "Wed, 08 Feb 2023 00:00:00 -0300"
       }
     ],
     [
@@ -59,6 +73,20 @@
     ],
     [
       {
+        "title": "Mauricio Macri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Mauricio%20Macri",
+        "pubdate": "Wed, 08 Feb 2023 15:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "ESTUDIANTES DE LA PLATA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#ESTUDIANTES%20DE%20LA%20PLATA",
+        "pubdate": "Wed, 08 Feb 2023 20:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Toulouse  Reims",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Toulouse%20%20Reims",
         "pubdate": "Wed, 08 Feb 2023 16:00:00 -0300"
@@ -73,30 +101,9 @@
     ],
     [
       {
-        "title": "Mauricio Macri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Mauricio%20Macri",
-        "pubdate": "Wed, 08 Feb 2023 15:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Novia de Thomsen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Novia%20de%20Thomsen",
         "pubdate": "Wed, 08 Feb 2023 10:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Borussia Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Borussia%20Dortmund",
-        "pubdate": "Wed, 08 Feb 2023 19:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Estudiantes de La Plata",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Estudiantes%20de%20La%20Plata",
-        "pubdate": "Wed, 08 Feb 2023 20:00:00 -0300"
       }
     ],
     [
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Terremoto en turquia y Siria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Terremoto%20en%20turquia%20y%20Siria",
-        "pubdate": "Wed, 08 Feb 2023 15:00:00 -0300"
+        "title": "Borussia Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Borussia%20Dortmund",
+        "pubdate": "Wed, 08 Feb 2023 19:00:00 -0300"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Terremoto en turquia y Siria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Terremoto%20en%20turquia%20y%20Siria",
+        "pubdate": "Wed, 08 Feb 2023 15:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Sifilis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sifilis",
         "pubdate": "Wed, 08 Feb 2023 17:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Bing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bing",
-        "pubdate": "Wed, 08 Feb 2023 16:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#PSG",
-        "pubdate": "Tue, 07 Feb 2023 00:00:00 -0300"
       }
     ]
   ]

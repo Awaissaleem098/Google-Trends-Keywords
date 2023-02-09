@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-02-2023 , 00:31:08",
+  "lastUpdate": "09-02-2023 , 02:08:42",
   "data": [
     [
       {
@@ -94,23 +94,9 @@
     ],
     [
       {
-        "title": "Shiffrin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Shiffrin",
-        "pubdate": "Wed, 08 Feb 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Hogwarts Legacy Harry Potter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hogwarts%20Legacy%20Harry%20Potter",
         "pubdate": "Wed, 08 Feb 2023 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mirjam Puchner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mirjam%20Puchner",
-        "pubdate": "Wed, 08 Feb 2023 10:00:00 +0100"
       }
     ],
     [
@@ -122,9 +108,23 @@
     ],
     [
       {
+        "title": "Mirjam Puchner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mirjam%20Puchner",
+        "pubdate": "Wed, 08 Feb 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Karl Nehammer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Karl%20Nehammer",
         "pubdate": "Wed, 08 Feb 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Wolfgang Schallenberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wolfgang%20Schallenberg",
+        "pubdate": "Wed, 08 Feb 2023 21:00:00 +0100"
       }
     ],
     [
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Wolfgang Schallenberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wolfgang%20Schallenberg",
+        "title": "Nintendo Direct",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nintendo%20Direct",
         "pubdate": "Wed, 08 Feb 2023 21:00:00 +0100"
       }
     ]

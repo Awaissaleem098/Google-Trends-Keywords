@@ -1,10 +1,24 @@
 {
-  "lastUpdate": "09-02-2023 , 00:31:20",
+  "lastUpdate": "09-02-2023 , 02:08:57",
   "data": [
     [
       {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Real%20Madrid",
+        "pubdate": "Thu, 09 Feb 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Ekrem İmamoğlu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ekrem%20%C4%B0mamo%C4%9Flu",
+        "pubdate": "Thu, 09 Feb 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Dortmund",
         "pubdate": "Thu, 09 Feb 2023 00:00:00 +0300"
       }
     ],
@@ -20,6 +34,13 @@
         "title": "Ben Seni Sevduğumi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ben%20Seni%20Sevdu%C4%9Fumi",
         "pubdate": "Thu, 09 Feb 2023 02:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Artçı deprem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Art%C3%A7%C4%B1%20deprem",
+        "pubdate": "Wed, 08 Feb 2023 01:00:00 +0300"
       }
     ],
     [
@@ -52,13 +73,6 @@
     ],
     [
       {
-        "title": "Erzurum deprem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Erzurum%20deprem",
-        "pubdate": "Wed, 08 Feb 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Borsa İstanbul",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Borsa%20%C4%B0stanbul",
         "pubdate": "Wed, 08 Feb 2023 11:00:00 +0300"
@@ -73,9 +87,30 @@
     ],
     [
       {
+        "title": "Erzurum deprem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Erzurum%20deprem",
+        "pubdate": "Wed, 08 Feb 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Onur Bulut",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Onur%20Bulut",
         "pubdate": "Wed, 08 Feb 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Erzurum deprem Son dakika",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Erzurum%20deprem%20Son%20dakika",
+        "pubdate": "Wed, 08 Feb 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "MANCHESTER UNİTED LEEDS UNİTED",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#MANCHESTER%20UN%C4%B0TED%20LEEDS%20UN%C4%B0TED",
+        "pubdate": "Wed, 08 Feb 2023 18:00:00 +0300"
       }
     ],
     [
@@ -94,13 +129,6 @@
     ],
     [
       {
-        "title": "Messi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Messi",
-        "pubdate": "Wed, 08 Feb 2023 17:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "BTK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#BTK",
         "pubdate": "Wed, 08 Feb 2023 18:00:00 +0300"
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "Fuat Oktay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Fuat%20Oktay",
-        "pubdate": "Wed, 08 Feb 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Jammer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Jammer",
-        "pubdate": "Wed, 08 Feb 2023 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Tuğba Södekoğlu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Tu%C4%9Fba%20S%C3%B6deko%C4%9Flu",
-        "pubdate": "Wed, 08 Feb 2023 03:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Okullar ne zaman açılacak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Okullar%20ne%20zaman%20a%C3%A7%C4%B1lacak",
-        "pubdate": "Wed, 08 Feb 2023 14:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Selçuk İnan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Sel%C3%A7uk%20%C4%B0nan",
-        "pubdate": "Wed, 08 Feb 2023 15:00:00 +0300"
+        "title": "Messi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Messi",
+        "pubdate": "Wed, 08 Feb 2023 17:00:00 +0300"
       }
     ]
   ]

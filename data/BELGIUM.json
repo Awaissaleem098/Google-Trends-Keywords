@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "09-02-2023 , 00:31:08",
+  "lastUpdate": "09-02-2023 , 02:08:42",
   "data": [
     [
       {
         "title": "Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dortmund",
         "pubdate": "Thu, 09 Feb 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Igor Tudor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Igor%20Tudor",
+        "pubdate": "Thu, 09 Feb 2023 01:00:00 +0100"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Michael Jordan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Michael%20Jordan",
-        "pubdate": "Wed, 08 Feb 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Zelensky",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Zelensky",
         "pubdate": "Wed, 08 Feb 2023 20:00:00 +0100"
@@ -101,9 +101,23 @@
     ],
     [
       {
+        "title": "Michael Jordan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Michael%20Jordan",
+        "pubdate": "Wed, 08 Feb 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Meghan Markle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Meghan%20Markle",
         "pubdate": "Wed, 08 Feb 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Nintendo Direct",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nintendo%20Direct",
+        "pubdate": "Wed, 08 Feb 2023 22:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Paul Magnette",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Paul%20Magnette",
         "pubdate": "Wed, 08 Feb 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Goedele Liekens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Goedele%20Liekens",
-        "pubdate": "Wed, 08 Feb 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nintendo Direct",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nintendo%20Direct",
-        "pubdate": "Wed, 08 Feb 2023 22:00:00 +0100"
       }
     ]
   ]
