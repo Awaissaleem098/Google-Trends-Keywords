@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "12-02-2023 , 00:37:35",
+  "lastUpdate": "12-02-2023 , 02:11:18",
   "data": [
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea",
+        "pubdate": "Sun, 12 Feb 2023 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Gunnar Greve",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gunnar%20Greve",
+        "pubdate": "Sun, 12 Feb 2023 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Tarjei Bø",
@@ -31,22 +45,8 @@
     ],
     [
       {
-        "title": "Lake Placid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lake%20Placid",
-        "pubdate": "Sat, 11 Feb 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Åsane Tidende",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#%C3%85sane%20Tidende",
-        "pubdate": "Sat, 11 Feb 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "NRK Alle mot 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NRK%20Alle%20mot%201",
         "pubdate": "Sat, 11 Feb 2023 20:00:00 +0100"
       }
     ],

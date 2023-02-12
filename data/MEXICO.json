@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "12-02-2023 , 00:37:34",
+  "lastUpdate": "12-02-2023 , 02:11:17",
   "data": [
-    [
-      {
-        "title": "Mónaco  PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#M%C3%B3naco%20%20PSG",
-        "pubdate": "Sat, 11 Feb 2023 10:00:00 -0600"
-      }
-    ],
     [
       {
         "title": "Southampton vs Wolves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Southampton%20vs%20Wolves",
         "pubdate": "Sat, 11 Feb 2023 09:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Tigres  Pumas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tigres%20%20Pumas",
+        "pubdate": "Sat, 11 Feb 2023 13:00:00 -0600"
       }
     ],
     [
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Beca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Beca",
+        "pubdate": "Sat, 11 Feb 2023 19:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Almería vs Betis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Almer%C3%ADa%20vs%20Betis",
         "pubdate": "Sat, 11 Feb 2023 10:00:00 -0600"
@@ -62,6 +69,20 @@
         "title": "Al-Ahly vs Flamengo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Al-Ahly%20vs%20Flamengo",
         "pubdate": "Sat, 11 Feb 2023 11:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Super Bowl 2023: horario",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Super%20Bowl%202023:%20horario",
+        "pubdate": "Sat, 11 Feb 2023 12:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "PSV  Groningen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#PSV%20%20Groningen",
+        "pubdate": "Sat, 11 Feb 2023 14:00:00 -0600"
       }
     ],
     [
@@ -80,15 +101,8 @@
     ],
     [
       {
-        "title": "PSV  Groningen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#PSV%20%20Groningen",
-        "pubdate": "Sat, 11 Feb 2023 14:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "NFL Super Bowl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#NFL%20Super%20Bowl",
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#UFC",
         "pubdate": "Sat, 11 Feb 2023 12:00:00 -0600"
       }
     ],
@@ -115,9 +129,9 @@
     ],
     [
       {
-        "title": "Horario Super Bowl 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Horario%20Super%20Bowl%202023",
-        "pubdate": "Sat, 11 Feb 2023 17:00:00 -0600"
+        "title": "Grupo arriesgados",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Grupo%20arriesgados",
+        "pubdate": "Sat, 11 Feb 2023 11:00:00 -0600"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Diego Cocca Selección Mexicana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Diego%20Cocca%20Selecci%C3%B3n%20Mexicana",
         "pubdate": "Sat, 11 Feb 2023 11:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Valencia CF  Athletic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Valencia%20CF%20%20Athletic",
-        "pubdate": "Sat, 11 Feb 2023 16:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "UFC 284",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#UFC%20284",
-        "pubdate": "Sat, 11 Feb 2023 12:00:00 -0600"
       }
     ]
   ]
