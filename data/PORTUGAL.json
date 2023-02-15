@@ -1,11 +1,32 @@
 {
-  "lastUpdate": "15-02-2023 , 00:37:23",
+  "lastUpdate": "15-02-2023 , 02:12:36",
   "data": [
+    [
+      {
+        "title": "Cats",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cats",
+        "pubdate": "Wed, 15 Feb 2023 01:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Pharrell Williams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pharrell%20Williams",
+        "pubdate": "Wed, 15 Feb 2023 00:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Valentine's",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Valentine's",
+        "pubdate": "Wed, 15 Feb 2023 00:00:00 +0000"
+      }
+    ],
     [
       {
         "title": "Milan  Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Milan%20%20Tottenham",
-        "pubdate": "Tue, 14 Feb 2023 16:00:00 +0000"
+        "pubdate": "Tue, 14 Feb 2023 19:00:00 +0000"
       }
     ],
     [
@@ -31,16 +52,16 @@
     ],
     [
       {
-        "title": "Bayern munich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bayern%20munich",
-        "pubdate": "Tue, 14 Feb 2023 20:00:00 +0000"
+        "title": "Alba Baptista",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alba%20Baptista",
+        "pubdate": "Tue, 14 Feb 2023 18:00:00 +0000"
       }
     ],
     [
       {
-        "title": "Alba Baptista",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alba%20Baptista",
-        "pubdate": "Tue, 14 Feb 2023 18:00:00 +0000"
+        "title": "Bayern munich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bayern%20munich",
+        "pubdate": "Tue, 14 Feb 2023 20:00:00 +0000"
       }
     ],
     [
@@ -73,16 +94,23 @@
     ],
     [
       {
-        "title": "Liga dos campeoes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liga%20dos%20campeoes",
-        "pubdate": "Tue, 14 Feb 2023 13:00:00 +0000"
+        "title": "Carlos Moedas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Carlos%20Moedas",
+        "pubdate": "Tue, 14 Feb 2023 20:00:00 +0000"
       }
     ],
     [
       {
-        "title": "Carlos Moedas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Carlos%20Moedas",
-        "pubdate": "Tue, 14 Feb 2023 20:00:00 +0000"
+        "title": "Cruzeiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cruzeiro",
+        "pubdate": "Tue, 14 Feb 2023 00:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Estados Unidos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Estados%20Unidos",
+        "pubdate": "Tue, 14 Feb 2023 11:00:00 +0000"
       }
     ],
     [
@@ -101,44 +129,16 @@
     ],
     [
       {
+        "title": "Carolina Carvalho",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Carolina%20Carvalho",
+        "pubdate": "Tue, 14 Feb 2023 01:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Nikki Haley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nikki%20Haley",
         "pubdate": "Tue, 14 Feb 2023 17:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Choupo-Moting",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Choupo-Moting",
-        "pubdate": "Tue, 14 Feb 2023 22:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Rita Lee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rita%20Lee",
-        "pubdate": "Tue, 14 Feb 2023 17:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Pablo Neruda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pablo%20Neruda",
-        "pubdate": "Tue, 14 Feb 2023 20:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "UEFA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#UEFA",
-        "pubdate": "Tue, 14 Feb 2023 19:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "WWE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#WWE",
-        "pubdate": "Tue, 14 Feb 2023 08:00:00 +0000"
       }
     ]
   ]

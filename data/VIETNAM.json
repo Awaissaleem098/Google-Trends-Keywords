@@ -1,11 +1,39 @@
 {
-  "lastUpdate": "15-02-2023 , 00:37:27",
+  "lastUpdate": "15-02-2023 , 02:12:40",
   "data": [
     [
       {
-        "title": "CPI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#CPI",
-        "pubdate": "Wed, 15 Feb 2023 02:00:00 +0700"
+        "title": "Bình Phước",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc",
+        "pubdate": "Wed, 15 Feb 2023 07:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Đinh Văn Nơi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#%C4%90inh%20V%C4%83n%20N%C6%A1i",
+        "pubdate": "Wed, 15 Feb 2023 08:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Valentine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Valentine",
+        "pubdate": "Tue, 14 Feb 2023 00:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Công an Hà Nội – Viettel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#C%C3%B4ng%20an%20H%C3%A0%20N%E1%BB%99i%20%E2%80%93%20Viettel",
+        "pubdate": "Tue, 14 Feb 2023 15:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Ngày Valentine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ng%C3%A0y%20Valentine",
+        "pubdate": "Tue, 14 Feb 2023 08:00:00 +0700"
       }
     ],
     [
@@ -24,9 +52,9 @@
     ],
     [
       {
-        "title": "Ảnh Valentine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#%E1%BA%A2nh%20Valentine",
-        "pubdate": "Tue, 14 Feb 2023 07:00:00 +0700"
+        "title": "Club Brugge – Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Club%20Brugge%20%E2%80%93%20Benfica",
+        "pubdate": "Tue, 14 Feb 2023 08:00:00 +0700"
       }
     ],
     [
@@ -38,9 +66,30 @@
     ],
     [
       {
+        "title": "Ảnh Valentine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#%E1%BA%A2nh%20Valentine",
+        "pubdate": "Tue, 14 Feb 2023 07:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Dortmund – Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Dortmund%20%E2%80%93%20Chelsea",
+        "pubdate": "Tue, 14 Feb 2023 18:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Lee Yoo Bi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Lee%20Yoo%20Bi",
         "pubdate": "Tue, 14 Feb 2023 18:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Tai nạn giao thông Quảng Nam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tai%20n%E1%BA%A1n%20giao%20th%C3%B4ng%20Qu%E1%BA%A3ng%20Nam",
+        "pubdate": "Tue, 14 Feb 2023 15:00:00 +0700"
       }
     ],
     [
@@ -52,16 +101,9 @@
     ],
     [
       {
-        "title": "Quà Valentine cho vợ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Qu%C3%A0%20Valentine%20cho%20v%E1%BB%A3",
-        "pubdate": "Tue, 14 Feb 2023 07:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Dortmund – Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Dortmund%20%E2%80%93%20Chelsea",
-        "pubdate": "Tue, 14 Feb 2023 18:00:00 +0700"
+        "title": "CPI Mỹ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#CPI%20M%E1%BB%B9",
+        "pubdate": "Tue, 14 Feb 2023 22:00:00 +0700"
       }
     ],
     [
@@ -80,6 +122,13 @@
     ],
     [
       {
+        "title": "Xổ số miền Nam ngày 14 tháng 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#X%E1%BB%95%20s%E1%BB%91%20mi%E1%BB%81n%20Nam%20ng%C3%A0y%2014%20th%C3%A1ng%202",
+        "pubdate": "Tue, 14 Feb 2023 19:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Công Lý",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#C%C3%B4ng%20L%C3%BD",
         "pubdate": "Tue, 14 Feb 2023 16:00:00 +0700"
@@ -90,55 +139,6 @@
         "title": "Bắt giữ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%E1%BA%AFt%20gi%E1%BB%AF",
         "pubdate": "Tue, 14 Feb 2023 15:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Hoa tiền",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Hoa%20ti%E1%BB%81n",
-        "pubdate": "Tue, 14 Feb 2023 10:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Hoa hồng Valentine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Hoa%20h%E1%BB%93ng%20Valentine",
-        "pubdate": "Tue, 14 Feb 2023 19:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Valentine la ngày gì",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Valentine%20la%20ng%C3%A0y%20g%C3%AC",
-        "pubdate": "Tue, 14 Feb 2023 13:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Sô-cô-la",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#S%C3%B4-c%C3%B4-la",
-        "pubdate": "Tue, 14 Feb 2023 22:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Ngay 14/2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ngay%2014/2",
-        "pubdate": "Tue, 14 Feb 2023 22:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "PSG – Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#PSG%20%E2%80%93%20Bayern",
-        "pubdate": "Mon, 13 Feb 2023 20:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Lời chúc Valentine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%E1%BB%9Di%20ch%C3%BAc%20Valentine",
-        "pubdate": "Mon, 13 Feb 2023 14:00:00 +0700"
       }
     ]
   ]

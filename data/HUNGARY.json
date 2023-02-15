@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "15-02-2023 , 00:37:18",
+  "lastUpdate": "15-02-2023 , 02:12:31",
   "data": [
     [
       {
         "title": "SkyShowtime",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#SkyShowtime",
         "pubdate": "Tue, 14 Feb 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#PSG",
+        "pubdate": "Tue, 14 Feb 2023 08:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "McLaren",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#McLaren",
         "pubdate": "Tue, 14 Feb 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ibrahimovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ibrahimovic",
-        "pubdate": "Tue, 14 Feb 2023 23:00:00 +0100"
       }
     ]
   ]

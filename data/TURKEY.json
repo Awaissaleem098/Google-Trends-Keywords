@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "15-02-2023 , 00:37:26",
+  "lastUpdate": "15-02-2023 , 02:12:39",
   "data": [
+    [
+      {
+        "title": "Depremler deprem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Depremler%20deprem",
+        "pubdate": "Wed, 15 Feb 2023 00:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Barcelona-Manchester United",
@@ -10,16 +17,16 @@
     ],
     [
       {
-        "title": "Ortak yayın",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ortak%20yay%C4%B1n",
-        "pubdate": "Wed, 15 Feb 2023 00:00:00 +0300"
+        "title": "Madonna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Madonna",
+        "pubdate": "Wed, 15 Feb 2023 02:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Madonna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Madonna",
-        "pubdate": "Wed, 15 Feb 2023 02:00:00 +0300"
+        "title": "Ortak yayın",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ortak%20yay%C4%B1n",
+        "pubdate": "Wed, 15 Feb 2023 00:00:00 +0300"
       }
     ],
     [
@@ -38,23 +45,9 @@
     ],
     [
       {
-        "title": "Ligden çekilen takımlar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ligden%20%C3%A7ekilen%20tak%C4%B1mlar",
+        "title": "LİGDEN ÇEKİLEN TAKIMLAR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#L%C4%B0GDEN%20%C3%87EK%C4%B0LEN%20TAKIMLAR",
         "pubdate": "Wed, 15 Feb 2023 02:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Deniz Baykal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Deniz%20Baykal",
-        "pubdate": "Tue, 14 Feb 2023 16:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Devlet Bahçeli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Devlet%20Bah%C3%A7eli",
-        "pubdate": "Tue, 14 Feb 2023 11:00:00 +0300"
       }
     ],
     [
@@ -66,6 +59,13 @@
     ],
     [
       {
+        "title": "Devlet Bahçeli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Devlet%20Bah%C3%A7eli",
+        "pubdate": "Tue, 14 Feb 2023 11:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Haluk Levent Son dakika",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Haluk%20Levent%20Son%20dakika",
         "pubdate": "Tue, 14 Feb 2023 15:00:00 +0300"
@@ -73,16 +73,16 @@
     ],
     [
       {
-        "title": "Depremler son dakika",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Depremler%20son%20dakika",
-        "pubdate": "Tue, 14 Feb 2023 09:00:00 +0300"
+        "title": "Miraç Kandili",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mira%C3%A7%20Kandili",
+        "pubdate": "Tue, 14 Feb 2023 03:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Miraç Kandili",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mira%C3%A7%20Kandili",
-        "pubdate": "Tue, 14 Feb 2023 03:00:00 +0300"
+        "title": "Devlet Bahçeli Haluk Levent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Devlet%20Bah%C3%A7eli%20Haluk%20Levent",
+        "pubdate": "Tue, 14 Feb 2023 16:00:00 +0300"
       }
     ],
     [
@@ -104,6 +104,13 @@
         "title": "Nicolò Zaniolo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Nicol%C3%B2%20Zaniolo",
         "pubdate": "Tue, 14 Feb 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Aslı Baykal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Asl%C4%B1%20Baykal",
+        "pubdate": "Tue, 14 Feb 2023 12:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "İskenderun Belediye Başkanı",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0skenderun%20Belediye%20Ba%C5%9Fkan%C4%B1",
         "pubdate": "Tue, 14 Feb 2023 19:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Inter",
-        "pubdate": "Tue, 14 Feb 2023 04:00:00 +0300"
       }
     ]
   ]

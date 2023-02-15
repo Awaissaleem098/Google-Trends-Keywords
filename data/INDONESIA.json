@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "15-02-2023 , 00:37:19",
+  "lastUpdate": "15-02-2023 , 02:12:32",
   "data": [
+    [
+      {
+        "title": "Barcelona vs Man utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Barcelona%20vs%20Man%20utd",
+        "pubdate": "Wed, 15 Feb 2023 08:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal vs Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Arsenal%20vs%20Man%20City",
+        "pubdate": "Wed, 15 Feb 2023 08:00:00 +0700"
+      }
+    ],
     [
       {
         "title": "Madrid vs Elche",
@@ -10,9 +24,23 @@
     ],
     [
       {
-        "title": "Liga Eropa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Liga%20Eropa",
-        "pubdate": "Wed, 15 Feb 2023 06:00:00 +0700"
+        "title": "Championship",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Championship",
+        "pubdate": "Wed, 15 Feb 2023 04:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Crumple zone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Crumple%20zone",
+        "pubdate": "Wed, 15 Feb 2023 02:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Komang",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Komang",
+        "pubdate": "Wed, 15 Feb 2023 07:00:00 +0700"
       }
     ],
     [
@@ -27,6 +55,13 @@
         "title": "Bali United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Bali%20United",
         "pubdate": "Tue, 14 Feb 2023 09:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "PS Barito Putera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#PS%20Barito%20Putera",
+        "pubdate": "Tue, 14 Feb 2023 16:00:00 +0700"
       }
     ],
     [
@@ -59,8 +94,8 @@
     ],
     [
       {
-        "title": "Biaya haji 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Biaya%20haji%202023",
+        "title": "Biaya Haji 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Biaya%20Haji%202023",
         "pubdate": "Tue, 14 Feb 2023 17:00:00 +0700"
       }
     ],
@@ -69,13 +104,6 @@
         "title": "Madura United vs Persita",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Madura%20United%20vs%20Persita",
         "pubdate": "Tue, 14 Feb 2023 14:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Reading vs Rotherham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Reading%20vs%20Rotherham",
-        "pubdate": "Tue, 14 Feb 2023 18:00:00 +0700"
       }
     ],
     [
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "Coventry City vs Millwall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Coventry%20City%20vs%20Millwall",
-        "pubdate": "Tue, 14 Feb 2023 18:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Maudy Ayunda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Maudy%20Ayunda",
-        "pubdate": "Tue, 14 Feb 2023 07:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Pendaftaran SNBP 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Pendaftaran%20SNBP%202023",
         "pubdate": "Tue, 14 Feb 2023 15:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Jakub Jankto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Jakub%20Jankto",
-        "pubdate": "Tue, 14 Feb 2023 12:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Nas Daily",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Nas%20Daily",
-        "pubdate": "Tue, 14 Feb 2023 12:00:00 +0700"
       }
     ]
   ]
