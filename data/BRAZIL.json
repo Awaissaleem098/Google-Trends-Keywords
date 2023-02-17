@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-02-2023 , 23:48:27",
+  "lastUpdate": "17-02-2023 , 00:40:54",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Juventus x Nantes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventus%20x%20Nantes",
         "pubdate": "Thu, 16 Feb 2023 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Vasco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vasco",
+        "pubdate": "Thu, 16 Feb 2023 18:00:00 -0500"
       }
     ],
     [
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Braga x Fiorentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Braga%20x%20Fiorentina",
+        "pubdate": "Thu, 16 Feb 2023 08:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Sevilla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sevilla",
         "pubdate": "Thu, 16 Feb 2023 07:00:00 -0500"
@@ -52,16 +66,16 @@
     ],
     [
       {
-        "title": "Bayer Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayer%20Leverkusen",
-        "pubdate": "Thu, 16 Feb 2023 09:00:00 -0500"
+        "title": "Japão x Brasil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jap%C3%A3o%20x%20Brasil",
+        "pubdate": "Thu, 16 Feb 2023 13:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Japão x Brasil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jap%C3%A3o%20x%20Brasil",
-        "pubdate": "Thu, 16 Feb 2023 13:00:00 -0500"
+        "title": "Bayer Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayer%20Leverkusen",
+        "pubdate": "Thu, 16 Feb 2023 09:00:00 -0500"
       }
     ],
     [
@@ -73,13 +87,6 @@
     ],
     [
       {
-        "title": "Andressa Urach",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Andressa%20Urach",
-        "pubdate": "Thu, 16 Feb 2023 06:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "John Travolta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#John%20Travolta",
         "pubdate": "Thu, 16 Feb 2023 11:00:00 -0500"
@@ -87,9 +94,23 @@
     ],
     [
       {
+        "title": "Andressa Urach",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Andressa%20Urach",
+        "pubdate": "Thu, 16 Feb 2023 06:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Ivete Sangalo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ivete%20Sangalo",
         "pubdate": "Thu, 16 Feb 2023 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Mirassol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mirassol",
+        "pubdate": "Thu, 16 Feb 2023 08:00:00 -0500"
       }
     ],
     [
@@ -108,16 +129,9 @@
     ],
     [
       {
-        "title": "Fiorentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fiorentina",
-        "pubdate": "Thu, 16 Feb 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Barcelona%20FC",
-        "pubdate": "Thu, 16 Feb 2023 13:00:00 -0500"
+        "title": "Avai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Avai",
+        "pubdate": "Thu, 16 Feb 2023 18:00:00 -0500"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Arma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Arma",
         "pubdate": "Thu, 16 Feb 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Eduardo Bolsonaro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Eduardo%20Bolsonaro",
-        "pubdate": "Thu, 16 Feb 2023 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Maiores artilheiros do Flamengo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Maiores%20artilheiros%20do%20Flamengo",
-        "pubdate": "Thu, 16 Feb 2023 10:00:00 -0500"
       }
     ]
   ]

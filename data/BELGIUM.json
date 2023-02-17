@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "16-02-2023 , 23:48:26",
+  "lastUpdate": "17-02-2023 , 00:40:54",
   "data": [
+    [
+      {
+        "title": "Dick van Dyke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dick%20van%20Dyke",
+        "pubdate": "Fri, 17 Feb 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Anderlecht",
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "Barcelona  Man utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona%20%20Man%20utd",
+        "title": "Barcelona-Man utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona-Man%20utd",
         "pubdate": "Thu, 16 Feb 2023 17:00:00 +0100"
       }
     ],
@@ -66,15 +73,15 @@
     ],
     [
       {
-        "title": "Trabzonspor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Trabzonspor",
+        "title": "Tranq",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tranq",
         "pubdate": "Thu, 16 Feb 2023 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Tranq",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tranq",
+        "title": "Trabzonspor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Trabzonspor",
         "pubdate": "Thu, 16 Feb 2023 18:00:00 +0100"
       }
     ],
@@ -83,6 +90,27 @@
         "title": "Union Saint-Gilloise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union%20Saint-Gilloise",
         "pubdate": "Thu, 16 Feb 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Marc Tarabella",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Marc%20Tarabella",
+        "pubdate": "Thu, 16 Feb 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Europa Conference League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Europa%20Conference%20League",
+        "pubdate": "Thu, 16 Feb 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "UEFA Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#UEFA%20Europa%20League",
+        "pubdate": "Thu, 16 Feb 2023 21:00:00 +0100"
       }
     ],
     [
@@ -101,20 +129,6 @@
     ],
     [
       {
-        "title": "UEFA Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#UEFA%20Europa%20League",
-        "pubdate": "Thu, 16 Feb 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bright Festival",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bright%20Festival",
-        "pubdate": "Thu, 16 Feb 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Ana de Armas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ana%20de%20Armas",
         "pubdate": "Thu, 16 Feb 2023 22:00:00 +0100"
@@ -124,20 +138,6 @@
       {
         "title": "Union",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union",
-        "pubdate": "Thu, 16 Feb 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mauri Vansevenant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mauri%20Vansevenant",
-        "pubdate": "Thu, 16 Feb 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Marc Tarabella",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Marc%20Tarabella",
         "pubdate": "Thu, 16 Feb 2023 21:00:00 +0100"
       }
     ]

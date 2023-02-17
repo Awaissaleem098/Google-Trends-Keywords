@@ -1,10 +1,24 @@
 {
-  "lastUpdate": "16-02-2023 , 23:48:28",
+  "lastUpdate": "17-02-2023 , 00:40:55",
   "data": [
     [
       {
-        "title": "Barcelona  Man utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona%20%20Man%20utd",
+        "title": "Alison Brie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Alison%20Brie",
+        "pubdate": "Fri, 17 Feb 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Angola",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Angola",
+        "pubdate": "Fri, 17 Feb 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona  Man Utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona%20%20Man%20Utd",
         "pubdate": "Thu, 16 Feb 2023 15:00:00 +0100"
       }
     ],
@@ -26,6 +40,13 @@
       {
         "title": "Aida",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Aida",
+        "pubdate": "Thu, 16 Feb 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FC Midtjylland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#FC%20Midtjylland",
         "pubdate": "Thu, 16 Feb 2023 20:00:00 +0100"
       }
     ],
@@ -118,27 +139,6 @@
         "title": "Real Madrid  Elche",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid%20%20Elche",
         "pubdate": "Wed, 15 Feb 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nicola Sturgeon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nicola%20Sturgeon",
-        "pubdate": "Wed, 15 Feb 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Pharrell Williams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pharrell%20Williams",
-        "pubdate": "Wed, 15 Feb 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Haaland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Haaland",
-        "pubdate": "Wed, 15 Feb 2023 22:00:00 +0100"
       }
     ]
   ]
