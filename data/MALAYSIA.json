@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "17-02-2023 , 00:40:58",
+  "lastUpdate": "17-02-2023 , 02:15:51",
   "data": [
     [
       {
-        "title": "Mu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Mu",
+        "title": "MU",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#MU",
         "pubdate": "Fri, 17 Feb 2023 07:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Leverkusen vs Monaco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Leverkusen%20vs%20Monaco",
+        "pubdate": "Fri, 17 Feb 2023 04:00:00 +0800"
       }
     ],
     [
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Raquel Welch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Raquel%20Welch",
-        "pubdate": "Thu, 16 Feb 2023 09:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Juventus vs Nantes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Juventus%20vs%20Nantes",
         "pubdate": "Thu, 16 Feb 2023 23:00:00 +0800"
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Inside Scoop",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Inside%20Scoop",
-        "pubdate": "Thu, 16 Feb 2023 11:00:00 +0800"
+        "title": "Raquel Welch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Raquel%20Welch",
+        "pubdate": "Thu, 16 Feb 2023 09:00:00 +0800"
       }
     ],
     [
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Inside Scoop",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Inside%20Scoop",
+        "pubdate": "Thu, 16 Feb 2023 11:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Chelsea f.c.",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Chelsea%20f.c.",
         "pubdate": "Thu, 16 Feb 2023 08:00:00 +0800"
@@ -59,9 +66,23 @@
     ],
     [
       {
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#La%20Liga",
+        "pubdate": "Thu, 16 Feb 2023 23:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "England vs New Zealand",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#England%20vs%20New%20Zealand",
         "pubdate": "Thu, 16 Feb 2023 10:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "MsPuiyi scholarship",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#MsPuiyi%20scholarship",
+        "pubdate": "Thu, 16 Feb 2023 01:00:00 +0800"
       }
     ],
     [
@@ -94,16 +115,16 @@
     ],
     [
       {
-        "title": "Manchester United Mason Greenwood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Manchester%20United%20Mason%20Greenwood",
-        "pubdate": "Thu, 16 Feb 2023 13:00:00 +0800"
+        "title": "Badminton Asia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Badminton%20Asia",
+        "pubdate": "Thu, 16 Feb 2023 23:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Badminton Asia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Badminton%20Asia",
-        "pubdate": "Thu, 16 Feb 2023 23:00:00 +0800"
+        "title": "Manchester United Mason Greenwood",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Manchester%20United%20Mason%20Greenwood",
+        "pubdate": "Thu, 16 Feb 2023 13:00:00 +0800"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Duangphet Phromthep",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Duangphet%20Phromthep",
         "pubdate": "Thu, 16 Feb 2023 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "MsPuiyi scholarship",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#MsPuiyi%20scholarship",
-        "pubdate": "Thu, 16 Feb 2023 03:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona vs Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Barcelona%20vs%20Man%20United",
-        "pubdate": "Wed, 15 Feb 2023 16:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Arsenal%20vs%20Man%20City",
-        "pubdate": "Wed, 15 Feb 2023 09:00:00 +0800"
       }
     ]
   ]

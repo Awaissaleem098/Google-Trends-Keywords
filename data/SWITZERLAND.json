@@ -1,25 +1,32 @@
 {
-  "lastUpdate": "17-02-2023 , 00:41:01",
+  "lastUpdate": "17-02-2023 , 02:15:55",
   "data": [
     [
       {
-        "title": "FC Basel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Basel",
+        "title": "Trabzonspor gegen FCB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Trabzonspor%20gegen%20FCB",
         "pubdate": "Thu, 16 Feb 2023 09:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Barcelone – Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barcelone%20%E2%80%93%20Manchester%20United",
-        "pubdate": "Thu, 16 Feb 2023 18:00:00 +0100"
+        "title": "Barcelona gegen manunited",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barcelona%20gegen%20manunited",
+        "pubdate": "Thu, 16 Feb 2023 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barcelona",
-        "pubdate": "Thu, 16 Feb 2023 18:00:00 +0100"
+        "title": "Mikaela Shiffrin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mikaela%20Shiffrin",
+        "pubdate": "Thu, 16 Feb 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Juventus",
+        "pubdate": "Thu, 16 Feb 2023 21:00:00 +0100"
       }
     ],
     [
@@ -52,22 +59,15 @@
     ],
     [
       {
-        "title": "Prinz William",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Prinz%20William",
-        "pubdate": "Thu, 16 Feb 2023 20:00:00 +0100"
+        "title": "Tim Lobinger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tim%20Lobinger",
+        "pubdate": "Thu, 16 Feb 2023 21:00:00 +0100"
       }
     ],
     [
       {
         "title": "Leverkusen gegen Monaco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Leverkusen%20gegen%20Monaco",
-        "pubdate": "Thu, 16 Feb 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tim Lobinger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tim%20Lobinger",
         "pubdate": "Thu, 16 Feb 2023 21:00:00 +0100"
       }
     ],
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Rb Salzburg gegen roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rb%20Salzburg%20gegen%20roma",
-        "pubdate": "Thu, 16 Feb 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "UEFA Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UEFA%20Europa%20League",
         "pubdate": "Thu, 16 Feb 2023 19:00:00 +0100"
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Markus Lanz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Markus%20Lanz",
-        "pubdate": "Thu, 16 Feb 2023 08:00:00 +0100"
+        "title": "Kylian Mbappé",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kylian%20Mbapp%C3%A9",
+        "pubdate": "Thu, 16 Feb 2023 23:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Kylian Mbappé",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kylian%20Mbapp%C3%A9",
-        "pubdate": "Thu, 16 Feb 2023 23:00:00 +0100"
+        "title": "Heidi Klum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Heidi%20Klum",
+        "pubdate": "Thu, 16 Feb 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Andrea Ellenberger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Andrea%20Ellenberger",
+        "pubdate": "Thu, 16 Feb 2023 11:00:00 +0100"
       }
     ]
   ]
