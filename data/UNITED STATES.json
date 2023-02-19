@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "18-02-2023 , 23:53:54",
+  "lastUpdate": "19-02-2023 , 01:39:13",
   "data": [
-    [
-      {
-        "title": "Aston Villa vs Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aston%20Villa%20vs%20Arsenal",
-        "pubdate": "Sat, 18 Feb 2023 05:00:00 -0800"
-      }
-    ],
     [
       {
         "title": "Jimmy Carter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jimmy%20Carter",
         "pubdate": "Sat, 18 Feb 2023 13:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Aston Villa vs Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aston%20Villa%20vs%20Arsenal",
+        "pubdate": "Sat, 18 Feb 2023 05:00:00 -0800"
       }
     ],
     [
@@ -24,16 +24,16 @@
     ],
     [
       {
-        "title": "Newcastle vs Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Newcastle%20vs%20Liverpool",
-        "pubdate": "Sat, 18 Feb 2023 09:00:00 -0800"
+        "title": "XFL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#XFL",
+        "pubdate": "Sat, 18 Feb 2023 10:00:00 -0800"
       }
     ],
     [
       {
-        "title": "XFL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#XFL",
-        "pubdate": "Sat, 18 Feb 2023 10:00:00 -0800"
+        "title": "Newcastle vs Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Newcastle%20vs%20Liverpool",
+        "pubdate": "Sat, 18 Feb 2023 09:00:00 -0800"
       }
     ],
     [
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Daytona 500",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Daytona%20500",
+        "pubdate": "Sat, 18 Feb 2023 16:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Everton vs Leeds United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Everton%20vs%20Leeds%20United",
         "pubdate": "Sat, 18 Feb 2023 09:00:00 -0800"
@@ -66,9 +73,23 @@
     ],
     [
       {
-        "title": "Indiana basketball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Indiana%20basketball",
-        "pubdate": "Sat, 18 Feb 2023 12:00:00 -0800"
+        "title": "Dolly Parton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dolly%20Parton",
+        "pubdate": "Sat, 18 Feb 2023 15:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Ron DeSantis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ron%20DeSantis",
+        "pubdate": "Sat, 18 Feb 2023 16:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Brentford vs Crystal Palace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Brentford%20vs%20Crystal%20Palace",
+        "pubdate": "Sat, 18 Feb 2023 10:00:00 -0800"
       }
     ],
     [
@@ -108,13 +129,6 @@
     ],
     [
       {
-        "title": "DK Metcalf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#DK%20Metcalf",
-        "pubdate": "Fri, 17 Feb 2023 18:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "NBA Celebrity Game 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NBA%20Celebrity%20Game%202023",
         "pubdate": "Fri, 17 Feb 2023 18:00:00 -0800"
@@ -122,22 +136,8 @@
     ],
     [
       {
-        "title": "Chris Brown",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chris%20Brown",
-        "pubdate": "Fri, 17 Feb 2023 16:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Jose Alvarado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jose%20Alvarado",
-        "pubdate": "Fri, 17 Feb 2023 20:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Kendall Jenner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kendall%20Jenner",
+        "title": "Bad Bunny",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bad%20Bunny",
         "pubdate": "Fri, 17 Feb 2023 15:00:00 -0800"
       }
     ]
