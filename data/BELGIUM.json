@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-02-2023 , 00:36:27",
+  "lastUpdate": "21-02-2023 , 02:11:33",
   "data": [
     [
       {
@@ -38,16 +38,23 @@
     ],
     [
       {
-        "title": "Frontière",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fronti%C3%A8re",
-        "pubdate": "Mon, 20 Feb 2023 09:00:00 +0100"
+        "title": "Atomic Heart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Atomic%20Heart",
+        "pubdate": "Mon, 20 Feb 2023 13:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Atomic Heart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Atomic%20Heart",
-        "pubdate": "Mon, 20 Feb 2023 13:00:00 +0100"
+        "title": "Hatay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hatay",
+        "pubdate": "Mon, 20 Feb 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Frontière",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fronti%C3%A8re",
+        "pubdate": "Mon, 20 Feb 2023 09:00:00 +0100"
       }
     ],
     [
@@ -66,23 +73,9 @@
     ],
     [
       {
-        "title": "Grève",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gr%C3%A8ve",
-        "pubdate": "Mon, 20 Feb 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Leiji Matsumoto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Leiji%20Matsumoto",
         "pubdate": "Mon, 20 Feb 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Hatay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hatay",
-        "pubdate": "Mon, 20 Feb 2023 21:00:00 +0100"
       }
     ],
     [
@@ -94,9 +87,23 @@
     ],
     [
       {
+        "title": "Noa Lang",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Noa%20Lang",
+        "pubdate": "Mon, 20 Feb 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Thor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Thor",
         "pubdate": "Mon, 20 Feb 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Eglantine emeye",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eglantine%20emeye",
+        "pubdate": "Mon, 20 Feb 2023 23:00:00 +0100"
       }
     ],
     [
@@ -115,20 +122,6 @@
     ],
     [
       {
-        "title": "Benfica - Boavista",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Benfica%20-%20Boavista",
-        "pubdate": "Mon, 20 Feb 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Eglantine emeye",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eglantine%20emeye",
-        "pubdate": "Mon, 20 Feb 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Geert Van Rampelberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Geert%20Van%20Rampelberg",
         "pubdate": "Mon, 20 Feb 2023 11:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Redouane Bougheraba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Redouane%20Bougheraba",
         "pubdate": "Mon, 20 Feb 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Cate Blanchett",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cate%20Blanchett",
+        "pubdate": "Mon, 20 Feb 2023 14:00:00 +0100"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-02-2023 , 00:36:31",
+  "lastUpdate": "21-02-2023 , 02:11:37",
   "data": [
     [
       {
@@ -17,16 +17,16 @@
     ],
     [
       {
-        "title": "Tóth Gabi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%B3th%20Gabi",
-        "pubdate": "Mon, 20 Feb 2023 00:00:00 +0100"
+        "title": "Atomic Heart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Atomic%20Heart",
+        "pubdate": "Mon, 20 Feb 2023 09:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Atomic Heart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Atomic%20Heart",
-        "pubdate": "Mon, 20 Feb 2023 09:00:00 +0100"
+        "title": "Tóth Gabi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%B3th%20Gabi",
+        "pubdate": "Mon, 20 Feb 2023 00:00:00 +0100"
       }
     ],
     [
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Debreceni VSC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Debreceni%20VSC",
+        "pubdate": "Mon, 20 Feb 2023 07:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Fizetős Facebook",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fizet%C5%91s%20Facebook",
         "pubdate": "Mon, 20 Feb 2023 15:00:00 +0100"
@@ -108,16 +115,16 @@
     ],
     [
       {
-        "title": "Hamvazószerda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hamvaz%C3%B3szerda",
-        "pubdate": "Mon, 20 Feb 2023 09:00:00 +0100"
+        "title": "Paul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Paul",
+        "pubdate": "Mon, 20 Feb 2023 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Paul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Paul",
-        "pubdate": "Mon, 20 Feb 2023 22:00:00 +0100"
+        "title": "Hamvazószerda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hamvaz%C3%B3szerda",
+        "pubdate": "Mon, 20 Feb 2023 09:00:00 +0100"
       }
     ],
     [
@@ -129,15 +136,8 @@
     ],
     [
       {
-        "title": "Daytona 500",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Daytona%20500",
-        "pubdate": "Mon, 20 Feb 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Torino–Cremonese",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Torino%E2%80%93Cremonese",
+        "title": "Torino–cremonese",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Torino%E2%80%93cremonese",
         "pubdate": "Mon, 20 Feb 2023 23:00:00 +0100"
       }
     ]

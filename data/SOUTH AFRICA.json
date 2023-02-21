@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "21-02-2023 , 00:36:37",
+  "lastUpdate": "21-02-2023 , 02:11:43",
   "data": [
-    [
-      {
-        "title": "Watford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Watford",
-        "pubdate": "Tue, 21 Feb 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Weather Cape Town",
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Marcus Rashford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Marcus%20Rashford",
+        "pubdate": "Mon, 20 Feb 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Nicola Bulley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Nicola%20Bulley",
         "pubdate": "Mon, 20 Feb 2023 07:00:00 +0200"
@@ -59,16 +59,16 @@
     ],
     [
       {
-        "title": "Suspect",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Suspect",
-        "pubdate": "Mon, 20 Feb 2023 07:00:00 +0200"
+        "title": "Watford vs West Brom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Watford%20vs%20West%20Brom",
+        "pubdate": "Mon, 20 Feb 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Budget Speech 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Budget%20Speech%202023",
-        "pubdate": "Mon, 20 Feb 2023 14:00:00 +0200"
+        "title": "Suspect",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Suspect",
+        "pubdate": "Mon, 20 Feb 2023 07:00:00 +0200"
       }
     ],
     [
@@ -80,9 +80,9 @@
     ],
     [
       {
-        "title": "Watford vs West Brom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Watford%20vs%20West%20Brom",
-        "pubdate": "Mon, 20 Feb 2023 18:00:00 +0200"
+        "title": "Backstreet Boys 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Backstreet%20Boys%202023",
+        "pubdate": "Mon, 20 Feb 2023 15:00:00 +0200"
       }
     ],
     [
@@ -129,8 +129,8 @@
     ],
     [
       {
-        "title": "Ups",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ups",
+        "title": "UPS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UPS",
         "pubdate": "Mon, 20 Feb 2023 22:00:00 +0200"
       }
     ],

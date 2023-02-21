@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-02-2023 , 00:36:35",
+  "lastUpdate": "21-02-2023 , 02:11:40",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Getafe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Getafe",
         "pubdate": "Tue, 21 Feb 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ogun naira protest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ogun%20naira%20protest",
+        "pubdate": "Tue, 21 Feb 2023 01:00:00 +0100"
       }
     ],
     [
@@ -66,9 +73,16 @@
     ],
     [
       {
-        "title": "Marseille",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Marseille",
-        "pubdate": "Mon, 20 Feb 2023 03:00:00 +0100"
+        "title": "Kaduna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Kaduna",
+        "pubdate": "Mon, 20 Feb 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Neymar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Neymar",
+        "pubdate": "Mon, 20 Feb 2023 08:00:00 +0100"
       }
     ],
     [
@@ -80,9 +94,9 @@
     ],
     [
       {
-        "title": "NBA All-Star 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#NBA%20All-Star%202023",
-        "pubdate": "Mon, 20 Feb 2023 08:00:00 +0100"
+        "title": "Marseille",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Marseille",
+        "pubdate": "Mon, 20 Feb 2023 03:00:00 +0100"
       }
     ],
     [
@@ -90,6 +104,20 @@
         "title": "Giannis Antetokounmpo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Giannis%20Antetokounmpo",
         "pubdate": "Mon, 20 Feb 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "2023 election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#2023%20election",
+        "pubdate": "Mon, 20 Feb 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "NBA All-Star 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#NBA%20All-Star%202023",
+        "pubdate": "Mon, 20 Feb 2023 08:00:00 +0100"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "PSG vs LOSC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#PSG%20vs%20LOSC",
         "pubdate": "Sun, 19 Feb 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona vs Cádiz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Barcelona%20vs%20C%C3%A1diz",
-        "pubdate": "Sun, 19 Feb 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tinubu news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Tinubu%20news",
-        "pubdate": "Sun, 19 Feb 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Roma vs Verona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Roma%20vs%20Verona",
-        "pubdate": "Sun, 19 Feb 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Spezia vs Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Spezia%20vs%20Juventus",
-        "pubdate": "Sun, 19 Feb 2023 17:00:00 +0100"
       }
     ]
   ]
