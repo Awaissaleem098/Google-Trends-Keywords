@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-02-2023 , 23:50:29",
+  "lastUpdate": "24-02-2023 , 00:58:34",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Garnacho",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Garnacho",
+        "pubdate": "Thu, 23 Feb 2023 19:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Outer Banks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Outer%20Banks",
         "pubdate": "Thu, 23 Feb 2023 01:00:00 -0300"
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Garnacho",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Garnacho",
-        "pubdate": "Thu, 23 Feb 2023 19:00:00 -0300"
+        "title": "FC Union Berlin vs Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#FC%20Union%20Berlin%20vs%20Ajax",
+        "pubdate": "Thu, 23 Feb 2023 18:00:00 -0300"
       }
     ],
     [
@@ -52,16 +59,9 @@
     ],
     [
       {
-        "title": "FC Union berlin vs Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#FC%20Union%20berlin%20vs%20Ajax",
-        "pubdate": "Thu, 23 Feb 2023 18:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Quien se fue de Gran Hermano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Quien%20se%20fue%20de%20Gran%20Hermano",
-        "pubdate": "Thu, 23 Feb 2023 02:00:00 -0300"
+        "title": "23 de febrero",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#23%20de%20febrero",
+        "pubdate": "Thu, 23 Feb 2023 11:00:00 -0300"
       }
     ],
     [
@@ -73,15 +73,29 @@
     ],
     [
       {
-        "title": "23 de febrero",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#23%20de%20febrero",
-        "pubdate": "Thu, 23 Feb 2023 11:00:00 -0300"
+        "title": "Indio Solari",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Indio%20Solari",
+        "pubdate": "Thu, 23 Feb 2023 19:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Rennes vs Shakhtar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Rennes%20vs%20Shakhtar",
+        "pubdate": "Thu, 23 Feb 2023 18:00:00 -0300"
       }
     ],
     [
       {
         "title": "Sons of the Forest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sons%20of%20the%20Forest",
+        "pubdate": "Thu, 23 Feb 2023 15:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Ricky Martin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ricky%20Martin",
         "pubdate": "Thu, 23 Feb 2023 15:00:00 -0300"
       }
     ],
@@ -94,16 +108,9 @@
     ],
     [
       {
-        "title": "Ricky Martin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ricky%20Martin",
-        "pubdate": "Thu, 23 Feb 2023 15:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Rennes vs Shakhtar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Rennes%20vs%20Shakhtar",
-        "pubdate": "Thu, 23 Feb 2023 18:00:00 -0300"
+        "title": "Quien se fue de Gran Hermano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Quien%20se%20fue%20de%20Gran%20Hermano",
+        "pubdate": "Thu, 23 Feb 2023 08:00:00 -0300"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Central",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Central",
-        "pubdate": "Thu, 23 Feb 2023 01:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Carabobo vs Atlético Mineiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Carabobo%20vs%20Atl%C3%A9tico%20Mineiro",
-        "pubdate": "Thu, 23 Feb 2023 00:00:00 -0300"
+        "title": "Provincia de Buenos Aires",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Provincia%20de%20Buenos%20Aires",
+        "pubdate": "Thu, 23 Feb 2023 21:00:00 -0300"
       }
     ]
   ]

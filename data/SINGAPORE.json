@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-02-2023 , 23:50:40",
+  "lastUpdate": "24-02-2023 , 00:58:41",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "Outer Banks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Outer%20Banks",
-        "pubdate": "Fri, 24 Feb 2023 02:00:00 +0800"
+        "title": "Selena Gomez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Selena%20Gomez",
+        "pubdate": "Fri, 24 Feb 2023 07:00:00 +0800"
       }
     ],
     [
@@ -20,6 +20,13 @@
         "title": "Red Swastika School",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Red%20Swastika%20School",
         "pubdate": "Fri, 24 Feb 2023 06:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Outer Banks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Outer%20Banks",
+        "pubdate": "Fri, 24 Feb 2023 02:00:00 +0800"
       }
     ],
     [
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Cocaine Bear",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cocaine%20Bear",
-        "pubdate": "Thu, 23 Feb 2023 09:00:00 +0800"
+        "title": "Mrs Chatterjee vs Norway",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mrs%20Chatterjee%20vs%20Norway",
+        "pubdate": "Thu, 23 Feb 2023 21:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Mrs Chatterjee vs Norway",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mrs%20Chatterjee%20vs%20Norway",
-        "pubdate": "Thu, 23 Feb 2023 21:00:00 +0800"
+        "title": "Cocaine Bear",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cocaine%20Bear",
+        "pubdate": "Thu, 23 Feb 2023 09:00:00 +0800"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Shamima Begum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Shamima%20Begum",
-        "pubdate": "Thu, 23 Feb 2023 08:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "John Motson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#John%20Motson",
         "pubdate": "Thu, 23 Feb 2023 22:00:00 +0800"
@@ -73,22 +73,22 @@
     ],
     [
       {
-        "title": "NVIDIA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#NVIDIA",
+        "title": "Shamima Begum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Shamima%20Begum",
+        "pubdate": "Thu, 23 Feb 2023 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Nvidia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nvidia",
         "pubdate": "Thu, 23 Feb 2023 17:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Nick Carter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nick%20Carter",
-        "pubdate": "Thu, 23 Feb 2023 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Murdaugh murders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Murdaugh%20murders",
+        "title": "Murdaugh Murders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Murdaugh%20Murders",
         "pubdate": "Thu, 23 Feb 2023 23:00:00 +0800"
       }
     ],
@@ -97,13 +97,6 @@
         "title": "Fed minutes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Fed%20minutes",
         "pubdate": "Thu, 23 Feb 2023 13:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Vivek Ramaswamy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Vivek%20Ramaswamy",
-        "pubdate": "Thu, 23 Feb 2023 09:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "McKinsey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#McKinsey",
         "pubdate": "Wed, 22 Feb 2023 15:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool vs Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool%20vs%20Real%20Madrid",
+        "pubdate": "Tue, 21 Feb 2023 12:00:00 +0800"
       }
     ]
   ]

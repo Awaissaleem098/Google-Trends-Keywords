@@ -1,11 +1,32 @@
 {
-  "lastUpdate": "23-02-2023 , 23:50:30",
+  "lastUpdate": "24-02-2023 , 00:58:34",
   "data": [
+    [
+      {
+        "title": "Harvey Weinstein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Harvey%20Weinstein",
+        "pubdate": "Fri, 24 Feb 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Unfall Horitschon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Unfall%20Horitschon",
+        "pubdate": "Fri, 24 Feb 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Manunited gegen Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Manunited%20gegen%20Barcelona",
         "pubdate": "Thu, 23 Feb 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Clemens Arvay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Clemens%20Arvay",
+        "pubdate": "Thu, 23 Feb 2023 13:00:00 +0100"
       }
     ],
     [
@@ -52,13 +73,6 @@
     ],
     [
       {
-        "title": "Wetter Schnee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wetter%20Schnee",
-        "pubdate": "Thu, 23 Feb 2023 08:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Russell Crowe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Russell%20Crowe",
         "pubdate": "Thu, 23 Feb 2023 08:00:00 +0100"
@@ -87,9 +101,9 @@
     ],
     [
       {
-        "title": "Griechenland Film",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Griechenland%20Film",
-        "pubdate": "Thu, 23 Feb 2023 23:00:00 +0100"
+        "title": "Iris Klein Peter Klein Yvonne Woelke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Iris%20Klein%20Peter%20Klein%20Yvonne%20Woelke",
+        "pubdate": "Thu, 23 Feb 2023 08:00:00 +0100"
       }
     ],
     [
@@ -97,13 +111,6 @@
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#F1",
         "pubdate": "Thu, 23 Feb 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Iris Klein Peter Klein Yvonne Woelke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Iris%20Klein%20Peter%20Klein%20Yvonne%20Woelke",
-        "pubdate": "Thu, 23 Feb 2023 08:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "ZKW",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ZKW",
         "pubdate": "Thu, 23 Feb 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FCB gegen Trabzonspor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FCB%20gegen%20Trabzonspor",
-        "pubdate": "Thu, 23 Feb 2023 22:00:00 +0100"
       }
     ]
   ]

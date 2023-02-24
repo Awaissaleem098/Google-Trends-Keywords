@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "23-02-2023 , 23:50:41",
+  "lastUpdate": "24-02-2023 , 00:58:42",
   "data": [
-    [
-      {
-        "title": "台泥",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8F%B0%E6%B3%A5",
-        "pubdate": "Fri, 24 Feb 2023 00:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "李佳穎",
@@ -24,9 +17,9 @@
     ],
     [
       {
-        "title": "郭富城",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%83%AD%E5%AF%8C%E5%9F%8E",
-        "pubdate": "Fri, 24 Feb 2023 00:00:00 +0800"
+        "title": "國軍台中總醫院",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%9C%8B%E8%BB%8D%E5%8F%B0%E4%B8%AD%E7%B8%BD%E9%86%AB%E9%99%A2",
+        "pubdate": "Fri, 24 Feb 2023 08:00:00 +0800"
       }
     ],
     [
@@ -87,16 +80,16 @@
     ],
     [
       {
-        "title": "東海大學",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9D%B1%E6%B5%B7%E5%A4%A7%E5%AD%B8",
-        "pubdate": "Thu, 23 Feb 2023 22:00:00 +0800"
+        "title": "孔劉",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%AD%94%E5%8A%89",
+        "pubdate": "Thu, 23 Feb 2023 16:00:00 +0800"
       }
     ],
     [
       {
-        "title": "開發金",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%96%8B%E7%99%BC%E9%87%91",
-        "pubdate": "Thu, 23 Feb 2023 08:00:00 +0800"
+        "title": "東海大學",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9D%B1%E6%B5%B7%E5%A4%A7%E5%AD%B8",
+        "pubdate": "Thu, 23 Feb 2023 22:00:00 +0800"
       }
     ],
     [
@@ -115,9 +108,23 @@
     ],
     [
       {
+        "title": "開發金",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%96%8B%E7%99%BC%E9%87%91",
+        "pubdate": "Thu, 23 Feb 2023 08:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "亞洲大學",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E4%BA%9E%E6%B4%B2%E5%A4%A7%E5%AD%B8",
         "pubdate": "Thu, 23 Feb 2023 19:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "繁星",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%B9%81%E6%98%9F",
+        "pubdate": "Thu, 23 Feb 2023 10:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "蔣淯安",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%94%A3%E6%B7%AF%E5%AE%89",
         "pubdate": "Thu, 23 Feb 2023 14:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "新疆地震",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%96%B0%E7%96%86%E5%9C%B0%E9%9C%87",
-        "pubdate": "Thu, 23 Feb 2023 16:00:00 +0800"
       }
     ]
   ]

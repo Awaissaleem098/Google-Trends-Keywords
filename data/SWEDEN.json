@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "23-02-2023 , 23:50:41",
+  "lastUpdate": "24-02-2023 , 00:58:41",
   "data": [
+    [
+      {
+        "title": "Bear Grylls",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bear%20Grylls",
+        "pubdate": "Fri, 24 Feb 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Outer Banks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Outer%20Banks",
         "pubdate": "Thu, 23 Feb 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Planica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Planica",
+        "pubdate": "Thu, 23 Feb 2023 12:00:00 +0100"
       }
     ],
     [
@@ -34,13 +48,6 @@
         "title": "Hedemora",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hedemora",
         "pubdate": "Thu, 23 Feb 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Johanna Hagström",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Johanna%20Hagstr%C3%B6m",
-        "pubdate": "Thu, 23 Feb 2023 15:00:00 +0100"
       }
     ],
     [
@@ -118,13 +125,6 @@
         "title": "Kate Winslet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kate%20Winslet",
         "pubdate": "Wed, 22 Feb 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Djurgården Hockey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden%20Hockey",
-        "pubdate": "Wed, 22 Feb 2023 20:00:00 +0100"
       }
     ],
     [
