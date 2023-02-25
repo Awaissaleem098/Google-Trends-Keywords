@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-02-2023 , 23:53:05",
+  "lastUpdate": "25-02-2023 , 01:20:01",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Wisła Kraków – Odra Opole",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wis%C5%82a%20Krak%C3%B3w%20%E2%80%93%20Odra%20Opole",
         "pubdate": "Fri, 24 Feb 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Trzęsienie ziemi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Trz%C4%99sienie%20ziemi",
+        "pubdate": "Fri, 24 Feb 2023 19:00:00 +0100"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Tim Burton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tim%20Burton",
-        "pubdate": "Fri, 24 Feb 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Donald Tusk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Donald%20Tusk",
         "pubdate": "Fri, 24 Feb 2023 11:00:00 +0100"
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Wołodymyr Zełenski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wo%C5%82odymyr%20Ze%C5%82enski",
-        "pubdate": "Fri, 24 Feb 2023 18:00:00 +0100"
+        "title": "KSW",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#KSW",
+        "pubdate": "Fri, 24 Feb 2023 15:00:00 +0100"
       }
     ],
     [
@@ -76,6 +76,20 @@
         "title": "You Can Dance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#You%20Can%20Dance",
         "pubdate": "Fri, 24 Feb 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "R. Kelly",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#R.%20Kelly",
+        "pubdate": "Fri, 24 Feb 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Monica Bellucci",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Monica%20Bellucci",
+        "pubdate": "Fri, 24 Feb 2023 15:00:00 +0100"
       }
     ],
     [
@@ -101,23 +115,9 @@
     ],
     [
       {
-        "title": "R. Kelly",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#R.%20Kelly",
-        "pubdate": "Fri, 24 Feb 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Rocznica wojny na Ukrainie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rocznica%20wojny%20na%20Ukrainie",
         "pubdate": "Fri, 24 Feb 2023 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "KSW",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#KSW",
-        "pubdate": "Fri, 24 Feb 2023 15:00:00 +0100"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Paris Hilton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Paris%20Hilton",
-        "pubdate": "Fri, 24 Feb 2023 06:00:00 +0100"
+        "title": "Wołodymyr Zełenski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wo%C5%82odymyr%20Ze%C5%82enski",
+        "pubdate": "Fri, 24 Feb 2023 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Sylwia Przybysz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sylwia%20Przybysz",
-        "pubdate": "Fri, 24 Feb 2023 18:00:00 +0100"
+        "title": "Farma 2 finał",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Farma%202%20fina%C5%82",
+        "pubdate": "Fri, 24 Feb 2023 21:00:00 +0100"
       }
     ]
   ]

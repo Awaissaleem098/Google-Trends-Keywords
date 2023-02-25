@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-02-2023 , 23:53:06",
+  "lastUpdate": "25-02-2023 , 01:20:02",
   "data": [
+    [
+      {
+        "title": "We Have a Ghost",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#We%20Have%20a%20Ghost",
+        "pubdate": "Sat, 25 Feb 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "AKA Mass Country",
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Calib Cassim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Calib%20Cassim",
-        "pubdate": "Fri, 24 Feb 2023 08:00:00 +0200"
+        "title": "T20 Women's World Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#T20%20Women's%20World%20Cup",
+        "pubdate": "Fri, 24 Feb 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "T20 Women's World Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#T20%20Women's%20World%20Cup",
-        "pubdate": "Fri, 24 Feb 2023 15:00:00 +0200"
+        "title": "Calib Cassim",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Calib%20Cassim",
+        "pubdate": "Fri, 24 Feb 2023 08:00:00 +0200"
       }
     ],
     [
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "Ticketmaster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ticketmaster",
+        "pubdate": "Fri, 24 Feb 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Lakers vs Warriors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Lakers%20vs%20Warriors",
         "pubdate": "Fri, 24 Feb 2023 08:00:00 +0200"
@@ -101,16 +115,9 @@
     ],
     [
       {
-        "title": "Harvey Weinstein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Harvey%20Weinstein",
-        "pubdate": "Fri, 24 Feb 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mxolisi Dukwana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mxolisi%20Dukwana",
-        "pubdate": "Fri, 24 Feb 2023 17:00:00 +0200"
+        "title": "Matthew Booth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Matthew%20Booth",
+        "pubdate": "Fri, 24 Feb 2023 21:00:00 +0200"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Jake Paul vs Tommy Fury",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Jake%20Paul%20vs%20Tommy%20Fury",
-        "pubdate": "Fri, 24 Feb 2023 18:00:00 +0200"
+        "title": "Mxolisi Dukwana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mxolisi%20Dukwana",
+        "pubdate": "Fri, 24 Feb 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Matthew Booth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Matthew%20Booth",
-        "pubdate": "Fri, 24 Feb 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bournemouth vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bournemouth%20vs%20Man%20City",
-        "pubdate": "Fri, 24 Feb 2023 23:00:00 +0200"
+        "title": "Harvey Weinstein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Harvey%20Weinstein",
+        "pubdate": "Fri, 24 Feb 2023 16:00:00 +0200"
       }
     ]
   ]

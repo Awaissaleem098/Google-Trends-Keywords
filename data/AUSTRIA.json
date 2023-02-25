@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "24-02-2023 , 23:52:57",
+  "lastUpdate": "25-02-2023 , 01:19:54",
   "data": [
+    [
+      {
+        "title": "Knossi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Knossi",
+        "pubdate": "Sat, 25 Feb 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lech",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lech",
+        "pubdate": "Sat, 25 Feb 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "LASK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#LASK",
-        "pubdate": "Fri, 24 Feb 2023 17:00:00 +0100"
+        "pubdate": "Fri, 24 Feb 2023 21:00:00 +0100"
       }
     ],
     [
@@ -24,16 +38,16 @@
     ],
     [
       {
-        "title": "Harvey Weinstein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Harvey%20Weinstein",
-        "pubdate": "Fri, 24 Feb 2023 00:00:00 +0100"
+        "title": "Europa-League-Auslosung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Europa-League-Auslosung",
+        "pubdate": "Fri, 24 Feb 2023 11:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Europa-League-Auslosung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Europa-League-Auslosung",
-        "pubdate": "Fri, 24 Feb 2023 11:00:00 +0100"
+        "title": "Harvey Weinstein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Harvey%20Weinstein",
+        "pubdate": "Fri, 24 Feb 2023 00:00:00 +0100"
       }
     ],
     [
@@ -52,37 +66,9 @@
     ],
     [
       {
-        "title": "BASF-Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#BASF-Aktie",
-        "pubdate": "Fri, 24 Feb 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "The Consultant",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#The%20Consultant",
         "pubdate": "Fri, 24 Feb 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Selena Gomez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Selena%20Gomez",
-        "pubdate": "Fri, 24 Feb 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nina Chuba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nina%20Chuba",
-        "pubdate": "Fri, 24 Feb 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sansibar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sansibar",
-        "pubdate": "Fri, 24 Feb 2023 21:00:00 +0100"
       }
     ],
     [
@@ -94,16 +80,37 @@
     ],
     [
       {
-        "title": "Rosenbauer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rosenbauer",
-        "pubdate": "Fri, 24 Feb 2023 14:00:00 +0100"
+        "title": "BASF-Aktie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#BASF-Aktie",
+        "pubdate": "Fri, 24 Feb 2023 13:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Arbeitnehmerveranlagung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Arbeitnehmerveranlagung",
-        "pubdate": "Fri, 24 Feb 2023 09:00:00 +0100"
+        "title": "Nina Chuba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nina%20Chuba",
+        "pubdate": "Fri, 24 Feb 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Selena Gomez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Selena%20Gomez",
+        "pubdate": "Fri, 24 Feb 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sansibar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sansibar",
+        "pubdate": "Fri, 24 Feb 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Rosenbauer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rosenbauer",
+        "pubdate": "Fri, 24 Feb 2023 14:00:00 +0100"
       }
     ],
     [
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Dagmar Koller",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dagmar%20Koller",
-        "pubdate": "Fri, 24 Feb 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Palisades Tahoe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Palisades%20Tahoe",
         "pubdate": "Fri, 24 Feb 2023 20:00:00 +0100"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Albertina modern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Albertina%20modern",
-        "pubdate": "Fri, 24 Feb 2023 14:00:00 +0100"
+        "title": "Dagmar Koller",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dagmar%20Koller",
+        "pubdate": "Fri, 24 Feb 2023 09:00:00 +0100"
       }
     ],
     [
       {
-        "title": "We Have a Ghost",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#We%20Have%20a%20Ghost",
-        "pubdate": "Fri, 24 Feb 2023 21:00:00 +0100"
+        "title": "Weinstein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Weinstein",
+        "pubdate": "Fri, 24 Feb 2023 11:00:00 +0100"
       }
     ]
   ]

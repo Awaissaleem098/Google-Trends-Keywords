@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-02-2023 , 23:53:08",
+  "lastUpdate": "25-02-2023 , 01:20:04",
   "data": [
     [
       {
@@ -17,9 +17,9 @@
     ],
     [
       {
-        "title": "Tottenham – Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tottenham%20%E2%80%93%20Chelsea",
-        "pubdate": "Sat, 25 Feb 2023 01:00:00 +0700"
+        "title": "Fulham – Wolves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Fulham%20%E2%80%93%20Wolves",
+        "pubdate": "Fri, 24 Feb 2023 05:00:00 +0700"
       }
     ],
     [
@@ -27,13 +27,6 @@
         "title": "UEFA Europa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#UEFA%20Europa",
         "pubdate": "Fri, 24 Feb 2023 19:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Fulham – Wolves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Fulham%20%E2%80%93%20Wolves",
-        "pubdate": "Fri, 24 Feb 2023 05:00:00 +0700"
       }
     ],
     [
@@ -73,37 +66,16 @@
     ],
     [
       {
+        "title": "Xăng",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#X%C4%83ng",
+        "pubdate": "Fri, 24 Feb 2023 13:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Vàng",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#V%C3%A0ng",
         "pubdate": "Fri, 24 Feb 2023 17:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Blackpink Jisoo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Blackpink%20Jisoo",
-        "pubdate": "Fri, 24 Feb 2023 19:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Chủ tịch nước Việt Nam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc%20Vi%E1%BB%87t%20Nam",
-        "pubdate": "Fri, 24 Feb 2023 09:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Yokohama FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Yokohama%20FC",
-        "pubdate": "Fri, 24 Feb 2023 18:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "NSND Bạch Tuyết",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#NSND%20B%E1%BA%A1ch%20Tuy%E1%BA%BFt",
-        "pubdate": "Fri, 24 Feb 2023 15:00:00 +0700"
       }
     ],
     [
@@ -115,16 +87,30 @@
     ],
     [
       {
-        "title": "Union Berlin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Union%20Berlin",
-        "pubdate": "Fri, 24 Feb 2023 20:00:00 +0700"
+        "title": "Chủ tịch nước Việt Nam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc%20Vi%E1%BB%87t%20Nam",
+        "pubdate": "Fri, 24 Feb 2023 09:00:00 +0700"
       }
     ],
     [
       {
-        "title": "Liverpool – Man utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Liverpool%20%E2%80%93%20Man%20utd",
-        "pubdate": "Fri, 24 Feb 2023 14:00:00 +0700"
+        "title": "Blackpink Jisoo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Blackpink%20Jisoo",
+        "pubdate": "Fri, 24 Feb 2023 19:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "As monaco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#As%20monaco",
+        "pubdate": "Fri, 24 Feb 2023 01:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Yokohama FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Yokohama%20FC",
+        "pubdate": "Fri, 24 Feb 2023 18:00:00 +0700"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "NSND Bạch Tuyết",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#NSND%20B%E1%BA%A1ch%20Tuy%E1%BA%BFt",
+        "pubdate": "Fri, 24 Feb 2023 15:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Xổ số miền nam ngày 24 tháng 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#X%E1%BB%95%20s%E1%BB%91%20mi%E1%BB%81n%20nam%20ng%C3%A0y%2024%20th%C3%A1ng%202",
         "pubdate": "Fri, 24 Feb 2023 19:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Union Berlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Union%20Berlin",
+        "pubdate": "Fri, 24 Feb 2023 20:00:00 +0700"
       }
     ]
   ]
