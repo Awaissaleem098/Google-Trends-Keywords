@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "26-02-2023 , 01:59:12",
+  "lastUpdate": "26-02-2023 , 03:01:23",
   "data": [
     [
       {
         "title": "KV Mechelen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KV%20Mechelen",
         "pubdate": "Sun, 26 Feb 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jake Paul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jake%20Paul",
+        "pubdate": "Sun, 26 Feb 2023 03:00:00 +0100"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Bigflo et Oli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bigflo%20et%20Oli",
+        "title": "Miss belgie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Miss%20belgie",
         "pubdate": "Sat, 25 Feb 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Challenger Pro League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Challenger%20Pro%20League",
-        "pubdate": "Sat, 25 Feb 2023 00:00:00 +0100"
       }
     ]
   ]

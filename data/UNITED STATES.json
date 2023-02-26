@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "26-02-2023 , 01:59:11",
+  "lastUpdate": "26-02-2023 , 03:01:22",
   "data": [
+    [
+      {
+        "title": "Jake Paul vs Tommy Fury",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jake%20Paul%20vs%20Tommy%20Fury",
+        "pubdate": "Sat, 25 Feb 2023 12:00:00 -0800"
+      }
+    ],
     [
       {
         "title": "Real Madrid",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Jake Paul vs Tommy Fury",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jake%20Paul%20vs%20Tommy%20Fury",
-        "pubdate": "Sat, 25 Feb 2023 12:00:00 -0800"
+        "title": "Bournemouth vs Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bournemouth%20vs%20Man%20City",
+        "pubdate": "Sat, 25 Feb 2023 10:00:00 -0800"
       }
     ],
     [
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Byron Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Byron%20Jones",
-        "pubdate": "Sat, 25 Feb 2023 13:00:00 -0800"
+        "title": "Patrick Kane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Patrick%20Kane",
+        "pubdate": "Sat, 25 Feb 2023 17:00:00 -0800"
       }
     ],
     [
       {
-        "title": "Leeds United vs Southampton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Leeds%20United%20vs%20Southampton",
-        "pubdate": "Sat, 25 Feb 2023 09:00:00 -0800"
+        "title": "Byron Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Byron%20Jones",
+        "pubdate": "Sat, 25 Feb 2023 13:00:00 -0800"
       }
     ],
     [
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Day of Hate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Day%20of%20Hate",
-        "pubdate": "Sat, 25 Feb 2023 05:00:00 -0800"
+        "title": "Leeds United vs Southampton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Leeds%20United%20vs%20Southampton",
+        "pubdate": "Sat, 25 Feb 2023 09:00:00 -0800"
       }
     ],
     [
@@ -87,6 +94,20 @@
     ],
     [
       {
+        "title": "Mayweather fight",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mayweather%20fight",
+        "pubdate": "Sat, 25 Feb 2023 18:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Phillies",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Phillies",
+        "pubdate": "Sat, 25 Feb 2023 17:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Cocaine Bear",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cocaine%20Bear",
         "pubdate": "Fri, 24 Feb 2023 05:00:00 -0800"
@@ -101,20 +122,6 @@
     ],
     [
       {
-        "title": "Miami Heat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Miami%20Heat",
-        "pubdate": "Fri, 24 Feb 2023 18:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Sacramento Kings",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sacramento%20Kings",
-        "pubdate": "Fri, 24 Feb 2023 04:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "We Have a Ghost",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#We%20Have%20a%20Ghost",
         "pubdate": "Fri, 24 Feb 2023 14:00:00 -0800"
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Miami Heat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Miami%20Heat",
+        "pubdate": "Fri, 24 Feb 2023 18:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Golden State Warriors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Golden%20State%20Warriors",
         "pubdate": "Fri, 24 Feb 2023 08:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Bulls",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bulls",
-        "pubdate": "Fri, 24 Feb 2023 19:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Warriors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Warriors",
-        "pubdate": "Fri, 24 Feb 2023 00:00:00 -0800"
       }
     ]
   ]
