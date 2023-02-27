@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-02-2023 , 23:54:32",
+  "lastUpdate": "27-02-2023 , 01:44:07",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Gold Coast Airport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gold%20Coast%20Airport",
+        "pubdate": "Mon, 27 Feb 2023 10:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Woody Harrelson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Woody%20Harrelson",
         "pubdate": "Mon, 27 Feb 2023 08:00:00 +1100"
@@ -45,16 +52,16 @@
     ],
     [
       {
-        "title": "The Last of Us Episode 7",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Last%20of%20Us%20Episode%207",
+        "title": "The Last of Us episode 7",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Last%20of%20Us%20episode%207",
         "pubdate": "Mon, 27 Feb 2023 07:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Jake Paul vs Tommy Fury",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jake%20Paul%20vs%20Tommy%20Fury",
-        "pubdate": "Sun, 26 Feb 2023 07:00:00 +1100"
+        "title": "Badou Jack",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Badou%20Jack",
+        "pubdate": "Mon, 27 Feb 2023 11:00:00 +1100"
       }
     ],
     [
@@ -73,6 +80,13 @@
     ],
     [
       {
+        "title": "Tottenham vs Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tottenham%20vs%20Chelsea",
+        "pubdate": "Sun, 26 Feb 2023 13:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Crystal Palace vs Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Crystal%20Palace%20vs%20Liverpool",
         "pubdate": "Sun, 26 Feb 2023 05:00:00 +1100"
@@ -80,9 +94,9 @@
     ],
     [
       {
-        "title": "Tottenham vs Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tottenham%20vs%20Chelsea",
-        "pubdate": "Sun, 26 Feb 2023 13:00:00 +1100"
+        "title": "Al-Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Al-Nassr",
+        "pubdate": "Sun, 26 Feb 2023 11:00:00 +1100"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Daryl Braithwaite",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Daryl%20Braithwaite",
-        "pubdate": "Sun, 26 Feb 2023 12:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Cate Blanchett",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cate%20Blanchett",
         "pubdate": "Sun, 26 Feb 2023 20:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "PRIME MINISTER",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PRIME%20MINISTER",
-        "pubdate": "Sun, 26 Feb 2023 15:00:00 +1100"
       }
     ]
   ]

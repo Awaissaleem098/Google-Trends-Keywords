@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-02-2023 , 23:54:33",
+  "lastUpdate": "27-02-2023 , 01:44:08",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lakers",
+        "pubdate": "Sun, 26 Feb 2023 18:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Neil Young",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Neil%20Young",
         "pubdate": "Sun, 26 Feb 2023 00:00:00 -0500"
@@ -52,9 +59,23 @@
     ],
     [
       {
+        "title": "Timo Meier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Timo%20Meier",
+        "pubdate": "Sun, 26 Feb 2023 17:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Zach Dean",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Zach%20Dean",
         "pubdate": "Sun, 26 Feb 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "David Eby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#David%20Eby",
+        "pubdate": "Sun, 26 Feb 2023 02:00:00 -0500"
       }
     ],
     [
@@ -73,15 +94,22 @@
     ],
     [
       {
-        "title": "David Eby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#David%20Eby",
-        "pubdate": "Sun, 26 Feb 2023 02:00:00 -0500"
+        "title": "Fred VanVleet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Fred%20VanVleet",
+        "pubdate": "Sun, 26 Feb 2023 00:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Timo Meier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Timo%20Meier",
+        "title": "Zendaya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Zendaya",
+        "pubdate": "Sun, 26 Feb 2023 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Milan vs Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Milan%20vs%20Atalanta",
         "pubdate": "Sun, 26 Feb 2023 17:00:00 -0500"
       }
     ],
@@ -94,20 +122,6 @@
     ],
     [
       {
-        "title": "Zendaya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Zendaya",
-        "pubdate": "Sun, 26 Feb 2023 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Fred VanVleet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Fred%20VanVleet",
-        "pubdate": "Sun, 26 Feb 2023 00:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Jack White",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jack%20White",
         "pubdate": "Sun, 26 Feb 2023 02:00:00 -0500"
@@ -115,30 +129,16 @@
     ],
     [
       {
-        "title": "Milan vs Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Milan%20vs%20Atalanta",
-        "pubdate": "Sun, 26 Feb 2023 17:00:00 -0500"
+        "title": "Raptors vs Cavaliers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Raptors%20vs%20Cavaliers",
+        "pubdate": "Sun, 26 Feb 2023 19:00:00 -0500"
       }
     ],
     [
       {
-        "title": "FA Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#FA%20Cup",
-        "pubdate": "Sun, 26 Feb 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Floyd Mayweather",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Floyd%20Mayweather",
-        "pubdate": "Sun, 26 Feb 2023 03:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Patrick Kane trade",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Patrick%20Kane%20trade",
-        "pubdate": "Sun, 26 Feb 2023 03:00:00 -0500"
+        "title": "Maple Leafs vs Kraken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Maple%20Leafs%20vs%20Kraken",
+        "pubdate": "Sun, 26 Feb 2023 19:00:00 -0500"
       }
     ]
   ]
