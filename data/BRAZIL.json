@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-02-2023 , 01:44:08",
+  "lastUpdate": "27-02-2023 , 02:43:09",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Flamengo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo",
         "pubdate": "Sun, 26 Feb 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Bahia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bahia",
-        "pubdate": "Sun, 26 Feb 2023 12:00:00 -0500"
       }
     ],
     [
@@ -38,16 +31,9 @@
     ],
     [
       {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayern",
-        "pubdate": "Sun, 26 Feb 2023 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Inter de Milão",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inter%20de%20Mil%C3%A3o",
-        "pubdate": "Sun, 26 Feb 2023 09:00:00 -0500"
+        "title": "Portuguesa x são bento",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Portuguesa%20x%20s%C3%A3o%20bento",
+        "pubdate": "Sun, 26 Feb 2023 05:00:00 -0500"
       }
     ],
     [
@@ -59,9 +45,9 @@
     ],
     [
       {
-        "title": "Portuguesa x São Bento",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Portuguesa%20x%20S%C3%A3o%20Bento",
-        "pubdate": "Sun, 26 Feb 2023 05:00:00 -0500"
+        "title": "Inter de Milão",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inter%20de%20Mil%C3%A3o",
+        "pubdate": "Sun, 26 Feb 2023 09:00:00 -0500"
       }
     ],
     [
@@ -69,6 +55,13 @@
         "title": "Operário x Coritiba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Oper%C3%A1rio%20x%20Coritiba",
         "pubdate": "Sun, 26 Feb 2023 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Luisa Sonza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Luisa%20Sonza",
+        "pubdate": "Sun, 26 Feb 2023 17:00:00 -0500"
       }
     ],
     [
@@ -87,15 +80,22 @@
     ],
     [
       {
-        "title": "Luisa Sonza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Luisa%20Sonza",
-        "pubdate": "Sun, 26 Feb 2023 17:00:00 -0500"
+        "title": "Esporte clube bahia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Esporte%20clube%20bahia",
+        "pubdate": "Sun, 26 Feb 2023 15:00:00 -0500"
       }
     ],
     [
       {
         "title": "CSA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CSA",
+        "pubdate": "Sun, 26 Feb 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Athletico-PR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Athletico-PR",
         "pubdate": "Sun, 26 Feb 2023 14:00:00 -0500"
       }
     ],
@@ -108,9 +108,9 @@
     ],
     [
       {
-        "title": "Remo x Cametá",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Remo%20x%20Camet%C3%A1",
-        "pubdate": "Sun, 26 Feb 2023 15:00:00 -0500"
+        "title": "Jake Paul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jake%20Paul",
+        "pubdate": "Sun, 26 Feb 2023 17:00:00 -0500"
       }
     ],
     [
@@ -122,9 +122,16 @@
     ],
     [
       {
-        "title": "Palmeiras Feminino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Palmeiras%20Feminino",
-        "pubdate": "Sun, 26 Feb 2023 11:00:00 -0500"
+        "title": "Campinense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campinense",
+        "pubdate": "Sun, 26 Feb 2023 18:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Esporte clube Vitória",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Esporte%20clube%20Vit%C3%B3ria",
+        "pubdate": "Sun, 26 Feb 2023 16:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ajax",
         "pubdate": "Sun, 26 Feb 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Matheus Gonçalves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Matheus%20Gon%C3%A7alves",
-        "pubdate": "Sun, 26 Feb 2023 06:00:00 -0500"
       }
     ]
   ]

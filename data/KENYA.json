@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-02-2023 , 01:44:12",
+  "lastUpdate": "27-02-2023 , 02:43:13",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Victor Osimhen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Victor%20Osimhen",
-        "pubdate": "Sun, 26 Feb 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Antonio Conte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Antonio%20Conte",
         "pubdate": "Sun, 26 Feb 2023 19:00:00 +0300"
@@ -110,13 +103,6 @@
       {
         "title": "Valencia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Valencia",
-        "pubdate": "Sun, 26 Feb 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Lens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Lens",
         "pubdate": "Sun, 26 Feb 2023 00:00:00 +0300"
       }
     ],
@@ -139,6 +125,20 @@
         "title": "Bilbao",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bilbao",
         "pubdate": "Sun, 26 Feb 2023 17:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Alvaro Rodriguez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Alvaro%20Rodriguez",
+        "pubdate": "Sun, 26 Feb 2023 14:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Man United vs Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20United%20vs%20Newcastle",
+        "pubdate": "Sat, 25 Feb 2023 18:00:00 +0300"
       }
     ]
   ]

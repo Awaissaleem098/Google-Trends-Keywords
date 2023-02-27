@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "27-02-2023 , 01:44:14",
+  "lastUpdate": "27-02-2023 , 02:43:15",
   "data": [
+    [
+      {
+        "title": "Triângulo TVI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tri%C3%A2ngulo%20TVI",
+        "pubdate": "Mon, 27 Feb 2023 00:00:00 +0000"
+      }
+    ],
     [
       {
         "title": "Rio Ave",
@@ -10,9 +17,16 @@
     ],
     [
       {
-        "title": "Triângulo TVI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tri%C3%A2ngulo%20TVI",
-        "pubdate": "Mon, 27 Feb 2023 00:00:00 +0000"
+        "title": "Oeiras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Oeiras",
+        "pubdate": "Mon, 27 Feb 2023 01:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Besiktas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Besiktas",
+        "pubdate": "Mon, 27 Feb 2023 01:00:00 +0000"
       }
     ],
     [
@@ -38,13 +52,6 @@
     ],
     [
       {
-        "title": "Tommy Fury",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tommy%20Fury",
-        "pubdate": "Sun, 26 Feb 2023 03:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "P. Ferreira - Boavista",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#P.%20Ferreira%20-%20Boavista",
         "pubdate": "Sun, 26 Feb 2023 18:00:00 +0000"
@@ -55,13 +62,6 @@
         "title": "Almería  Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Almer%C3%ADa%20%20Barcelona",
         "pubdate": "Sun, 26 Feb 2023 17:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Gil Vicente futebol clube",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gil%20Vicente%20futebol%20clube",
-        "pubdate": "Sun, 26 Feb 2023 20:00:00 +0000"
       }
     ],
     [
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Palmeiras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Palmeiras",
-        "pubdate": "Sun, 26 Feb 2023 23:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Fernando Tordo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fernando%20Tordo",
         "pubdate": "Sun, 26 Feb 2023 00:00:00 +0000"
@@ -101,8 +94,22 @@
     ],
     [
       {
+        "title": "Palmeiras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Palmeiras",
+        "pubdate": "Sun, 26 Feb 2023 23:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liverpool",
+        "pubdate": "Sun, 26 Feb 2023 20:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Gil Vicente futebol clube",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gil%20Vicente%20futebol%20clube",
         "pubdate": "Sun, 26 Feb 2023 20:00:00 +0000"
       }
     ],
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Vila Nova de Foz Côa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vila%20Nova%20de%20Foz%20C%C3%B4a",
-        "pubdate": "Sun, 26 Feb 2023 15:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Manuel Luís Goucha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Manuel%20Lu%C3%ADs%20Goucha",
         "pubdate": "Sun, 26 Feb 2023 22:00:00 +0000"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Ice Merchants",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ice%20Merchants",
-        "pubdate": "Sun, 26 Feb 2023 14:00:00 +0000"
+        "title": "Vila Nova de Foz Côa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vila%20Nova%20de%20Foz%20C%C3%B4a",
+        "pubdate": "Sun, 26 Feb 2023 15:00:00 +0000"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-02-2023 , 01:44:10",
+  "lastUpdate": "27-02-2023 , 02:43:11",
   "data": [
     [
       {
@@ -12,13 +12,6 @@
       {
         "title": "Sylvie Meis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sylvie%20Meis",
-        "pubdate": "Sun, 26 Feb 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Hannover 96",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hannover%2096",
         "pubdate": "Sun, 26 Feb 2023 15:00:00 +0100"
       }
     ],
@@ -52,6 +45,13 @@
     ],
     [
       {
+        "title": "Laura Wontorra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Laura%20Wontorra",
+        "pubdate": "Sun, 26 Feb 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Chelsea",
         "pubdate": "Sun, 26 Feb 2023 22:00:00 +0100"
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Newcastle United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Newcastle%20United",
-        "pubdate": "Sun, 26 Feb 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Bayern gegen Union Berlin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20gegen%20Union%20Berlin",
         "pubdate": "Sat, 25 Feb 2023 21:00:00 +0100"
@@ -110,7 +103,7 @@
       {
         "title": "Planica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Planica",
-        "pubdate": "Sat, 25 Feb 2023 16:00:00 +0100"
+        "pubdate": "Sat, 25 Feb 2023 21:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Hertha BSC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
         "pubdate": "Sat, 25 Feb 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Einspruch gegen Grundsteuerbescheid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Einspruch%20gegen%20Grundsteuerbescheid",
+        "pubdate": "Sat, 25 Feb 2023 14:00:00 +0100"
       }
     ]
   ]

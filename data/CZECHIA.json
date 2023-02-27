@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-02-2023 , 01:44:09",
+  "lastUpdate": "27-02-2023 , 02:43:10",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Almería – Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Almer%C3%ADa%20%E2%80%93%20Barcelona",
-        "pubdate": "Sun, 26 Feb 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Tottenham – Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tottenham%20%E2%80%93%20Chelsea",
         "pubdate": "Sun, 26 Feb 2023 14:00:00 +0100"
@@ -87,16 +80,16 @@
     ],
     [
       {
-        "title": "Transformers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Transformers",
-        "pubdate": "Sun, 26 Feb 2023 17:00:00 +0100"
+        "title": "Nokia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nokia",
+        "pubdate": "Sun, 26 Feb 2023 19:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Nokia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nokia",
-        "pubdate": "Sun, 26 Feb 2023 19:00:00 +0100"
+        "title": "Transformers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Transformers",
+        "pubdate": "Sun, 26 Feb 2023 17:00:00 +0100"
       }
     ],
     [
@@ -111,13 +104,6 @@
         "title": "FC Baník Ostrava",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#FC%20Ban%C3%ADk%20Ostrava",
         "pubdate": "Sun, 26 Feb 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "AC Milán – Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#AC%20Mil%C3%A1n%20%E2%80%93%20Atalanta",
-        "pubdate": "Sun, 26 Feb 2023 23:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Freddie Mercury",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Freddie%20Mercury",
         "pubdate": "Sat, 25 Feb 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jake Paul vs Tommy Fury",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jake%20Paul%20vs%20Tommy%20Fury",
+        "pubdate": "Sat, 25 Feb 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Juraj Jakubisko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Juraj%20Jakubisko",
+        "pubdate": "Sat, 25 Feb 2023 07:00:00 +0100"
       }
     ]
   ]

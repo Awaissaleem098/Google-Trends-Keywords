@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "27-02-2023 , 01:44:16",
+  "lastUpdate": "27-02-2023 , 02:43:17",
   "data": [
     [
       {
         "title": "Timo Meier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Timo%20Meier",
-        "pubdate": "Mon, 27 Feb 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Alexander Steen Olsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alexander%20Steen%20Olsen",
         "pubdate": "Mon, 27 Feb 2023 00:00:00 +0100"
       }
     ],
@@ -34,6 +27,13 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20United",
         "pubdate": "Sun, 26 Feb 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Palisades Tahoe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Palisades%20Tahoe",
+        "pubdate": "Sun, 26 Feb 2023 05:00:00 +0100"
       }
     ],
     [
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "OM-PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#OM-PSG",
+        "pubdate": "Sun, 26 Feb 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Sylvie Meis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sylvie%20Meis",
         "pubdate": "Sun, 26 Feb 2023 17:00:00 +0100"
@@ -87,30 +94,9 @@
     ],
     [
       {
-        "title": "Marseille PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marseille%20PSG",
-        "pubdate": "Sun, 26 Feb 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Freiburg gegen Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Freiburg%20gegen%20Leverkusen",
         "pubdate": "Sun, 26 Feb 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Humoriste Pierre Palmade",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Humoriste%20Pierre%20Palmade",
-        "pubdate": "Sun, 26 Feb 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "OM-PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#OM-PSG",
-        "pubdate": "Sun, 26 Feb 2023 19:00:00 +0100"
       }
     ],
     [
@@ -129,6 +115,13 @@
     ],
     [
       {
+        "title": "Humoriste Pierre Palmade",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Humoriste%20Pierre%20Palmade",
+        "pubdate": "Sun, 26 Feb 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "FC Aarau",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Aarau",
         "pubdate": "Sun, 26 Feb 2023 15:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Fanny Smith",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fanny%20Smith",
         "pubdate": "Sun, 26 Feb 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "PSG Marseille",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PSG%20Marseille",
+        "pubdate": "Sun, 26 Feb 2023 21:00:00 +0100"
       }
     ]
   ]

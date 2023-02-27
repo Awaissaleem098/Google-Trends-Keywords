@@ -1,1 +1,1 @@
-Kick,John Fury,Man Utd  Newcastle,Tottenham  Chelsea,Madonna,Almería  Barcelona,Marseille  PSG,Loris Karius,Loreen,El Salvador,Bayern  Union Berlin,Adele,Taj Mahal,John Schneider,Milan - Atalanta,Jake Paul vs Tommy Fury,Abby Choi,Real Madrid,Cate Blanchett,Crystal Palace  Liverpool
+Kick,John Fury,Man Utd  Newcastle,Tottenham  Chelsea,Madonna,Almería  Barcelona,Loris Karius,Marseille  PSG,Loreen,El Salvador,Bayern  Union Berlin,Adele,Wembley Stadium,Milan  Atalanta,Taj Mahal,John Schneider,Jake Paul vs Tommy Fury,Abby Choi,Real Madrid,Cate Blanchett
