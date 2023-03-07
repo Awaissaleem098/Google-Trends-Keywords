@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-03-2023 , 01:58:46",
+  "lastUpdate": "07-03-2023 , 03:03:26",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "Ivana hlouzkova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ivana%20hlouzkova",
-        "pubdate": "Mon, 06 Mar 2023 16:00:00 +0100"
+        "title": "Ivana Hloužková",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ivana%20Hlou%C5%BEkov%C3%A1",
+        "pubdate": "Mon, 06 Mar 2023 14:00:00 +0100"
       }
     ],
     [
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Rodinný dům",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rodinn%C3%BD%20d%C5%AFm",
-        "pubdate": "Mon, 06 Mar 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Nela Slováková",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nela%20Slov%C3%A1kov%C3%A1",
         "pubdate": "Mon, 06 Mar 2023 17:00:00 +0100"
@@ -94,16 +87,16 @@
     ],
     [
       {
-        "title": "Křetínský",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#K%C5%99et%C3%ADnsk%C3%BD",
-        "pubdate": "Mon, 06 Mar 2023 21:00:00 +0100"
+        "title": "Rodinný dům",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rodinn%C3%BD%20d%C5%AFm",
+        "pubdate": "Mon, 06 Mar 2023 09:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Bílí Tygři Liberec",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#B%C3%ADl%C3%AD%20Tyg%C5%99i%20Liberec",
-        "pubdate": "Mon, 06 Mar 2023 09:00:00 +0100"
+        "title": "Křetínský",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#K%C5%99et%C3%ADnsk%C3%BD",
+        "pubdate": "Mon, 06 Mar 2023 21:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Alonso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Alonso",
         "pubdate": "Sun, 05 Mar 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Freeze Dry Company",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Freeze%20Dry%20Company",
+        "pubdate": "Sun, 05 Mar 2023 10:00:00 +0100"
       }
     ]
   ]

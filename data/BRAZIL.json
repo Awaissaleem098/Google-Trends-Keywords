@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-03-2023 , 01:58:45",
+  "lastUpdate": "07-03-2023 , 03:03:25",
   "data": [
     [
       {
@@ -45,23 +45,30 @@
     ],
     [
       {
-        "title": "Osasuna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Osasuna",
-        "pubdate": "Mon, 06 Mar 2023 11:00:00 -0500"
+        "title": "Neymar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Neymar",
+        "pubdate": "Mon, 06 Mar 2023 21:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Dia das Mulheres",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20das%20Mulheres",
-        "pubdate": "Mon, 06 Mar 2023 09:00:00 -0500"
+        "title": "Boca Juniors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Boca%20Juniors",
+        "pubdate": "Mon, 06 Mar 2023 12:00:00 -0500"
       }
     ],
     [
       {
         "title": "Auxílio Brasil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Aux%C3%ADlio%20Brasil",
-        "pubdate": "Mon, 06 Mar 2023 14:00:00 -0500"
+        "pubdate": "Mon, 06 Mar 2023 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Osasuna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Osasuna",
+        "pubdate": "Mon, 06 Mar 2023 11:00:00 -0500"
       }
     ],
     [
@@ -80,16 +87,9 @@
     ],
     [
       {
-        "title": "Boca Juniors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Boca%20Juniors",
-        "pubdate": "Mon, 06 Mar 2023 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Richarlison",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Richarlison",
-        "pubdate": "Mon, 06 Mar 2023 03:00:00 -0500"
+        "title": "Dia das Mulheres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20das%20Mulheres",
+        "pubdate": "Mon, 06 Mar 2023 09:00:00 -0500"
       }
     ],
     [
@@ -97,6 +97,20 @@
         "title": "Chorão",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chor%C3%A3o",
         "pubdate": "Mon, 06 Mar 2023 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Borussia x Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Borussia%20x%20Chelsea",
+        "pubdate": "Mon, 06 Mar 2023 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Richarlison",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Richarlison",
+        "pubdate": "Mon, 06 Mar 2023 03:00:00 -0500"
       }
     ],
     [
@@ -115,20 +129,6 @@
     ],
     [
       {
-        "title": "Al Hilal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al%20Hilal",
-        "pubdate": "Mon, 06 Mar 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Pipokinha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Pipokinha",
-        "pubdate": "Mon, 06 Mar 2023 06:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "8 de março",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#8%20de%20mar%C3%A7o",
         "pubdate": "Mon, 06 Mar 2023 09:00:00 -0500"
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Uma Prova de Amor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Uma%20Prova%20de%20Amor",
+        "title": "Benfica x Club Brugge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Benfica%20x%20Club%20Brugge",
         "pubdate": "Mon, 06 Mar 2023 14:00:00 -0500"
       }
     ]
