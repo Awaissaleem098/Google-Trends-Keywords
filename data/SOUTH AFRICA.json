@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-03-2023 , 11:57:36",
+  "lastUpdate": "09-03-2023 , 15:07:39",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Australia vs India",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Australia%20vs%20India",
+        "title": "Aus vs Ind",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Aus%20vs%20Ind",
         "pubdate": "Thu, 09 Mar 2023 08:00:00 +0200"
       }
     ],
@@ -27,6 +27,20 @@
         "title": "Where is Cyclone Freddy now",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Where%20is%20Cyclone%20Freddy%20now",
         "pubdate": "Thu, 09 Mar 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "UEFA Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UEFA%20Europa%20League",
+        "pubdate": "Thu, 09 Mar 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "England vs Bangladesh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#England%20vs%20Bangladesh",
+        "pubdate": "Thu, 09 Mar 2023 13:00:00 +0200"
       }
     ],
     [
@@ -59,9 +73,23 @@
     ],
     [
       {
+        "title": "Bayern vs PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bayern%20vs%20PSG",
+        "pubdate": "Wed, 08 Mar 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Europa%20League",
         "pubdate": "Wed, 08 Mar 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "CAF Confederation Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#CAF%20Confederation%20Cup",
+        "pubdate": "Wed, 08 Mar 2023 15:00:00 +0200"
       }
     ],
     [
@@ -73,23 +101,16 @@
     ],
     [
       {
-        "title": "International Men's Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#International%20Men's%20Day",
-        "pubdate": "Wed, 08 Mar 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rivers United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rivers%20United",
-        "pubdate": "Wed, 08 Mar 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Boyz to Men",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Boyz%20to%20Men",
         "pubdate": "Wed, 08 Mar 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "International Men's Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#International%20Men's%20Day",
+        "pubdate": "Wed, 08 Mar 2023 08:00:00 +0200"
       }
     ],
     [
@@ -111,27 +132,6 @@
         "title": "Bona Mugabe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bona%20Mugabe",
         "pubdate": "Wed, 08 Mar 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "CAF Confederation Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#CAF%20Confederation%20Cup",
-        "pubdate": "Wed, 08 Mar 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Marumo Gallants",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Marumo%20Gallants",
-        "pubdate": "Wed, 08 Mar 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hibernian vs Rangers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Hibernian%20vs%20Rangers",
-        "pubdate": "Wed, 08 Mar 2023 20:00:00 +0200"
       }
     ],
     [

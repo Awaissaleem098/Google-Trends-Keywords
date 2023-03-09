@@ -1,1 +1,1 @@
-Bochkor Gábor,Sziklakórház,Dallas,Cara Delevingne,Bayern münchen–psg,Tottenham–milan,Schadl György,Virágcsokor,Leverkusen,Bank,Korda György,Pihenőidő,Oroszország,Nemzeti Adó- és Vámhivatal,Tottenham-Milan,Dér Heni,Matolcsy György,Anna,Azálea,Pau Gasol
+Sziklakórház,Bíróság,Hosszú Katinka,Cara Delevingne,Dallas,Topol,Szoboszlai,Bayern münchen–psg,Tottenham–milan,Leverkusen,Gulyás Gergely,Schadl György,Virágcsokor,Bank,Korda György,Pihenőidő,Tottenham,Oroszország,Nemzeti Adó- és Vámhivatal,Dér Heni

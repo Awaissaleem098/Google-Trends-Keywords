@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-03-2023 , 11:57:28",
+  "lastUpdate": "09-03-2023 , 15:07:29",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "L'Équipe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#L'%C3%89quipe",
+        "title": "L'équipe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#L'%C3%A9quipe",
         "pubdate": "Thu, 09 Mar 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Villarreal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Villarreal",
+        "pubdate": "Thu, 09 Mar 2023 11:00:00 +0100"
       }
     ],
     [
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Cara Delevingne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cara%20Delevingne",
+        "pubdate": "Thu, 09 Mar 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Domenico Tedesco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Domenico%20Tedesco",
         "pubdate": "Thu, 09 Mar 2023 07:00:00 +0100"
@@ -38,9 +52,9 @@
     ],
     [
       {
-        "title": "Anderlecht - Villarreal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht%20-%20Villarreal",
-        "pubdate": "Thu, 09 Mar 2023 11:00:00 +0100"
+        "title": "Match PSG Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Match%20PSG%20Bayern",
+        "pubdate": "Thu, 09 Mar 2023 10:00:00 +0100"
       }
     ],
     [
@@ -80,13 +94,6 @@
     ],
     [
       {
-        "title": "Journee de la femme",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Journee%20de%20la%20femme",
-        "pubdate": "Wed, 08 Mar 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Attentat Bruxelles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Attentat%20Bruxelles",
         "pubdate": "Wed, 08 Mar 2023 01:00:00 +0100"
@@ -101,9 +108,23 @@
     ],
     [
       {
-        "title": "Women's Day!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Women's%20Day!",
+        "title": "Journee de la femme",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Journee%20de%20la%20femme",
+        "pubdate": "Wed, 08 Mar 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Women's Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Women's%20Day",
         "pubdate": "Wed, 08 Mar 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Happy Women's Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Happy%20Women's%20Day",
+        "pubdate": "Wed, 08 Mar 2023 09:00:00 +0100"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Europa%20League",
-        "pubdate": "Wed, 08 Mar 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "8 mars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#8%20mars",
-        "pubdate": "Wed, 08 Mar 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Charles III",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Charles%20III",
         "pubdate": "Wed, 08 Mar 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "La Loge des Gardes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#La%20Loge%20des%20Gardes",
-        "pubdate": "Wed, 08 Mar 2023 17:00:00 +0100"
       }
     ]
   ]
