@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "10-03-2023 , 23:52:10",
+  "lastUpdate": "11-03-2023 , 01:05:21",
   "data": [
+    [
+      {
+        "title": "DJ Moore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#DJ%20Moore",
+        "pubdate": "Fri, 10 Mar 2023 15:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Mario movie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mario%20movie",
+        "pubdate": "Fri, 10 Mar 2023 00:00:00 -0800"
+      }
+    ],
     [
       {
         "title": "Miley Cyrus",
@@ -24,50 +38,15 @@
     ],
     [
       {
-        "title": "Mario movie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mario%20movie",
-        "pubdate": "Fri, 10 Mar 2023 05:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Knicks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Knicks",
-        "pubdate": "Fri, 10 Mar 2023 06:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Super Mario Movie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Super%20Mario%20Movie",
-        "pubdate": "Fri, 10 Mar 2023 00:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Sacramento Kings",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sacramento%20Kings",
-        "pubdate": "Fri, 10 Mar 2023 09:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Memphis Grizzlies",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Memphis%20Grizzlies",
-        "pubdate": "Fri, 10 Mar 2023 05:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Stock Market Today",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Stock%20Market%20Today",
+        "title": "Michigan State basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Michigan%20State%20basketball",
         "pubdate": "Fri, 10 Mar 2023 12:00:00 -0800"
       }
     ],
     [
       {
-        "title": "Michigan State basketball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Michigan%20State%20basketball",
+        "title": "Stock market today",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Stock%20market%20today",
         "pubdate": "Fri, 10 Mar 2023 12:00:00 -0800"
       }
     ],
@@ -101,23 +80,16 @@
     ],
     [
       {
-        "title": "Kentucky basketball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kentucky%20basketball",
-        "pubdate": "Fri, 10 Mar 2023 12:00:00 -0800"
+        "title": "Robert Blake death",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Robert%20Blake%20death",
+        "pubdate": "Fri, 10 Mar 2023 16:00:00 -0800"
       }
     ],
     [
       {
-        "title": "Jobs report",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jobs%20report",
-        "pubdate": "Fri, 10 Mar 2023 11:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Seth Rogen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Seth%20Rogen",
-        "pubdate": "Fri, 10 Mar 2023 03:00:00 -0800"
+        "title": "Gary Lineker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Gary%20Lineker",
+        "pubdate": "Fri, 10 Mar 2023 16:00:00 -0800"
       }
     ],
     [
@@ -138,6 +110,34 @@
       {
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Europa%20League",
+        "pubdate": "Thu, 09 Mar 2023 08:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Bill Self",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bill%20Self",
+        "pubdate": "Thu, 09 Mar 2023 09:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Kevin Durant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kevin%20Durant",
+        "pubdate": "Thu, 09 Mar 2023 16:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Jennifer Lawrence",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jennifer%20Lawrence",
+        "pubdate": "Thu, 09 Mar 2023 16:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Players Championship",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Players%20Championship",
         "pubdate": "Thu, 09 Mar 2023 08:00:00 -0800"
       }
     ]

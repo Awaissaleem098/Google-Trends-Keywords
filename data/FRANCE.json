@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "10-03-2023 , 23:52:14",
+  "lastUpdate": "11-03-2023 , 01:05:24",
   "data": [
+    [
+      {
+        "title": "Gad Elmaleh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gad%20Elmaleh",
+        "pubdate": "Sat, 11 Mar 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Artus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Artus",
+        "pubdate": "Sat, 11 Mar 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Chuck Norris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Chuck%20Norris",
+        "pubdate": "Sat, 11 Mar 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Karin Viard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Karin%20Viard",
+        "pubdate": "Sat, 11 Mar 2023 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Gerard Lenorman",
@@ -45,6 +73,13 @@
     ],
     [
       {
+        "title": "Louane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Louane",
+        "pubdate": "Fri, 10 Mar 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Pierre Palmade Muriel Robin accident",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pierre%20Palmade%20Muriel%20Robin%20accident",
         "pubdate": "Fri, 10 Mar 2023 00:00:00 +0100"
@@ -66,9 +101,9 @@
     ],
     [
       {
-        "title": "Louane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Louane",
-        "pubdate": "Fri, 10 Mar 2023 21:00:00 +0100"
+        "title": "Miley Cyrus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Miley%20Cyrus",
+        "pubdate": "Fri, 10 Mar 2023 17:00:00 +0100"
       }
     ],
     [
@@ -76,13 +111,6 @@
         "title": "Veronique jannot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Veronique%20jannot",
         "pubdate": "Fri, 10 Mar 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Miley Cyrus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Miley%20Cyrus",
-        "pubdate": "Fri, 10 Mar 2023 21:00:00 +0100"
       }
     ],
     [
@@ -101,16 +129,9 @@
     ],
     [
       {
-        "title": "France-Angleterre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#France-Angleterre",
+        "title": "France Angleterre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#France%20Angleterre",
         "pubdate": "Fri, 10 Mar 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Claude François",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Claude%20Fran%C3%A7ois",
-        "pubdate": "Fri, 10 Mar 2023 13:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Kate Middleton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kate%20Middleton",
         "pubdate": "Fri, 10 Mar 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Silicon Valley Bank",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Silicon%20Valley%20Bank",
-        "pubdate": "Fri, 10 Mar 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Roland Castro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Roland%20Castro",
-        "pubdate": "Fri, 10 Mar 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Rishi Sunak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rishi%20Sunak",
-        "pubdate": "Fri, 10 Mar 2023 16:00:00 +0100"
       }
     ]
   ]

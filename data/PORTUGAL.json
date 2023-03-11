@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "10-03-2023 , 23:52:18",
+  "lastUpdate": "11-03-2023 , 01:05:29",
   "data": [
+    [
+      {
+        "title": "Tony Carreira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tony%20Carreira",
+        "pubdate": "Sat, 11 Mar 2023 00:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "CPLP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#CPLP",
+        "pubdate": "Sat, 11 Mar 2023 00:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Pepe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pepe",
+        "pubdate": "Sat, 11 Mar 2023 00:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Sporting vs Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting%20vs%20Arsenal",
+        "pubdate": "Fri, 10 Mar 2023 01:00:00 +0000"
+      }
+    ],
     [
       {
         "title": "Bruno de Carvalho",
@@ -24,9 +52,9 @@
     ],
     [
       {
-        "title": "Gonçalo Ramos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gon%C3%A7alo%20Ramos",
-        "pubdate": "Fri, 10 Mar 2023 14:00:00 +0000"
+        "title": "Jogos de f.c.porto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jogos%20de%20f.c.porto",
+        "pubdate": "Fri, 10 Mar 2023 22:00:00 +0000"
       }
     ],
     [
@@ -38,9 +66,16 @@
     ],
     [
       {
-        "title": "Endless Summer Vacation",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Endless%20Summer%20Vacation",
-        "pubdate": "Fri, 10 Mar 2023 04:00:00 +0000"
+        "title": "Gonçalo Ramos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gon%C3%A7alo%20Ramos",
+        "pubdate": "Fri, 10 Mar 2023 14:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Spezia  Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Spezia%20%20Inter",
+        "pubdate": "Fri, 10 Mar 2023 20:00:00 +0000"
       }
     ],
     [
@@ -52,9 +87,9 @@
     ],
     [
       {
-        "title": "Spezia  Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Spezia%20%20Inter",
-        "pubdate": "Fri, 10 Mar 2023 20:00:00 +0000"
+        "title": "Endless Summer Vacation",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Endless%20Summer%20Vacation",
+        "pubdate": "Fri, 10 Mar 2023 04:00:00 +0000"
       }
     ],
     [
@@ -87,13 +122,6 @@
     ],
     [
       {
-        "title": "Fortnite",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fortnite",
-        "pubdate": "Fri, 10 Mar 2023 13:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Aguas do Porto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Aguas%20do%20Porto",
         "pubdate": "Fri, 10 Mar 2023 20:00:00 +0000"
@@ -101,44 +129,16 @@
     ],
     [
       {
+        "title": "Titanic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Titanic",
+        "pubdate": "Fri, 10 Mar 2023 23:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Robert Blake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Robert%20Blake",
         "pubdate": "Fri, 10 Mar 2023 10:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Guerra ucrania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Guerra%20ucrania",
-        "pubdate": "Fri, 10 Mar 2023 17:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Grace Van Dien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Grace%20Van%20Dien",
-        "pubdate": "Fri, 10 Mar 2023 01:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Rally Serras de Fafe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rally%20Serras%20de%20Fafe",
-        "pubdate": "Fri, 10 Mar 2023 14:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Gary Lineker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gary%20Lineker",
-        "pubdate": "Fri, 10 Mar 2023 20:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Felipe Neto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Felipe%20Neto",
-        "pubdate": "Fri, 10 Mar 2023 00:00:00 +0000"
       }
     ]
   ]

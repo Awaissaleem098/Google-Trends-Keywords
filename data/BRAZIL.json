@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "10-03-2023 , 23:52:12",
+  "lastUpdate": "11-03-2023 , 01:05:22",
   "data": [
+    [
+      {
+        "title": "Quem ganhou a Prova do Líder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Quem%20ganhou%20a%20Prova%20do%20L%C3%ADder",
+        "pubdate": "Fri, 10 Mar 2023 00:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Inter de Milão",
@@ -13,6 +20,20 @@
         "title": "Lille",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lille",
         "pubdate": "Fri, 10 Mar 2023 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Coldplay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Coldplay",
+        "pubdate": "Fri, 10 Mar 2023 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Porto x Estoril",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Porto%20x%20Estoril",
+        "pubdate": "Fri, 10 Mar 2023 08:00:00 -0500"
       }
     ],
     [
@@ -31,13 +52,6 @@
     ],
     [
       {
-        "title": "Porto x Estoril",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Porto%20x%20Estoril",
-        "pubdate": "Fri, 10 Mar 2023 08:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Porto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Porto",
         "pubdate": "Fri, 10 Mar 2023 08:00:00 -0500"
@@ -45,9 +59,9 @@
     ],
     [
       {
-        "title": "Endless Summer Vacation",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Endless%20Summer%20Vacation",
-        "pubdate": "Fri, 10 Mar 2023 00:00:00 -0500"
+        "title": "Palmeiras x São Bernardo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Palmeiras%20x%20S%C3%A3o%20Bernardo",
+        "pubdate": "Fri, 10 Mar 2023 19:00:00 -0500"
       }
     ],
     [
@@ -59,23 +73,30 @@
     ],
     [
       {
+        "title": "Endless Summer Vacation",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Endless%20Summer%20Vacation",
+        "pubdate": "Fri, 10 Mar 2023 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Cadiz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cadiz",
+        "pubdate": "Fri, 10 Mar 2023 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Luther: O Cair da Noite",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Luther:%20O%20Cair%20da%20Noite",
+        "pubdate": "Fri, 10 Mar 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "MGLU3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#MGLU3",
         "pubdate": "Fri, 10 Mar 2023 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Show Coldplay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Show%20Coldplay",
-        "pubdate": "Fri, 10 Mar 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Getafe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Getafe",
-        "pubdate": "Fri, 10 Mar 2023 11:00:00 -0500"
       }
     ],
     [
@@ -87,30 +108,9 @@
     ],
     [
       {
-        "title": "Jennifer Lawrence",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jennifer%20Lawrence",
-        "pubdate": "Fri, 10 Mar 2023 07:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Cruzeiro x América-MG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cruzeiro%20x%20Am%C3%A9rica-MG",
-        "pubdate": "Fri, 10 Mar 2023 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Padre Douglas Ferreira Leite",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Padre%20Douglas%20Ferreira%20Leite",
-        "pubdate": "Fri, 10 Mar 2023 07:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Bochum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bochum",
-        "pubdate": "Fri, 10 Mar 2023 15:00:00 -0500"
+        "title": "Tiroteio em igreja na Alemanha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tiroteio%20em%20igreja%20na%20Alemanha",
+        "pubdate": "Fri, 10 Mar 2023 10:00:00 -0500"
       }
     ],
     [
@@ -122,23 +122,23 @@
     ],
     [
       {
-        "title": "Grace Van Dien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Grace%20Van%20Dien",
-        "pubdate": "Fri, 10 Mar 2023 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Empresa Brasileira de Serviços Hospitalares",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Empresa%20Brasileira%20de%20Servi%C3%A7os%20Hospitalares",
-        "pubdate": "Fri, 10 Mar 2023 07:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Silicon Valley Bank",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Silicon%20Valley%20Bank",
         "pubdate": "Fri, 10 Mar 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Humberto Martins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Humberto%20Martins",
+        "pubdate": "Fri, 10 Mar 2023 12:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Jennifer Lawrence",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jennifer%20Lawrence",
+        "pubdate": "Fri, 10 Mar 2023 07:00:00 -0500"
       }
     ]
   ]
