@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "12-03-2023 , 07:52:37",
+  "lastUpdate": "12-03-2023 , 08:17:27",
   "data": [
     [
       {
         "title": "Marco Mengoni",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Marco%20Mengoni",
         "pubdate": "Sun, 12 Mar 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Piero Chiambretti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Piero%20Chiambretti",
+        "pubdate": "Sun, 12 Mar 2023 05:00:00 +0100"
       }
     ],
     [
@@ -27,6 +34,13 @@
         "title": "Italia-Galles Rugby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Italia-Galles%20Rugby",
         "pubdate": "Sat, 11 Mar 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Berrettini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Berrettini",
+        "pubdate": "Sat, 11 Mar 2023 15:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Nino D'Angelo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nino%20D'Angelo",
         "pubdate": "Sat, 11 Mar 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Robert Duvall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Robert%20Duvall",
-        "pubdate": "Sat, 11 Mar 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Galatasaray",
-        "pubdate": "Sat, 11 Mar 2023 20:00:00 +0100"
       }
     ]
   ]
