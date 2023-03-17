@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "16-03-2023 , 23:51:54",
+  "lastUpdate": "17-03-2023 , 01:09:01",
   "data": [
+    [
+      {
+        "title": "Arsenal Sporting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Arsenal%20Sporting",
+        "pubdate": "Fri, 17 Mar 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Freiburg gegen Juventus",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "EZB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#EZB",
-        "pubdate": "Thu, 16 Mar 2023 13:00:00 +0100"
+        "title": "Geld",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Geld",
+        "pubdate": "Thu, 16 Mar 2023 09:00:00 +0100"
       }
     ],
     [
@@ -24,9 +31,30 @@
     ],
     [
       {
+        "title": "Robbie Williams Wien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Robbie%20Williams%20Wien",
+        "pubdate": "Thu, 16 Mar 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Union Saint-Gilloise gegen Union Berlin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Union%20Saint-Gilloise%20gegen%20Union%20Berlin",
         "pubdate": "Thu, 16 Mar 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "EZB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#EZB",
+        "pubdate": "Thu, 16 Mar 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Johanna Mikl-Leitner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Johanna%20Mikl-Leitner",
+        "pubdate": "Thu, 16 Mar 2023 07:00:00 +0100"
       }
     ],
     [
@@ -41,13 +69,6 @@
         "title": "Wladimir Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wladimir%20Putin",
         "pubdate": "Thu, 16 Mar 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ryan Reynolds",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ryan%20Reynolds",
-        "pubdate": "Thu, 16 Mar 2023 13:00:00 +0100"
       }
     ],
     [
@@ -80,9 +101,9 @@
     ],
     [
       {
-        "title": "Marco Odermatt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Marco%20Odermatt",
-        "pubdate": "Thu, 16 Mar 2023 13:00:00 +0100"
+        "title": "Alessandra Ambrosio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alessandra%20Ambrosio",
+        "pubdate": "Thu, 16 Mar 2023 23:00:00 +0100"
       }
     ],
     [
@@ -94,6 +115,20 @@
     ],
     [
       {
+        "title": "Marco Odermatt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Marco%20Odermatt",
+        "pubdate": "Thu, 16 Mar 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ryan Reynolds",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ryan%20Reynolds",
+        "pubdate": "Thu, 16 Mar 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Schüler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sch%C3%BCler",
         "pubdate": "Thu, 16 Mar 2023 09:00:00 +0100"
@@ -101,44 +136,9 @@
     ],
     [
       {
-        "title": "Pantheon Rom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Pantheon%20Rom",
-        "pubdate": "Thu, 16 Mar 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Banksy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Banksy",
         "pubdate": "Thu, 16 Mar 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Alessandra Ambrosio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alessandra%20Ambrosio",
-        "pubdate": "Thu, 16 Mar 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Borussia Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Borussia%20Dortmund",
-        "pubdate": "Thu, 16 Mar 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Alessandro Hämmerle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alessandro%20H%C3%A4mmerle",
-        "pubdate": "Thu, 16 Mar 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Michael Schumacher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Michael%20Schumacher",
-        "pubdate": "Thu, 16 Mar 2023 21:00:00 +0100"
       }
     ]
   ]

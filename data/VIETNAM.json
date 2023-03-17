@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "16-03-2023 , 23:52:04",
+  "lastUpdate": "17-03-2023 , 01:09:12",
   "data": [
-    [
-      {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Juventus",
-        "pubdate": "Fri, 17 Mar 2023 01:00:00 +0700"
-      }
-    ],
     [
       {
         "title": "Gia đình mình vui bất thình lình tập 3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Gia%20%C4%91%C3%ACnh%20m%C3%ACnh%20vui%20b%E1%BA%A5t%20th%C3%ACnh%20l%C3%ACnh%20t%E1%BA%ADp%203",
         "pubdate": "Fri, 17 Mar 2023 00:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Lazio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Lazio",
+        "pubdate": "Fri, 17 Mar 2023 03:00:00 +0700"
       }
     ],
     [
@@ -31,8 +31,8 @@
     ],
     [
       {
-        "title": "Betis đấu với Man Utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Betis%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Man%20Utd",
+        "title": "Betis – Man Utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Betis%20%E2%80%93%20Man%20Utd",
         "pubdate": "Thu, 16 Mar 2023 02:00:00 +0700"
       }
     ],
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Cán bộ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#C%C3%A1n%20b%E1%BB%99",
+        "pubdate": "Thu, 16 Mar 2023 09:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Brentford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Brentford",
         "pubdate": "Thu, 16 Mar 2023 01:00:00 +0700"
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Hoà Minzy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ho%C3%A0%20Minzy",
-        "pubdate": "Thu, 16 Mar 2023 16:00:00 +0700"
+        "title": "Tứ kết c1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#T%E1%BB%A9%20k%E1%BA%BFt%20c1",
+        "pubdate": "Thu, 16 Mar 2023 17:00:00 +0700"
       }
     ],
     [
@@ -76,6 +83,13 @@
         "title": "Nguyễn Văn Nghĩa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Nguy%E1%BB%85n%20V%C4%83n%20Ngh%C4%A9a",
         "pubdate": "Thu, 16 Mar 2023 21:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Hoà Minzy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ho%C3%A0%20Minzy",
+        "pubdate": "Thu, 16 Mar 2023 16:00:00 +0700"
       }
     ],
     [
@@ -101,6 +115,13 @@
     ],
     [
       {
+        "title": "Realme C55",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Realme%20C55",
+        "pubdate": "Thu, 16 Mar 2023 22:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Osimhen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Osimhen",
         "pubdate": "Thu, 16 Mar 2023 15:00:00 +0700"
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Realme C55",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Realme%20C55",
-        "pubdate": "Thu, 16 Mar 2023 22:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Tứ kết C1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#T%E1%BB%A9%20k%E1%BA%BFt%20C1",
-        "pubdate": "Thu, 16 Mar 2023 17:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "NSND Diệp Lang",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#NSND%20Di%E1%BB%87p%20Lang",
         "pubdate": "Thu, 16 Mar 2023 22:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Cristiano Ronaldo Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Cristiano%20Ronaldo%20Al%20Nassr",
-        "pubdate": "Thu, 16 Mar 2023 09:00:00 +0700"
       }
     ]
   ]
