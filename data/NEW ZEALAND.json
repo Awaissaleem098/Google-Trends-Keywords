@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-03-2023 , 23:54:38",
+  "lastUpdate": "21-03-2023 , 01:24:14",
   "data": [
+    [
+      {
+        "title": "Dunedin weather",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Dunedin%20weather",
+        "pubdate": "Tue, 21 Mar 2023 08:00:00 +1300"
+      }
+    ],
     [
       {
         "title": "Bruce Willis",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Weather Dunedin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Weather%20Dunedin",
-        "pubdate": "Tue, 21 Mar 2023 10:00:00 +1300"
+        "title": "Amanda Bynes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Amanda%20Bynes",
+        "pubdate": "Tue, 21 Mar 2023 13:00:00 +1300"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "LIV Golf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#LIV%20Golf",
-        "pubdate": "Mon, 20 Mar 2023 13:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Madeleine McCann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Madeleine%20McCann",
         "pubdate": "Mon, 20 Mar 2023 20:00:00 +1300"
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Earthquake swarm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Earthquake%20swarm",
+        "pubdate": "Mon, 20 Mar 2023 17:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Credit Suisse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Credit%20Suisse",
         "pubdate": "Mon, 20 Mar 2023 10:00:00 +1300"
@@ -76,6 +83,20 @@
         "title": "Peter Hardy actor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Peter%20Hardy%20actor",
         "pubdate": "Mon, 20 Mar 2023 12:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Danny Lee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Danny%20Lee",
+        "pubdate": "Mon, 20 Mar 2023 14:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "LIV Golf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#LIV%20Golf",
+        "pubdate": "Mon, 20 Mar 2023 13:00:00 +1300"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Lucky Hank",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lucky%20Hank",
         "pubdate": "Mon, 20 Mar 2023 22:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "South Africa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#South%20Africa",
-        "pubdate": "Mon, 20 Mar 2023 23:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Super Rugby Aupiki",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Super%20Rugby%20Aupiki",
-        "pubdate": "Mon, 20 Mar 2023 12:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#UFC",
-        "pubdate": "Sun, 19 Mar 2023 07:00:00 +1300"
       }
     ]
   ]

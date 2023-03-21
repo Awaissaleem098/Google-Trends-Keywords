@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-03-2023 , 23:54:40",
+  "lastUpdate": "21-03-2023 , 01:24:15",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Lionel Messi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lionel%20Messi",
+        "pubdate": "Mon, 20 Mar 2023 17:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Man%20United",
         "pubdate": "Mon, 20 Mar 2023 17:00:00 +0000"
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "Dia da arvore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20da%20arvore",
+        "pubdate": "Mon, 20 Mar 2023 12:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#United",
         "pubdate": "Mon, 20 Mar 2023 17:00:00 +0000"
@@ -94,9 +108,9 @@
     ],
     [
       {
-        "title": "Dia da arvore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20da%20arvore",
-        "pubdate": "Mon, 20 Mar 2023 12:00:00 +0000"
+        "title": "Amanda Bynes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Amanda%20Bynes",
+        "pubdate": "Mon, 20 Mar 2023 23:00:00 +0000"
       }
     ],
     [
@@ -115,16 +129,9 @@
     ],
     [
       {
-        "title": "Finanças irs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Finan%C3%A7as%20irs",
-        "pubdate": "Mon, 20 Mar 2023 16:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Nuno Bettencourt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nuno%20Bettencourt",
-        "pubdate": "Mon, 20 Mar 2023 18:00:00 +0000"
+        "title": "Porto B",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Porto%20B",
+        "pubdate": "Mon, 20 Mar 2023 00:00:00 +0000"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Paul Grant",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Paul%20Grant",
         "pubdate": "Mon, 20 Mar 2023 21:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Insalubridade",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Insalubridade",
-        "pubdate": "Mon, 20 Mar 2023 20:00:00 +0000"
       }
     ]
   ]
