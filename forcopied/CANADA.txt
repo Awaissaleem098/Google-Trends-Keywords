@@ -1,1 +1,1 @@
-Trump,Earthquake,Calgary Flames,GME,Katie Telford,Bard,World Down Syndrome Day,Warren Buffett,Budget Québec 2023,Prime Minister,Fanatics,Korine Côté,Warriors vs Rockets,Rory Culkin,A Boogie wit da Hoodie,Candida auris,Lars Nootbaar,Budget provincial 2023,Ed Sheeran,John Cena
+Trump,Earthquake,Calgary Flames,GME) stock,Budget Québec 2023,Bard,Katie Telford,World Down Syndrome Day,Maple Leafs vs Islanders,Prime Minister,Flames,Fanatics,Lars Nootbaar,Emma Chamberlain,Rory Culkin,Korine Côté,Sofia Coppola,Warriors vs Rockets,A Boogie wit da Hoodie,Candida auris
