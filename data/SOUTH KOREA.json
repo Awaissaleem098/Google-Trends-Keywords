@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-03-2023 , 23:54:01",
+  "lastUpdate": "28-03-2023 , 01:23:45",
   "data": [
     [
       {
@@ -17,16 +17,16 @@
     ],
     [
       {
-        "title": "암호화폐",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%95%94%ED%98%B8%ED%99%94%ED%8F%90",
-        "pubdate": "Mon, 27 Mar 2023 12:00:00 +0900"
+        "title": "유아인",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9C%A0%EC%95%84%EC%9D%B8",
+        "pubdate": "Mon, 27 Mar 2023 18:00:00 +0900"
       }
     ],
     [
       {
-        "title": "유아인",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9C%A0%EC%95%84%EC%9D%B8",
-        "pubdate": "Mon, 27 Mar 2023 18:00:00 +0900"
+        "title": "암호화폐",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%95%94%ED%98%B8%ED%99%94%ED%8F%90",
+        "pubdate": "Mon, 27 Mar 2023 12:00:00 +0900"
       }
     ],
     [
@@ -41,13 +41,6 @@
         "title": "우종수",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9A%B0%EC%A2%85%EC%88%98",
         "pubdate": "Mon, 27 Mar 2023 09:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "추미애",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B6%94%EB%AF%B8%EC%95%A0",
-        "pubdate": "Mon, 27 Mar 2023 11:00:00 +0900"
       }
     ],
     [
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "국민의힘",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B5%AD%EB%AF%BC%EC%9D%98%ED%9E%98",
-        "pubdate": "Sun, 26 Mar 2023 12:00:00 +0900"
+        "title": "이승만",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EC%8A%B9%EB%A7%8C",
+        "pubdate": "Sun, 26 Mar 2023 23:00:00 +0900"
       }
     ],
     [
       {
-        "title": "이승만",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EC%8A%B9%EB%A7%8C",
-        "pubdate": "Sun, 26 Mar 2023 23:00:00 +0900"
+        "title": "LCK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#LCK",
+        "pubdate": "Sat, 25 Mar 2023 22:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "임영웅",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9E%84%EC%98%81%EC%9B%85",
+        "pubdate": "Sat, 25 Mar 2023 12:00:00 +0900"
       }
     ]
   ]

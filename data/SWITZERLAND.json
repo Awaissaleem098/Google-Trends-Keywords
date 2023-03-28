@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "27-03-2023 , 23:54:02",
+  "lastUpdate": "28-03-2023 , 01:23:46",
   "data": [
     [
       {
-        "title": "Patrick Swayze",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Patrick%20Swayze",
-        "pubdate": "Tue, 28 Mar 2023 00:00:00 +0200"
+        "title": "Dirty Dancing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dirty%20Dancing",
+        "pubdate": "Tue, 28 Mar 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "iOS 16.4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#iOS%2016.4",
+        "pubdate": "Tue, 28 Mar 2023 02:00:00 +0200"
       }
     ],
     [
@@ -17,6 +24,13 @@
     ],
     [
       {
+        "title": "Irlande – France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Irlande%20%E2%80%93%20France",
+        "pubdate": "Mon, 27 Mar 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Rolex",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rolex",
         "pubdate": "Mon, 27 Mar 2023 10:00:00 +0200"
@@ -24,9 +38,9 @@
     ],
     [
       {
-        "title": "Irlande – France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Irlande%20%E2%80%93%20France",
-        "pubdate": "Mon, 27 Mar 2023 21:00:00 +0200"
+        "title": "EHC Biel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#EHC%20Biel",
+        "pubdate": "Mon, 27 Mar 2023 00:00:00 +0200"
       }
     ],
     [
@@ -94,16 +108,16 @@
     ],
     [
       {
-        "title": "Ronan Keating",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ronan%20Keating",
-        "pubdate": "Mon, 27 Mar 2023 00:00:00 +0200"
+        "title": "Iran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Iran",
+        "pubdate": "Mon, 27 Mar 2023 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Iran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Iran",
-        "pubdate": "Mon, 27 Mar 2023 19:00:00 +0200"
+        "title": "Ronan Keating",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ronan%20Keating",
+        "pubdate": "Mon, 27 Mar 2023 00:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "National League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#National%20League",
-        "pubdate": "Mon, 27 Mar 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pulp Fiction",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pulp%20Fiction",
-        "pubdate": "Mon, 27 Mar 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Novartis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Novartis",
-        "pubdate": "Mon, 27 Mar 2023 14:00:00 +0200"
+        "title": "Gibraltar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gibraltar",
+        "pubdate": "Mon, 27 Mar 2023 23:00:00 +0200"
       }
     ]
   ]
