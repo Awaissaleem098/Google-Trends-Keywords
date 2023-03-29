@@ -1,24 +1,17 @@
 {
-  "lastUpdate": "29-03-2023 , 14:54:05",
+  "lastUpdate": "29-03-2023 , 17:15:28",
   "data": [
     [
       {
-        "title": "Di Maria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Di%20Maria",
-        "pubdate": "Wed, 29 Mar 2023 01:00:00 -0300"
+        "title": "Argentina Vs. Curazao",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Argentina%20Vs.%20Curazao",
+        "pubdate": "Wed, 29 Mar 2023 12:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Bianchi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bianchi",
-        "pubdate": "Wed, 29 Mar 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "2 de abril Malvinas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#2%20de%20abril%20Malvinas",
+        "title": "Lo Celso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lo%20Celso",
         "pubdate": "Wed, 29 Mar 2023 00:00:00 -0300"
       }
     ],
@@ -31,9 +24,23 @@
     ],
     [
       {
-        "title": "Herron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Herron",
-        "pubdate": "Wed, 29 Mar 2023 10:00:00 -0300"
+        "title": "Bianchi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bianchi",
+        "pubdate": "Wed, 29 Mar 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Di Maria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Di%20Maria",
+        "pubdate": "Wed, 29 Mar 2023 01:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "2 de abril Malvinas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#2%20de%20abril%20Malvinas",
+        "pubdate": "Wed, 29 Mar 2023 00:00:00 -0300"
       }
     ],
     [
@@ -80,9 +87,9 @@
     ],
     [
       {
-        "title": "Amistosos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Amistosos",
-        "pubdate": "Tue, 28 Mar 2023 19:00:00 -0300"
+        "title": "Deportes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Deportes",
+        "pubdate": "Tue, 28 Mar 2023 23:00:00 -0300"
       }
     ],
     [
@@ -90,6 +97,27 @@
         "title": "Nicolas Gonzalez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Nicolas%20Gonzalez",
         "pubdate": "Tue, 28 Mar 2023 22:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Amistosos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Amistosos",
+        "pubdate": "Tue, 28 Mar 2023 19:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Ibarra se va de Boca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ibarra%20se%20va%20de%20Boca",
+        "pubdate": "Tue, 28 Mar 2023 21:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Dónde queda Curazao",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#D%C3%B3nde%20queda%20Curazao",
+        "pubdate": "Tue, 28 Mar 2023 21:00:00 -0300"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Lautaro martinez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lautaro%20martinez",
         "pubdate": "Tue, 28 Mar 2023 22:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Dybala",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dybala",
-        "pubdate": "Tue, 28 Mar 2023 23:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Ibarra se va de Boca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ibarra%20se%20va%20de%20Boca",
-        "pubdate": "Tue, 28 Mar 2023 21:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Carlos Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Carlos%20Alcaraz",
-        "pubdate": "Tue, 28 Mar 2023 20:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Argentina F.C",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Argentina%20F.C",
-        "pubdate": "Tue, 28 Mar 2023 19:00:00 -0300"
       }
     ]
   ]

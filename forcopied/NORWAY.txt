@@ -1,1 +1,1 @@
-Paul O'Grady,EM,Sander Berge,Georgia,Martine Vik Magnussen,Tolga,Brian Cox,Kirkens Nødhjelp,Jonas Gahr Støre,Dave Stewart,Blake Lively,Nord Stream,Lillesand,Rolex,Israel,Nashville,Fisker Ocean,Netanyahu,Ricky Gervais,Aurora
+Paul O'Grady,Au pair,EM,Sander Berge,Georgia,Martine Vik Magnussen,Tolga,Brian Cox,Aursnes,Kirkens Nødhjelp,Freyr,Jonas Gahr Støre,Dave Stewart,Blake Lively,Nord Stream,Lillesand,Rolex,Israel,Nashville,Fisker Ocean
