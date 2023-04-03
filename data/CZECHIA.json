@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-04-2023 , 21:57:06",
+  "lastUpdate": "03-04-2023 , 22:18:10",
   "data": [
     [
       {
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Velikonoční týden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Velikono%C4%8Dn%C3%AD%20t%C3%BDden",
-        "pubdate": "Mon, 03 Apr 2023 09:00:00 +0200"
+        "title": "Tomáš Pavelka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20Pavelka",
+        "pubdate": "Mon, 03 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -41,13 +41,6 @@
         "title": "Limp Bizkit",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Limp%20Bizkit",
         "pubdate": "Mon, 03 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tomáš Pavelka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20Pavelka",
-        "pubdate": "Mon, 03 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -66,9 +59,16 @@
     ],
     [
       {
-        "title": "Pašijový týden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pa%C5%A1ijov%C3%BD%20t%C3%BDden",
-        "pubdate": "Mon, 03 Apr 2023 08:00:00 +0200"
+        "title": "Everton – Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Everton%20%E2%80%93%20Tottenham",
+        "pubdate": "Mon, 03 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dogecoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dogecoin",
+        "pubdate": "Mon, 03 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Velikonoční pondělí",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Velikono%C4%8Dn%C3%AD%20pond%C4%9Bl%C3%AD",
-        "pubdate": "Mon, 03 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Rušení poboček České pošty",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ru%C5%A1en%C3%AD%20pobo%C4%8Dek%20%C4%8Cesk%C3%A9%20po%C5%A1ty",
         "pubdate": "Mon, 03 Apr 2023 20:00:00 +0200"
@@ -94,16 +87,23 @@
     ],
     [
       {
-        "title": "April",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#April",
-        "pubdate": "Sun, 02 Apr 2023 07:00:00 +0200"
+        "title": "Velikonoční pondělí",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Velikono%C4%8Dn%C3%AD%20pond%C4%9Bl%C3%AD",
+        "pubdate": "Mon, 03 Apr 2023 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "West Ham – Southampton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#West%20Ham%20%E2%80%93%20Southampton",
-        "pubdate": "Sun, 02 Apr 2023 15:00:00 +0200"
+        "title": "Mammoth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mammoth",
+        "pubdate": "Mon, 03 Apr 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "April",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#April",
+        "pubdate": "Sun, 02 Apr 2023 07:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Bohemians – Slovácko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bohemians%20%E2%80%93%20Slov%C3%A1cko",
-        "pubdate": "Sun, 02 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Slavia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia",
         "pubdate": "Sun, 02 Apr 2023 11:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Pastrnak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pastrnak",
-        "pubdate": "Sun, 02 Apr 2023 08:00:00 +0200"
+        "title": "West Ham – Southampton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#West%20Ham%20%E2%80%93%20Southampton",
+        "pubdate": "Sun, 02 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ryuichi Sakamoto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ryuichi%20Sakamoto",
+        "pubdate": "Sun, 02 Apr 2023 17:00:00 +0200"
       }
     ]
   ]
