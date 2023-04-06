@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "05-04-2023 , 23:55:16",
+  "lastUpdate": "06-04-2023 , 01:27:55",
   "data": [
     [
       {
-        "title": "Hydro Quebec",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hydro%20Quebec",
+        "title": "Hydro-Quebec",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hydro-Quebec",
         "pubdate": "Wed, 05 Apr 2023 14:00:00 -0400"
       }
     ],
@@ -24,8 +24,8 @@
     ],
     [
       {
-        "title": "Rainfall Warning",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rainfall%20Warning",
+        "title": "Rainfall warning",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rainfall%20warning",
         "pubdate": "Wed, 05 Apr 2023 05:00:00 -0400"
       }
     ],
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Hydro-Québec",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hydro-Qu%C3%A9bec",
-        "pubdate": "Wed, 05 Apr 2023 15:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Passover",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Passover",
         "pubdate": "Wed, 05 Apr 2023 11:00:00 -0400"
@@ -66,23 +59,16 @@
     ],
     [
       {
-        "title": "Ottawa News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ottawa%20News",
+        "title": "Panne d'électricité",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Panne%20d'%C3%A9lectricit%C3%A9",
+        "pubdate": "Wed, 05 Apr 2023 16:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Ottawa news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ottawa%20news",
         "pubdate": "Wed, 05 Apr 2023 14:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Oilers vs Kings",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers%20vs%20Kings",
-        "pubdate": "Wed, 05 Apr 2023 01:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "WHL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#WHL",
-        "pubdate": "Wed, 05 Apr 2023 12:00:00 -0400"
       }
     ],
     [
@@ -94,9 +80,23 @@
     ],
     [
       {
-        "title": "Barcelone – Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Barcelone%20%E2%80%93%20Real%20Madrid",
+        "title": "Lizzo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lizzo",
         "pubdate": "Wed, 05 Apr 2023 17:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "WHL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#WHL",
+        "pubdate": "Wed, 05 Apr 2023 12:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Power outage",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Power%20outage",
+        "pubdate": "Wed, 05 Apr 2023 16:00:00 -0400"
       }
     ],
     [
@@ -115,9 +115,9 @@
     ],
     [
       {
-        "title": "Power outage",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Power%20outage",
-        "pubdate": "Wed, 05 Apr 2023 16:00:00 -0400"
+        "title": "Galen Weston",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Galen%20Weston",
+        "pubdate": "Wed, 05 Apr 2023 15:00:00 -0400"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Kate Bosworth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kate%20Bosworth",
-        "pubdate": "Wed, 05 Apr 2023 00:00:00 -0400"
+        "title": "West Ham vs Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#West%20Ham%20vs%20Newcastle",
+        "pubdate": "Wed, 05 Apr 2023 17:00:00 -0400"
       }
     ]
   ]
