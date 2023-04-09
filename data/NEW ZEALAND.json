@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-04-2023 , 09:35:32",
+  "lastUpdate": "09-04-2023 , 13:17:19",
   "data": [
     [
       {
@@ -45,6 +45,20 @@
     ],
     [
       {
+        "title": "McDonald's",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#McDonald's",
+        "pubdate": "Sun, 09 Apr 2023 22:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Tornado Auckland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tornado%20Auckland",
+        "pubdate": "Sun, 09 Apr 2023 23:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Blues vs Rebels",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Blues%20vs%20Rebels",
         "pubdate": "Sun, 09 Apr 2023 00:00:00 +1200"
@@ -66,9 +80,9 @@
     ],
     [
       {
-        "title": "ALBANY mall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#ALBANY%20mall",
-        "pubdate": "Sun, 09 Apr 2023 14:00:00 +1200"
+        "title": "Knights vs Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Knights%20vs%20Warriors",
+        "pubdate": "Sun, 09 Apr 2023 21:00:00 +1200"
       }
     ],
     [
@@ -76,6 +90,13 @@
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#PSG",
         "pubdate": "Sun, 09 Apr 2023 12:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "ALBANY mall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#ALBANY%20mall",
+        "pubdate": "Sun, 09 Apr 2023 14:00:00 +1200"
       }
     ],
     [
@@ -94,13 +115,6 @@
     ],
     [
       {
-        "title": "Easter Bunny",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Easter%20Bunny",
-        "pubdate": "Sun, 09 Apr 2023 09:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Lars Mikkelsen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lars%20Mikkelsen",
         "pubdate": "Sun, 09 Apr 2023 13:00:00 +1200"
@@ -108,37 +122,23 @@
     ],
     [
       {
+        "title": "Easter Bunny",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Easter%20Bunny",
+        "pubdate": "Sun, 09 Apr 2023 09:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Easter monday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Easter%20monday",
+        "pubdate": "Sun, 09 Apr 2023 21:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Kelvin Gastelum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kelvin%20Gastelum",
         "pubdate": "Sun, 09 Apr 2023 15:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Broncos vs Raiders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Broncos%20vs%20Raiders",
-        "pubdate": "Sun, 09 Apr 2023 11:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Tottenham vs Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tottenham%20vs%20Brighton",
-        "pubdate": "Sun, 09 Apr 2023 13:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "He is risen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#He%20is%20risen",
-        "pubdate": "Sun, 09 Apr 2023 15:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#UFC",
-        "pubdate": "Sat, 08 Apr 2023 16:00:00 +1200"
       }
     ]
   ]

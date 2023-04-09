@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-04-2023 , 09:35:27",
+  "lastUpdate": "09-04-2023 , 13:17:15",
   "data": [
     [
       {
@@ -24,16 +24,16 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#PSG",
-        "pubdate": "Sat, 08 Apr 2023 16:00:00 -0400"
+        "title": "Universidad catolica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Universidad%20catolica",
+        "pubdate": "Sat, 08 Apr 2023 10:00:00 -0400"
       }
     ],
     [
       {
-        "title": "U catolica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U%20catolica",
-        "pubdate": "Sat, 08 Apr 2023 10:00:00 -0400"
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#PSG",
+        "pubdate": "Sat, 08 Apr 2023 16:00:00 -0400"
       }
     ],
     [
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Universidad catolica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Universidad%20catolica",
-        "pubdate": "Sat, 08 Apr 2023 22:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "TVN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#TVN",
         "pubdate": "Sat, 08 Apr 2023 01:00:00 -0400"
@@ -68,6 +61,13 @@
       {
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Taylor%20Swift",
+        "pubdate": "Sat, 08 Apr 2023 21:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Deportes Colina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Deportes%20Colina",
         "pubdate": "Sat, 08 Apr 2023 21:00:00 -0400"
       }
     ],
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Ignacio Bahamondes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ignacio%20Bahamondes",
+        "pubdate": "Sat, 08 Apr 2023 18:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Lazio  Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lazio%20%20Juventus",
         "pubdate": "Sat, 08 Apr 2023 17:00:00 -0400"
@@ -132,13 +139,6 @@
         "title": "Jeremy Renner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jeremy%20Renner",
         "pubdate": "Sat, 08 Apr 2023 20:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Arturo Vidal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Arturo%20Vidal",
-        "pubdate": "Sat, 08 Apr 2023 17:00:00 -0400"
       }
     ]
   ]

@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "09-04-2023 , 09:35:30",
+  "lastUpdate": "09-04-2023 , 13:17:18",
   "data": [
-    [
-      {
-        "title": "New York v Leitrim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#New%20York%20v%20Leitrim",
-        "pubdate": "Sun, 09 Apr 2023 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Taylor Swift",
@@ -17,9 +10,51 @@
     ],
     [
       {
+        "title": "Easter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Easter",
+        "pubdate": "Sun, 09 Apr 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jorge Masvidal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Jorge%20Masvidal",
         "pubdate": "Sun, 09 Apr 2023 06:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool vs Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Liverpool%20vs%20Arsenal",
+        "pubdate": "Sun, 09 Apr 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Gary Lineker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Gary%20Lineker",
+        "pubdate": "Sun, 09 Apr 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Nicola Sturgeon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Nicola%20Sturgeon",
+        "pubdate": "Sun, 09 Apr 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Leicester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Leicester%20City",
+        "pubdate": "Sun, 09 Apr 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Taiwan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Taiwan",
+        "pubdate": "Sun, 09 Apr 2023 11:00:00 +0100"
       }
     ],
     [
@@ -45,6 +80,20 @@
     ],
     [
       {
+        "title": "Happy Easter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Happy%20Easter",
+        "pubdate": "Sat, 08 Apr 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Leitrim v New York",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Leitrim%20v%20New%20York",
+        "pubdate": "Sat, 08 Apr 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Southampton vs Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Southampton%20vs%20Man%20City",
         "pubdate": "Sat, 08 Apr 2023 18:00:00 +0100"
@@ -59,9 +108,9 @@
     ],
     [
       {
-        "title": "Happy Easter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Happy%20Easter",
-        "pubdate": "Sat, 08 Apr 2023 22:00:00 +0100"
+        "title": "Tesco Easter opening times",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Tesco%20Easter%20opening%20times",
+        "pubdate": "Sat, 08 Apr 2023 20:00:00 +0100"
       }
     ],
     [
@@ -73,8 +122,8 @@
     ],
     [
       {
-        "title": "Gareth Richards comedian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Gareth%20Richards%20comedian",
+        "title": "Gareth Richards Comedian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Gareth%20Richards%20Comedian",
         "pubdate": "Sat, 08 Apr 2023 17:00:00 +0100"
       }
     ],
@@ -90,55 +139,6 @@
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Chelsea",
         "pubdate": "Sat, 08 Apr 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#PSG",
-        "pubdate": "Sat, 08 Apr 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Wolves vs Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Wolves%20vs%20Chelsea",
-        "pubdate": "Sat, 08 Apr 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Geila Ibram",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Geila%20Ibram",
-        "pubdate": "Sat, 08 Apr 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tesco Easter opening times",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Tesco%20Easter%20opening%20times",
-        "pubdate": "Sat, 08 Apr 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Burt Bacharach",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Burt%20Bacharach",
-        "pubdate": "Sat, 08 Apr 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ireland v USA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ireland%20v%20USA",
-        "pubdate": "Sat, 08 Apr 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Alanna Quinn Idris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Alanna%20Quinn%20Idris",
-        "pubdate": "Sat, 08 Apr 2023 00:00:00 +0100"
       }
     ]
   ]

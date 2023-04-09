@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-04-2023 , 09:35:35",
+  "lastUpdate": "09-04-2023 , 13:17:22",
   "data": [
     [
       {
@@ -10,9 +10,30 @@
     ],
     [
       {
+        "title": "LCK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#LCK",
+        "pubdate": "Sun, 09 Apr 2023 18:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "부활절",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B6%80%ED%99%9C%EC%A0%88",
+        "pubdate": "Sun, 09 Apr 2023 11:00:00 +0900"
+      }
+    ],
+    [
+      {
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#UFC",
         "pubdate": "Sun, 09 Apr 2023 06:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "아데산야",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%95%84%EB%8D%B0%EC%82%B0%EC%95%BC",
+        "pubdate": "Sun, 09 Apr 2023 15:00:00 +0900"
       }
     ],
     [
@@ -52,13 +73,6 @@
     ],
     [
       {
-        "title": "김치",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EC%B9%98",
-        "pubdate": "Sat, 08 Apr 2023 00:00:00 +0900"
-      }
-    ],
-    [
-      {
         "title": "안성현",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%95%88%EC%84%B1%ED%98%84",
         "pubdate": "Fri, 07 Apr 2023 15:00:00 +0900"
@@ -76,13 +90,6 @@
         "title": "에픽게임즈",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%97%90%ED%94%BD%EA%B2%8C%EC%9E%84%EC%A6%88",
         "pubdate": "Fri, 07 Apr 2023 02:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "이승기",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EC%8A%B9%EA%B8%B0",
-        "pubdate": "Fri, 07 Apr 2023 20:00:00 +0900"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "진보당",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A7%84%EB%B3%B4%EB%8B%B9",
         "pubdate": "Thu, 06 Apr 2023 10:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "7800X3D",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#7800X3D",
-        "pubdate": "Thu, 06 Apr 2023 07:00:00 +0900"
       }
     ]
   ]
