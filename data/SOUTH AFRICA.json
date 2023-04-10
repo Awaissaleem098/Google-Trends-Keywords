@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-04-2023 , 13:57:15",
+  "lastUpdate": "10-04-2023 , 14:17:50",
   "data": [
     [
       {
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Belinda Bencic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Belinda%20Bencic",
-        "pubdate": "Mon, 10 Apr 2023 08:00:00 +0200"
+        "title": "Dalai Lama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dalai%20Lama",
+        "pubdate": "Mon, 10 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -52,9 +52,23 @@
     ],
     [
       {
-        "title": "Weather warning",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Weather%20warning",
-        "pubdate": "Mon, 10 Apr 2023 12:00:00 +0200"
+        "title": "Belinda Bencic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Belinda%20Bencic",
+        "pubdate": "Mon, 10 Apr 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "F1 lewis hamilton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#F1%20lewis%20hamilton",
+        "pubdate": "Mon, 10 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Family Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Family%20Day",
+        "pubdate": "Mon, 10 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -80,23 +94,16 @@
     ],
     [
       {
-        "title": "Easter Sunday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Easter%20Sunday",
-        "pubdate": "Sun, 09 Apr 2023 06:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Happy Easter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Happy%20Easter",
-        "pubdate": "Sun, 09 Apr 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Chiefs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chiefs",
         "pubdate": "Sun, 09 Apr 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Easter Sunday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Easter%20Sunday",
+        "pubdate": "Sun, 09 Apr 2023 06:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Dog",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dog",
         "pubdate": "Sun, 09 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Resurrection of Jesus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Resurrection%20of%20Jesus",
-        "pubdate": "Sun, 09 Apr 2023 08:00:00 +0200"
       }
     ]
   ]
