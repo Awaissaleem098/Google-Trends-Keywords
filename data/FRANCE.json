@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "09-04-2023 , 23:55:06",
+  "lastUpdate": "10-04-2023 , 01:25:43",
   "data": [
+    [
+      {
+        "title": "Rudy Gobert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rudy%20Gobert",
+        "pubdate": "Mon, 10 Apr 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "D'Artagnan",
@@ -52,16 +59,9 @@
     ],
     [
       {
-        "title": "La Rochelle Rugby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#La%20Rochelle%20Rugby",
+        "title": "La Rochelle rugby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#La%20Rochelle%20rugby",
         "pubdate": "Sun, 09 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jumanji",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jumanji",
-        "pubdate": "Sun, 09 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -69,6 +69,13 @@
         "title": "Avalanche Contamines",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Avalanche%20Contamines",
         "pubdate": "Sun, 09 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jumanji",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jumanji",
+        "pubdate": "Sun, 09 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -101,16 +108,16 @@
     ],
     [
       {
-        "title": "Bernard LOISEAU",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bernard%20LOISEAU",
-        "pubdate": "Sun, 09 Apr 2023 19:00:00 +0200"
+        "title": "Julie de Bona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Julie%20de%20Bona",
+        "pubdate": "Sun, 09 Apr 2023 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Julie de Bona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Julie%20de%20Bona",
-        "pubdate": "Sun, 09 Apr 2023 20:00:00 +0200"
+        "title": "Bernard LOISEAU",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bernard%20LOISEAU",
+        "pubdate": "Sun, 09 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Anne-Sophie Lapix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Anne-Sophie%20Lapix",
-        "pubdate": "Sun, 09 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Annika",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Annika",
-        "pubdate": "Sun, 09 Apr 2023 22:00:00 +0200"
+        "title": "Galtier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Galtier",
+        "pubdate": "Sun, 09 Apr 2023 06:00:00 +0200"
       }
     ]
   ]

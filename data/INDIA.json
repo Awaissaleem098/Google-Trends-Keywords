@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "09-04-2023 , 23:55:08",
+  "lastUpdate": "10-04-2023 , 01:25:44",
   "data": [
     [
       {
         "title": "Al Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Al%20Nassr",
-        "pubdate": "Mon, 10 Apr 2023 02:30:00 +0530"
+        "pubdate": "Mon, 10 Apr 2023 00:30:00 +0530"
       }
     ],
     [
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Man%20City",
+        "pubdate": "Sun, 09 Apr 2023 11:30:00 +0530"
+      }
+    ],
+    [
+      {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Real%20Madrid",
         "pubdate": "Sun, 09 Apr 2023 02:30:00 +0530"
@@ -97,13 +104,6 @@
         "title": "Leeds United vs Crystal Palace",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Leeds%20United%20vs%20Crystal%20Palace",
         "pubdate": "Sun, 09 Apr 2023 20:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "What is Easter day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#What%20is%20Easter%20day",
-        "pubdate": "Sun, 09 Apr 2023 13:30:00 +0530"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Resurrection",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Resurrection",
-        "pubdate": "Sun, 09 Apr 2023 17:30:00 +0530"
+        "title": "AC Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#AC%20Milan",
+        "pubdate": "Sun, 09 Apr 2023 20:30:00 +0530"
       }
     ]
   ]

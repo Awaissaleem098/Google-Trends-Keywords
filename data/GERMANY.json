@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-04-2023 , 23:55:07",
+  "lastUpdate": "10-04-2023 , 01:25:43",
   "data": [
     [
       {
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "St. Pauli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#St.%20Pauli",
-        "pubdate": "Sun, 09 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Romy Schneider",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Romy%20Schneider",
         "pubdate": "Sun, 09 Apr 2023 19:00:00 +0200"
@@ -104,6 +97,13 @@
         "title": "Urbi et Orbi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Urbi%20et%20Orbi",
         "pubdate": "Sun, 09 Apr 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "St. Pauli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#St.%20Pauli",
+        "pubdate": "Sun, 09 Apr 2023 16:00:00 +0200"
       }
     ],
     [
@@ -122,16 +122,16 @@
     ],
     [
       {
-        "title": "Mindestlohn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mindestlohn",
-        "pubdate": "Sun, 09 Apr 2023 12:00:00 +0200"
+        "title": "FC St. Pauli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20St.%20Pauli",
+        "pubdate": "Sun, 09 Apr 2023 09:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Darmstadt 98",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Darmstadt%2098",
-        "pubdate": "Sun, 09 Apr 2023 14:00:00 +0200"
+        "title": "Mindestlohn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mindestlohn",
+        "pubdate": "Sun, 09 Apr 2023 12:00:00 +0200"
       }
     ],
     [

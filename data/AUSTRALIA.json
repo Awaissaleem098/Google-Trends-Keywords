@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "09-04-2023 , 23:55:04",
+  "lastUpdate": "10-04-2023 , 01:25:41",
   "data": [
     [
       {
         "title": "Liverpool vs Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20vs%20Arsenal",
-        "pubdate": "Mon, 10 Apr 2023 01:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Leeds United vs Crystal Palace",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Leeds%20United%20vs%20Crystal%20Palace",
         "pubdate": "Mon, 10 Apr 2023 01:00:00 +1000"
       }
     ],
@@ -24,9 +17,30 @@
     ],
     [
       {
+        "title": "Leeds United vs Crystal Palace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Leeds%20United%20vs%20Crystal%20Palace",
+        "pubdate": "Mon, 10 Apr 2023 01:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Phil Mickelson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Phil%20Mickelson",
         "pubdate": "Mon, 10 Apr 2023 08:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "John Rahm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#John%20Rahm",
+        "pubdate": "Mon, 10 Apr 2023 10:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Rinku Singh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rinku%20Singh",
+        "pubdate": "Mon, 10 Apr 2023 07:00:00 +1000"
       }
     ],
     [
@@ -38,16 +52,9 @@
     ],
     [
       {
-        "title": "Twitter Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Twitter%20Elon%20Musk",
+        "title": "Twitter. Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Twitter.%20Elon%20Musk",
         "pubdate": "Mon, 10 Apr 2023 00:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Rinku Singh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rinku%20Singh",
-        "pubdate": "Mon, 10 Apr 2023 07:00:00 +1000"
       }
     ],
     [
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "Paris-Roubaix 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Paris-Roubaix%202023",
+        "pubdate": "Sun, 09 Apr 2023 12:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Easter bunny",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Easter%20bunny",
         "pubdate": "Sun, 09 Apr 2023 01:00:00 +1000"
@@ -94,23 +108,9 @@
     ],
     [
       {
-        "title": "Southampton vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Southampton%20vs%20Man%20City",
-        "pubdate": "Sun, 09 Apr 2023 06:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Raul Rosas Jr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Raul%20Rosas%20Jr",
         "pubdate": "Sun, 09 Apr 2023 13:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Paris-Roubaix 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Paris-Roubaix%202023",
-        "pubdate": "Sun, 09 Apr 2023 12:00:00 +1000"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Pride and Prejudice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pride%20and%20Prejudice",
-        "pubdate": "Sun, 09 Apr 2023 21:00:00 +1000"
+        "title": "Easter message",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Easter%20message",
+        "pubdate": "Sun, 09 Apr 2023 12:00:00 +1000"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-04-2023 , 23:55:11",
+  "lastUpdate": "10-04-2023 , 01:25:47",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Liverpool vs Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Liverpool%20vs%20Arsenal",
-        "pubdate": "Mon, 10 Apr 2023 02:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Udonis Haslem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Udonis%20Haslem",
         "pubdate": "Mon, 10 Apr 2023 05:00:00 +0800"
@@ -38,9 +31,30 @@
     ],
     [
       {
+        "title": "Beef",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Beef",
+        "pubdate": "Mon, 10 Apr 2023 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool vs Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Liverpool%20vs%20Arsenal",
+        "pubdate": "Mon, 10 Apr 2023 02:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Klay Thompson Warriors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Klay%20Thompson%20Warriors",
         "pubdate": "Mon, 10 Apr 2023 05:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Celtics vs Hawks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Celtics%20vs%20Hawks",
+        "pubdate": "Mon, 10 Apr 2023 08:00:00 +0800"
       }
     ],
     [
@@ -55,13 +69,6 @@
         "title": "PBA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#PBA",
         "pubdate": "Sun, 09 Apr 2023 19:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Easter sunday quotes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Easter%20sunday%20quotes",
-        "pubdate": "Sun, 09 Apr 2023 01:00:00 +0800"
       }
     ],
     [
@@ -103,13 +110,20 @@
       {
         "title": "Jesus is risen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Jesus%20is%20risen",
-        "pubdate": "Sun, 09 Apr 2023 09:00:00 +0800"
+        "pubdate": "Sun, 09 Apr 2023 08:00:00 +0800"
       }
     ],
     [
       {
         "title": "Spurs vs Timberwolves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Spurs%20vs%20Timberwolves",
+        "pubdate": "Sun, 09 Apr 2023 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Easter quotes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Easter%20quotes",
         "pubdate": "Sun, 09 Apr 2023 08:00:00 +0800"
       }
     ],
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Easter meaning",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Easter%20meaning",
-        "pubdate": "Sun, 09 Apr 2023 10:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Hunger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Hunger",
-        "pubdate": "Sun, 09 Apr 2023 02:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "April 10",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#April%2010",
-        "pubdate": "Sun, 09 Apr 2023 21:00:00 +0800"
+        "title": "What is Easter Sunday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#What%20is%20Easter%20Sunday",
+        "pubdate": "Sun, 09 Apr 2023 16:00:00 +0800"
       }
     ]
   ]
