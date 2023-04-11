@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "10-04-2023 , 23:58:32",
+  "lastUpdate": "11-04-2023 , 01:35:30",
   "data": [
+    [
+      {
+        "title": "SL Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#SL%20Benfica",
+        "pubdate": "Tue, 11 Apr 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Steven Seagal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Steven%20Seagal",
+        "pubdate": "Tue, 11 Apr 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Marcelo Rebelo de Sousa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Marcelo%20Rebelo%20de%20Sousa",
+        "pubdate": "Tue, 11 Apr 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Louisville",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Louisville",
+        "pubdate": "Tue, 11 Apr 2023 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Flamengo",
@@ -24,8 +52,8 @@
     ],
     [
       {
-        "title": "Gil Vicente-Chaves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gil%20Vicente-Chaves",
+        "title": "Gil Vicente  Chaves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gil%20Vicente%20%20Chaves",
         "pubdate": "Mon, 10 Apr 2023 19:00:00 +0100"
       }
     ],
@@ -59,16 +87,23 @@
     ],
     [
       {
-        "title": "Hugo Mendes secretário de Estado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Hugo%20Mendes%20secret%C3%A1rio%20de%20Estado",
-        "pubdate": "Mon, 10 Apr 2023 12:00:00 +0100"
+        "title": "Succession",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Succession",
+        "pubdate": "Mon, 10 Apr 2023 23:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Succession",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Succession",
-        "pubdate": "Mon, 10 Apr 2023 23:00:00 +0100"
+        "title": "Joao Moura Caetano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joao%20Moura%20Caetano",
+        "pubdate": "Mon, 10 Apr 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Hugo Mendes secretário de Estado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Hugo%20Mendes%20secret%C3%A1rio%20de%20Estado",
+        "pubdate": "Mon, 10 Apr 2023 12:00:00 +0100"
       }
     ],
     [
@@ -101,44 +136,9 @@
     ],
     [
       {
-        "title": "Joao Moura Caetano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joao%20Moura%20Caetano",
-        "pubdate": "Mon, 10 Apr 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Ozempic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ozempic",
         "pubdate": "Mon, 10 Apr 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Joan Collins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joan%20Collins",
-        "pubdate": "Mon, 10 Apr 2023 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "O Triângulo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#O%20Tri%C3%A2ngulo",
-        "pubdate": "Mon, 10 Apr 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Susana Vieira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Susana%20Vieira",
-        "pubdate": "Mon, 10 Apr 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Soldado Milhões",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Soldado%20Milh%C3%B5es",
-        "pubdate": "Mon, 10 Apr 2023 15:00:00 +0100"
       }
     ]
   ]
