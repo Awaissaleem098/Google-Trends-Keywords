@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "12-04-2023 , 23:51:05",
+  "lastUpdate": "13-04-2023 , 00:54:42",
   "data": [
     [
       {
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Elon%20Musk",
         "pubdate": "Thu, 13 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bayern Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20Man%20City",
-        "pubdate": "Wed, 12 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -27,13 +20,6 @@
         "title": "Kampf der Realitystars",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kampf%20der%20Realitystars",
         "pubdate": "Wed, 12 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Martin Rütter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Martin%20R%C3%BCtter",
-        "pubdate": "Wed, 12 Apr 2023 09:00:00 +0200"
       }
     ],
     [
@@ -66,9 +52,9 @@
     ],
     [
       {
-        "title": "Joschka Fischer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Joschka%20Fischer",
-        "pubdate": "Wed, 12 Apr 2023 17:00:00 +0200"
+        "title": "AC Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AC%20Milan",
+        "pubdate": "Wed, 12 Apr 2023 22:00:00 +0200"
       }
     ],
     [
@@ -90,13 +76,6 @@
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#PSG",
         "pubdate": "Wed, 12 Apr 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "RTX 4070",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RTX%204070",
-        "pubdate": "Wed, 12 Apr 2023 18:00:00 +0200"
       }
     ],
     [
@@ -129,6 +108,20 @@
     ],
     [
       {
+        "title": "Tupperware",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tupperware",
+        "pubdate": "Tue, 11 Apr 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Helene Fischer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Helene%20Fischer",
+        "pubdate": "Tue, 11 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Haaland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Haaland",
         "pubdate": "Tue, 11 Apr 2023 21:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Millie Bobby Brown",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Millie%20Bobby%20Brown",
-        "pubdate": "Tue, 11 Apr 2023 13:00:00 +0200"
+        "title": "Whitney Houston",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Whitney%20Houston",
+        "pubdate": "Tue, 11 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Upamecano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Upamecano",
+        "pubdate": "Tue, 11 Apr 2023 23:00:00 +0200"
       }
     ]
   ]

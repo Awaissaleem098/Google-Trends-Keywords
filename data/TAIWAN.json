@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "12-04-2023 , 23:51:14",
+  "lastUpdate": "13-04-2023 , 00:54:50",
   "data": [
     [
       {
         "title": "我推的孩子",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%88%91%E6%8E%A8%E7%9A%84%E5%AD%A9%E5%AD%90",
         "pubdate": "Thu, 13 Apr 2023 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "賴清德",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%B3%B4%E6%B8%85%E5%BE%B7",
+        "pubdate": "Thu, 13 Apr 2023 08:00:00 +0800"
       }
     ],
     [
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "歐冠",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%AD%90%E5%86%A0",
+        "pubdate": "Wed, 12 Apr 2023 20:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "朴敘俊",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9C%B4%E6%95%98%E4%BF%8A",
         "pubdate": "Wed, 12 Apr 2023 00:00:00 +0800"
@@ -52,9 +66,9 @@
     ],
     [
       {
-        "title": "颱風",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%A2%B1%E9%A2%A8",
-        "pubdate": "Wed, 12 Apr 2023 14:00:00 +0800"
+        "title": "劉俊豪",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8A%89%E4%BF%8A%E8%B1%AA",
+        "pubdate": "Wed, 12 Apr 2023 13:00:00 +0800"
       }
     ],
     [
@@ -66,9 +80,9 @@
     ],
     [
       {
-        "title": "劉俊豪",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8A%89%E4%BF%8A%E8%B1%AA",
-        "pubdate": "Wed, 12 Apr 2023 13:00:00 +0800"
+        "title": "漢翔",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%BC%A2%E7%BF%94",
+        "pubdate": "Wed, 12 Apr 2023 17:00:00 +0800"
       }
     ],
     [
@@ -83,13 +97,6 @@
         "title": "禁航區",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%A6%81%E8%88%AA%E5%8D%80",
         "pubdate": "Wed, 12 Apr 2023 17:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "賈瞳瞳",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%B3%88%E7%9E%B3%E7%9E%B3",
-        "pubdate": "Wed, 12 Apr 2023 13:00:00 +0800"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "葛斯齊",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%91%9B%E6%96%AF%E9%BD%8A",
-        "pubdate": "Wed, 12 Apr 2023 22:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "陳吉仲",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%99%B3%E5%90%89%E4%BB%B2",
-        "pubdate": "Wed, 12 Apr 2023 11:00:00 +0800"
+        "title": "曼城",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9B%BC%E5%9F%8E",
+        "pubdate": "Wed, 12 Apr 2023 04:00:00 +0800"
       }
     ]
   ]

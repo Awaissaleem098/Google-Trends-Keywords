@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "12-04-2023 , 23:51:11",
+  "lastUpdate": "13-04-2023 , 00:54:48",
   "data": [
     [
       {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Napoli",
-        "pubdate": "Wed, 12 Apr 2023 01:00:00 +0100"
+        "title": "Mane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mane",
+        "pubdate": "Thu, 13 Apr 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Palmeiras  Tombense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Palmeiras%20%20Tombense",
+        "pubdate": "Thu, 13 Apr 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sporting B",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting%20B",
+        "pubdate": "Thu, 13 Apr 2023 01:00:00 +0100"
       }
     ],
     [
@@ -87,13 +101,6 @@
     ],
     [
       {
-        "title": "Sao Paulo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sao%20Paulo",
-        "pubdate": "Wed, 12 Apr 2023 06:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Jung Chae-yul",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jung%20Chae-yul",
         "pubdate": "Wed, 12 Apr 2023 16:00:00 +0100"
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Ancelotti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ancelotti",
-        "pubdate": "Wed, 12 Apr 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Dolar real",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dolar%20real",
         "pubdate": "Wed, 12 Apr 2023 10:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "FCP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#FCP",
-        "pubdate": "Wed, 12 Apr 2023 18:00:00 +0100"
+        "title": "Rudi Garcia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rudi%20Garcia",
+        "pubdate": "Wed, 12 Apr 2023 21:00:00 +0100"
       }
     ]
   ]
