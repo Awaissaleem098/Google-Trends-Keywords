@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-04-2023 , 23:52:42",
+  "lastUpdate": "16-04-2023 , 01:14:05",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Manchester City - Leicester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Manchester%20City%20-%20Leicester%20City",
         "pubdate": "Sat, 15 Apr 2023 13:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Boca Juniors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Boca%20Juniors",
+        "pubdate": "Sat, 15 Apr 2023 17:00:00 -0300"
       }
     ],
     [
@@ -45,23 +52,16 @@
     ],
     [
       {
-        "title": "Defensa y Justicia  Instituto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Defensa%20y%20Justicia%20%20Instituto",
-        "pubdate": "Sat, 15 Apr 2023 17:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "San martin DE tucuman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#San%20martin%20DE%20tucuman",
-        "pubdate": "Sat, 15 Apr 2023 15:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Defensa y Justicia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Defensa%20y%20Justicia",
         "pubdate": "Sat, 15 Apr 2023 17:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Napoli",
+        "pubdate": "Sat, 15 Apr 2023 15:00:00 -0300"
       }
     ],
     [
@@ -87,9 +87,16 @@
     ],
     [
       {
-        "title": "Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Milan",
-        "pubdate": "Sat, 15 Apr 2023 12:00:00 -0300"
+        "title": "Donde voto rio Negro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Donde%20voto%20rio%20Negro",
+        "pubdate": "Sat, 15 Apr 2023 21:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "San martin de tucuman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#San%20martin%20de%20tucuman",
+        "pubdate": "Sat, 15 Apr 2023 15:00:00 -0300"
       }
     ],
     [
@@ -101,30 +108,9 @@
     ],
     [
       {
-        "title": "Tottenham  Bournemouth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tottenham%20%20Bournemouth",
+        "title": "Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Milan",
         "pubdate": "Sat, 15 Apr 2023 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "MotoGP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#MotoGP",
-        "pubdate": "Sat, 15 Apr 2023 13:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Celine Dion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Celine%20Dion",
-        "pubdate": "Sat, 15 Apr 2023 10:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Explosion en Texas vacas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Explosion%20en%20Texas%20vacas",
-        "pubdate": "Sat, 15 Apr 2023 13:00:00 -0300"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
-        "title": "Ford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ford",
-        "pubdate": "Sat, 15 Apr 2023 13:00:00 -0300"
+        "title": "Celine Dion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Celine%20Dion",
+        "pubdate": "Sat, 15 Apr 2023 10:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Tottenham  Bournemouth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tottenham%20%20Bournemouth",
+        "pubdate": "Sat, 15 Apr 2023 12:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Flandria . San Martín DE tucumán",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Flandria%20.%20San%20Mart%C3%ADn%20DE%20tucum%C3%A1n",
+        "pubdate": "Sat, 15 Apr 2023 16:00:00 -0300"
       }
     ]
   ]

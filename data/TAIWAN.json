@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "15-04-2023 , 23:52:52",
+  "lastUpdate": "16-04-2023 , 01:14:17",
   "data": [
+    [
+      {
+        "title": "張育成",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%BC%B5%E8%82%B2%E6%88%90",
+        "pubdate": "Sun, 16 Apr 2023 07:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "猴痘",
@@ -10,8 +17,8 @@
     ],
     [
       {
-        "title": "NBA季後賽",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#NBA%E5%AD%A3%E5%BE%8C%E8%B3%BD",
+        "title": "Nba季後賽",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Nba%E5%AD%A3%E5%BE%8C%E8%B3%BD",
         "pubdate": "Sun, 16 Apr 2023 00:00:00 +0800"
       }
     ],
@@ -34,6 +41,13 @@
         "title": "MotoGP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#MotoGP",
         "pubdate": "Sun, 16 Apr 2023 05:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "林可唯",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9E%97%E5%8F%AF%E5%94%AF",
+        "pubdate": "Sat, 15 Apr 2023 20:00:00 +0800"
       }
     ],
     [
@@ -66,13 +80,6 @@
     ],
     [
       {
-        "title": "林書豪",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9E%97%E6%9B%B8%E8%B1%AA",
-        "pubdate": "Sat, 15 Apr 2023 01:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Coachella",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Coachella",
         "pubdate": "Sat, 15 Apr 2023 11:00:00 +0800"
@@ -87,9 +94,9 @@
     ],
     [
       {
-        "title": "李崗霖",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9D%8E%E5%B4%97%E9%9C%96",
-        "pubdate": "Sat, 15 Apr 2023 21:00:00 +0800"
+        "title": "林書豪",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9E%97%E6%9B%B8%E8%B1%AA",
+        "pubdate": "Sat, 15 Apr 2023 01:00:00 +0800"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "樂天女孩",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%A8%82%E5%A4%A9%E5%A5%B3%E5%AD%A9",
+        "pubdate": "Sat, 15 Apr 2023 08:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "The Script",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#The%20Script",
         "pubdate": "Sat, 15 Apr 2023 19:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Selina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Selina",
-        "pubdate": "Sat, 15 Apr 2023 14:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "酒展",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%85%92%E5%B1%95",
-        "pubdate": "Sat, 15 Apr 2023 08:00:00 +0800"
       }
     ]
   ]

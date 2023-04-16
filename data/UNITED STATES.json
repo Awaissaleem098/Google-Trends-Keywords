@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "15-04-2023 , 23:52:42",
+  "lastUpdate": "16-04-2023 , 01:14:05",
   "data": [
     [
       {
         "title": "Celtics",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Celtics",
+        "pubdate": "Sat, 15 Apr 2023 15:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Knicks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Knicks",
         "pubdate": "Sat, 15 Apr 2023 15:00:00 -0700"
       }
     ],
@@ -17,23 +24,9 @@
     ],
     [
       {
-        "title": "Okc Thunder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Okc%20Thunder",
-        "pubdate": "Sat, 15 Apr 2023 01:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Jackie Robinson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jackie%20Robinson",
         "pubdate": "Sat, 15 Apr 2023 10:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Shai Gilgeous-Alexander",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Shai%20Gilgeous-Alexander",
-        "pubdate": "Sat, 15 Apr 2023 06:00:00 -0700"
       }
     ],
     [
@@ -47,6 +40,20 @@
       {
         "title": "USFL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USFL",
+        "pubdate": "Sat, 15 Apr 2023 13:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Man City vs Leicester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Man%20City%20vs%20Leicester%20City",
+        "pubdate": "Sat, 15 Apr 2023 11:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Cádiz  Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#C%C3%A1diz%20%20Real%20Madrid",
         "pubdate": "Sat, 15 Apr 2023 13:00:00 -0700"
       }
     ],
@@ -66,23 +73,16 @@
     ],
     [
       {
-        "title": "Shawn Kemp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Shawn%20Kemp",
-        "pubdate": "Sat, 15 Apr 2023 10:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Cavs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cavs",
-        "pubdate": "Sat, 15 Apr 2023 15:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Cody Bellinger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cody%20Bellinger",
         "pubdate": "Sat, 15 Apr 2023 04:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Mikey Williams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mikey%20Williams",
+        "pubdate": "Fri, 14 Apr 2023 10:00:00 -0700"
       }
     ],
     [
@@ -96,7 +96,14 @@
       {
         "title": "Coachella",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Coachella",
-        "pubdate": "Fri, 14 Apr 2023 22:00:00 -0700"
+        "pubdate": "Fri, 14 Apr 2023 21:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Timberwolves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Timberwolves",
+        "pubdate": "Fri, 14 Apr 2023 20:00:00 -0700"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "The Script",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20Script",
+        "pubdate": "Fri, 14 Apr 2023 19:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "The Last Thing He Told Me",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20Last%20Thing%20He%20Told%20Me",
         "pubdate": "Fri, 14 Apr 2023 13:00:00 -0700"
@@ -125,20 +139,6 @@
         "title": "Arnold Schwarzenegger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arnold%20Schwarzenegger",
         "pubdate": "Fri, 14 Apr 2023 07:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Dark and Darker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dark%20and%20Darker",
-        "pubdate": "Fri, 14 Apr 2023 12:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Blink-182",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Blink-182",
-        "pubdate": "Fri, 14 Apr 2023 21:00:00 -0700"
       }
     ]
   ]
