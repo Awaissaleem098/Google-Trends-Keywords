@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-04-2023 , 23:53:38",
+  "lastUpdate": "17-04-2023 , 01:17:22",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Der Sturm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Der%20Sturm",
-        "pubdate": "Sun, 16 Apr 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Marianne Rosenberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Marianne%20Rosenberg",
         "pubdate": "Sun, 16 Apr 2023 00:00:00 +0200"
@@ -52,9 +45,23 @@
     ],
     [
       {
+        "title": "Der Sturm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Der%20Sturm",
+        "pubdate": "Sun, 16 Apr 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Drag-Queen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Drag-Queen",
         "pubdate": "Sun, 16 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Barca",
+        "pubdate": "Sun, 16 Apr 2023 18:00:00 +0200"
       }
     ],
     [
@@ -87,23 +94,9 @@
     ],
     [
       {
-        "title": "Barca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Barca",
+        "title": "Union Berlin gegen Bochum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Union%20Berlin%20gegen%20Bochum",
         "pubdate": "Sun, 16 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Union Berlin Gegen Bochum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Union%20Berlin%20Gegen%20Bochum",
-        "pubdate": "Sun, 16 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Alma Zadic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alma%20Zadic",
-        "pubdate": "Sun, 16 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -115,9 +108,9 @@
     ],
     [
       {
-        "title": "SK Rapid Wien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SK%20Rapid%20Wien",
-        "pubdate": "Sun, 16 Apr 2023 19:00:00 +0200"
+        "title": "Alma Zadic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alma%20Zadic",
+        "pubdate": "Sun, 16 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Ciro Immobile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ciro%20Immobile",
         "pubdate": "Sun, 16 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jennifer Lopez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jennifer%20Lopez",
+        "pubdate": "Sun, 16 Apr 2023 00:00:00 +0200"
       }
     ]
   ]

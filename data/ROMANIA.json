@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "16-04-2023 , 23:53:50",
+  "lastUpdate": "17-04-2023 , 01:17:30",
   "data": [
     [
       {
         "title": "Roma  Udinese",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Roma%20%20Udinese",
         "pubdate": "Mon, 17 Apr 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Carl Sagan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Carl%20Sagan",
+        "pubdate": "Mon, 17 Apr 2023 03:00:00 +0300"
       }
     ],
     [
@@ -38,23 +45,9 @@
     ],
     [
       {
-        "title": "Sassuolo  Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sassuolo%20%20Juventus",
-        "pubdate": "Sun, 16 Apr 2023 20:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Portofino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Portofino",
         "pubdate": "Sun, 16 Apr 2023 13:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "MotoGP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#MotoGP",
-        "pubdate": "Sun, 16 Apr 2023 15:00:00 +0300"
       }
     ],
     [
@@ -101,13 +94,6 @@
     ],
     [
       {
-        "title": "Manastirea sihastria Putnei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Manastirea%20sihastria%20Putnei",
-        "pubdate": "Sun, 16 Apr 2023 20:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Ciro Immobile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ciro%20Immobile",
         "pubdate": "Sun, 16 Apr 2023 22:00:00 +0300"
@@ -118,6 +104,13 @@
         "title": "Urari de paste",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Urari%20de%20paste",
         "pubdate": "Sat, 15 Apr 2023 12:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Hristos a inviat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Hristos%20a%20inviat",
+        "pubdate": "Sat, 15 Apr 2023 08:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Cádiz  Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#C%C3%A1diz%20%20Real%20Madrid",
         "pubdate": "Sat, 15 Apr 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Coachella",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Coachella",
+        "pubdate": "Sat, 15 Apr 2023 13:00:00 +0300"
       }
     ]
   ]

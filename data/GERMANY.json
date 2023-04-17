@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-04-2023 , 23:53:43",
+  "lastUpdate": "17-04-2023 , 01:17:25",
   "data": [
     [
       {
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Helene Fischer Thomas Seitel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Helene%20Fischer%20Thomas%20Seitel",
-        "pubdate": "Sun, 16 Apr 2023 15:00:00 +0200"
+        "title": "Dieter Bohlen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dieter%20Bohlen",
+        "pubdate": "Sun, 16 Apr 2023 00:00:00 +0200"
       }
     ],
     [
@@ -55,6 +55,13 @@
         "title": "St. Pauli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#St.%20Pauli",
         "pubdate": "Sun, 16 Apr 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Helene Fischer Thomas Seitel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Helene%20Fischer%20Thomas%20Seitel",
+        "pubdate": "Sun, 16 Apr 2023 18:00:00 +0200"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Leben leicht gemacht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leben%20leicht%20gemacht",
-        "pubdate": "Sun, 16 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Michael J. Fox",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Michael%20J.%20Fox",
         "pubdate": "Sun, 16 Apr 2023 23:00:00 +0200"
@@ -104,6 +104,13 @@
         "title": "Amstel Gold Race",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Amstel%20Gold%20Race",
         "pubdate": "Sun, 16 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hannover Messe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hannover%20Messe",
+        "pubdate": "Sun, 16 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "VfB Stuttgart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
         "pubdate": "Sat, 15 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bayern Hoffenheim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20Hoffenheim",
-        "pubdate": "Sat, 15 Apr 2023 16:00:00 +0200"
       }
     ]
   ]

@@ -1,11 +1,32 @@
 {
-  "lastUpdate": "16-04-2023 , 23:53:48",
+  "lastUpdate": "17-04-2023 , 01:17:29",
   "data": [
+    [
+      {
+        "title": "Anzac Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Anzac%20Day",
+        "pubdate": "Mon, 17 Apr 2023 11:00:00 +1200"
+      }
+    ],
     [
       {
         "title": "Nottm Forest vs Man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nottm%20Forest%20vs%20Man%20United",
         "pubdate": "Mon, 17 Apr 2023 07:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "LinkedIn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#LinkedIn",
+        "pubdate": "Mon, 17 Apr 2023 12:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "West Ham vs Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#West%20Ham%20vs%20Arsenal",
+        "pubdate": "Mon, 17 Apr 2023 05:00:00 +1200"
       }
     ],
     [
@@ -17,6 +38,13 @@
     ],
     [
       {
+        "title": "Juicy Fest 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Juicy%20Fest%202024",
+        "pubdate": "Mon, 17 Apr 2023 11:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "IndyCar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#IndyCar",
         "pubdate": "Mon, 17 Apr 2023 09:00:00 +1200"
@@ -24,9 +52,9 @@
     ],
     [
       {
-        "title": "ACC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#ACC",
-        "pubdate": "Mon, 17 Apr 2023 10:00:00 +1200"
+        "title": "Auckland Council",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Auckland%20Council",
+        "pubdate": "Mon, 17 Apr 2023 12:00:00 +1200"
       }
     ],
     [
@@ -45,16 +73,23 @@
     ],
     [
       {
-        "title": "Max Holloway",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Max%20Holloway",
-        "pubdate": "Sun, 16 Apr 2023 14:00:00 +1200"
+        "title": "Realme",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Realme",
+        "pubdate": "Mon, 17 Apr 2023 12:00:00 +1200"
       }
     ],
     [
       {
         "title": "A-League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#A-League",
-        "pubdate": "Sun, 16 Apr 2023 18:00:00 +1200"
+        "pubdate": "Sun, 16 Apr 2023 15:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Max Holloway",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Max%20Holloway",
+        "pubdate": "Sun, 16 Apr 2023 14:00:00 +1200"
       }
     ],
     [
@@ -69,13 +104,6 @@
         "title": "Joe Joyce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Joe%20Joyce",
         "pubdate": "Sun, 16 Apr 2023 13:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Wellington Phoenix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wellington%20Phoenix",
-        "pubdate": "Sun, 16 Apr 2023 15:00:00 +1200"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Joker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Joker",
         "pubdate": "Sun, 16 Apr 2023 22:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Phoenix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Phoenix",
-        "pubdate": "Sun, 16 Apr 2023 16:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Man City vs Leicester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20City%20vs%20Leicester%20City",
-        "pubdate": "Sun, 16 Apr 2023 09:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "UFC Israel Adesanya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#UFC%20Israel%20Adesanya",
-        "pubdate": "Sun, 16 Apr 2023 12:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "A League table",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#A%20League%20table",
-        "pubdate": "Sun, 16 Apr 2023 18:00:00 +1200"
       }
     ]
   ]

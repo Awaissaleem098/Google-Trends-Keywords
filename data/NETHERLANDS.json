@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-04-2023 , 23:53:47",
+  "lastUpdate": "17-04-2023 , 01:17:28",
   "data": [
     [
       {
@@ -27,13 +27,6 @@
         "title": "Pogacar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pogacar",
         "pubdate": "Sun, 16 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Utrecht  Twente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Utrecht%20%20Twente",
-        "pubdate": "Sun, 16 Apr 2023 14:00:00 +0200"
       }
     ],
     [
@@ -73,6 +66,13 @@
     ],
     [
       {
+        "title": "FC Utrecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
+        "pubdate": "Sun, 16 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sanne Wevers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sanne%20Wevers",
         "pubdate": "Sun, 16 Apr 2023 15:00:00 +0200"
@@ -83,13 +83,6 @@
         "title": "Songfestival",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Songfestival",
         "pubdate": "Sun, 16 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Feyenoord; Cambuur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord;%20Cambuur",
-        "pubdate": "Sun, 16 Apr 2023 18:00:00 +0200"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Marathon Enschede",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marathon%20Enschede",
-        "pubdate": "Sat, 15 Apr 2023 14:00:00 +0200"
+        "title": "Toontje Lager",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Toontje%20Lager",
+        "pubdate": "Sat, 15 Apr 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sudan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sudan",
+        "pubdate": "Sat, 15 Apr 2023 20:00:00 +0200"
       }
     ]
   ]
