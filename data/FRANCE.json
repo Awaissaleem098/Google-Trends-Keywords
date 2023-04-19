@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-04-2023 , 01:34:01",
+  "lastUpdate": "19-04-2023 , 02:24:29",
   "data": [
     [
       {
@@ -31,23 +31,9 @@
     ],
     [
       {
-        "title": "Maladie de Charcot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Maladie%20de%20Charcot",
-        "pubdate": "Tue, 18 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Matthieu Lartot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Matthieu%20Lartot",
         "pubdate": "Tue, 18 Apr 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Segolene Royal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Segolene%20Royal",
-        "pubdate": "Tue, 18 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -108,16 +94,16 @@
     ],
     [
       {
-        "title": "Maroc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Maroc",
-        "pubdate": "Tue, 18 Apr 2023 09:00:00 +0200"
+        "title": "Kylian Mbappé",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kylian%20Mbapp%C3%A9",
+        "pubdate": "Tue, 18 Apr 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Kylian Mbappé",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kylian%20Mbapp%C3%A9",
-        "pubdate": "Tue, 18 Apr 2023 22:00:00 +0200"
+        "title": "Maroc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Maroc",
+        "pubdate": "Tue, 18 Apr 2023 09:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Crazy Stupid Love",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Crazy%20Stupid%20Love",
         "pubdate": "Tue, 18 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Vanessa Paradis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Vanessa%20Paradis",
+        "pubdate": "Tue, 18 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Minecraft Legends",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Minecraft%20Legends",
+        "pubdate": "Tue, 18 Apr 2023 17:00:00 +0200"
       }
     ]
   ]
