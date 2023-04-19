@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-04-2023 , 23:55:02",
+  "lastUpdate": "19-04-2023 , 01:34:05",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Al-hilal vs al-nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Al-hilal%20vs%20al-nassr",
+        "title": "Al-Hilal vs Al-Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Al-Hilal%20vs%20Al-Nassr",
         "pubdate": "Tue, 18 Apr 2023 20:00:00 +0100"
       }
     ],
@@ -24,8 +24,8 @@
     ],
     [
       {
-        "title": "Chelsea FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea%20FC",
+        "title": "Chelsea fc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea%20fc",
         "pubdate": "Tue, 18 Apr 2023 20:00:00 +0100"
       }
     ],
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Sheffield United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sheffield%20United",
-        "pubdate": "Tue, 18 Apr 2023 22:00:00 +0100"
+        "title": "Stowaway",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Stowaway",
+        "pubdate": "Tue, 18 Apr 2023 18:00:00 +0100"
       }
     ],
     [
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Stowaway",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Stowaway",
-        "pubdate": "Tue, 18 Apr 2023 18:00:00 +0100"
+        "title": "Sheffield United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sheffield%20United",
+        "pubdate": "Tue, 18 Apr 2023 22:00:00 +0100"
       }
     ],
     [
@@ -76,13 +76,6 @@
         "title": "Burnley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Burnley",
         "pubdate": "Tue, 18 Apr 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jose Mourinho",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Jose%20Mourinho",
-        "pubdate": "Tue, 18 Apr 2023 09:00:00 +0100"
       }
     ],
     [
@@ -101,16 +94,16 @@
     ],
     [
       {
-        "title": "William Saliba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#William%20Saliba",
-        "pubdate": "Tue, 18 Apr 2023 11:00:00 +0100"
+        "title": "Jonathan Majors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Jonathan%20Majors",
+        "pubdate": "Tue, 18 Apr 2023 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Jonathan Majors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Jonathan%20Majors",
-        "pubdate": "Tue, 18 Apr 2023 20:00:00 +0100"
+        "title": "William Saliba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#William%20Saliba",
+        "pubdate": "Tue, 18 Apr 2023 11:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Fiorentina vs Atalanta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Fiorentina%20vs%20Atalanta",
         "pubdate": "Mon, 17 Apr 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Keanu Reeves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Keanu%20Reeves",
+        "pubdate": "Mon, 17 Apr 2023 12:00:00 +0100"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-04-2023 , 23:54:54",
+  "lastUpdate": "19-04-2023 , 01:33:58",
   "data": [
     [
       {
@@ -45,16 +45,16 @@
     ],
     [
       {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Galatasaray",
-        "pubdate": "Tue, 18 Apr 2023 21:00:00 +0200"
+        "title": "Maladie de Charcot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Maladie%20de%20Charcot",
+        "pubdate": "Tue, 18 Apr 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Maladie de Charcot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Maladie%20de%20Charcot",
-        "pubdate": "Tue, 18 Apr 2023 15:00:00 +0200"
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Galatasaray",
+        "pubdate": "Tue, 18 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Eden Hazard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eden%20Hazard",
+        "pubdate": "Tue, 18 Apr 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "David Goffin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#David%20Goffin",
         "pubdate": "Tue, 18 Apr 2023 17:00:00 +0200"
@@ -83,13 +90,6 @@
         "title": "Tristan en Isolde",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tristan%20en%20Isolde",
         "pubdate": "Tue, 18 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eden Hazard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eden%20Hazard",
-        "pubdate": "Tue, 18 Apr 2023 23:00:00 +0200"
       }
     ],
     [
