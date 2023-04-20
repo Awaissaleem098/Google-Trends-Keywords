@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-04-2023 , 23:51:35",
+  "lastUpdate": "20-04-2023 , 01:00:17",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Moonbin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Moonbin",
         "pubdate": "Wed, 19 Apr 2023 12:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Corinthians x Argentinos Juniors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Corinthians%20x%20Argentinos%20Juniors",
+        "pubdate": "Wed, 19 Apr 2023 06:00:00 -0500"
       }
     ],
     [
@@ -38,9 +45,16 @@
     ],
     [
       {
-        "title": "CORINTHIANS X ARGENTINOS JUNIORS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CORINTHIANS%20X%20ARGENTINOS%20JUNIORS",
-        "pubdate": "Wed, 19 Apr 2023 06:00:00 -0500"
+        "title": "Defensa y Justicia x América-MG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Defensa%20y%20Justicia%20x%20Am%C3%A9rica-MG",
+        "pubdate": "Wed, 19 Apr 2023 17:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Nacional",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nacional",
+        "pubdate": "Wed, 19 Apr 2023 09:00:00 -0500"
       }
     ],
     [
@@ -48,6 +62,13 @@
         "title": "Roberto Carlos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Roberto%20Carlos",
         "pubdate": "Wed, 19 Apr 2023 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Independiente Medellín",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Independiente%20Medell%C3%ADn",
+        "pubdate": "Wed, 19 Apr 2023 16:00:00 -0500"
       }
     ],
     [
@@ -73,16 +94,9 @@
     ],
     [
       {
-        "title": "Nacional",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nacional",
+        "title": "Colo-Colo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Colo-Colo",
         "pubdate": "Wed, 19 Apr 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Defensa y Justicia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Defensa%20y%20Justicia",
-        "pubdate": "Wed, 19 Apr 2023 17:00:00 -0500"
       }
     ],
     [
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "Colo-Colo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Colo-Colo",
-        "pubdate": "Wed, 19 Apr 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Classificação da Libertadores",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Classifica%C3%A7%C3%A3o%20da%20Libertadores",
         "pubdate": "Wed, 19 Apr 2023 07:00:00 -0500"
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Aaron Carter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Aaron%20Carter",
-        "pubdate": "Wed, 19 Apr 2023 07:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Power Rangers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Power%20Rangers",
         "pubdate": "Wed, 19 Apr 2023 09:00:00 -0500"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Itatiaia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Itatiaia",
-        "pubdate": "Wed, 19 Apr 2023 09:00:00 -0500"
+        "title": "Aaron Carter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Aaron%20Carter",
+        "pubdate": "Wed, 19 Apr 2023 07:00:00 -0500"
       }
     ]
   ]
