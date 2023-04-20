@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-04-2023 , 01:00:17",
+  "lastUpdate": "20-04-2023 , 02:07:40",
   "data": [
     [
       {
@@ -17,23 +17,16 @@
     ],
     [
       {
+        "title": "Jets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jets",
+        "pubdate": "Wed, 19 Apr 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Clippers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Clippers",
         "pubdate": "Wed, 19 Apr 2023 00:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Morgan Barron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Morgan%20Barron",
-        "pubdate": "Wed, 19 Apr 2023 00:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Bunting",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bunting",
-        "pubdate": "Wed, 19 Apr 2023 08:00:00 -0400"
       }
     ],
     [
@@ -48,13 +41,6 @@
         "title": "Inter Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Inter%20Milan",
         "pubdate": "Wed, 19 Apr 2023 16:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Michael Bunting",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Michael%20Bunting",
-        "pubdate": "Wed, 19 Apr 2023 01:00:00 -0400"
       }
     ],
     [
@@ -87,22 +73,15 @@
     ],
     [
       {
-        "title": "OHL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#OHL",
-        "pubdate": "Wed, 19 Apr 2023 11:00:00 -0400"
+        "title": "Katy Perry American Idol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Katy%20Perry%20American%20Idol",
+        "pubdate": "Wed, 19 Apr 2023 15:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Solar eclipse 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Solar%20eclipse%202023",
-        "pubdate": "Wed, 19 Apr 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Matt Walsh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Matt%20Walsh",
+        "title": "Solar Eclipse 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Solar%20Eclipse%202023",
         "pubdate": "Wed, 19 Apr 2023 13:00:00 -0400"
       }
     ],
@@ -115,9 +94,16 @@
     ],
     [
       {
-        "title": "Russell Westbrook",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Russell%20Westbrook",
-        "pubdate": "Wed, 19 Apr 2023 14:00:00 -0400"
+        "title": "Matt Walsh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Matt%20Walsh",
+        "pubdate": "Wed, 19 Apr 2023 13:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "OHL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#OHL",
+        "pubdate": "Wed, 19 Apr 2023 11:00:00 -0400"
       }
     ],
     [
@@ -129,9 +115,9 @@
     ],
     [
       {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Novak%20Djokovic",
-        "pubdate": "Wed, 19 Apr 2023 15:00:00 -0400"
+        "title": "Russell Westbrook",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Russell%20Westbrook",
+        "pubdate": "Wed, 19 Apr 2023 14:00:00 -0400"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Mireille Mathieu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mireille%20Mathieu",
         "pubdate": "Wed, 19 Apr 2023 12:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Novak%20Djokovic",
+        "pubdate": "Wed, 19 Apr 2023 15:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Mandalorian Season 4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mandalorian%20Season%204",
+        "pubdate": "Wed, 19 Apr 2023 19:00:00 -0400"
       }
     ]
   ]
