@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-04-2023 , 23:58:10",
+  "lastUpdate": "22-04-2023 , 01:36:37",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Roma",
-        "pubdate": "Fri, 21 Apr 2023 20:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Jean de La craiova",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Jean%20de%20La%20craiova",
         "pubdate": "Fri, 21 Apr 2023 17:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Swiatek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Swiatek",
         "pubdate": "Fri, 21 Apr 2023 23:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Loredana Groza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Loredana%20Groza",
+        "pubdate": "Fri, 21 Apr 2023 12:00:00 +0300"
       }
     ]
   ]

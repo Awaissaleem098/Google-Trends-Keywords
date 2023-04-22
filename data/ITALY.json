@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-04-2023 , 23:58:06",
+  "lastUpdate": "22-04-2023 , 01:36:35",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Cambiamento climatico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cambiamento%20climatico",
+        "pubdate": "Sat, 22 Apr 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Nanni Moretti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nanni%20Moretti",
         "pubdate": "Sat, 22 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pillola anticoncezionale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Pillola%20anticoncezionale",
+        "pubdate": "Sat, 22 Apr 2023 01:00:00 +0200"
       }
     ],
     [
@@ -38,6 +52,20 @@
     ],
     [
       {
+        "title": "Reggina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Reggina",
+        "pubdate": "Fri, 21 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Angers-PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Angers-PSG",
+        "pubdate": "Fri, 21 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Natale di Roma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Natale%20di%20Roma",
         "pubdate": "Fri, 21 Apr 2023 07:00:00 +0200"
@@ -59,13 +87,6 @@
     ],
     [
       {
-        "title": "Angers-PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Angers-PSG",
-        "pubdate": "Fri, 21 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Campionato serie a",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Campionato%20serie%20a",
         "pubdate": "Fri, 21 Apr 2023 10:00:00 +0200"
@@ -73,9 +94,9 @@
     ],
     [
       {
-        "title": "Reggina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Reggina",
-        "pubdate": "Fri, 21 Apr 2023 21:00:00 +0200"
+        "title": "Jan Palach",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Jan%20Palach",
+        "pubdate": "Fri, 21 Apr 2023 15:00:00 +0200"
       }
     ],
     [
@@ -90,6 +111,13 @@
         "title": "Uomini e Donne oggi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Uomini%20e%20Donne%20oggi",
         "pubdate": "Fri, 21 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bundesliga",
+        "pubdate": "Fri, 21 Apr 2023 00:00:00 +0200"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Stefania Sandrelli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Stefania%20Sandrelli",
         "pubdate": "Fri, 21 Apr 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Margherita Buy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Margherita%20Buy",
-        "pubdate": "Fri, 21 Apr 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Preside arrestata",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Preside%20arrestata",
-        "pubdate": "Fri, 21 Apr 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Youth League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Youth%20League",
-        "pubdate": "Fri, 21 Apr 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bridget Fonda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bridget%20Fonda",
-        "pubdate": "Fri, 21 Apr 2023 16:00:00 +0200"
       }
     ]
   ]

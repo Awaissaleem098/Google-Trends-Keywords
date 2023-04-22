@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "21-04-2023 , 23:58:01",
+  "lastUpdate": "22-04-2023 , 01:36:31",
   "data": [
+    [
+      {
+        "title": "Klimaschutz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Klimaschutz",
+        "pubdate": "Sat, 22 Apr 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#PSG",
         "pubdate": "Sat, 22 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Willi Resetarits",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Willi%20Resetarits",
+        "pubdate": "Sat, 22 Apr 2023 01:00:00 +0200"
       }
     ],
     [
@@ -27,13 +41,6 @@
         "title": "Conference League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Conference%20League",
         "pubdate": "Fri, 21 Apr 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wolfsberg gegen Hartberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wolfsberg%20gegen%20Hartberg",
-        "pubdate": "Fri, 21 Apr 2023 20:00:00 +0200"
       }
     ],
     [
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "HSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#HSV",
-        "pubdate": "Fri, 21 Apr 2023 21:00:00 +0200"
+        "title": "Ramadan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ramadan",
+        "pubdate": "Fri, 21 Apr 2023 10:00:00 +0200"
       }
     ],
     [
@@ -80,9 +87,30 @@
     ],
     [
       {
+        "title": "HSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#HSV",
+        "pubdate": "Fri, 21 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Belgorod",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Belgorod",
         "pubdate": "Fri, 21 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "WAC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#WAC",
+        "pubdate": "Fri, 21 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ryan Garcia vs Gervonta Davis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ryan%20Garcia%20vs%20Gervonta%20Davis",
+        "pubdate": "Fri, 21 Apr 2023 23:00:00 +0200"
       }
     ],
     [
@@ -101,13 +129,6 @@
     ],
     [
       {
-        "title": "Ryan Garcia vs Gervonta Davis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ryan%20Garcia%20vs%20Gervonta%20Davis",
-        "pubdate": "Fri, 21 Apr 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Alec Baldwin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alec%20Baldwin",
         "pubdate": "Fri, 21 Apr 2023 11:00:00 +0200"
@@ -118,27 +139,6 @@
         "title": "Der Marsianer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Der%20Marsianer",
         "pubdate": "Fri, 21 Apr 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "JOSH",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#JOSH",
-        "pubdate": "Fri, 21 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Matthias Strolz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Matthias%20Strolz",
-        "pubdate": "Fri, 21 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ed Sheeran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ed%20Sheeran",
-        "pubdate": "Fri, 21 Apr 2023 18:00:00 +0200"
       }
     ]
   ]
