@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-04-2023 , 23:56:10",
+  "lastUpdate": "24-04-2023 , 01:38:55",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "Meb",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Meb",
+        "title": "MEB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#MEB",
         "pubdate": "Mon, 24 Apr 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Sevilla",
+        "pubdate": "Mon, 24 Apr 2023 02:00:00 +0300"
       }
     ],
     [
@@ -34,6 +41,13 @@
         "title": "Çağatay Ulusoy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C3%87a%C4%9Fatay%20Ulusoy",
         "pubdate": "Mon, 24 Apr 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Şeyma Subaşı",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C5%9Eeyma%20Suba%C5%9F%C4%B1",
+        "pubdate": "Mon, 24 Apr 2023 02:00:00 +0300"
       }
     ],
     [
@@ -80,13 +94,6 @@
     ],
     [
       {
-        "title": "George Everest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#George%20Everest",
-        "pubdate": "Sun, 23 Apr 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "İstiklal Marşı",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0stiklal%20Mar%C5%9F%C4%B1",
         "pubdate": "Sun, 23 Apr 2023 16:00:00 +0300"
@@ -94,9 +101,23 @@
     ],
     [
       {
+        "title": "George Everest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#George%20Everest",
+        "pubdate": "Sun, 23 Apr 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Rizespor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Rizespor",
         "pubdate": "Sun, 23 Apr 2023 14:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Napoli",
+        "pubdate": "Sun, 23 Apr 2023 22:00:00 +0300"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Muğla deprem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mu%C4%9Fla%20deprem",
         "pubdate": "Sun, 23 Apr 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Şanlıurfaspor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C5%9Eanl%C4%B1urfaspor",
-        "pubdate": "Sun, 23 Apr 2023 16:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Amedspor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Amedspor",
-        "pubdate": "Sun, 23 Apr 2023 19:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Bursaspor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bursaspor",
-        "pubdate": "Sun, 23 Apr 2023 21:00:00 +0300"
       }
     ]
   ]

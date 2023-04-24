@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-04-2023 , 23:55:59",
+  "lastUpdate": "24-04-2023 , 01:38:41",
   "data": [
     [
       {
@@ -10,16 +10,23 @@
     ],
     [
       {
-        "title": "Kraken",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kraken",
-        "pubdate": "Sun, 23 Apr 2023 04:00:00 -0700"
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tottenham",
+        "pubdate": "Sun, 23 Apr 2023 08:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tottenham",
-        "pubdate": "Sun, 23 Apr 2023 08:00:00 -0700"
+        "title": "Talladega race",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Talladega%20race",
+        "pubdate": "Sun, 23 Apr 2023 10:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Seattle Kraken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Seattle%20Kraken",
+        "pubdate": "Sun, 23 Apr 2023 05:00:00 -0700"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Phoenix Suns",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Phoenix%20Suns",
         "pubdate": "Sun, 23 Apr 2023 04:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Talladega race",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Talladega%20race",
-        "pubdate": "Sun, 23 Apr 2023 10:00:00 -0700"
       }
     ],
     [
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Toronto Maple Leafs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Toronto%20Maple%20Leafs",
-        "pubdate": "Sun, 23 Apr 2023 00:00:00 -0700"
+        "title": "Jeff Shell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jeff%20Shell",
+        "pubdate": "Sun, 23 Apr 2023 15:00:00 -0700"
       }
     ],
     [
@@ -80,8 +80,15 @@
     ],
     [
       {
-        "title": "Jeff Shell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jeff%20Shell",
+        "title": "Toronto Maple Leafs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Toronto%20Maple%20Leafs",
+        "pubdate": "Sun, 23 Apr 2023 00:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "London Marathon 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#London%20Marathon%202023",
         "pubdate": "Sun, 23 Apr 2023 15:00:00 -0700"
       }
     ],
@@ -90,13 +97,6 @@
         "title": "Jurassic Park",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jurassic%20Park",
         "pubdate": "Sun, 23 Apr 2023 14:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "London Marathon 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#London%20Marathon%202023",
-        "pubdate": "Sun, 23 Apr 2023 15:00:00 -0700"
       }
     ],
     [
@@ -129,8 +129,8 @@
     ],
     [
       {
-        "title": "Wrexham FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Wrexham%20FC",
+        "title": "Wrexham fc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Wrexham%20fc",
         "pubdate": "Sat, 22 Apr 2023 12:00:00 -0700"
       }
     ],

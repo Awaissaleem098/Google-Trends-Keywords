@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "23-04-2023 , 23:56:00",
+  "lastUpdate": "24-04-2023 , 01:38:43",
   "data": [
     [
       {
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tottenham",
         "pubdate": "Sun, 23 Apr 2023 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Fortaleza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fortaleza",
+        "pubdate": "Sun, 23 Apr 2023 12:00:00 -0500"
       }
     ],
     [
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "BARCELONA X ATLÉTICO Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#BARCELONA%20X%20ATL%C3%89TICO%20Madrid",
+        "title": "Barcelona x Atlético Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Barcelona%20x%20Atl%C3%A9tico%20Madrid",
         "pubdate": "Sun, 23 Apr 2023 09:00:00 -0500"
       }
     ],
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Coritiba x Fortaleza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Coritiba%20x%20Fortaleza",
-        "pubdate": "Sun, 23 Apr 2023 12:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Napoli",
         "pubdate": "Sun, 23 Apr 2023 16:00:00 -0500"
@@ -59,23 +59,16 @@
     ],
     [
       {
+        "title": "ABC x ec Vitória",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#ABC%20x%20ec%20Vit%C3%B3ria",
+        "pubdate": "Sun, 23 Apr 2023 16:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Benfica",
         "pubdate": "Sun, 23 Apr 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Deuses do Egito",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Deuses%20do%20Egito",
-        "pubdate": "Sun, 23 Apr 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Inter de Milão",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inter%20de%20Mil%C3%A3o",
-        "pubdate": "Sun, 23 Apr 2023 09:00:00 -0500"
       }
     ],
     [
@@ -87,9 +80,16 @@
     ],
     [
       {
-        "title": "ABC x ec Vitória",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#ABC%20x%20ec%20Vit%C3%B3ria",
-        "pubdate": "Sun, 23 Apr 2023 16:00:00 -0500"
+        "title": "Inter de Milão",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inter%20de%20Mil%C3%A3o",
+        "pubdate": "Sun, 23 Apr 2023 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Warriors x Kings",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Warriors%20x%20Kings",
+        "pubdate": "Sun, 23 Apr 2023 15:00:00 -0500"
       }
     ],
     [
@@ -97,6 +97,20 @@
         "title": "Bayer Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayer%20Leverkusen",
         "pubdate": "Sun, 23 Apr 2023 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Dia Mundial do Livro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20Mundial%20do%20Livro",
+        "pubdate": "Sun, 23 Apr 2023 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Deuses do Egito",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Deuses%20do%20Egito",
+        "pubdate": "Sun, 23 Apr 2023 11:00:00 -0500"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Galatasaray",
         "pubdate": "Sun, 23 Apr 2023 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Tabela brasileirao 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tabela%20brasileirao%202023",
-        "pubdate": "Sun, 23 Apr 2023 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Goias x Corinthians",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Goias%20x%20Corinthians",
-        "pubdate": "Sun, 23 Apr 2023 14:00:00 -0500"
       }
     ]
   ]

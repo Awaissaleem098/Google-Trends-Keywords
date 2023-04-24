@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "23-04-2023 , 23:56:02",
+  "lastUpdate": "24-04-2023 , 01:38:46",
   "data": [
     [
       {
         "title": "Freiburg gegen Schalke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Freiburg%20gegen%20Schalke",
         "pubdate": "Sun, 23 Apr 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "BVB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
-        "pubdate": "Sun, 23 Apr 2023 17:00:00 +0200"
       }
     ],
     [
@@ -52,13 +45,6 @@
     ],
     [
       {
-        "title": "Tarifabschluss öffentlicher dienst",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tarifabschluss%20%C3%B6ffentlicher%20dienst",
-        "pubdate": "Sun, 23 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Oliver Kahn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Oliver%20Kahn",
         "pubdate": "Sun, 23 Apr 2023 13:00:00 +0200"
@@ -66,16 +52,16 @@
     ],
     [
       {
-        "title": "Dalai Lama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dalai%20Lama",
-        "pubdate": "Sun, 23 Apr 2023 23:00:00 +0200"
+        "title": "Tarifabschluss öffentlicher dienst",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tarifabschluss%20%C3%B6ffentlicher%20dienst",
+        "pubdate": "Sun, 23 Apr 2023 10:00:00 +0200"
       }
     ],
     [
       {
-        "title": "FSV Zwickau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FSV%20Zwickau",
-        "pubdate": "Sun, 23 Apr 2023 17:00:00 +0200"
+        "title": "Dalai Lama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dalai%20Lama",
+        "pubdate": "Sun, 23 Apr 2023 23:00:00 +0200"
       }
     ],
     [
@@ -94,37 +80,16 @@
     ],
     [
       {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tottenham",
+        "title": "FSV Zwickau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FSV%20Zwickau",
         "pubdate": "Sun, 23 Apr 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Zendaya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zendaya",
-        "pubdate": "Sun, 23 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mia Julia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mia%20Julia",
-        "pubdate": "Sun, 23 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "7 vs Wild Staffel 3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#7%20vs%20Wild%20Staffel%203",
-        "pubdate": "Sun, 23 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tatort Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tatort%20Dortmund",
-        "pubdate": "Sun, 23 Apr 2023 22:00:00 +0200"
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tottenham",
+        "pubdate": "Sun, 23 Apr 2023 17:00:00 +0200"
       }
     ],
     [
@@ -136,9 +101,44 @@
     ],
     [
       {
+        "title": "Zendaya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zendaya",
+        "pubdate": "Sun, 23 Apr 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tatort Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tatort%20Dortmund",
+        "pubdate": "Sun, 23 Apr 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "7 vs Wild Staffel 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#7%20vs%20Wild%20Staffel%203",
+        "pubdate": "Sun, 23 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Love is pain",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Love%20is%20pain",
+        "pubdate": "Sun, 23 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "SPD Berlin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SPD%20Berlin",
         "pubdate": "Sun, 23 Apr 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Brad Pitt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Brad%20Pitt",
+        "pubdate": "Sun, 23 Apr 2023 23:00:00 +0200"
       }
     ]
   ]
