@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-04-2023 , 23:59:11",
+  "lastUpdate": "28-04-2023 , 01:39:38",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Jacob Weitering",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jacob%20Weitering",
         "pubdate": "Fri, 28 Apr 2023 09:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Emmett Till",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Emmett%20Till",
+        "pubdate": "Fri, 28 Apr 2023 10:00:00 +1000"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Glen Powell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Glen%20Powell",
-        "pubdate": "Thu, 27 Apr 2023 21:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "NFL Draft",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NFL%20Draft",
         "pubdate": "Thu, 27 Apr 2023 11:00:00 +1000"
@@ -87,9 +87,23 @@
     ],
     [
       {
+        "title": "Glen Powell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Glen%20Powell",
+        "pubdate": "Thu, 27 Apr 2023 21:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Love and Death",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Love%20and%20Death",
         "pubdate": "Thu, 27 Apr 2023 19:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Dr Chris Brown",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dr%20Chris%20Brown",
+        "pubdate": "Thu, 27 Apr 2023 21:00:00 +1000"
       }
     ],
     [
@@ -104,13 +118,6 @@
         "title": "Archibald Prize 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Archibald%20Prize%202023",
         "pubdate": "Thu, 27 Apr 2023 15:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Dr Chris Brown",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dr%20Chris%20Brown",
-        "pubdate": "Thu, 27 Apr 2023 21:00:00 +1000"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Katy Perry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Katy%20Perry",
         "pubdate": "Thu, 27 Apr 2023 20:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Blackmores",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Blackmores",
-        "pubdate": "Thu, 27 Apr 2023 18:00:00 +1000"
       }
     ]
   ]
