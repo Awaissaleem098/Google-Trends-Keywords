@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-05-2023 , 14:44:57",
+  "lastUpdate": "03-05-2023 , 14:58:00",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Raiffeisen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Raiffeisen",
-        "pubdate": "Tue, 02 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jared Leto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jared%20Leto",
         "pubdate": "Tue, 02 May 2023 12:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Toy Box",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Toy%20Box",
         "pubdate": "Tue, 02 May 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Odvolání na střední školu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Odvol%C3%A1n%C3%AD%20na%20st%C5%99edn%C3%AD%20%C5%A1kolu",
+        "pubdate": "Tue, 02 May 2023 06:00:00 +0200"
       }
     ]
   ]

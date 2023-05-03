@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "03-05-2023 , 14:44:55",
+  "lastUpdate": "03-05-2023 , 14:57:58",
   "data": [
+    [
+      {
+        "title": "Kraken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kraken",
+        "pubdate": "Wed, 03 May 2023 07:00:00 -0700"
+      }
+    ],
     [
       {
         "title": "Millie Bobby Brown",
@@ -73,30 +80,16 @@
     ],
     [
       {
-        "title": "Barcelona vs Osasuna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barcelona%20vs%20Osasuna",
-        "pubdate": "Tue, 02 May 2023 11:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barcelona",
-        "pubdate": "Tue, 02 May 2023 12:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "NBA MVP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NBA%20MVP",
-        "pubdate": "Tue, 02 May 2023 17:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Chris Paul",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chris%20Paul",
         "pubdate": "Tue, 02 May 2023 15:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Jesse McFadden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jesse%20McFadden",
+        "pubdate": "Tue, 02 May 2023 09:00:00 -0700"
       }
     ],
     [
@@ -115,8 +108,8 @@
     ],
     [
       {
-        "title": "Tony Nominations 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tony%20Nominations%202023",
+        "title": "Tony nominations 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tony%20nominations%202023",
         "pubdate": "Tue, 02 May 2023 09:00:00 -0700"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Dwayne Johnson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dwayne%20Johnson",
         "pubdate": "Tue, 02 May 2023 04:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "New York Rangers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#New%20York%20Rangers",
+        "pubdate": "Tue, 02 May 2023 09:00:00 -0700"
       }
     ]
   ]
