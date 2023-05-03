@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "03-05-2023 , 15:33:56",
+  "lastUpdate": "03-05-2023 , 15:47:15",
   "data": [
-    [
-      {
-        "title": "好市多莓果",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%A5%BD%E5%B8%82%E5%A4%9A%E8%8E%93%E6%9E%9C",
-        "pubdate": "Wed, 03 May 2023 09:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "黃子佼",
@@ -20,13 +13,6 @@
         "title": "星際異攻隊3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%98%9F%E9%9A%9B%E7%95%B0%E6%94%BB%E9%9A%8A3",
         "pubdate": "Wed, 03 May 2023 12:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "胡凱翔",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%83%A1%E5%87%B1%E7%BF%94",
-        "pubdate": "Wed, 03 May 2023 10:00:00 +0800"
       }
     ],
     [
@@ -45,6 +31,20 @@
     ],
     [
       {
+        "title": "胡凱翔",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%83%A1%E5%87%B1%E7%BF%94",
+        "pubdate": "Wed, 03 May 2023 10:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Dillon Brooks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Dillon%20Brooks",
+        "pubdate": "Wed, 03 May 2023 14:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "龍騰斷橋",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%BE%8D%E9%A8%B0%E6%96%B7%E6%A9%8B",
         "pubdate": "Wed, 03 May 2023 14:00:00 +0800"
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "升息",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8D%87%E6%81%AF",
-        "pubdate": "Wed, 03 May 2023 14:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Fed",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Fed",
         "pubdate": "Wed, 03 May 2023 00:00:00 +0800"
@@ -73,16 +66,16 @@
     ],
     [
       {
-        "title": "AMD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#AMD",
-        "pubdate": "Wed, 03 May 2023 18:00:00 +0800"
+        "title": "韓國瑜",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%9F%93%E5%9C%8B%E7%91%9C",
+        "pubdate": "Wed, 03 May 2023 12:00:00 +0800"
       }
     ],
     [
       {
-        "title": "韓國瑜",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%9F%93%E5%9C%8B%E7%91%9C",
-        "pubdate": "Wed, 03 May 2023 12:00:00 +0800"
+        "title": "AMD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#AMD",
+        "pubdate": "Wed, 03 May 2023 18:00:00 +0800"
       }
     ],
     [
@@ -101,23 +94,9 @@
     ],
     [
       {
-        "title": "李彥秀",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9D%8E%E5%BD%A5%E7%A7%80",
-        "pubdate": "Wed, 03 May 2023 19:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "以家人之名",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E4%BB%A5%E5%AE%B6%E4%BA%BA%E4%B9%8B%E5%90%8D",
         "pubdate": "Wed, 03 May 2023 03:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "A型肝炎",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#A%E5%9E%8B%E8%82%9D%E7%82%8E",
-        "pubdate": "Wed, 03 May 2023 14:00:00 +0800"
       }
     ],
     [
@@ -129,9 +108,30 @@
     ],
     [
       {
+        "title": "A型肝炎",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#A%E5%9E%8B%E8%82%9D%E7%82%8E",
+        "pubdate": "Wed, 03 May 2023 14:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "白朮",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%99%BD%E6%9C%AE",
         "pubdate": "Wed, 03 May 2023 03:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "李彥秀",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9D%8E%E5%BD%A5%E7%A7%80",
+        "pubdate": "Wed, 03 May 2023 19:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "陳福祥",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%99%B3%E7%A6%8F%E7%A5%A5",
+        "pubdate": "Wed, 03 May 2023 00:00:00 +0800"
       }
     ],
     [
