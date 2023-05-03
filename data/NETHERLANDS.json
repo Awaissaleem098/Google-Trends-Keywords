@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "03-05-2023 , 15:47:10",
+  "lastUpdate": "03-05-2023 , 16:00:04",
   "data": [
     [
       {
-        "title": "Transavia Nieuws",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Transavia%20Nieuws",
+        "title": "Tori Bowie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tori%20Bowie",
+        "pubdate": "Wed, 03 May 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Transavia-nieuws",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Transavia-nieuws",
         "pubdate": "Wed, 03 May 2023 13:00:00 +0200"
       }
     ],
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Nadia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nadia",
-        "pubdate": "Tue, 02 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Met Gala 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Met%20Gala%202023",
         "pubdate": "Mon, 01 May 2023 03:00:00 +0200"
@@ -129,8 +129,8 @@
     ],
     [
       {
-        "title": "Met Gala",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Met%20Gala",
+        "title": "Karl Lagerfeld",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Karl%20Lagerfeld",
         "pubdate": "Mon, 01 May 2023 21:00:00 +0200"
       }
     ],

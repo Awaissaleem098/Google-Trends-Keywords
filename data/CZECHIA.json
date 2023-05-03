@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-05-2023 , 15:47:05",
+  "lastUpdate": "03-05-2023 , 15:59:59",
   "data": [
     [
       {
@@ -17,9 +17,16 @@
     ],
     [
       {
-        "title": "Jindřich Rajchl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jind%C5%99ich%20Rajchl",
-        "pubdate": "Wed, 03 May 2023 00:00:00 +0200"
+        "title": "Bělehrad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#B%C4%9Blehrad",
+        "pubdate": "Wed, 03 May 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cristiano Ronaldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Cristiano%20Ronaldo",
+        "pubdate": "Wed, 03 May 2023 16:00:00 +0200"
       }
     ],
     [
@@ -31,9 +38,16 @@
     ],
     [
       {
-        "title": "Bělehrad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#B%C4%9Blehrad",
-        "pubdate": "Wed, 03 May 2023 13:00:00 +0200"
+        "title": "Jindřich Rajchl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jind%C5%99ich%20Rajchl",
+        "pubdate": "Wed, 03 May 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kevin Costner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kevin%20Costner",
+        "pubdate": "Wed, 03 May 2023 14:00:00 +0200"
       }
     ],
     [
@@ -52,16 +66,16 @@
     ],
     [
       {
-        "title": "Kevin Costner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kevin%20Costner",
-        "pubdate": "Wed, 03 May 2023 14:00:00 +0200"
+        "title": "Hašek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ha%C5%A1ek",
+        "pubdate": "Wed, 03 May 2023 08:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Hašek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ha%C5%A1ek",
-        "pubdate": "Wed, 03 May 2023 08:00:00 +0200"
+        "title": "Kreml",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kreml",
+        "pubdate": "Wed, 03 May 2023 17:00:00 +0200"
       }
     ],
     [
@@ -73,9 +87,9 @@
     ],
     [
       {
-        "title": "Luční bouda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lu%C4%8Dn%C3%AD%20bouda",
-        "pubdate": "Wed, 03 May 2023 07:00:00 +0200"
+        "title": "Raiffeisenbank",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Raiffeisenbank",
+        "pubdate": "Tue, 02 May 2023 22:00:00 +0200"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Redfall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Redfall",
-        "pubdate": "Tue, 02 May 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Divokej Bill",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Divokej%20Bill",
         "pubdate": "Tue, 02 May 2023 23:00:00 +0200"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Toy Box",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Toy%20Box",
-        "pubdate": "Tue, 02 May 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Odvolání na střední školu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Odvol%C3%A1n%C3%AD%20na%20st%C5%99edn%C3%AD%20%C5%A1kolu",
-        "pubdate": "Tue, 02 May 2023 06:00:00 +0200"
+        "title": "Redfall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Redfall",
+        "pubdate": "Tue, 02 May 2023 08:00:00 +0200"
       }
     ]
   ]
