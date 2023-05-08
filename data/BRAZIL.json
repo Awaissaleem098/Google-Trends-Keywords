@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-05-2023 , 23:47:57",
+  "lastUpdate": "08-05-2023 , 00:28:38",
   "data": [
     [
       {
@@ -17,6 +17,20 @@
     ],
     [
       {
+        "title": "Palmirinha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Palmirinha",
+        "pubdate": "Sun, 07 May 2023 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Goiás x Palmeiras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Goi%C3%A1s%20x%20Palmeiras",
+        "pubdate": "Sun, 07 May 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Bahia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bahia",
         "pubdate": "Sun, 07 May 2023 09:00:00 -0500"
@@ -24,9 +38,9 @@
     ],
     [
       {
-        "title": "GOIÁS X PALMEIRAS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#GOI%C3%81S%20X%20PALMEIRAS",
-        "pubdate": "Sun, 07 May 2023 13:00:00 -0500"
+        "title": "Botafogo x Atlético-MG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo%20x%20Atl%C3%A9tico-MG",
+        "pubdate": "Sun, 07 May 2023 07:00:00 -0500"
       }
     ],
     [
@@ -52,8 +66,15 @@
     ],
     [
       {
-        "title": "América-MG x Cuiabá",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Am%C3%A9rica-MG%20x%20Cuiab%C3%A1",
+        "title": "GRÊMIO X BRAGANTINO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#GR%C3%8AMIO%20X%20BRAGANTINO",
+        "pubdate": "Sun, 07 May 2023 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "América-MG X Cuiabá",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Am%C3%A9rica-MG%20X%20Cuiab%C3%A1",
         "pubdate": "Sun, 07 May 2023 09:00:00 -0500"
       }
     ],
@@ -66,22 +87,8 @@
     ],
     [
       {
-        "title": "GRÊMIO X BRAGANTINO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#GR%C3%8AMIO%20X%20BRAGANTINO",
-        "pubdate": "Sun, 07 May 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Ceara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ceara",
-        "pubdate": "Sun, 07 May 2023 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Palmirinha Onofre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Palmirinha%20Onofre",
         "pubdate": "Sun, 07 May 2023 12:00:00 -0500"
       }
     ],
@@ -108,16 +115,16 @@
     ],
     [
       {
-        "title": "Chapecoense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chapecoense",
-        "pubdate": "Sun, 07 May 2023 12:00:00 -0500"
+        "title": "Lyon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lyon",
+        "pubdate": "Sun, 07 May 2023 10:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Lyon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lyon",
-        "pubdate": "Sun, 07 May 2023 10:00:00 -0500"
+        "title": "Sao paulo FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20paulo%20FC",
+        "pubdate": "Sun, 07 May 2023 17:00:00 -0500"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Praia Clube",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Praia%20Clube",
-        "pubdate": "Sun, 07 May 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Alcaraz",
-        "pubdate": "Sun, 07 May 2023 13:00:00 -0500"
+        "title": "Fluminense x",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fluminense%20x",
+        "pubdate": "Sun, 07 May 2023 17:00:00 -0500"
       }
     ]
   ]
