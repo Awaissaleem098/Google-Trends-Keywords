@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "08-05-2023 , 00:28:37",
+  "lastUpdate": "08-05-2023 , 01:50:24",
   "data": [
     [
       {
         "title": "Johannes Brahms",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Johannes%20Brahms",
         "pubdate": "Sun, 07 May 2023 01:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Fútbol Libre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#F%C3%BAtbol%20Libre",
+        "pubdate": "Sun, 07 May 2023 16:00:00 -0300"
       }
     ],
     [
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Partido de River",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Partido%20de%20River",
-        "pubdate": "Sun, 07 May 2023 16:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Arsenal",
         "pubdate": "Sun, 07 May 2023 12:00:00 -0300"
@@ -41,13 +41,6 @@
         "title": "Padron electoral Jujuy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Padron%20electoral%20Jujuy",
         "pubdate": "Sun, 07 May 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "TNT Sports",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#TNT%20Sports",
-        "pubdate": "Sun, 07 May 2023 17:00:00 -0300"
       }
     ],
     [
@@ -80,16 +73,9 @@
     ],
     [
       {
-        "title": "Evita",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Evita",
-        "pubdate": "Sun, 07 May 2023 08:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "ESPN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#ESPN",
-        "pubdate": "Sun, 07 May 2023 19:00:00 -0300"
+        "title": "Demichelis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Demichelis",
+        "pubdate": "Sun, 07 May 2023 18:00:00 -0300"
       }
     ],
     [
@@ -101,9 +87,16 @@
     ],
     [
       {
-        "title": "Demichelis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Demichelis",
-        "pubdate": "Sun, 07 May 2023 18:00:00 -0300"
+        "title": "Evita",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Evita",
+        "pubdate": "Sun, 07 May 2023 08:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "ESPN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#ESPN",
+        "pubdate": "Sun, 07 May 2023 19:00:00 -0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Resistencia  Cerro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Resistencia%20%20Cerro",
         "pubdate": "Sun, 07 May 2023 19:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Temperley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Temperley",
+        "pubdate": "Sun, 07 May 2023 16:00:00 -0300"
       }
     ]
   ]
