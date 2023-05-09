@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-05-2023 , 13:08:13",
+  "lastUpdate": "09-05-2023 , 15:15:25",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Ordonanta austeritatii",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ordonanta%20austeritatii",
+        "pubdate": "Tue, 09 May 2023 10:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Caracal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Caracal",
         "pubdate": "Tue, 09 May 2023 09:00:00 +0300"
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Ordonanta austeritatii",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ordonanta%20austeritatii",
-        "pubdate": "Tue, 09 May 2023 10:00:00 +0300"
+        "title": "HUAWEI P60 Pro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#HUAWEI%20P60%20Pro",
+        "pubdate": "Tue, 09 May 2023 16:00:00 +0300"
       }
     ],
     [
@@ -52,23 +59,16 @@
     ],
     [
       {
+        "title": "Kovesi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Kovesi",
+        "pubdate": "Tue, 09 May 2023 17:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Gmail",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Gmail",
         "pubdate": "Mon, 08 May 2023 12:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Curs BNR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Curs%20BNR",
-        "pubdate": "Mon, 08 May 2023 11:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "WhatsApp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#WhatsApp",
-        "pubdate": "Mon, 08 May 2023 11:00:00 +0300"
       }
     ],
     [
@@ -80,16 +80,16 @@
     ],
     [
       {
-        "title": "Digi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Digi",
-        "pubdate": "Mon, 08 May 2023 14:00:00 +0300"
+        "title": "WhatsApp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#WhatsApp",
+        "pubdate": "Mon, 08 May 2023 11:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Banca Transilvania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Banca%20Transilvania",
-        "pubdate": "Mon, 08 May 2023 14:00:00 +0300"
+        "title": "Curs BNR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Curs%20BNR",
+        "pubdate": "Mon, 08 May 2023 11:00:00 +0300"
       }
     ],
     [
@@ -101,9 +101,23 @@
     ],
     [
       {
+        "title": "Digi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Digi",
+        "pubdate": "Mon, 08 May 2023 14:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Hermannstadt  U Craiova 1948",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Hermannstadt%20%20U%20Craiova%201948",
         "pubdate": "Mon, 08 May 2023 17:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Banca Transilvania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Banca%20Transilvania",
+        "pubdate": "Mon, 08 May 2023 16:00:00 +0300"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Ministerul educatiei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ministerul%20educatiei",
-        "pubdate": "Mon, 08 May 2023 11:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "FCSB vs Sepsi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FCSB%20vs%20Sepsi",
-        "pubdate": "Mon, 08 May 2023 21:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Europa FM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Europa%20FM",
-        "pubdate": "Mon, 08 May 2023 09:00:00 +0300"
+        "title": "CSM bucuresti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CSM%20bucuresti",
+        "pubdate": "Mon, 08 May 2023 17:00:00 +0300"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-05-2023 , 13:08:15",
+  "lastUpdate": "09-05-2023 , 15:15:26",
   "data": [
     [
       {
@@ -17,15 +17,50 @@
     ],
     [
       {
-        "title": "Ligue des champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ligue%20des%20champions",
+        "title": "Brienz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Brienz",
+        "pubdate": "Tue, 09 May 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Messi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Messi",
+        "pubdate": "Tue, 09 May 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Real%20Madrid%20Manchester%20City",
         "pubdate": "Tue, 09 May 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Miriam Cahn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Miriam%20Cahn",
+        "pubdate": "Tue, 09 May 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Champions League 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Champions%20League%202023",
+        "pubdate": "Tue, 09 May 2023 16:00:00 +0200"
       }
     ],
     [
       {
         "title": "Volvo EX30",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Volvo%20EX30",
+        "pubdate": "Tue, 09 May 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nikola jokić",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nikola%20joki%C4%87",
         "pubdate": "Tue, 09 May 2023 10:00:00 +0200"
       }
     ],
@@ -38,8 +73,36 @@
     ],
     [
       {
-        "title": "Nikola jokić",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nikola%20joki%C4%87",
+        "title": "Lionel Messi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lionel%20Messi",
+        "pubdate": "Tue, 09 May 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nosferatu-Spinne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nosferatu-Spinne",
+        "pubdate": "Tue, 09 May 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sum 41",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sum%2041",
+        "pubdate": "Tue, 09 May 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "OMR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#OMR",
+        "pubdate": "Tue, 09 May 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eurovision Song Contest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Eurovision%20Song%20Contest",
         "pubdate": "Tue, 09 May 2023 10:00:00 +0200"
       }
     ],
@@ -52,44 +115,9 @@
     ],
     [
       {
-        "title": "OMR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#OMR",
-        "pubdate": "Tue, 09 May 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sum 41",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sum%2041",
-        "pubdate": "Tue, 09 May 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eurovision Song Contest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Eurovision%20Song%20Contest",
-        "pubdate": "Tue, 09 May 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "GIAP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#GIAP",
         "pubdate": "Tue, 09 May 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Roche-Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Roche-Aktie",
-        "pubdate": "Tue, 09 May 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eurovision Song Contest 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Eurovision%20Song%20Contest%202023",
-        "pubdate": "Tue, 09 May 2023 13:00:00 +0200"
       }
     ],
     [
@@ -101,13 +129,6 @@
     ],
     [
       {
-        "title": "Katy Perry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Katy%20Perry",
-        "pubdate": "Mon, 08 May 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ölkäfer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#%C3%96lk%C3%A4fer",
         "pubdate": "Mon, 08 May 2023 18:00:00 +0200"
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Lionel Richie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lionel%20Richie",
-        "pubdate": "Mon, 08 May 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Éric Zemmour accident",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#%C3%89ric%20Zemmour%20accident",
-        "pubdate": "Mon, 08 May 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Brigitte Bardot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Brigitte%20Bardot",
-        "pubdate": "Mon, 08 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20United",
-        "pubdate": "Mon, 08 May 2023 18:00:00 +0200"
+        "title": "Katy Perry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Katy%20Perry",
+        "pubdate": "Mon, 08 May 2023 17:00:00 +0200"
       }
     ]
   ]

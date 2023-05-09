@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "09-05-2023 , 13:08:08",
+  "lastUpdate": "09-05-2023 , 15:15:20",
   "data": [
     [
       {
         "title": "Jakupcsek Gabriella",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jakupcsek%20Gabriella",
         "pubdate": "Tue, 09 May 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sopron Robbanás",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sopron%20Robban%C3%A1s",
-        "pubdate": "Tue, 09 May 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Álommeló RTL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%81lommel%C3%B3%20RTL",
-        "pubdate": "Tue, 09 May 2023 00:00:00 +0200"
       }
     ],
     [
@@ -31,6 +17,13 @@
     ],
     [
       {
+        "title": "Sopron Robbanás",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sopron%20Robban%C3%A1s",
+        "pubdate": "Tue, 09 May 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Meg 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Meg%202",
         "pubdate": "Tue, 09 May 2023 12:00:00 +0200"
@@ -38,9 +31,30 @@
     ],
     [
       {
-        "title": "Entz László",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Entz%20L%C3%A1szl%C3%B3",
+        "title": "Álommeló RTL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%81lommel%C3%B3%20RTL",
         "pubdate": "Tue, 09 May 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Darkest Dungeon 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Darkest%20Dungeon%202",
+        "pubdate": "Tue, 09 May 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Skillet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Skillet",
+        "pubdate": "Tue, 09 May 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "MrBeast",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MrBeast",
+        "pubdate": "Tue, 09 May 2023 15:00:00 +0200"
       }
     ],
     [
@@ -73,13 +87,6 @@
     ],
     [
       {
-        "title": "Real Madrid Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20Madrid%20Manchester%20City",
-        "pubdate": "Mon, 08 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Herczeg Zoltán",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Herczeg%20Zolt%C3%A1n",
         "pubdate": "Mon, 08 May 2023 20:00:00 +0200"
@@ -94,16 +101,23 @@
     ],
     [
       {
-        "title": "Brighton–Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Brighton%E2%80%93Everton",
-        "pubdate": "Mon, 08 May 2023 19:00:00 +0200"
+        "title": "MVM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MVM",
+        "pubdate": "Mon, 08 May 2023 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "MVM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MVM",
-        "pubdate": "Mon, 08 May 2023 12:00:00 +0200"
+        "title": "BL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#BL",
+        "pubdate": "Mon, 08 May 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kovács Áron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kov%C3%A1cs%20%C3%81ron",
+        "pubdate": "Mon, 08 May 2023 22:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Kovács Áron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kov%C3%A1cs%20%C3%81ron",
+        "title": "Real Madrid Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20Madrid%20Manchester%20City",
         "pubdate": "Mon, 08 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "David Attenborough",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#David%20Attenborough",
-        "pubdate": "Mon, 08 May 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bernie Sanders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bernie%20Sanders",
-        "pubdate": "Mon, 08 May 2023 20:00:00 +0200"
       }
     ]
   ]

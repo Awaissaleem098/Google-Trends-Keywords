@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-05-2023 , 13:08:06",
+  "lastUpdate": "09-05-2023 , 15:15:18",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Nintendo Switch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nintendo%20Switch",
         "pubdate": "Tue, 09 May 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Liga mistrů",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liga%20mistr%C5%AF",
+        "pubdate": "Tue, 09 May 2023 15:00:00 +0200"
       }
     ],
     [
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "2 světová válka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#2%20sv%C4%9Btov%C3%A1%20v%C3%A1lka",
-        "pubdate": "Tue, 09 May 2023 00:00:00 +0200"
+        "title": "Henry Kissinger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Henry%20Kissinger",
+        "pubdate": "Tue, 09 May 2023 15:00:00 +0200"
       }
     ],
     [
@@ -48,6 +55,20 @@
         "title": "ADHD",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#ADHD",
         "pubdate": "Tue, 09 May 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ondřej Novotný",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ond%C5%99ej%20Novotn%C3%BD",
+        "pubdate": "Tue, 09 May 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "2 světová válka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#2%20sv%C4%9Btov%C3%A1%20v%C3%A1lka",
+        "pubdate": "Tue, 09 May 2023 00:00:00 +0200"
       }
     ],
     [
@@ -87,6 +108,13 @@
     ],
     [
       {
+        "title": "Kapitán demo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kapit%C3%A1n%20demo",
+        "pubdate": "Mon, 08 May 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Florida Panthers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Florida%20Panthers",
         "pubdate": "Mon, 08 May 2023 20:00:00 +0200"
@@ -94,9 +122,9 @@
     ],
     [
       {
-        "title": "Kapitán demo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kapit%C3%A1n%20demo",
-        "pubdate": "Mon, 08 May 2023 21:00:00 +0200"
+        "title": "Konec 2. světové války",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Konec%202.%20sv%C4%9Btov%C3%A9%20v%C3%A1lky",
+        "pubdate": "Mon, 08 May 2023 11:00:00 +0200"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Terence Hill",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Terence%20Hill",
         "pubdate": "Mon, 08 May 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jindřich Trpišovský",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jind%C5%99ich%20Trpi%C5%A1ovsk%C3%BD",
-        "pubdate": "Mon, 08 May 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Druhá světová válka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Druh%C3%A1%20sv%C4%9Btov%C3%A1%20v%C3%A1lka",
-        "pubdate": "Mon, 08 May 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "8. května",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#8.%20kv%C4%9Btna",
-        "pubdate": "Mon, 08 May 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Baník ostrava",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ban%C3%ADk%20ostrava",
-        "pubdate": "Mon, 08 May 2023 16:00:00 +0200"
       }
     ]
   ]
