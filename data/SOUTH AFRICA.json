@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-05-2023 , 01:13:32",
+  "lastUpdate": "09-05-2023 , 02:13:34",
   "data": [
     [
       {
@@ -45,8 +45,8 @@
     ],
     [
       {
-        "title": "Al-Nassr vs al-khaleej",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al-Nassr%20vs%20al-khaleej",
+        "title": "Al-Nassr vs Al-Khaleej",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al-Nassr%20vs%20Al-Khaleej",
         "pubdate": "Mon, 08 May 2023 18:00:00 +0200"
       }
     ],
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "UEFA Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UEFA%20Champions%20League",
-        "pubdate": "Mon, 08 May 2023 17:00:00 +0200"
+        "title": "LinkedIn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#LinkedIn",
+        "pubdate": "Mon, 08 May 2023 12:00:00 +0200"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "UCL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UCL",
+        "pubdate": "Mon, 08 May 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Discovery",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Discovery",
         "pubdate": "Mon, 08 May 2023 12:00:00 +0200"
@@ -131,13 +138,6 @@
       {
         "title": "Cut",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cut",
-        "pubdate": "Mon, 08 May 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "South Africa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#South%20Africa",
         "pubdate": "Mon, 08 May 2023 14:00:00 +0200"
       }
     ]
