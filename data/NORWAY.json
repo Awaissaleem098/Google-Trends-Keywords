@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-05-2023 , 09:47:51",
+  "lastUpdate": "09-05-2023 , 13:08:12",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Vendela Kirsebom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vendela%20Kirsebom",
         "pubdate": "Tue, 09 May 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sophie Elise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sophie%20Elise",
+        "pubdate": "Tue, 09 May 2023 13:00:00 +0200"
       }
     ],
     [
@@ -45,15 +52,15 @@
     ],
     [
       {
-        "title": "Brann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann",
-        "pubdate": "Mon, 08 May 2023 15:00:00 +0200"
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20United",
+        "pubdate": "Mon, 08 May 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Linkedin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Linkedin",
+        "title": "Brann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann",
         "pubdate": "Mon, 08 May 2023 15:00:00 +0200"
       }
     ],
@@ -62,6 +69,13 @@
         "title": "Alessandra Mele",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Alessandra%20Mele",
         "pubdate": "Mon, 08 May 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Teams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Teams",
+        "pubdate": "Mon, 08 May 2023 09:00:00 +0200"
       }
     ],
     [
@@ -108,37 +122,23 @@
     ],
     [
       {
-        "title": "Timer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Timer",
+        "title": "Frigjøringsdagen 8. mai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Frigj%C3%B8ringsdagen%208.%20mai",
         "pubdate": "Mon, 08 May 2023 11:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Norges Fotballforbund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Norges%20Fotballforbund",
-        "pubdate": "Mon, 08 May 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#FN",
-        "pubdate": "Mon, 08 May 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dagens Næringsliv",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dagens%20N%C3%A6ringsliv",
+        "title": "Dixie Dean",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dixie%20Dean",
         "pubdate": "Mon, 08 May 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "DNB bank",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#DNB%20bank",
-        "pubdate": "Mon, 08 May 2023 15:00:00 +0200"
+        "title": "Timer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Timer",
+        "pubdate": "Mon, 08 May 2023 11:00:00 +0200"
       }
     ]
   ]

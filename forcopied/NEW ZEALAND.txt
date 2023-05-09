@@ -1,1 +1,1 @@
-MetService,Abbey Caves,Newshub,Lakers vs Warriors,Waka Kotahi,Auckland Airport,RNZ,Auckland Transport,Wu-Tang Auckland,Whangarei weather,Champions League,TVNZ news,Earthquake,Brighton vs Everton,Civil Defence,All Blacks,1 news,Championship,Mother's Day gifts,Breaking news
+Auckland weather,Abbey Caves,Newshub,Lakers vs Warriors,News,Waka Kotahi,Auckland Airport,NZ news,RNZ,Champions League,Wu-Tang Auckland,Auckland Transport,Whangarei weather,Weather forecast,TVNZ news,Earthquake,New Zealand herald,Brighton vs Everton,Civil Defence,Princess Alexandra

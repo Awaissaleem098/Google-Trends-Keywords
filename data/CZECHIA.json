@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "09-05-2023 , 09:47:45",
+  "lastUpdate": "09-05-2023 , 13:08:06",
   "data": [
+    [
+      {
+        "title": "CBD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#CBD",
+        "pubdate": "Tue, 09 May 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Nintendo Switch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nintendo%20Switch",
         "pubdate": "Tue, 09 May 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Daniela Písařovicová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Daniela%20P%C3%ADsa%C5%99ovicov%C3%A1",
+        "pubdate": "Tue, 09 May 2023 12:00:00 +0200"
       }
     ],
     [
@@ -59,6 +73,13 @@
     ],
     [
       {
+        "title": "Sum 41",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sum%2041",
+        "pubdate": "Mon, 08 May 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Max Verstappen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Max%20Verstappen",
         "pubdate": "Mon, 08 May 2023 00:00:00 +0200"
@@ -66,9 +87,9 @@
     ],
     [
       {
-        "title": "Sum 41",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sum%2041",
-        "pubdate": "Mon, 08 May 2023 21:00:00 +0200"
+        "title": "Florida Panthers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Florida%20Panthers",
+        "pubdate": "Mon, 08 May 2023 20:00:00 +0200"
       }
     ],
     [
@@ -94,6 +115,13 @@
     ],
     [
       {
+        "title": "Jindřich Trpišovský",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jind%C5%99ich%20Trpi%C5%A1ovsk%C3%BD",
+        "pubdate": "Mon, 08 May 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Druhá světová válka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Druh%C3%A1%20sv%C4%9Btov%C3%A1%20v%C3%A1lka",
         "pubdate": "Mon, 08 May 2023 17:00:00 +0200"
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "Patron dětí",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Patron%20d%C4%9Bt%C3%AD",
-        "pubdate": "Mon, 08 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Baník ostrava",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ban%C3%ADk%20ostrava",
         "pubdate": "Mon, 08 May 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Olomouc – Sparta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Olomouc%20%E2%80%93%20Sparta",
-        "pubdate": "Sun, 07 May 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Soňa Červená",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#So%C5%88a%20%C4%8Cerven%C3%A1",
-        "pubdate": "Sun, 07 May 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "West Ham – Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#West%20Ham%20%E2%80%93%20Man%20United",
-        "pubdate": "Sun, 07 May 2023 18:00:00 +0200"
       }
     ]
   ]

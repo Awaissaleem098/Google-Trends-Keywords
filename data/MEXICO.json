@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-05-2023 , 09:47:49",
+  "lastUpdate": "09-05-2023 , 13:08:11",
   "data": [
     [
       {
@@ -24,8 +24,22 @@
     ],
     [
       {
+        "title": "Hotmail",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Hotmail",
+        "pubdate": "Mon, 08 May 2023 18:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Gmail",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Gmail",
+        "pubdate": "Mon, 08 May 2023 14:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Maps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Maps",
         "pubdate": "Mon, 08 May 2023 14:00:00 -0600"
       }
     ],
@@ -48,6 +62,13 @@
         "title": "Al Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Al%20Nassr",
         "pubdate": "Mon, 08 May 2023 10:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Temblor Hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Temblor%20Hoy",
+        "pubdate": "Mon, 08 May 2023 12:00:00 -0600"
       }
     ],
     [
@@ -101,22 +122,15 @@
     ],
     [
       {
-        "title": "Teams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Teams",
-        "pubdate": "Mon, 08 May 2023 11:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Mr. Beast",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mr.%20Beast",
+        "title": "Youtuber MrBeast",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Youtuber%20MrBeast",
         "pubdate": "Mon, 08 May 2023 00:00:00 -0600"
       }
     ],
     [
       {
-        "title": "Poemas para mama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Poemas%20para%20mama",
+        "title": "Poemas Para mama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Poemas%20Para%20mama",
         "pubdate": "Mon, 08 May 2023 07:00:00 -0600"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "DHL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#DHL",
         "pubdate": "Mon, 08 May 2023 15:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Chivas vs Atlas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Chivas%20vs%20Atlas",
-        "pubdate": "Mon, 08 May 2023 03:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Constancia de situacion fiscal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Constancia%20de%20situacion%20fiscal",
-        "pubdate": "Mon, 08 May 2023 13:00:00 -0600"
       }
     ]
   ]

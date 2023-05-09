@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "09-05-2023 , 09:47:44",
+  "lastUpdate": "09-05-2023 , 13:08:06",
   "data": [
+    [
+      {
+        "title": "Maps Google",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Maps%20Google",
+        "pubdate": "Tue, 09 May 2023 00:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "JUNJI",
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "La Tercera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#La%20Tercera",
-        "pubdate": "Mon, 08 May 2023 09:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Scotiabank",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Scotiabank",
         "pubdate": "Mon, 08 May 2023 18:00:00 -0400"
@@ -80,16 +80,16 @@
     ],
     [
       {
-        "title": "Outlook",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Outlook",
-        "pubdate": "Mon, 08 May 2023 13:00:00 -0400"
+        "title": "Blackburn Rovers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Blackburn%20Rovers",
+        "pubdate": "Mon, 08 May 2023 12:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Blackburn Rovers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Blackburn%20Rovers",
-        "pubdate": "Mon, 08 May 2023 12:00:00 -0400"
+        "title": "La Tercera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#La%20Tercera",
+        "pubdate": "Mon, 08 May 2023 15:00:00 -0400"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Certificado de antecedentes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Certificado%20de%20antecedentes",
-        "pubdate": "Mon, 08 May 2023 12:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20United",
         "pubdate": "Mon, 08 May 2023 10:00:00 -0400"
@@ -139,6 +132,13 @@
         "title": "Tom Cruise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tom%20Cruise",
         "pubdate": "Mon, 08 May 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Mercado publico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mercado%20publico",
+        "pubdate": "Mon, 08 May 2023 10:00:00 -0400"
       }
     ]
   ]
