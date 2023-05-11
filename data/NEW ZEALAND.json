@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-05-2023 , 23:51:14",
+  "lastUpdate": "11-05-2023 , 00:57:39",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "George Santos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#George%20Santos",
         "pubdate": "Thu, 11 May 2023 10:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Nate Diaz vs Jake Paul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nate%20Diaz%20vs%20Jake%20Paul",
+        "pubdate": "Thu, 11 May 2023 12:00:00 +1200"
       }
     ],
     [
@@ -62,13 +69,6 @@
         "title": "Hasbulla Magomedov",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hasbulla%20Magomedov",
         "pubdate": "Wed, 10 May 2023 14:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Elizabeth Holmes Theranos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Elizabeth%20Holmes%20Theranos",
-        "pubdate": "Wed, 10 May 2023 08:00:00 +1200"
       }
     ],
     [
@@ -124,7 +124,7 @@
       {
         "title": "NZ Herald",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NZ%20Herald",
-        "pubdate": "Tue, 09 May 2023 13:00:00 +1200"
+        "pubdate": "Tue, 09 May 2023 15:00:00 +1200"
       }
     ],
     [
