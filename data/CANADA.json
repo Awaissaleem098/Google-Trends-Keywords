@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-05-2023 , 23:48:01",
+  "lastUpdate": "14-05-2023 , 00:32:22",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Sports",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sports",
+        "title": "Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Warriors",
         "pubdate": "Sat, 13 May 2023 09:00:00 -0400"
       }
     ],
@@ -20,6 +20,13 @@
         "title": "Eurovision 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Eurovision%202023",
         "pubdate": "Sat, 13 May 2023 16:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Sports",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sports",
+        "pubdate": "Sat, 13 May 2023 09:00:00 -0400"
       }
     ],
     [
@@ -45,20 +52,6 @@
     ],
     [
       {
-        "title": "Golden State Warriors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Golden%20State%20Warriors",
-        "pubdate": "Sat, 13 May 2023 09:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Toronto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Toronto",
-        "pubdate": "Sat, 13 May 2023 00:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Raghav Chadha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Raghav%20Chadha",
         "pubdate": "Sat, 13 May 2023 13:00:00 -0400"
@@ -73,9 +66,23 @@
     ],
     [
       {
+        "title": "Toronto game",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Toronto%20game",
+        "pubdate": "Sat, 13 May 2023 07:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Austin Reaves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Austin%20Reaves",
         "pubdate": "Sat, 13 May 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid vs Getafe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid%20vs%20Getafe",
+        "pubdate": "Sat, 13 May 2023 16:00:00 -0400"
       }
     ],
     [
@@ -108,13 +115,6 @@
     ],
     [
       {
-        "title": "WNBA Toronto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#WNBA%20Toronto",
-        "pubdate": "Sat, 13 May 2023 16:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "LHJMQ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#LHJMQ",
         "pubdate": "Sat, 13 May 2023 07:00:00 -0400"
@@ -129,9 +129,9 @@
     ],
     [
       {
-        "title": "Real Madrid vs Getafe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid%20vs%20Getafe",
-        "pubdate": "Sat, 13 May 2023 16:00:00 -0400"
+        "title": "La Zarra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#La%20Zarra",
+        "pubdate": "Sat, 13 May 2023 13:00:00 -0400"
       }
     ],
     [

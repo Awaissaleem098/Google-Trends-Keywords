@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "13-05-2023 , 23:48:01",
+  "lastUpdate": "14-05-2023 , 00:32:22",
   "data": [
     [
       {
         "title": "Sam Ryder",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sam%20Ryder",
         "pubdate": "Sun, 14 May 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Duncan Laurence",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Duncan%20Laurence",
+        "pubdate": "Sun, 14 May 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "ABBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#ABBA",
+        "pubdate": "Sun, 14 May 2023 01:00:00 +0200"
       }
     ],
     [
@@ -17,15 +31,8 @@
     ],
     [
       {
-        "title": "Ternopil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ternopil",
-        "pubdate": "Sun, 14 May 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eurovision Belgique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eurovision%20Belgique",
+        "title": "Eurovisie Songfestival",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eurovisie%20Songfestival",
         "pubdate": "Sun, 14 May 2023 00:00:00 +0200"
       }
     ],
@@ -45,9 +52,23 @@
     ],
     [
       {
+        "title": "Loreen Eurovision",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Loreen%20Eurovision",
+        "pubdate": "Sat, 13 May 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Real Madrid – Getafe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Real%20Madrid%20%E2%80%93%20Getafe",
         "pubdate": "Sat, 13 May 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hannah Waddingham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hannah%20Waddingham",
+        "pubdate": "Sat, 13 May 2023 23:00:00 +0200"
       }
     ],
     [
@@ -66,20 +87,6 @@
     ],
     [
       {
-        "title": "Hannah Waddingham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hannah%20Waddingham",
-        "pubdate": "Sat, 13 May 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Loreen Eurovision",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Loreen%20Eurovision",
-        "pubdate": "Sat, 13 May 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Cercle Brugge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cercle%20Brugge",
         "pubdate": "Sat, 13 May 2023 18:00:00 +0200"
@@ -90,13 +97,6 @@
         "title": "Bayern – Schalke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bayern%20%E2%80%93%20Schalke",
         "pubdate": "Sat, 13 May 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "SK Beveren",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#SK%20Beveren",
-        "pubdate": "Sat, 13 May 2023 21:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Sportpaleis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sportpaleis",
-        "pubdate": "Sat, 13 May 2023 13:00:00 +0200"
+        "title": "Ben Healy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ben%20Healy",
+        "pubdate": "Sat, 13 May 2023 17:00:00 +0200"
       }
     ]
   ]
