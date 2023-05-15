@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "14-05-2023 , 23:54:56",
+  "lastUpdate": "15-05-2023 , 01:35:04",
   "data": [
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona",
+        "pubdate": "Mon, 15 May 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Anne Grete Preus",
@@ -27,6 +34,13 @@
         "title": "KSI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#KSI",
         "pubdate": "Sun, 14 May 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eurovizija 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eurovizija%202023",
+        "pubdate": "Sun, 14 May 2023 00:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Bodø/Glimt mot Rosenborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt%20mot%20Rosenborg",
-        "pubdate": "Sat, 13 May 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Alessandra Mele",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Alessandra%20Mele",
-        "pubdate": "Sat, 13 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Esc 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Esc%202023",
-        "pubdate": "Sat, 13 May 2023 22:00:00 +0200"
+        "title": "Grand Prix 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Grand%20Prix%202023",
+        "pubdate": "Sat, 13 May 2023 19:00:00 +0200"
       }
     ]
   ]

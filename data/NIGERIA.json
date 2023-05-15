@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-05-2023 , 23:54:56",
+  "lastUpdate": "15-05-2023 , 01:35:04",
   "data": [
     [
       {
@@ -87,16 +87,16 @@
     ],
     [
       {
-        "title": "Amad Diallo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Amad%20Diallo",
-        "pubdate": "Sun, 14 May 2023 08:00:00 +0100"
+        "title": "Lyon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Lyon",
+        "pubdate": "Sun, 14 May 2023 14:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Ja Morant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ja%20Morant",
-        "pubdate": "Sun, 14 May 2023 21:00:00 +0100"
+        "title": "Amad Diallo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Amad%20Diallo",
+        "pubdate": "Sun, 14 May 2023 08:00:00 +0100"
       }
     ],
     [
@@ -108,9 +108,23 @@
     ],
     [
       {
+        "title": "Ja Morant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ja%20Morant",
+        "pubdate": "Sun, 14 May 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Meagan Good",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Meagan%20Good",
         "pubdate": "Sun, 14 May 2023 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "St. Lucia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#St.%20Lucia",
+        "pubdate": "Sun, 14 May 2023 22:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Man United vs Wolves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20United%20vs%20Wolves",
         "pubdate": "Sat, 13 May 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Saint Obi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Saint%20Obi",
-        "pubdate": "Sat, 13 May 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Hilda Baci",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Hilda%20Baci",
-        "pubdate": "Sat, 13 May 2023 09:00:00 +0100"
       }
     ]
   ]

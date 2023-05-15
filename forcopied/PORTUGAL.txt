@@ -1,1 +1,1 @@
-Braga-Santa Clara,Everton  City,FCP,Eleições Turquia,Barcelona,Arsenal  Brighton,Grimaldo,Rio Ave  Vitória SC,Coldplay,Corinthians,Lili Caneças,Cristina Ferreira,Elche  Atlético Madrid,Classificação,Ajax,Juventus  Cremonese,Palmeiras, Abel Ferreira,Feyenoord,Portugal Eurovision,Celtics
+Botafogo,Ricardo Vidal,Braga-Santa Clara,Everton  City,Eleições Turquia,Barcelona,Arsenal  Brighton,Grimaldo,Rio Ave  Vitória SC,Corinthians,Coldplay,Lili Caneças,Celtics,Ajax,Palmeiras, Abel Ferreira,Juventus  Cremonese,Classificação,Elche  Atlético Madrid,Feyenoord,Portugal Eurovision

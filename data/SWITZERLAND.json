@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-05-2023 , 23:54:59",
+  "lastUpdate": "15-05-2023 , 01:35:06",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Pogba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pogba",
         "pubdate": "Mon, 15 May 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kate Middleton Eurovision",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kate%20Middleton%20Eurovision",
+        "pubdate": "Mon, 15 May 2023 02:00:00 +0200"
       }
     ],
     [
@@ -73,16 +80,16 @@
     ],
     [
       {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Man%20City",
-        "pubdate": "Sun, 14 May 2023 16:00:00 +0200"
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Barcelona",
+        "pubdate": "Sun, 14 May 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "MotoGP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#MotoGP",
-        "pubdate": "Sun, 14 May 2023 20:00:00 +0200"
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Man%20City",
+        "pubdate": "Sun, 14 May 2023 16:00:00 +0200"
       }
     ],
     [
@@ -94,9 +101,9 @@
     ],
     [
       {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Barcelona",
-        "pubdate": "Sun, 14 May 2023 23:00:00 +0200"
+        "title": "MotoGP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#MotoGP",
+        "pubdate": "Sun, 14 May 2023 20:00:00 +0200"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "ESC gewinner 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ESC%20gewinner%202023",
+        "pubdate": "Sun, 14 May 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Emmentalisches Schwingfest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Emmentalisches%20Schwingfest",
         "pubdate": "Sun, 14 May 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zürcher Kantonalschwingfest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Z%C3%BCrcher%20Kantonalschwingfest",
-        "pubdate": "Sun, 14 May 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gagnant Eurovision 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gagnant%20Eurovision%202023",
-        "pubdate": "Sun, 14 May 2023 08:00:00 +0200"
       }
     ]
   ]

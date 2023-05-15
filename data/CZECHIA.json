@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-05-2023 , 23:54:51",
+  "lastUpdate": "15-05-2023 , 01:34:59",
   "data": [
     [
       {
@@ -34,6 +34,20 @@
         "title": "Justýna Zedníková",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Just%C3%BDna%20Zedn%C3%ADkov%C3%A1",
         "pubdate": "Sun, 14 May 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Espanyol – Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Espanyol%20%E2%80%93%20Barcelona",
+        "pubdate": "Sun, 14 May 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal – Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Arsenal%20%E2%80%93%20Brighton",
+        "pubdate": "Sun, 14 May 2023 18:00:00 +0200"
       }
     ],
     [
@@ -80,9 +94,9 @@
     ],
     [
       {
-        "title": "Karlos Vémola",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Karlos%20V%C3%A9mola",
-        "pubdate": "Sun, 14 May 2023 18:00:00 +0200"
+        "title": "Erdogan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Erdogan",
+        "pubdate": "Sun, 14 May 2023 19:00:00 +0200"
       }
     ],
     [
@@ -94,16 +108,16 @@
     ],
     [
       {
-        "title": "Erdogan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Erdogan",
-        "pubdate": "Sun, 14 May 2023 19:00:00 +0200"
+        "title": "Zbrojovka Brno",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zbrojovka%20Brno",
+        "pubdate": "Sun, 14 May 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Zbrojovka Brno",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zbrojovka%20Brno",
-        "pubdate": "Sun, 14 May 2023 17:00:00 +0200"
+        "title": "Stuttgart – Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Stuttgart%20%E2%80%93%20Leverkusen",
+        "pubdate": "Sun, 14 May 2023 18:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Remco Evenepoel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Remco%20Evenepoel",
         "pubdate": "Sun, 14 May 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Island",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Island",
-        "pubdate": "Sun, 14 May 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Strauss",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Strauss",
-        "pubdate": "Sun, 14 May 2023 23:00:00 +0200"
       }
     ]
   ]
