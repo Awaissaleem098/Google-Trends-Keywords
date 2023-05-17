@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-05-2023 , 11:53:46",
+  "lastUpdate": "17-05-2023 , 12:30:51",
   "data": [
     [
       {
@@ -17,6 +17,20 @@
     ],
     [
       {
+        "title": "Luton Town",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Luton%20Town",
+        "pubdate": "Wed, 17 May 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Johnny Depp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Johnny%20Depp",
+        "pubdate": "Wed, 17 May 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Milan",
         "pubdate": "Tue, 16 May 2023 21:00:00 +0200"
@@ -27,6 +41,13 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
         "pubdate": "Tue, 16 May 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Inger Sandberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Inger%20Sandberg",
+        "pubdate": "Tue, 16 May 2023 17:00:00 +0200"
       }
     ],
     [
@@ -52,9 +73,9 @@
     ],
     [
       {
-        "title": "Dennis Robinson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dennis%20Robinson",
-        "pubdate": "Tue, 16 May 2023 21:00:00 +0200"
+        "title": "Loreen Kungsträdgården",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Loreen%20Kungstr%C3%A4dg%C3%A5rden",
+        "pubdate": "Tue, 16 May 2023 16:00:00 +0200"
       }
     ],
     [
@@ -94,13 +115,6 @@
     ],
     [
       {
-        "title": "Jakob Lilja",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jakob%20Lilja",
-        "pubdate": "Tue, 16 May 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "The Weeknd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#The%20Weeknd",
         "pubdate": "Tue, 16 May 2023 14:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "LG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#LG",
         "pubdate": "Tue, 16 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AIK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
-        "pubdate": "Mon, 15 May 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Inger Sandberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Inger%20Sandberg",
-        "pubdate": "Mon, 15 May 2023 17:00:00 +0200"
       }
     ]
   ]

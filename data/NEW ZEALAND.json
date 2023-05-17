@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-05-2023 , 11:53:44",
+  "lastUpdate": "17-05-2023 , 12:30:47",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Championship",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Championship",
-        "pubdate": "Wed, 17 May 2023 19:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Beta Squad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Beta%20Squad",
         "pubdate": "Wed, 17 May 2023 19:00:00 +1200"
@@ -45,9 +38,9 @@
     ],
     [
       {
-        "title": "PFL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#PFL",
-        "pubdate": "Wed, 17 May 2023 16:00:00 +1200"
+        "title": "Championship",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Championship",
+        "pubdate": "Wed, 17 May 2023 19:00:00 +1200"
       }
     ],
     [
@@ -66,9 +59,23 @@
     ],
     [
       {
+        "title": "PFL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#PFL",
+        "pubdate": "Wed, 17 May 2023 16:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Elon%20Musk",
         "pubdate": "Wed, 17 May 2023 12:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Luton Town",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Luton%20Town",
+        "pubdate": "Wed, 17 May 2023 22:00:00 +1200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Richard Flood",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Richard%20Flood",
         "pubdate": "Tue, 16 May 2023 09:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Asbestos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Asbestos",
-        "pubdate": "Tue, 16 May 2023 15:00:00 +1200"
       }
     ]
   ]

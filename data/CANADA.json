@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-05-2023 , 11:53:39",
+  "lastUpdate": "17-05-2023 , 12:30:40",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Frederic Bastien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Frederic%20Bastien",
+        "pubdate": "Wed, 17 May 2023 07:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Sam Altman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sam%20Altman",
         "pubdate": "Wed, 17 May 2023 02:00:00 -0400"
@@ -45,8 +52,8 @@
     ],
     [
       {
-        "title": "Lakers vs Nuggets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lakers%20vs%20Nuggets",
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lakers",
         "pubdate": "Tue, 16 May 2023 17:00:00 -0400"
       }
     ],
@@ -83,13 +90,6 @@
         "title": "Inter vs Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Inter%20vs%20Milan",
         "pubdate": "Tue, 16 May 2023 16:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Severe thunderstorm warning",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Severe%20thunderstorm%20warning",
-        "pubdate": "Tue, 16 May 2023 18:00:00 -0400"
       }
     ],
     [
