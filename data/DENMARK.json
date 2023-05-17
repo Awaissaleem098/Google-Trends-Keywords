@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "17-05-2023 , 23:44:23",
+  "lastUpdate": "17-05-2023 , 23:57:18",
   "data": [
-    [
-      {
-        "title": "Man City  Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20City%20%20Real%20Madrid",
-        "pubdate": "Wed, 17 May 2023 21:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Imola",
@@ -52,13 +45,6 @@
     ],
     [
       {
-        "title": "Luton Town",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Luton%20Town",
-        "pubdate": "Wed, 17 May 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jeanne du Barry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jeanne%20du%20Barry",
         "pubdate": "Wed, 17 May 2023 14:00:00 +0200"
@@ -66,9 +52,16 @@
     ],
     [
       {
-        "title": "Sanjay Shah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sanjay%20Shah",
-        "pubdate": "Wed, 17 May 2023 16:00:00 +0200"
+        "title": "Luton Town",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Luton%20Town",
+        "pubdate": "Wed, 17 May 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Haaland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Haaland",
+        "pubdate": "Wed, 17 May 2023 23:00:00 +0200"
       }
     ],
     [
@@ -76,6 +69,13 @@
         "title": "Casper Ruud",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Casper%20Ruud",
         "pubdate": "Wed, 17 May 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sanjay Shah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sanjay%20Shah",
+        "pubdate": "Wed, 17 May 2023 16:00:00 +0200"
       }
     ],
     [
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Ivan Toney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ivan%20Toney",
+        "pubdate": "Wed, 17 May 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Internet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Internet",
         "pubdate": "Wed, 17 May 2023 09:00:00 +0200"
@@ -101,8 +108,8 @@
     ],
     [
       {
-        "title": "Ivan Toney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ivan%20Toney",
+        "title": "Conor McGregor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Conor%20McGregor",
         "pubdate": "Wed, 17 May 2023 21:00:00 +0200"
       }
     ],
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Conor McGregor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Conor%20McGregor",
-        "pubdate": "Wed, 17 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Michael Douglas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Michael%20Douglas",
         "pubdate": "Wed, 17 May 2023 17:00:00 +0200"
@@ -129,15 +129,15 @@
     ],
     [
       {
-        "title": "Holger Rune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Holger%20Rune",
-        "pubdate": "Tue, 16 May 2023 19:00:00 +0200"
+        "title": "Giro d'Italia 2023 Stage 11",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Giro%20d'Italia%202023%20Stage%2011",
+        "pubdate": "Wed, 17 May 2023 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Inter Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Inter%20Milan",
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid",
         "pubdate": "Tue, 16 May 2023 21:00:00 +0200"
       }
     ]
