@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "17-05-2023 , 23:57:26",
+  "lastUpdate": "18-05-2023 , 01:38:34",
   "data": [
     [
       {
         "title": "FA Cup final",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#FA%20Cup%20final",
         "pubdate": "Thu, 18 May 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "J. Cole",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#J.%20Cole",
+        "pubdate": "Thu, 18 May 2023 01:00:00 +0200"
       }
     ],
     [
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Marumo Gallants",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Marumo%20Gallants",
-        "pubdate": "Wed, 17 May 2023 00:00:00 +0200"
+        "title": "PSL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSL",
+        "pubdate": "Wed, 17 May 2023 02:00:00 +0200"
       }
     ],
     [
       {
-        "title": "PSL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSL",
-        "pubdate": "Wed, 17 May 2023 02:00:00 +0200"
+        "title": "Marumo Gallants",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Marumo%20Gallants",
+        "pubdate": "Wed, 17 May 2023 00:00:00 +0200"
       }
     ],
     [
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "Middlesbrough vs Coventry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Middlesbrough%20vs%20Coventry",
+        "pubdate": "Wed, 17 May 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Novak%20Djokovic",
         "pubdate": "Wed, 17 May 2023 09:00:00 +0200"
@@ -69,13 +83,6 @@
         "title": "Falafel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Falafel",
         "pubdate": "Wed, 17 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Middlesbrough vs Coventry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Middlesbrough%20vs%20Coventry",
-        "pubdate": "Wed, 17 May 2023 22:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Inter vs Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inter%20vs%20Milan",
         "pubdate": "Tue, 16 May 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nandipha Magudumana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Nandipha%20Magudumana",
-        "pubdate": "Tue, 16 May 2023 14:00:00 +0200"
       }
     ]
   ]
