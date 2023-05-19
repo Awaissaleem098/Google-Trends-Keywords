@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-05-2023 , 11:50:47",
+  "lastUpdate": "19-05-2023 , 12:18:28",
   "data": [
     [
       {
@@ -34,6 +34,20 @@
         "title": "Priscilla Presley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Priscilla%20Presley",
         "pubdate": "Fri, 19 May 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Harrison Ford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Harrison%20Ford",
+        "pubdate": "Fri, 19 May 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Posten.no",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Posten.no",
+        "pubdate": "Fri, 19 May 2023 13:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Jens Stoltenberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jens%20Stoltenberg",
         "pubdate": "Thu, 18 May 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kyle Walker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kyle%20Walker",
-        "pubdate": "Thu, 18 May 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Restaurant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Restaurant",
-        "pubdate": "Thu, 18 May 2023 17:00:00 +0200"
       }
     ]
   ]
