@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "31-05-2023 , 19:46:55",
+  "lastUpdate": "31-05-2023 , 19:59:59",
   "data": [
+    [
+      {
+        "title": "RARBG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#RARBG",
+        "pubdate": "Thu, 01 Jun 2023 00:00:00 +1000"
+      }
+    ],
     [
       {
         "title": "Ezra Miller",
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Spider-Man Into the Spider-Verse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Spider-Man%20Into%20the%20Spider-Verse",
+        "title": "Spider-Man: Into the Spider-Verse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Spider-Man:%20Into%20the%20Spider-Verse",
         "pubdate": "Wed, 31 May 2023 22:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Jason Ryles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jason%20Ryles",
-        "pubdate": "Wed, 31 May 2023 12:00:00 +1000"
       }
     ]
   ]
