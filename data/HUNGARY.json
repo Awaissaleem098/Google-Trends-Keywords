@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-06-2023 , 02:18:07",
+  "lastUpdate": "01-06-2023 , 03:15:17",
   "data": [
+    [
+      {
+        "title": "Opitz Barbi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Opitz%20Barbi",
+        "pubdate": "Thu, 01 Jun 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Pókember: A pókverzumon át",
@@ -34,13 +41,6 @@
         "title": "Clint Eastwood",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Clint%20Eastwood",
         "pubdate": "Wed, 31 May 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "M4",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4",
-        "pubdate": "Wed, 31 May 2023 21:00:00 +0200"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Foci",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Foci",
-        "pubdate": "Wed, 31 May 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Bajnokok Ligája",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bajnokok%20Lig%C3%A1ja",
         "pubdate": "Wed, 31 May 2023 14:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Kiss",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kiss",
         "pubdate": "Wed, 31 May 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sevilla Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sevilla%20Roma",
+        "pubdate": "Tue, 30 May 2023 13:00:00 +0200"
       }
     ]
   ]

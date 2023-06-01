@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-06-2023 , 02:18:12",
+  "lastUpdate": "01-06-2023 , 03:15:22",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Rive",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Rive",
-        "pubdate": "Wed, 31 May 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Järvaveckan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#J%C3%A4rvaveckan",
         "pubdate": "Wed, 31 May 2023 08:00:00 +0200"
@@ -48,6 +41,13 @@
         "title": "Clint Eastwood",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Clint%20Eastwood",
         "pubdate": "Wed, 31 May 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Utsiktens BK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Utsiktens%20BK",
+        "pubdate": "Wed, 31 May 2023 21:00:00 +0200"
       }
     ],
     [
