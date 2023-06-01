@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-06-2023 , 05:45:43",
+  "lastUpdate": "01-06-2023 , 05:59:03",
   "data": [
     [
       {
@@ -17,9 +17,9 @@
     ],
     [
       {
-        "title": "Fucsovics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fucsovics",
-        "pubdate": "Wed, 31 May 2023 08:00:00 +0200"
+        "title": "Stefano Bottoni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Stefano%20Bottoni",
+        "pubdate": "Thu, 01 Jun 2023 07:00:00 +0200"
       }
     ],
     [
@@ -73,20 +73,6 @@
     ],
     [
       {
-        "title": "Mammut",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mammut",
-        "pubdate": "Wed, 31 May 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Foci",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Foci",
-        "pubdate": "Wed, 31 May 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Liszt Ferenc tér",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liszt%20Ferenc%20t%C3%A9r",
         "pubdate": "Wed, 31 May 2023 22:00:00 +0200"
@@ -94,16 +80,23 @@
     ],
     [
       {
-        "title": "Tom Cruise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tom%20Cruise",
-        "pubdate": "Wed, 31 May 2023 18:00:00 +0200"
+        "title": "Mammut",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mammut",
+        "pubdate": "Wed, 31 May 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Djokovic",
-        "pubdate": "Wed, 31 May 2023 22:00:00 +0200"
+        "title": "Bajnokok Ligája",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bajnokok%20Lig%C3%A1ja",
+        "pubdate": "Wed, 31 May 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tom Cruise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tom%20Cruise",
+        "pubdate": "Wed, 31 May 2023 18:00:00 +0200"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Szilard Suhajda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szilard%20Suhajda",
-        "pubdate": "Wed, 31 May 2023 11:00:00 +0200"
+        "title": "Sevilla Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sevilla%20Roma",
+        "pubdate": "Tue, 30 May 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Orbán Viktor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Orb%C3%A1n%20Viktor",
+        "pubdate": "Tue, 30 May 2023 19:00:00 +0200"
       }
     ]
   ]
