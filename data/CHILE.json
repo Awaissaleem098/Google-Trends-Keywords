@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-06-2023 , 23:46:19",
+  "lastUpdate": "01-06-2023 , 23:59:34",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Boric",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Boric",
+        "pubdate": "Thu, 01 Jun 2023 16:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Al Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Al%20Nassr",
         "pubdate": "Thu, 01 Jun 2023 02:00:00 -0400"
@@ -73,6 +80,13 @@
     ],
     [
       {
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Djokovic",
+        "pubdate": "Thu, 01 Jun 2023 01:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Edenred",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Edenred",
         "pubdate": "Thu, 01 Jun 2023 13:00:00 -0400"
@@ -90,13 +104,6 @@
         "title": "Sinner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sinner",
         "pubdate": "Thu, 01 Jun 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Cuadro Roland Garros 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cuadro%20Roland%20Garros%202023",
-        "pubdate": "Thu, 01 Jun 2023 16:00:00 -0400"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "1 de junio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#1%20de%20junio",
         "pubdate": "Thu, 01 Jun 2023 14:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Eduin Caz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Eduin%20Caz",
-        "pubdate": "Thu, 01 Jun 2023 12:00:00 -0400"
       }
     ]
   ]
