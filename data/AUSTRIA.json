@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "31-05-2023 , 23:57:28",
+  "lastUpdate": "01-06-2023 , 02:18:03",
   "data": [
     [
       {
-        "title": "Pride-Month",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Pride-Month",
+        "title": "Danny Masterson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Danny%20Masterson",
+        "pubdate": "Thu, 01 Jun 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pride Month",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Pride%20Month",
         "pubdate": "Thu, 01 Jun 2023 01:00:00 +0200"
       }
     ],
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "UEFA Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#UEFA%20Europa%20League",
+        "pubdate": "Wed, 31 May 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Monfils",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Monfils",
         "pubdate": "Wed, 31 May 2023 08:00:00 +0200"
@@ -73,23 +87,9 @@
     ],
     [
       {
-        "title": "Dybala",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dybala",
-        "pubdate": "Wed, 31 May 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Martin Grubinger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Martin%20Grubinger",
         "pubdate": "Wed, 31 May 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Frank Albert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Frank%20Albert",
-        "pubdate": "Wed, 31 May 2023 21:00:00 +0200"
       }
     ],
     [

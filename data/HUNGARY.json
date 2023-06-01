@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-05-2023 , 23:57:34",
+  "lastUpdate": "01-06-2023 , 02:18:07",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Clint Eastwood",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Clint%20Eastwood",
         "pubdate": "Wed, 31 May 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "M4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4",
+        "pubdate": "Wed, 31 May 2023 21:00:00 +0200"
       }
     ],
     [
@@ -94,6 +101,13 @@
     ],
     [
       {
+        "title": "Bajnokok Ligája",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bajnokok%20Lig%C3%A1ja",
+        "pubdate": "Wed, 31 May 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Lil_g",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lil_g",
         "pubdate": "Wed, 31 May 2023 06:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Kiss",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kiss",
         "pubdate": "Wed, 31 May 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sevilla Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sevilla%20Roma",
-        "pubdate": "Tue, 30 May 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Orbán Viktor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Orb%C3%A1n%20Viktor",
-        "pubdate": "Tue, 30 May 2023 19:00:00 +0200"
       }
     ]
   ]
