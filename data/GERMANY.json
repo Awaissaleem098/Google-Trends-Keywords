@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "02-06-2023 , 18:53:47",
+  "lastUpdate": "02-06-2023 , 19:11:56",
   "data": [
     [
       {
         "title": "Heidi Klum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Heidi%20Klum",
         "pubdate": "Fri, 02 Jun 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rock am Ring",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rock%20am%20Ring",
+        "pubdate": "Fri, 02 Jun 2023 19:00:00 +0200"
       }
     ],
     [
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Messi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Messi",
-        "pubdate": "Fri, 02 Jun 2023 13:00:00 +0200"
+        "title": "Arminia Bielefeld",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Arminia%20Bielefeld",
+        "pubdate": "Fri, 02 Jun 2023 15:00:00 +0200"
       }
     ],
     [
@@ -31,6 +38,20 @@
     ],
     [
       {
+        "title": "Gänswein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#G%C3%A4nswein",
+        "pubdate": "Fri, 02 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Manifest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Manifest",
+        "pubdate": "Fri, 02 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "HSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
         "pubdate": "Thu, 01 Jun 2023 14:00:00 +0200"
@@ -38,8 +59,8 @@
     ],
     [
       {
-        "title": "Rammstein-Sänger Till Lindemann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rammstein-S%C3%A4nger%20Till%20Lindemann",
+        "title": "Till Lindemann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Till%20Lindemann",
         "pubdate": "Thu, 01 Jun 2023 14:00:00 +0200"
       }
     ],
@@ -59,13 +80,6 @@
     ],
     [
       {
-        "title": "Pride Month",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pride%20Month",
-        "pubdate": "Thu, 01 Jun 2023 06:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Zverev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zverev",
         "pubdate": "Thu, 01 Jun 2023 22:00:00 +0200"
@@ -76,20 +90,6 @@
         "title": "Stuttgart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stuttgart",
         "pubdate": "Thu, 01 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Barbara Schöneberger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Barbara%20Sch%C3%B6neberger",
-        "pubdate": "Thu, 01 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Schweden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schweden",
-        "pubdate": "Thu, 01 Jun 2023 10:00:00 +0200"
       }
     ],
     [
