@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "01-06-2023 , 23:59:32",
+  "lastUpdate": "02-06-2023 , 01:57:13",
   "data": [
     [
       {
         "title": "Krispy Kreme",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Krispy%20Kreme",
         "pubdate": "Fri, 02 Jun 2023 09:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Nuggets vs Heat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nuggets%20vs%20Heat",
+        "pubdate": "Fri, 02 Jun 2023 11:00:00 +1000"
       }
     ],
     [
@@ -24,9 +31,16 @@
     ],
     [
       {
-        "title": "Daniel Ricciardo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Daniel%20Ricciardo",
-        "pubdate": "Fri, 02 Jun 2023 09:00:00 +1000"
+        "title": "Henry Cavill",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Henry%20Cavill",
+        "pubdate": "Fri, 02 Jun 2023 01:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Minimum wage Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Minimum%20wage%20Australia",
+        "pubdate": "Fri, 02 Jun 2023 11:00:00 +1000"
       }
     ],
     [
@@ -52,16 +66,16 @@
     ],
     [
       {
-        "title": "Kayo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kayo",
-        "pubdate": "Thu, 01 Jun 2023 13:00:00 +1000"
+        "title": "Alex de Minaur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Alex%20de%20Minaur",
+        "pubdate": "Thu, 01 Jun 2023 19:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Alex de Minaur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Alex%20de%20Minaur",
-        "pubdate": "Thu, 01 Jun 2023 19:00:00 +1000"
+        "title": "Kayo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kayo",
+        "pubdate": "Thu, 01 Jun 2023 13:00:00 +1000"
       }
     ],
     [
@@ -90,13 +104,6 @@
         "title": "Push up challenge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Push%20up%20challenge",
         "pubdate": "Thu, 01 Jun 2023 10:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "HECS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#HECS",
-        "pubdate": "Thu, 01 Jun 2023 16:00:00 +1000"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "BHP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#BHP",
         "pubdate": "Thu, 01 Jun 2023 13:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Motley crue",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Motley%20crue",
-        "pubdate": "Thu, 01 Jun 2023 16:00:00 +1000"
       }
     ]
   ]

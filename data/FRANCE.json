@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-06-2023 , 23:59:35",
+  "lastUpdate": "02-06-2023 , 01:57:15",
   "data": [
     [
       {
@@ -17,23 +17,16 @@
     ],
     [
       {
+        "title": "Arthur Rinderknech",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Arthur%20Rinderknech",
+        "pubdate": "Thu, 01 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Altmaier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Altmaier",
         "pubdate": "Thu, 01 Jun 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arthur Rinderknech",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Arthur%20Rinderknech",
-        "pubdate": "Thu, 01 Jun 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rinderknech",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rinderknech",
-        "pubdate": "Thu, 01 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -55,6 +48,13 @@
         "title": "Messi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Messi",
         "pubdate": "Thu, 01 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Diane Parry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Diane%20Parry",
+        "pubdate": "Thu, 01 Jun 2023 14:00:00 +0200"
       }
     ],
     [
@@ -108,16 +108,16 @@
     ],
     [
       {
-        "title": "Senegal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Senegal",
-        "pubdate": "Thu, 01 Jun 2023 19:00:00 +0200"
+        "title": "Jose Mourinho",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jose%20Mourinho",
+        "pubdate": "Thu, 01 Jun 2023 09:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Soldes été 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Soldes%20%C3%A9t%C3%A9%202023",
-        "pubdate": "Thu, 01 Jun 2023 15:00:00 +0200"
+        "title": "Senegal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Senegal",
+        "pubdate": "Thu, 01 Jun 2023 19:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Loic bade",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Loic%20bade",
-        "pubdate": "Thu, 01 Jun 2023 09:00:00 +0200"
+        "title": "Affaire Maddie McCann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Affaire%20Maddie%20McCann",
+        "pubdate": "Thu, 01 Jun 2023 22:00:00 +0200"
       }
     ]
   ]
