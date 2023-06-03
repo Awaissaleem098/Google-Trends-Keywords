@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-06-2023 , 15:43:46",
+  "lastUpdate": "03-06-2023 , 15:56:45",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Natalie Portman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Natalie%20Portman",
+        "pubdate": "Fri, 02 Jun 2023 19:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Phillip Schofield",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Phillip%20Schofield",
         "pubdate": "Fri, 02 Jun 2023 13:00:00 -0700"
@@ -59,9 +66,16 @@
     ],
     [
       {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Djokovic",
-        "pubdate": "Fri, 02 Jun 2023 17:00:00 -0700"
+        "title": "Padma Lakshmi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Padma%20Lakshmi",
+        "pubdate": "Fri, 02 Jun 2023 20:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Millie Bobby Brown",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Millie%20Bobby%20Brown",
+        "pubdate": "Fri, 02 Jun 2023 16:00:00 -0700"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Jamie Foxx health",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jamie%20Foxx%20health",
-        "pubdate": "Thu, 01 Jun 2023 20:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Pride flag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pride%20flag",
         "pubdate": "Thu, 01 Jun 2023 10:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Memorial Tournament",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Memorial%20Tournament",
-        "pubdate": "Thu, 01 Jun 2023 18:00:00 -0700"
       }
     ]
   ]
