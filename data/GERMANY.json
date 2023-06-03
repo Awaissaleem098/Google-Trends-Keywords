@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-06-2023 , 23:51:02",
+  "lastUpdate": "03-06-2023 , 01:03:56",
   "data": [
+    [
+      {
+        "title": "Till Lindemann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Till%20Lindemann",
+        "pubdate": "Fri, 02 Jun 2023 13:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Arminia Bielefeld",
@@ -52,30 +59,9 @@
     ],
     [
       {
-        "title": "Messi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Messi",
-        "pubdate": "Fri, 02 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Luisa Neubauer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Luisa%20Neubauer",
-        "pubdate": "Fri, 02 Jun 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Simon Terodde",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Simon%20Terodde",
-        "pubdate": "Fri, 02 Jun 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gänswein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#G%C3%A4nswein",
-        "pubdate": "Fri, 02 Jun 2023 19:00:00 +0200"
+        "title": "Foo Fighters",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Foo%20Fighters",
+        "pubdate": "Fri, 02 Jun 2023 20:00:00 +0200"
       }
     ],
     [
@@ -83,13 +69,6 @@
         "title": "Manifest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Manifest",
         "pubdate": "Fri, 02 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Foo Fighters",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Foo%20Fighters",
-        "pubdate": "Fri, 02 Jun 2023 20:00:00 +0200"
       }
     ],
     [
@@ -115,13 +94,6 @@
     ],
     [
       {
-        "title": "Till Lindemann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Till%20Lindemann",
-        "pubdate": "Thu, 01 Jun 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Joe Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Joe%20Biden",
         "pubdate": "Thu, 01 Jun 2023 23:00:00 +0200"
@@ -129,9 +101,37 @@
     ],
     [
       {
+        "title": "Bundesliga-Relegation",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundesliga-Relegation",
+        "pubdate": "Thu, 01 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Pride Month",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pride%20Month",
         "pubdate": "Thu, 01 Jun 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Anna Loos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Anna%20Loos",
+        "pubdate": "Thu, 01 Jun 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Stuttgart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stuttgart",
+        "pubdate": "Thu, 01 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barbara Schöneberger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Barbara%20Sch%C3%B6neberger",
+        "pubdate": "Thu, 01 Jun 2023 21:00:00 +0200"
       }
     ],
     [
