@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "04-06-2023 , 23:45:45",
+  "lastUpdate": "04-06-2023 , 23:58:35",
   "data": [
     [
       {
         "title": "Explosion Västerås",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Explosion%20V%C3%A4ster%C3%A5s",
         "pubdate": "Mon, 05 Jun 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hammarby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
-        "pubdate": "Sun, 04 Jun 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Madrid",
-        "pubdate": "Sun, 04 Jun 2023 14:00:00 +0200"
       }
     ],
     [
@@ -31,9 +17,16 @@
     ],
     [
       {
-        "title": "Tom Cruise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tom%20Cruise",
-        "pubdate": "Sun, 04 Jun 2023 00:00:00 +0200"
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Madrid",
+        "pubdate": "Sun, 04 Jun 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hammarby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
+        "pubdate": "Sun, 04 Jun 2023 17:00:00 +0200"
       }
     ],
     [
@@ -45,9 +38,9 @@
     ],
     [
       {
-        "title": "Barracuda queens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barracuda%20queens",
-        "pubdate": "Sun, 04 Jun 2023 20:00:00 +0200"
+        "title": "Tom Cruise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tom%20Cruise",
+        "pubdate": "Sun, 04 Jun 2023 00:00:00 +0200"
       }
     ],
     [
@@ -55,6 +48,13 @@
         "title": "First Aid Kit",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#First%20Aid%20Kit",
         "pubdate": "Sun, 04 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barracuda queens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barracuda%20queens",
+        "pubdate": "Sun, 04 Jun 2023 20:00:00 +0200"
       }
     ],
     [

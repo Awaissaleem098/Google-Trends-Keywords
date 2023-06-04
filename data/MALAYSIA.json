@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "04-06-2023 , 23:45:40",
+  "lastUpdate": "04-06-2023 , 23:58:31",
   "data": [
     [
       {
         "title": "Celta Vigo vs Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Celta%20Vigo%20vs%20Barcelona",
         "pubdate": "Mon, 05 Jun 2023 03:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Napoli vs Sampdoria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Napoli%20vs%20Sampdoria",
+        "pubdate": "Mon, 05 Jun 2023 02:00:00 +0800"
       }
     ],
     [
@@ -80,8 +87,8 @@
     ],
     [
       {
-        "title": "Spider-Man: Across the Spider-Verse Movie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Spider-Man:%20Across%20the%20Spider-Verse%20Movie",
+        "title": "Spider-Man: Across the Spider-Verse movie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Spider-Man:%20Across%20the%20Spider-Verse%20movie",
         "pubdate": "Sun, 04 Jun 2023 12:00:00 +0800"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Manuel Ugarte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Manuel%20Ugarte",
         "pubdate": "Sun, 04 Jun 2023 16:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "FA Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#FA%20Cup",
-        "pubdate": "Sat, 03 Jun 2023 00:00:00 +0800"
       }
     ]
   ]
