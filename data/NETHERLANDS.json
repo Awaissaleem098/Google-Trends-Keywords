@@ -1,20 +1,6 @@
 {
-  "lastUpdate": "04-06-2023 , 04:41:10",
+  "lastUpdate": "04-06-2023 , 04:54:23",
   "data": [
-    [
-      {
-        "title": "Ter Apel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ter%20Apel",
-        "pubdate": "Sun, 04 Jun 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Champions League-finale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Champions%20League-finale",
-        "pubdate": "Sat, 03 Jun 2023 18:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Almere City",
@@ -27,6 +13,13 @@
         "title": "FC Emmen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Emmen",
         "pubdate": "Sat, 03 Jun 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona Wolfsburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Barcelona%20Wolfsburg",
+        "pubdate": "Sat, 03 Jun 2023 18:00:00 +0200"
       }
     ],
     [
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "NAC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
-        "pubdate": "Tue, 30 May 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Van der Sar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Van%20der%20Sar",
         "pubdate": "Tue, 30 May 2023 11:00:00 +0200"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "FC Emmen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Emmen",
+        "pubdate": "Tue, 30 May 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Eerste Kamer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eerste%20Kamer",
         "pubdate": "Tue, 30 May 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dua Lipa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dua%20Lipa",
+        "pubdate": "Tue, 30 May 2023 11:00:00 +0200"
       }
     ]
   ]
