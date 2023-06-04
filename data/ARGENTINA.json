@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-06-2023 , 00:53:01",
+  "lastUpdate": "04-06-2023 , 02:44:52",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Taylor%20Swift",
-        "pubdate": "Sat, 03 Jun 2023 10:00:00 -0300"
+        "title": "Rosario Central  Instituto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Rosario%20Central%20%20Instituto",
+        "pubdate": "Sat, 03 Jun 2023 17:00:00 -0300"
       }
     ],
     [
@@ -31,15 +31,22 @@
     ],
     [
       {
-        "title": "Rosario Central",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Rosario%20Central",
-        "pubdate": "Sat, 03 Jun 2023 17:00:00 -0300"
+        "title": "Racing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Racing",
+        "pubdate": "Sat, 03 Jun 2023 22:00:00 -0300"
       }
     ],
     [
       {
         "title": "Sergio Rico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sergio%20Rico",
+        "pubdate": "Sat, 03 Jun 2023 16:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Central Córdoba  Huracán",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Central%20C%C3%B3rdoba%20%20Hurac%C3%A1n",
         "pubdate": "Sat, 03 Jun 2023 16:00:00 -0300"
       }
     ],
@@ -59,22 +66,29 @@
     ],
     [
       {
-        "title": "Central Córdoba  Huracán",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Central%20C%C3%B3rdoba%20%20Hurac%C3%A1n",
-        "pubdate": "Sat, 03 Jun 2023 16:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Israel Brasil Sub 20",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Israel%20Brasil%20Sub%2020",
-        "pubdate": "Sat, 03 Jun 2023 17:00:00 -0300"
+        "title": "Colombia sub-20: Italia sub-20",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Colombia%20sub-20:%20Italia%20sub-20",
+        "pubdate": "Sat, 03 Jun 2023 18:00:00 -0300"
       }
     ],
     [
       {
         "title": "Belgrano vs Vélez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Belgrano%20vs%20V%C3%A9lez",
+        "pubdate": "Sat, 03 Jun 2023 17:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Tomas Etcheverry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tomas%20Etcheverry",
+        "pubdate": "Sat, 03 Jun 2023 11:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Israel Brasil Sub 20",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Israel%20Brasil%20Sub%2020",
         "pubdate": "Sat, 03 Jun 2023 17:00:00 -0300"
       }
     ],
@@ -87,9 +101,9 @@
     ],
     [
       {
-        "title": "Colombia sub-20: Italia sub-20",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Colombia%20sub-20:%20Italia%20sub-20",
-        "pubdate": "Sat, 03 Jun 2023 18:00:00 -0300"
+        "title": "Independiente Rivadavia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Independiente%20Rivadavia",
+        "pubdate": "Sat, 03 Jun 2023 21:00:00 -0300"
       }
     ],
     [
@@ -101,6 +115,13 @@
     ],
     [
       {
+        "title": "3 de junio Ni Una Menos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#3%20de%20junio%20Ni%20Una%20Menos",
+        "pubdate": "Sat, 03 Jun 2023 01:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Talleres vs Tigre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Talleres%20vs%20Tigre",
         "pubdate": "Sat, 03 Jun 2023 00:00:00 -0300"
@@ -108,37 +129,16 @@
     ],
     [
       {
+        "title": "El Noba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#El%20Noba",
+        "pubdate": "Sat, 03 Jun 2023 20:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Piratas del Caribe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Piratas%20del%20Caribe",
         "pubdate": "Sat, 03 Jun 2023 16:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Viviana Canosa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Viviana%20Canosa",
-        "pubdate": "Sat, 03 Jun 2023 11:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Carolina Herrera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Carolina%20Herrera",
-        "pubdate": "Sat, 03 Jun 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Jose Sosa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Jose%20Sosa",
-        "pubdate": "Sat, 03 Jun 2023 03:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "City vs Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#City%20vs%20Inter",
-        "pubdate": "Sat, 03 Jun 2023 14:00:00 -0300"
       }
     ]
   ]

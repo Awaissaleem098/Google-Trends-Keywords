@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-06-2023 , 00:53:03",
+  "lastUpdate": "04-06-2023 , 02:44:54",
   "data": [
     [
       {
@@ -48,6 +48,13 @@
         "title": "Indie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Indie",
         "pubdate": "Sat, 03 Jun 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Spider-Man: Paralelní světy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Spider-Man:%20Paraleln%C3%AD%20sv%C4%9Bty",
+        "pubdate": "Sat, 03 Jun 2023 09:00:00 +0200"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Rusko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rusko",
-        "pubdate": "Fri, 02 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tonya Graves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tonya%20Graves",
         "pubdate": "Fri, 02 Jun 2023 22:00:00 +0200"
       }
     ]

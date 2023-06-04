@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-06-2023 , 00:53:03",
+  "lastUpdate": "04-06-2023 , 02:44:53",
   "data": [
     [
       {
@@ -31,16 +31,9 @@
     ],
     [
       {
-        "title": "Torino - Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Torino%20-%20Inter",
-        "pubdate": "Sat, 03 Jun 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Sergio Rico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sergio%20Rico",
-        "pubdate": "Sat, 03 Jun 2023 16:00:00 -0400"
+        "title": "Cobreloa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobreloa",
+        "pubdate": "Sat, 03 Jun 2023 20:00:00 -0400"
       }
     ],
     [
@@ -52,9 +45,23 @@
     ],
     [
       {
-        "title": "Haaland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Haaland",
+        "title": "Sergio Rico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sergio%20Rico",
+        "pubdate": "Sat, 03 Jun 2023 16:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Torino - Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Torino%20-%20Inter",
         "pubdate": "Sat, 03 Jun 2023 13:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Colombia Sub 20",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colombia%20Sub%2020",
+        "pubdate": "Sat, 03 Jun 2023 19:00:00 -0400"
       }
     ],
     [
@@ -62,6 +69,13 @@
         "title": "Leipzig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Leipzig",
         "pubdate": "Sat, 03 Jun 2023 17:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Haaland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Haaland",
+        "pubdate": "Sat, 03 Jun 2023 13:00:00 -0400"
       }
     ],
     [
@@ -80,6 +94,13 @@
     ],
     [
       {
+        "title": "Elena Rybakina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Elena%20Rybakina",
+        "pubdate": "Sat, 03 Jun 2023 18:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Garnacho",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Garnacho",
         "pubdate": "Sat, 03 Jun 2023 14:00:00 -0400"
@@ -87,9 +108,9 @@
     ],
     [
       {
-        "title": "Colombia sub-20: Italia sub-20",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colombia%20sub-20:%20Italia%20sub-20",
-        "pubdate": "Sat, 03 Jun 2023 19:00:00 -0400"
+        "title": "Claudio Bravo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Claudio%20Bravo",
+        "pubdate": "Sat, 03 Jun 2023 20:00:00 -0400"
       }
     ],
     [
@@ -97,13 +118,6 @@
         "title": "Juegos Panamericanos 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Juegos%20Panamericanos%202023",
         "pubdate": "Sat, 03 Jun 2023 02:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Elena Rybakina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Elena%20Rybakina",
-        "pubdate": "Sat, 03 Jun 2023 18:00:00 -0400"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Garras de Amor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Garras%20de%20Amor",
         "pubdate": "Fri, 02 Jun 2023 22:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Dunkin' Donuts",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dunkin'%20Donuts",
-        "pubdate": "Fri, 02 Jun 2023 02:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Peso argentino a chileno",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Peso%20argentino%20a%20chileno",
-        "pubdate": "Fri, 02 Jun 2023 13:00:00 -0400"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-06-2023 , 00:53:11",
+  "lastUpdate": "04-06-2023 , 02:45:01",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "The Voice 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#The%20Voice%202023",
         "pubdate": "Sun, 04 Jun 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tiafoe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tiafoe",
-        "pubdate": "Sun, 04 Jun 2023 00:00:00 +0200"
       }
     ],
     [
@@ -80,9 +73,9 @@
     ],
     [
       {
-        "title": "Ons Jabeur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ons%20Jabeur",
-        "pubdate": "Sat, 03 Jun 2023 21:00:00 +0200"
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zverev",
+        "pubdate": "Sat, 03 Jun 2023 23:00:00 +0200"
       }
     ],
     [
@@ -94,9 +87,9 @@
     ],
     [
       {
-        "title": "Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zverev",
-        "pubdate": "Sat, 03 Jun 2023 23:00:00 +0200"
+        "title": "Ons Jabeur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ons%20Jabeur",
+        "pubdate": "Sat, 03 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -115,9 +108,9 @@
     ],
     [
       {
-        "title": "Xamax Rapperswil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Xamax%20Rapperswil",
-        "pubdate": "Sat, 03 Jun 2023 20:00:00 +0200"
+        "title": "Pierre de Maere",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pierre%20de%20Maere",
+        "pubdate": "Sat, 03 Jun 2023 23:00:00 +0200"
       }
     ],
     [
@@ -129,9 +122,9 @@
     ],
     [
       {
-        "title": "Pierre de Maere",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pierre%20de%20Maere",
-        "pubdate": "Sat, 03 Jun 2023 23:00:00 +0200"
+        "title": "Xamax Rapperswil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Xamax%20Rapperswil",
+        "pubdate": "Sat, 03 Jun 2023 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Sergio Ramos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sergio%20Ramos",
         "pubdate": "Sat, 03 Jun 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Swiss Canyon Trail",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Swiss%20Canyon%20Trail",
+        "pubdate": "Sat, 03 Jun 2023 07:00:00 +0200"
       }
     ]
   ]
