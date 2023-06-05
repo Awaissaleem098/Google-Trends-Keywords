@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-06-2023 , 23:58:29",
+  "lastUpdate": "05-06-2023 , 01:57:51",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Belgorod",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Belgorod",
-        "pubdate": "Sun, 04 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Eintracht Frankfurt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
         "pubdate": "Sat, 03 Jun 2023 19:00:00 +0200"
@@ -94,6 +87,13 @@
     ],
     [
       {
+        "title": "Pokal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pokal",
+        "pubdate": "Sat, 03 Jun 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Zugunglück Indien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zugungl%C3%BCck%20Indien",
         "pubdate": "Sat, 03 Jun 2023 09:00:00 +0200"
@@ -108,23 +108,9 @@
     ],
     [
       {
-        "title": "DFB-Pokal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
-        "pubdate": "Sat, 03 Jun 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Frankfurt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frankfurt",
         "pubdate": "Sat, 03 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Anna Loos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Anna%20Loos",
-        "pubdate": "Sat, 03 Jun 2023 10:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Champions League Finale Frauen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League%20Finale%20Frauen",
         "pubdate": "Sat, 03 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Djokovic",
+        "pubdate": "Sat, 03 Jun 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "DFB-Pokal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
+        "pubdate": "Fri, 02 Jun 2023 21:00:00 +0200"
       }
     ]
   ]

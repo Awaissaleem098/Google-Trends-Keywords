@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-06-2023 , 23:58:27",
+  "lastUpdate": "05-06-2023 , 01:57:49",
   "data": [
     [
       {
@@ -24,16 +24,9 @@
     ],
     [
       {
-        "title": "Guarani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Guarani",
-        "pubdate": "Sun, 04 Jun 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Mega-Sena 2598",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mega-Sena%202598",
-        "pubdate": "Sun, 04 Jun 2023 06:00:00 -0500"
+        "title": "Goias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Goias",
+        "pubdate": "Sun, 04 Jun 2023 16:00:00 -0500"
       }
     ],
     [
@@ -45,16 +38,30 @@
     ],
     [
       {
-        "title": "Goiás x Cuiabá",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Goi%C3%A1s%20x%20Cuiab%C3%A1",
-        "pubdate": "Sun, 04 Jun 2023 16:00:00 -0500"
+        "title": "Denver Nuggets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Denver%20Nuggets",
+        "pubdate": "Sun, 04 Jun 2023 11:00:00 -0500"
       }
     ],
     [
       {
         "title": "Paysandu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Paysandu",
-        "pubdate": "Sun, 04 Jun 2023 16:00:00 -0500"
+        "pubdate": "Sun, 04 Jun 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Guarani",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Guarani",
+        "pubdate": "Sun, 04 Jun 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Silvio Santos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Silvio%20Santos",
+        "pubdate": "Sun, 04 Jun 2023 19:00:00 -0500"
       }
     ],
     [
@@ -62,6 +69,27 @@
         "title": "Ibrahimovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ibrahimovic",
         "pubdate": "Sun, 04 Jun 2023 17:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Remo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Remo",
+        "pubdate": "Sun, 04 Jun 2023 04:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Valladolid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Valladolid",
+        "pubdate": "Sun, 04 Jun 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Cuiaba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cuiaba",
+        "pubdate": "Sun, 04 Jun 2023 20:00:00 -0500"
       }
     ],
     [
@@ -80,9 +108,9 @@
     ],
     [
       {
-        "title": "Denver Nuggets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Denver%20Nuggets",
-        "pubdate": "Sun, 04 Jun 2023 16:00:00 -0500"
+        "title": "Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atalanta",
+        "pubdate": "Sun, 04 Jun 2023 14:00:00 -0500"
       }
     ],
     [
@@ -94,20 +122,6 @@
     ],
     [
       {
-        "title": "Valladolid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Valladolid",
-        "pubdate": "Sun, 04 Jun 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atalanta",
-        "pubdate": "Sun, 04 Jun 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Botafogo-PB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo-PB",
         "pubdate": "Sun, 04 Jun 2023 15:00:00 -0500"
@@ -115,30 +129,16 @@
     ],
     [
       {
-        "title": "Real valladolid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Real%20valladolid",
-        "pubdate": "Sun, 04 Jun 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Roma",
-        "pubdate": "Sun, 04 Jun 2023 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Bruce Willis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bruce%20Willis",
-        "pubdate": "Sun, 04 Jun 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "The Idol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#The%20Idol",
         "pubdate": "Sun, 04 Jun 2023 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Shakira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Shakira",
+        "pubdate": "Sun, 04 Jun 2023 17:00:00 -0500"
       }
     ]
   ]

@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-06-2023 , 23:58:29",
+  "lastUpdate": "05-06-2023 , 01:57:52",
   "data": [
+    [
+      {
+        "title": "Ibrahimovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ibrahimovic",
+        "pubdate": "Mon, 05 Jun 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Jumanji",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Ibrahimovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ibrahimovic",
-        "pubdate": "Mon, 05 Jun 2023 01:00:00 +0200"
+        "title": "Megan Fox",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Megan%20Fox",
+        "pubdate": "Mon, 05 Jun 2023 02:00:00 +0200"
       }
     ],
     [
@@ -26,7 +33,7 @@
       {
         "title": "Everest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Everest",
-        "pubdate": "Sun, 04 Jun 2023 00:00:00 +0200"
+        "pubdate": "Sun, 04 Jun 2023 16:00:00 +0200"
       }
     ],
     [
@@ -54,6 +61,13 @@
       {
         "title": "Trianoni békeszerződés",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Trianoni%20b%C3%A9keszerz%C5%91d%C3%A9s",
+        "pubdate": "Sun, 04 Jun 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Árok",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%81rok",
         "pubdate": "Sun, 04 Jun 2023 20:00:00 +0200"
       }
     ],
@@ -94,13 +108,6 @@
     ],
     [
       {
-        "title": "G.w.M",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G.w.M",
-        "pubdate": "Sun, 04 Jun 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Gyurcsány Ferenc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gyurcs%C3%A1ny%20Ferenc",
         "pubdate": "Sun, 04 Jun 2023 17:00:00 +0200"
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "HOLD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#HOLD",
-        "pubdate": "Sun, 04 Jun 2023 01:00:00 +0200"
+        "title": "Suhajda Szilárd Mount Everest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Suhajda%20Szil%C3%A1rd%20Mount%20Everest",
+        "pubdate": "Sun, 04 Jun 2023 00:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Terrifier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Terrifier",
-        "pubdate": "Sun, 04 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kézilabda BL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%C3%A9zilabda%20BL",
-        "pubdate": "Sat, 03 Jun 2023 14:00:00 +0200"
+        "title": "G.w.M",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#G.w.M",
+        "pubdate": "Sun, 04 Jun 2023 14:00:00 +0200"
       }
     ]
   ]
