@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-06-2023 , 23:54:59",
+  "lastUpdate": "06-06-2023 , 01:52:30",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Andrew Tate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Andrew%20Tate",
+        "pubdate": "Tue, 06 Jun 2023 08:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Holly Willoughby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Holly%20Willoughby",
         "pubdate": "Tue, 06 Jun 2023 10:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Aera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Aera",
+        "pubdate": "Tue, 06 Jun 2023 12:00:00 +1200"
       }
     ],
     [
@@ -45,13 +59,6 @@
     ],
     [
       {
-        "title": "Zlatan Ibrahimovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Zlatan%20Ibrahimovic",
-        "pubdate": "Mon, 05 Jun 2023 18:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Kathleen Folbigg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kathleen%20Folbigg",
         "pubdate": "Mon, 05 Jun 2023 18:00:00 +1200"
@@ -59,15 +66,22 @@
     ],
     [
       {
-        "title": "Karim Benzema",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Karim%20Benzema",
-        "pubdate": "Mon, 05 Jun 2023 21:00:00 +1200"
+        "title": "Zlatan Ibrahimovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Zlatan%20Ibrahimovic",
+        "pubdate": "Mon, 05 Jun 2023 18:00:00 +1200"
       }
     ],
     [
       {
         "title": "YNW Melly",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#YNW%20Melly",
+        "pubdate": "Mon, 05 Jun 2023 21:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Karim Benzema",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Karim%20Benzema",
         "pubdate": "Mon, 05 Jun 2023 21:00:00 +1200"
       }
     ],
@@ -90,6 +104,13 @@
         "title": "Ange Postecoglou",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ange%20Postecoglou",
         "pubdate": "Mon, 05 Jun 2023 21:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Road closures",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Road%20closures",
+        "pubdate": "Mon, 05 Jun 2023 09:00:00 +1200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Nathan Cleary",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nathan%20Cleary",
         "pubdate": "Mon, 05 Jun 2023 20:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Rose Zhang",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Rose%20Zhang",
-        "pubdate": "Mon, 05 Jun 2023 21:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "King Charles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#King%20Charles",
-        "pubdate": "Sun, 04 Jun 2023 09:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Dylan Brown",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Dylan%20Brown",
-        "pubdate": "Sun, 04 Jun 2023 16:00:00 +1200"
       }
     ]
   ]

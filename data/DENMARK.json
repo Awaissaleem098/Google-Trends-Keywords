@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "05-06-2023 , 23:54:53",
+  "lastUpdate": "06-06-2023 , 01:52:23",
   "data": [
+    [
+      {
+        "title": "Joaquin Phoenix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Joaquin%20Phoenix",
+        "pubdate": "Tue, 06 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "iOS 17",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#iOS%2017",
+        "pubdate": "Tue, 06 Jun 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Holger Rune",
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "NATO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NATO",
-        "pubdate": "Mon, 05 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Novo Nordisk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Novo%20Nordisk",
         "pubdate": "Mon, 05 Jun 2023 18:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Benzema",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Benzema",
         "pubdate": "Sun, 04 Jun 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Criterium du Dauphine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Criterium%20du%20Dauphine",
-        "pubdate": "Sun, 04 Jun 2023 09:00:00 +0200"
       }
     ]
   ]

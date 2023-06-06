@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "05-06-2023 , 23:54:51",
+  "lastUpdate": "06-06-2023 , 01:52:21",
   "data": [
+    [
+      {
+        "title": "Nachrichten aktuell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nachrichten%20aktuell",
+        "pubdate": "Tue, 06 Jun 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Prinz Harry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Prinz%20Harry",
+        "pubdate": "Tue, 06 Jun 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Bild.de",
@@ -31,16 +45,16 @@
     ],
     [
       {
-        "title": "Gmail",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gmail",
-        "pubdate": "Mon, 05 Jun 2023 14:00:00 +0200"
+        "title": "HSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#HSV",
+        "pubdate": "Mon, 05 Jun 2023 11:00:00 +0200"
       }
     ],
     [
       {
-        "title": "HSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#HSV",
-        "pubdate": "Mon, 05 Jun 2023 11:00:00 +0200"
+        "title": "Gmail",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gmail",
+        "pubdate": "Mon, 05 Jun 2023 14:00:00 +0200"
       }
     ],
     [
@@ -52,13 +66,6 @@
     ],
     [
       {
-        "title": "Outlook",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Outlook",
-        "pubdate": "Mon, 05 Jun 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Lidl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lidl",
         "pubdate": "Mon, 05 Jun 2023 19:00:00 +0200"
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "AMS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#AMS",
-        "pubdate": "Mon, 05 Jun 2023 09:00:00 +0200"
+        "title": "Outlook",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Outlook",
+        "pubdate": "Mon, 05 Jun 2023 11:00:00 +0200"
       }
     ],
     [
@@ -108,16 +115,16 @@
     ],
     [
       {
-        "title": "A1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#A1",
-        "pubdate": "Mon, 05 Jun 2023 16:00:00 +0200"
+        "title": "ORF.at",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ORF.at",
+        "pubdate": "Mon, 05 Jun 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Erste Bank",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Erste%20Bank",
-        "pubdate": "Mon, 05 Jun 2023 10:00:00 +0200"
+        "title": "A1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#A1",
+        "pubdate": "Mon, 05 Jun 2023 16:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Apotheke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Apotheke",
         "pubdate": "Mon, 05 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sturm der Liebe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sturm%20der%20Liebe",
-        "pubdate": "Mon, 05 Jun 2023 20:00:00 +0200"
       }
     ]
   ]

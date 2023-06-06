@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "05-06-2023 , 23:54:50",
+  "lastUpdate": "06-06-2023 , 01:52:20",
   "data": [
     [
       {
         "title": "Apple",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Apple",
         "pubdate": "Mon, 05 Jun 2023 07:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Google Maps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Google%20Maps",
+        "pubdate": "Mon, 05 Jun 2023 16:00:00 -0700"
       }
     ],
     [
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Anna Shay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Anna%20Shay",
-        "pubdate": "Mon, 05 Jun 2023 13:00:00 -0700"
+        "title": "Tesla stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tesla%20stock",
+        "pubdate": "Mon, 05 Jun 2023 09:00:00 -0700"
       }
     ],
     [
@@ -87,44 +94,9 @@
     ],
     [
       {
-        "title": "Robert Hanssen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Robert%20Hanssen",
-        "pubdate": "Mon, 05 Jun 2023 14:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Duke Energy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Duke%20Energy",
         "pubdate": "Mon, 05 Jun 2023 14:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Classroom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Classroom",
-        "pubdate": "Mon, 05 Jun 2023 09:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "S&P 500",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#S%26P%20500",
-        "pubdate": "Mon, 05 Jun 2023 11:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Cornel West",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cornel%20West",
-        "pubdate": "Mon, 05 Jun 2023 14:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Miami",
-        "pubdate": "Mon, 05 Jun 2023 05:00:00 -0700"
       }
     ],
     [
@@ -136,9 +108,37 @@
     ],
     [
       {
+        "title": "S&P 500",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#S%26P%20500",
+        "pubdate": "Mon, 05 Jun 2023 11:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Classroom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Classroom",
+        "pubdate": "Mon, 05 Jun 2023 09:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Miami",
+        "pubdate": "Mon, 05 Jun 2023 05:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Adobe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Adobe",
         "pubdate": "Mon, 05 Jun 2023 12:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Mike Pence",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mike%20Pence",
+        "pubdate": "Mon, 05 Jun 2023 15:00:00 -0700"
       }
     ]
   ]

@@ -1,20 +1,6 @@
 {
-  "lastUpdate": "05-06-2023 , 23:55:01",
+  "lastUpdate": "06-06-2023 , 01:52:32",
   "data": [
-    [
-      {
-        "title": "Is Outlook Down",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Is%20Outlook%20Down",
-        "pubdate": "Tue, 06 Jun 2023 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Apple stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Apple%20stock",
-        "pubdate": "Tue, 06 Jun 2023 04:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "Anna Shay",
@@ -31,9 +17,16 @@
     ],
     [
       {
-        "title": "World Environment Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#World%20Environment%20Day",
+        "title": "Is Outlook Down",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Is%20Outlook%20Down",
         "pubdate": "Tue, 06 Jun 2023 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "iOS 17",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#iOS%2017",
+        "pubdate": "Tue, 06 Jun 2023 08:00:00 +0800"
       }
     ],
     [
@@ -41,6 +34,13 @@
         "title": "Binance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Binance",
         "pubdate": "Tue, 06 Jun 2023 04:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "World Environment Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#World%20Environment%20Day",
+        "pubdate": "Tue, 06 Jun 2023 00:00:00 +0800"
       }
     ],
     [
@@ -66,16 +66,16 @@
     ],
     [
       {
-        "title": "The Idol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#The%20Idol",
-        "pubdate": "Mon, 05 Jun 2023 03:00:00 +0800"
+        "title": "Singapore Turf Club",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Singapore%20Turf%20Club",
+        "pubdate": "Mon, 05 Jun 2023 18:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Singapore Turf Club",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Singapore%20Turf%20Club",
-        "pubdate": "Mon, 05 Jun 2023 18:00:00 +0800"
+        "title": "The Idol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#The%20Idol",
+        "pubdate": "Mon, 05 Jun 2023 03:00:00 +0800"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Shakira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Shakira",
-        "pubdate": "Mon, 05 Jun 2023 20:00:00 +0800"
+        "title": "Seatrium",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Seatrium",
+        "pubdate": "Mon, 05 Jun 2023 18:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Korat Thai Cafe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Korat%20Thai%20Cafe",
-        "pubdate": "Mon, 05 Jun 2023 16:00:00 +0800"
+        "title": "Shakira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Shakira",
+        "pubdate": "Mon, 05 Jun 2023 20:00:00 +0800"
       }
     ]
   ]

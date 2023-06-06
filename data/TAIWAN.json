@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-06-2023 , 23:55:02",
+  "lastUpdate": "06-06-2023 , 01:52:34",
   "data": [
     [
       {
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "Lexus LBX",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Lexus%20LBX",
-        "pubdate": "Tue, 06 Jun 2023 02:00:00 +0800"
+        "title": "iOS17",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#iOS17",
+        "pubdate": "Tue, 06 Jun 2023 08:00:00 +0800"
       }
     ],
     [
@@ -34,6 +34,27 @@
         "title": "幣安",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%B9%A3%E5%AE%89",
         "pubdate": "Tue, 06 Jun 2023 06:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Lexus LBX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Lexus%20LBX",
+        "pubdate": "Tue, 06 Jun 2023 02:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "MacBook Air",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#MacBook%20Air",
+        "pubdate": "Tue, 06 Jun 2023 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "日出茶太",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%97%A5%E5%87%BA%E8%8C%B6%E5%A4%AA",
+        "pubdate": "Tue, 06 Jun 2023 08:00:00 +0800"
       }
     ],
     [
@@ -52,16 +73,16 @@
     ],
     [
       {
-        "title": "新光金",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%96%B0%E5%85%89%E9%87%91",
-        "pubdate": "Mon, 05 Jun 2023 12:00:00 +0800"
+        "title": "何志偉",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E4%BD%95%E5%BF%97%E5%81%89",
+        "pubdate": "Mon, 05 Jun 2023 00:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Risu 社團",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Risu%20%E7%A4%BE%E5%9C%98",
-        "pubdate": "Mon, 05 Jun 2023 13:00:00 +0800"
+        "title": "新光金",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%96%B0%E5%85%89%E9%87%91",
+        "pubdate": "Mon, 05 Jun 2023 12:00:00 +0800"
       }
     ],
     [
@@ -73,6 +94,20 @@
     ],
     [
       {
+        "title": "芒種",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%8A%92%E7%A8%AE",
+        "pubdate": "Mon, 05 Jun 2023 12:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "RISU社團",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#RISU%E7%A4%BE%E5%9C%98",
+        "pubdate": "Mon, 05 Jun 2023 13:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "中正大學",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E4%B8%AD%E6%AD%A3%E5%A4%A7%E5%AD%B8",
         "pubdate": "Mon, 05 Jun 2023 14:00:00 +0800"
@@ -80,9 +115,9 @@
     ],
     [
       {
-        "title": "芒種",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%8A%92%E7%A8%AE",
-        "pubdate": "Mon, 05 Jun 2023 12:00:00 +0800"
+        "title": "威力彩開獎",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%A8%81%E5%8A%9B%E5%BD%A9%E9%96%8B%E7%8D%8E",
+        "pubdate": "Mon, 05 Jun 2023 21:00:00 +0800"
       }
     ],
     [
@@ -94,51 +129,16 @@
     ],
     [
       {
+        "title": "劉家儀",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8A%89%E5%AE%B6%E5%84%80",
+        "pubdate": "Mon, 05 Jun 2023 10:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "車貞淑醫生結局",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%BB%8A%E8%B2%9E%E6%B7%91%E9%86%AB%E7%94%9F%E7%B5%90%E5%B1%80",
         "pubdate": "Mon, 05 Jun 2023 01:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "桃園火車站",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%A1%83%E5%9C%92%E7%81%AB%E8%BB%8A%E7%AB%99",
-        "pubdate": "Mon, 05 Jun 2023 14:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "房貸補貼申請",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%88%BF%E8%B2%B8%E8%A3%9C%E8%B2%BC%E7%94%B3%E8%AB%8B",
-        "pubdate": "Mon, 05 Jun 2023 14:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "池恩齊",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%B1%A0%E6%81%A9%E9%BD%8A",
-        "pubdate": "Mon, 05 Jun 2023 01:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "張翰",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%BC%B5%E7%BF%B0",
-        "pubdate": "Mon, 05 Jun 2023 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "天堂W",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%A4%A9%E5%A0%82W",
-        "pubdate": "Mon, 05 Jun 2023 11:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "鄧九雲",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%84%A7%E4%B9%9D%E9%9B%B2",
-        "pubdate": "Mon, 05 Jun 2023 08:00:00 +0800"
       }
     ]
   ]
