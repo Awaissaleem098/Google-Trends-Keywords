@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-06-2023 , 23:58:27",
+  "lastUpdate": "07-06-2023 , 01:59:54",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Explosão barragem ucrania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Explos%C3%A3o%20barragem%20ucrania",
+        "pubdate": "Tue, 06 Jun 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Internet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Internet",
         "pubdate": "Tue, 06 Jun 2023 17:00:00 +0100"
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Explosão barragem ucrania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Explos%C3%A3o%20barragem%20ucrania",
-        "pubdate": "Tue, 06 Jun 2023 17:00:00 +0100"
+        "title": "Carlos Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Carlos%20Alcaraz",
+        "pubdate": "Tue, 06 Jun 2023 20:00:00 +0100"
       }
     ],
     [
@@ -94,6 +101,13 @@
     ],
     [
       {
+        "title": "Libertadores",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Libertadores",
+        "pubdate": "Tue, 06 Jun 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jacob Mellis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jacob%20Mellis",
         "pubdate": "Tue, 06 Jun 2023 02:00:00 +0100"
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Libertadores",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Libertadores",
-        "pubdate": "Tue, 06 Jun 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Queda aviao",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Queda%20aviao",
         "pubdate": "Tue, 06 Jun 2023 22:00:00 +0100"
@@ -122,9 +129,9 @@
     ],
     [
       {
-        "title": "Tsitsipas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tsitsipas",
-        "pubdate": "Tue, 06 Jun 2023 22:00:00 +0100"
+        "title": "Maria Cerqueira Gomes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Maria%20Cerqueira%20Gomes",
+        "pubdate": "Tue, 06 Jun 2023 21:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Zverev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Zverev",
         "pubdate": "Tue, 06 Jun 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Pokerstars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pokerstars",
-        "pubdate": "Tue, 06 Jun 2023 20:00:00 +0100"
       }
     ]
   ]
