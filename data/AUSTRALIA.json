@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "09-06-2023 , 13:49:13",
+  "lastUpdate": "09-06-2023 , 19:49:33",
   "data": [
+    [
+      {
+        "title": "Iga Swiatek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Iga%20Swiatek",
+        "pubdate": "Sat, 10 Jun 2023 01:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "UCL Final",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UCL%20Final",
+        "pubdate": "Sat, 10 Jun 2023 02:00:00 +1000"
+      }
+    ],
     [
       {
         "title": "AFL",
@@ -13,6 +27,13 @@
         "title": "Willi Ninja",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Willi%20Ninja",
         "pubdate": "Fri, 09 Jun 2023 02:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Novak%20Djokovic",
+        "pubdate": "Fri, 09 Jun 2023 16:00:00 +1000"
       }
     ],
     [
@@ -38,16 +59,9 @@
     ],
     [
       {
-        "title": "Brett Sutton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Brett%20Sutton",
-        "pubdate": "Fri, 09 Jun 2023 09:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Bulldogs vs Port Adelaide",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bulldogs%20vs%20Port%20Adelaide",
-        "pubdate": "Fri, 09 Jun 2023 21:00:00 +1000"
+        "title": "Sabalenka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sabalenka",
+        "pubdate": "Fri, 09 Jun 2023 03:00:00 +1000"
       }
     ],
     [
@@ -59,6 +73,13 @@
     ],
     [
       {
+        "title": "Brett Sutton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Brett%20Sutton",
+        "pubdate": "Fri, 09 Jun 2023 09:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Jarrod Croker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jarrod%20Croker",
         "pubdate": "Fri, 09 Jun 2023 19:00:00 +1000"
@@ -66,9 +87,23 @@
     ],
     [
       {
+        "title": "Manly Sea Eagles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Manly%20Sea%20Eagles",
+        "pubdate": "Fri, 09 Jun 2023 21:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "NHL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NHL",
         "pubdate": "Fri, 09 Jun 2023 17:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Kelis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kelis",
+        "pubdate": "Fri, 09 Jun 2023 18:00:00 +1000"
       }
     ],
     [
@@ -87,9 +122,9 @@
     ],
     [
       {
-        "title": "Kelis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kelis",
-        "pubdate": "Fri, 09 Jun 2023 18:00:00 +1000"
+        "title": "Dua Lipa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dua%20Lipa",
+        "pubdate": "Fri, 09 Jun 2023 22:00:00 +1000"
       }
     ],
     [
@@ -101,44 +136,9 @@
     ],
     [
       {
-        "title": "Djokovic vs Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Djokovic%20vs%20Alcaraz",
-        "pubdate": "Fri, 09 Jun 2023 16:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Based on a True Story",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Based%20on%20a%20True%20Story",
         "pubdate": "Fri, 09 Jun 2023 11:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Dani Dyer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dani%20Dyer",
-        "pubdate": "Fri, 09 Jun 2023 07:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Jurassic Park",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jurassic%20Park",
-        "pubdate": "Fri, 09 Jun 2023 21:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Manly Sea Eagles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Manly%20Sea%20Eagles",
-        "pubdate": "Fri, 09 Jun 2023 21:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Shark attack Egypt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Shark%20attack%20Egypt",
-        "pubdate": "Fri, 09 Jun 2023 20:00:00 +1000"
       }
     ]
   ]
