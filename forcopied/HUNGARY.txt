@@ -1,1 +1,1 @@
-Cápatámadás,CNN,Friderikusz Sándor,New York,Schilling Árpád,Arnold schwarzenegger,Kesselyák Gergely,Summer Game Fest 2023,Shannen Doherty,Korda György,Muchova,Bochkor,Slipknot,Horváth Éva,Pat Robertson,Annecy,Arcanum,ValMar,Szujó Zoltán,Csontváry
+Cápatámadás,CNN,Friderikusz Sándor,Gyöngyöstarján,Schilling Árpád,Arnold schwarzenegger,Kesselyák Gergely,Summer Game Fest 2023,Shannen Doherty,Korda György,Bochkor,Muchova,Megan Fox,Pat Robertson,Horváth Éva,Slipknot,Annecy,Arcanum,ValMar,Szujó Zoltán

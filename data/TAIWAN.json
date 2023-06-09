@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "09-06-2023 , 10:18:32",
+  "lastUpdate": "09-06-2023 , 13:49:22",
   "data": [
+    [
+      {
+        "title": "趙建勳",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%B6%99%E5%BB%BA%E5%8B%B3",
+        "pubdate": "Fri, 09 Jun 2023 13:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "劉仕傑",
@@ -17,16 +24,23 @@
     ],
     [
       {
-        "title": "趙建勳",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%B6%99%E5%BB%BA%E5%8B%B3",
+        "title": "古家齊",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8F%A4%E5%AE%B6%E9%BD%8A",
         "pubdate": "Fri, 09 Jun 2023 13:00:00 +0800"
       }
     ],
     [
       {
-        "title": "會考落點",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9C%83%E8%80%83%E8%90%BD%E9%BB%9E",
+        "title": "李正皓",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9D%8E%E6%AD%A3%E7%9A%93",
         "pubdate": "Fri, 09 Jun 2023 10:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "豪雨特報",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%B1%AA%E9%9B%A8%E7%89%B9%E5%A0%B1",
+        "pubdate": "Fri, 09 Jun 2023 09:00:00 +0800"
       }
     ],
     [
@@ -38,9 +52,9 @@
     ],
     [
       {
-        "title": "豪雨特報",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%B1%AA%E9%9B%A8%E7%89%B9%E5%A0%B1",
-        "pubdate": "Fri, 09 Jun 2023 09:00:00 +0800"
+        "title": "會考落點",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9C%83%E8%80%83%E8%90%BD%E9%BB%9E",
+        "pubdate": "Fri, 09 Jun 2023 10:00:00 +0800"
       }
     ],
     [
@@ -59,6 +73,13 @@
     ],
     [
       {
+        "title": "吳乃德",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%90%B3%E4%B9%83%E5%BE%B7",
+        "pubdate": "Fri, 09 Jun 2023 18:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "張文平",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%BC%B5%E6%96%87%E5%B9%B3",
         "pubdate": "Fri, 09 Jun 2023 00:00:00 +0800"
@@ -69,13 +90,6 @@
         "title": "五億高中生命案",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E4%BA%94%E5%84%84%E9%AB%98%E4%B8%AD%E7%94%9F%E5%91%BD%E6%A1%88",
         "pubdate": "Fri, 09 Jun 2023 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "房慧真",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%88%BF%E6%85%A7%E7%9C%9F",
-        "pubdate": "Fri, 09 Jun 2023 14:00:00 +0800"
       }
     ],
     [
@@ -94,9 +108,9 @@
     ],
     [
       {
-        "title": "新北國王",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%96%B0%E5%8C%97%E5%9C%8B%E7%8E%8B",
-        "pubdate": "Fri, 09 Jun 2023 09:00:00 +0800"
+        "title": "Me too",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Me%20too",
+        "pubdate": "Fri, 09 Jun 2023 19:00:00 +0800"
       }
     ],
     [
@@ -108,37 +122,23 @@
     ],
     [
       {
-        "title": "Zenfone 10",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Zenfone%2010",
+        "title": "新北國王",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%96%B0%E5%8C%97%E5%9C%8B%E7%8E%8B",
         "pubdate": "Fri, 09 Jun 2023 09:00:00 +0800"
       }
     ],
     [
       {
-        "title": "小黑蚊",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%B0%8F%E9%BB%91%E8%9A%8A",
-        "pubdate": "Fri, 09 Jun 2023 13:00:00 +0800"
+        "title": "威達爾",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%A8%81%E9%81%94%E7%88%BE",
+        "pubdate": "Fri, 09 Jun 2023 18:00:00 +0800"
       }
     ],
     [
       {
-        "title": "宋慧喬",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%AE%8B%E6%85%A7%E5%96%AC",
-        "pubdate": "Fri, 09 Jun 2023 11:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "會考成績查詢",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9C%83%E8%80%83%E6%88%90%E7%B8%BE%E6%9F%A5%E8%A9%A2",
-        "pubdate": "Thu, 08 Jun 2023 19:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "鍾沛君",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%8D%BE%E6%B2%9B%E5%90%9B",
-        "pubdate": "Thu, 08 Jun 2023 22:00:00 +0800"
+        "title": "Zenfone 10",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Zenfone%2010",
+        "pubdate": "Fri, 09 Jun 2023 09:00:00 +0800"
       }
     ]
   ]
