@@ -1,10 +1,45 @@
 {
-  "lastUpdate": "09-06-2023 , 23:50:11",
+  "lastUpdate": "10-06-2023 , 00:53:06",
   "data": [
+    [
+      {
+        "title": "Fox news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Fox%20news",
+        "pubdate": "Sat, 10 Jun 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tyson Fury",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Tyson%20Fury",
+        "pubdate": "Sat, 10 Jun 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "SEC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#SEC",
+        "pubdate": "Sat, 10 Jun 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Stryker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Stryker",
+        "pubdate": "Sat, 10 Jun 2023 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "French Open",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#French%20Open",
+        "pubdate": "Fri, 09 Jun 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Harry Styles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Harry%20Styles",
         "pubdate": "Fri, 09 Jun 2023 14:00:00 +0100"
       }
     ],
@@ -17,23 +52,9 @@
     ],
     [
       {
-        "title": "Harry Styles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Harry%20Styles",
-        "pubdate": "Fri, 09 Jun 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Champions League final",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Champions%20League%20final",
+        "title": "Champions League Final",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Champions%20League%20Final",
         "pubdate": "Fri, 09 Jun 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kelis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Kelis",
-        "pubdate": "Fri, 09 Jun 2023 10:00:00 +0100"
       }
     ],
     [
@@ -59,6 +80,13 @@
     ],
     [
       {
+        "title": "Kelis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Kelis",
+        "pubdate": "Fri, 09 Jun 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Shark attack Egypt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Shark%20attack%20Egypt",
         "pubdate": "Fri, 09 Jun 2023 13:00:00 +0100"
@@ -66,58 +94,9 @@
     ],
     [
       {
-        "title": "The Hustle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#The%20Hustle",
+        "title": "The hustle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#The%20hustle",
         "pubdate": "Fri, 09 Jun 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Dursey Island",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Dursey%20Island",
-        "pubdate": "Fri, 09 Jun 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ukraine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ukraine",
-        "pubdate": "Fri, 09 Jun 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "The Crowded Room",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#The%20Crowded%20Room",
-        "pubdate": "Fri, 09 Jun 2023 05:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Shelbourne FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Shelbourne%20FC",
-        "pubdate": "Fri, 09 Jun 2023 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cristiano Ronaldo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Cristiano%20Ronaldo",
-        "pubdate": "Fri, 09 Jun 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Harry Maguire",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Harry%20Maguire",
-        "pubdate": "Fri, 09 Jun 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Anne Diamond",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Anne%20Diamond",
-        "pubdate": "Fri, 09 Jun 2023 13:00:00 +0100"
       }
     ],
     [
@@ -129,15 +108,36 @@
     ],
     [
       {
-        "title": "Wu-Tang Clan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Wu-Tang%20Clan",
-        "pubdate": "Fri, 09 Jun 2023 18:00:00 +0100"
+        "title": "Dursey Island",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Dursey%20Island",
+        "pubdate": "Fri, 09 Jun 2023 19:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Casper Ruud",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Casper%20Ruud",
+        "title": "The Crowded Room",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#The%20Crowded%20Room",
+        "pubdate": "Fri, 09 Jun 2023 05:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ukraine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ukraine",
+        "pubdate": "Fri, 09 Jun 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Shelbourne FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Shelbourne%20FC",
+        "pubdate": "Fri, 09 Jun 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Harry Maguire",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Harry%20Maguire",
         "pubdate": "Fri, 09 Jun 2023 21:00:00 +0100"
       }
     ]

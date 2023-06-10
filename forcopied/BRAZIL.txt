@@ -1,1 +1,1 @@
-Djokovic,Casper Ruud,Mega-Sena 2599,Mulheres Apaixonadas,Fran garcia,Tubarao tigre,John Wick,Dia do Porteiro,Sergio Rico,Filipe Ret,Michael B. Jordan,Johnny Depp,UFC 289,Andre valadao,WSL,Dia de Santo antonio,Apresentador Dudu Camargo,Al-Ittihad,PIS/PASEP,Caio Paulista
+Taylor Swift,Djokovic,Casper Ruud,ABC,Mulheres Apaixonadas,Tubarao tigre,Fran garcia,PIS/Pasep,Palmeiras Feminino,Filipe Ret,Vai na fe,Onde assistir Flamengo,Mike Batayeh,Sergio Rico,Michael B. Jordan,John Wick,Dia do Porteiro,Johnny Depp,Dia de Santo antonio,Apresentador Dudu Camargo

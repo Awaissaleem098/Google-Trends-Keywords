@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "09-06-2023 , 23:50:06",
+  "lastUpdate": "10-06-2023 , 00:53:01",
   "data": [
+    [
+      {
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Taylor%20Swift",
+        "pubdate": "Fri, 09 Jun 2023 06:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Djokovic",
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Mega-Sena 2599",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mega-Sena%202599",
-        "pubdate": "Fri, 09 Jun 2023 05:00:00 -0500"
+        "title": "ABC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#ABC",
+        "pubdate": "Fri, 09 Jun 2023 10:00:00 -0500"
       }
     ],
     [
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Tubarao tigre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tubarao%20tigre",
+        "pubdate": "Fri, 09 Jun 2023 16:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Fran garcia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fran%20garcia",
         "pubdate": "Fri, 09 Jun 2023 09:00:00 -0500"
@@ -38,9 +52,58 @@
     ],
     [
       {
-        "title": "Tubarao tigre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tubarao%20tigre",
+        "title": "PIS/Pasep",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PIS/Pasep",
+        "pubdate": "Fri, 09 Jun 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Palmeiras Feminino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Palmeiras%20Feminino",
+        "pubdate": "Fri, 09 Jun 2023 19:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Filipe Ret",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Filipe%20Ret",
         "pubdate": "Fri, 09 Jun 2023 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Vai na fe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vai%20na%20fe",
+        "pubdate": "Fri, 09 Jun 2023 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Onde assistir Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Onde%20assistir%20Flamengo",
+        "pubdate": "Fri, 09 Jun 2023 18:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Mike Batayeh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mike%20Batayeh",
+        "pubdate": "Fri, 09 Jun 2023 17:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Sergio Rico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sergio%20Rico",
+        "pubdate": "Fri, 09 Jun 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Michael B. Jordan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Michael%20B.%20Jordan",
+        "pubdate": "Fri, 09 Jun 2023 12:00:00 -0500"
       }
     ],
     [
@@ -59,51 +122,9 @@
     ],
     [
       {
-        "title": "Sergio Rico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sergio%20Rico",
-        "pubdate": "Fri, 09 Jun 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Filipe Ret",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Filipe%20Ret",
-        "pubdate": "Fri, 09 Jun 2023 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Michael B. Jordan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Michael%20B.%20Jordan",
-        "pubdate": "Fri, 09 Jun 2023 12:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Johnny Depp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Johnny%20Depp",
         "pubdate": "Fri, 09 Jun 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "UFC 289",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#UFC%20289",
-        "pubdate": "Fri, 09 Jun 2023 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Andre valadao",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Andre%20valadao",
-        "pubdate": "Fri, 09 Jun 2023 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "WSL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#WSL",
-        "pubdate": "Fri, 09 Jun 2023 10:00:00 -0500"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Apresentador Dudu Camargo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Apresentador%20Dudu%20Camargo",
         "pubdate": "Fri, 09 Jun 2023 08:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Al-Ittihad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Ittihad",
-        "pubdate": "Fri, 09 Jun 2023 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "PIS/PASEP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PIS/PASEP",
-        "pubdate": "Fri, 09 Jun 2023 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Caio Paulista",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Caio%20Paulista",
-        "pubdate": "Fri, 09 Jun 2023 10:00:00 -0500"
       }
     ]
   ]
