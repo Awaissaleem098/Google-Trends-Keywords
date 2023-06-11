@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-06-2023 , 23:50:16",
+  "lastUpdate": "11-06-2023 , 01:05:10",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "24 Horas de Le Mans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#24%20Horas%20de%20Le%20Mans",
         "pubdate": "Sat, 10 Jun 2023 10:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Seleccion Mexicana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Seleccion%20Mexicana",
+        "pubdate": "Sat, 10 Jun 2023 17:00:00 -0600"
       }
     ],
     [
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Irene Aldana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Irene%20Aldana",
+        "pubdate": "Sat, 10 Jun 2023 07:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Unabomber",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Unabomber",
         "pubdate": "Sat, 10 Jun 2023 16:00:00 -0600"
@@ -101,34 +115,6 @@
     ],
     [
       {
-        "title": "Pubalgia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Pubalgia",
-        "pubdate": "Sat, 10 Jun 2023 00:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Onana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Onana",
-        "pubdate": "Sat, 10 Jun 2023 14:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Falla Cetes Directo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Falla%20Cetes%20Directo",
-        "pubdate": "Sat, 10 Jun 2023 00:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Lautaro Martínez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lautaro%20Mart%C3%ADnez",
-        "pubdate": "Sat, 10 Jun 2023 15:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Aliens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Aliens",
         "pubdate": "Sat, 10 Jun 2023 12:00:00 -0600"
@@ -139,6 +125,20 @@
         "title": "Julian alvarez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Julian%20alvarez",
         "pubdate": "Sat, 10 Jun 2023 16:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Cherneka Johnson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Cherneka%20Johnson",
+        "pubdate": "Sat, 10 Jun 2023 10:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Hbomax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Hbomax",
+        "pubdate": "Sat, 10 Jun 2023 14:00:00 -0600"
       }
     ]
   ]
