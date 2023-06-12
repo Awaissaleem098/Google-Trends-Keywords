@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-06-2023 , 00:49:24",
+  "lastUpdate": "12-06-2023 , 02:21:17",
   "data": [
     [
       {
@@ -31,6 +31,27 @@
     ],
     [
       {
+        "title": "Adam Lambert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Adam%20Lambert",
+        "pubdate": "Mon, 12 Jun 2023 00:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "King's Birthday Honours",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#King's%20Birthday%20Honours",
+        "pubdate": "Mon, 12 Jun 2023 10:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Canadian Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Canadian%20Open",
+        "pubdate": "Mon, 12 Jun 2023 10:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Kingcharles birthday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kingcharles%20birthday",
         "pubdate": "Mon, 12 Jun 2023 07:00:00 +1000"
@@ -45,9 +66,9 @@
     ],
     [
       {
-        "title": "Amanda Nunes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Amanda%20Nunes",
-        "pubdate": "Sun, 11 Jun 2023 09:00:00 +1000"
+        "title": "Star Wars Outlaws",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Star%20Wars%20Outlaws",
+        "pubdate": "Mon, 12 Jun 2023 11:00:00 +1000"
       }
     ],
     [
@@ -55,6 +76,13 @@
         "title": "Marlion Pickett",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Marlion%20Pickett",
         "pubdate": "Sun, 11 Jun 2023 21:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Amanda Nunes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Amanda%20Nunes",
+        "pubdate": "Sun, 11 Jun 2023 09:00:00 +1000"
       }
     ],
     [
@@ -80,6 +108,13 @@
     ],
     [
       {
+        "title": "Constable Anthony Woods",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Constable%20Anthony%20Woods",
+        "pubdate": "Sun, 11 Jun 2023 22:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Bachar Houli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bachar%20Houli",
         "pubdate": "Sun, 11 Jun 2023 23:00:00 +1000"
@@ -87,9 +122,9 @@
     ],
     [
       {
-        "title": "Anthony Woods WA Police",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Anthony%20Woods%20WA%20Police",
-        "pubdate": "Sun, 11 Jun 2023 22:00:00 +1000"
+        "title": "Charles Oliveira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Charles%20Oliveira",
+        "pubdate": "Sun, 11 Jun 2023 13:00:00 +1000"
       }
     ],
     [
@@ -104,41 +139,6 @@
         "title": "Scott Boland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Scott%20Boland",
         "pubdate": "Sun, 11 Jun 2023 21:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Storm vs Sharks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Storm%20vs%20Sharks",
-        "pubdate": "Sun, 11 Jun 2023 17:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Croque Madame",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Croque%20Madame",
-        "pubdate": "Sun, 11 Jun 2023 22:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Beneil Dariush",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Beneil%20Dariush",
-        "pubdate": "Sun, 11 Jun 2023 13:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Rick Stein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rick%20Stein",
-        "pubdate": "Sun, 11 Jun 2023 21:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Luke Brooks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Luke%20Brooks",
-        "pubdate": "Sun, 11 Jun 2023 17:00:00 +1000"
       }
     ]
   ]

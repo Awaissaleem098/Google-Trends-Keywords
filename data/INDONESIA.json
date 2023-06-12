@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "12-06-2023 , 00:49:30",
+  "lastUpdate": "12-06-2023 , 02:21:22",
   "data": [
+    [
+      {
+        "title": "PPDB Jatim 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#PPDB%20Jatim%202023",
+        "pubdate": "Mon, 12 Jun 2023 07:00:00 +0700"
+      }
+    ],
     [
       {
         "title": "Novak Djokovic",
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "SCTV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#SCTV",
-        "pubdate": "Sun, 11 Jun 2023 02:00:00 +0700"
+        "title": "Ppdb.jakarta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Ppdb.jakarta",
+        "pubdate": "Sun, 11 Jun 2023 20:00:00 +0700"
       }
     ],
     [
@@ -48,6 +55,13 @@
         "title": "Final Piala Dunia U-20 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Final%20Piala%20Dunia%20U-20%202023",
         "pubdate": "Sun, 11 Jun 2023 18:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "SCTV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#SCTV",
+        "pubdate": "Sun, 11 Jun 2023 02:00:00 +0700"
       }
     ],
     [
@@ -80,6 +94,13 @@
     ],
     [
       {
+        "title": "Live streaming",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Live%20streaming",
+        "pubdate": "Sun, 11 Jun 2023 22:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Gempa terkini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Gempa%20terkini",
         "pubdate": "Sun, 11 Jun 2023 20:00:00 +0700"
@@ -108,13 +129,6 @@
     ],
     [
       {
-        "title": "Jennie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Jennie",
-        "pubdate": "Sun, 11 Jun 2023 23:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#UFC",
         "pubdate": "Sun, 11 Jun 2023 10:00:00 +0700"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Negara terbesar di dunia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Negara%20terbesar%20di%20dunia",
-        "pubdate": "Sun, 11 Jun 2023 21:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Gempa hari ini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Gempa%20hari%20ini",
         "pubdate": "Sun, 11 Jun 2023 17:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Tokyo Verdy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Tokyo%20Verdy",
-        "pubdate": "Sun, 11 Jun 2023 18:00:00 +0700"
       }
     ]
   ]

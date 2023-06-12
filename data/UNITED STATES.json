@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-06-2023 , 00:49:23",
+  "lastUpdate": "12-06-2023 , 02:21:16",
   "data": [
     [
       {
@@ -17,16 +17,16 @@
     ],
     [
       {
-        "title": "Starfield",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Starfield",
-        "pubdate": "Sun, 11 Jun 2023 09:00:00 -0700"
+        "title": "Canadian Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Canadian%20Open",
+        "pubdate": "Sun, 11 Jun 2023 13:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Canadian Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Canadian%20Open",
-        "pubdate": "Sun, 11 Jun 2023 13:00:00 -0700"
+        "title": "Starfield",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Starfield",
+        "pubdate": "Sun, 11 Jun 2023 09:00:00 -0700"
       }
     ],
     [
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Kevin De Bruyne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kevin%20De%20Bruyne",
-        "pubdate": "Sun, 11 Jun 2023 08:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Megan Fox kids",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Megan%20Fox%20kids",
         "pubdate": "Sun, 11 Jun 2023 16:00:00 -0700"
@@ -73,16 +66,23 @@
     ],
     [
       {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Man%20City",
-        "pubdate": "Sat, 10 Jun 2023 05:00:00 -0700"
+        "title": "Kyle Brown ESPN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kyle%20Brown%20ESPN",
+        "pubdate": "Sun, 11 Jun 2023 18:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Ted Kaczynski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ted%20Kaczynski",
-        "pubdate": "Sat, 10 Jun 2023 11:00:00 -0700"
+        "title": "Kevin De Bruyne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kevin%20De%20Bruyne",
+        "pubdate": "Sun, 11 Jun 2023 08:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Mancity",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mancity",
+        "pubdate": "Sat, 10 Jun 2023 05:00:00 -0700"
       }
     ],
     [
@@ -90,6 +90,13 @@
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UFC",
         "pubdate": "Sat, 10 Jun 2023 12:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Ted Kaczynski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ted%20Kaczynski",
+        "pubdate": "Sat, 10 Jun 2023 11:00:00 -0700"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Las Vegas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Las%20Vegas",
-        "pubdate": "Sat, 10 Jun 2023 23:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Brittney Griner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Brittney%20Griner",
+        "title": "Phoenix Mercury Brittney Griner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Phoenix%20Mercury%20Brittney%20Griner",
         "pubdate": "Sat, 10 Jun 2023 19:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Beneil Dariush",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Beneil%20Dariush",
-        "pubdate": "Sat, 10 Jun 2023 20:00:00 -0700"
+        "title": "Las Vegas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Las%20Vegas",
+        "pubdate": "Sat, 10 Jun 2023 23:00:00 -0700"
       }
     ]
   ]

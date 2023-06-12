@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "12-06-2023 , 00:49:32",
+  "lastUpdate": "12-06-2023 , 02:21:25",
   "data": [
+    [
+      {
+        "title": "Epic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Epic",
+        "pubdate": "Mon, 12 Jun 2023 10:00:00 +1200"
+      }
+    ],
     [
       {
         "title": "Slides",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Novak%20Djokovic",
-        "pubdate": "Mon, 12 Jun 2023 09:00:00 +1200"
+        "title": "Matariki",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Matariki",
+        "pubdate": "Mon, 12 Jun 2023 12:00:00 +1200"
       }
     ],
     [
@@ -24,9 +31,16 @@
     ],
     [
       {
-        "title": "Epic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Epic",
-        "pubdate": "Mon, 12 Jun 2023 10:00:00 +1200"
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Novak%20Djokovic",
+        "pubdate": "Mon, 12 Jun 2023 09:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Nzpost",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nzpost",
+        "pubdate": "Mon, 12 Jun 2023 13:00:00 +1200"
       }
     ],
     [
@@ -38,9 +52,58 @@
     ],
     [
       {
+        "title": "ACC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#ACC",
+        "pubdate": "Mon, 12 Jun 2023 12:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Classroom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Classroom",
         "pubdate": "Mon, 12 Jun 2023 11:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Drive",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Drive",
+        "pubdate": "Mon, 12 Jun 2023 13:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Snake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Snake",
+        "pubdate": "Mon, 12 Jun 2023 13:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Fieldays",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Fieldays",
+        "pubdate": "Mon, 12 Jun 2023 10:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Canadian Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Canadian%20Open",
+        "pubdate": "Mon, 12 Jun 2023 12:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Starfield",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Starfield",
+        "pubdate": "Mon, 12 Jun 2023 12:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Hero",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hero",
+        "pubdate": "Mon, 12 Jun 2023 12:00:00 +1200"
       }
     ],
     [
@@ -59,8 +122,8 @@
     ],
     [
       {
-        "title": "Ted Kaczynski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ted%20Kaczynski",
+        "title": "Ted' Kaczynski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ted'%20Kaczynski",
         "pubdate": "Sun, 11 Jun 2023 11:00:00 +1200"
       }
     ],
@@ -73,72 +136,9 @@
     ],
     [
       {
-        "title": "Elle Brooke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Elle%20Brooke",
-        "pubdate": "Sun, 11 Jun 2023 09:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Logan Park High School",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Logan%20Park%20High%20School",
-        "pubdate": "Sun, 11 Jun 2023 23:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Conor McGregor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Conor%20McGregor",
+        "title": "Redemption",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Redemption",
         "pubdate": "Sun, 11 Jun 2023 21:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Beneil Dariush",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Beneil%20Dariush",
-        "pubdate": "Sun, 11 Jun 2023 17:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Cherneka Johnson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cherneka%20Johnson",
-        "pubdate": "Sun, 11 Jun 2023 09:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Pasture",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pasture",
-        "pubdate": "Sun, 11 Jun 2023 16:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Iga Swiatek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Iga%20Swiatek",
-        "pubdate": "Sun, 11 Jun 2023 19:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Scones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Scones",
-        "pubdate": "Sat, 10 Jun 2023 01:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Champions%20League",
-        "pubdate": "Sat, 10 Jun 2023 19:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "NBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NBA",
-        "pubdate": "Sat, 10 Jun 2023 16:00:00 +1200"
       }
     ]
   ]

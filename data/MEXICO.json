@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "12-06-2023 , 00:49:32",
+  "lastUpdate": "12-06-2023 , 02:21:25",
   "data": [
+    [
+      {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Manchester%20City",
+        "pubdate": "Sun, 11 Jun 2023 05:00:00 -0600"
+      }
+    ],
     [
       {
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Novak%20Djokovic",
-        "pubdate": "Sun, 11 Jun 2023 10:00:00 -0600"
+        "pubdate": "Sun, 11 Jun 2023 11:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Uruguay vs Italia Sub-20",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Uruguay%20vs%20Italia%20Sub-20",
+        "pubdate": "Sun, 11 Jun 2023 14:00:00 -0600"
       }
     ],
     [
@@ -24,9 +38,9 @@
     ],
     [
       {
-        "title": "Uruguay vs Italia Sub-20",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Uruguay%20vs%20Italia%20Sub-20",
-        "pubdate": "Sun, 11 Jun 2023 14:00:00 -0600"
+        "title": "Trinidad y Tobago  Guatemala",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Trinidad%20y%20Tobago%20%20Guatemala",
+        "pubdate": "Sun, 11 Jun 2023 17:00:00 -0600"
       }
     ],
     [
@@ -45,23 +59,16 @@
     ],
     [
       {
-        "title": "City vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#City%20vs",
+        "title": "City Vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#City%20Vs",
         "pubdate": "Sun, 11 Jun 2023 09:00:00 -0600"
       }
     ],
     [
       {
-        "title": "Alicia Machado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Alicia%20Machado",
-        "pubdate": "Sun, 11 Jun 2023 09:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Gundogan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Gundogan",
-        "pubdate": "Sun, 11 Jun 2023 11:00:00 -0600"
+        "title": "Starfield",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Starfield",
+        "pubdate": "Sun, 11 Jun 2023 15:00:00 -0600"
       }
     ],
     [
@@ -73,9 +80,16 @@
     ],
     [
       {
-        "title": "Starfield",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Starfield",
-        "pubdate": "Sun, 11 Jun 2023 15:00:00 -0600"
+        "title": "Gundogan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Gundogan",
+        "pubdate": "Sun, 11 Jun 2023 11:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Consejo Nacional de Morena",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Consejo%20Nacional%20de%20Morena",
+        "pubdate": "Sun, 11 Jun 2023 17:00:00 -0600"
       }
     ],
     [
@@ -94,16 +108,16 @@
     ],
     [
       {
-        "title": "Diego Cocca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Diego%20Cocca",
-        "pubdate": "Sun, 11 Jun 2023 14:00:00 -0600"
+        "title": "Sao Paulo vs Palmeiras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Sao%20Paulo%20vs%20Palmeiras",
+        "pubdate": "Sun, 11 Jun 2023 13:00:00 -0600"
       }
     ],
     [
       {
-        "title": "Sao Paulo vs Palmeiras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Sao%20Paulo%20vs%20Palmeiras",
-        "pubdate": "Sun, 11 Jun 2023 13:00:00 -0600"
+        "title": "Xbox Series S 1TB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Xbox%20Series%20S%201TB",
+        "pubdate": "Sun, 11 Jun 2023 17:00:00 -0600"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Consejo Nacional de Morena",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Consejo%20Nacional%20de%20Morena",
-        "pubdate": "Sun, 11 Jun 2023 17:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Real Madrid Castilla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Real%20Madrid%20Castilla",
         "pubdate": "Sun, 11 Jun 2023 17:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Creed",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Creed",
-        "pubdate": "Sun, 11 Jun 2023 16:00:00 -0600"
       }
     ]
   ]
