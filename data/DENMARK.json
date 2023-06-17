@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-06-2023 , 16:51:14",
+  "lastUpdate": "17-06-2023 , 17:09:13",
   "data": [
     [
       {
@@ -10,16 +10,16 @@
     ],
     [
       {
-        "title": "Jens Stoltenberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jens%20Stoltenberg",
-        "pubdate": "Sat, 17 Jun 2023 08:00:00 +0200"
+        "title": "Kick",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kick",
+        "pubdate": "Sat, 17 Jun 2023 01:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Kick",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kick",
-        "pubdate": "Sat, 17 Jun 2023 01:00:00 +0200"
+        "title": "Jens Stoltenberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jens%20Stoltenberg",
+        "pubdate": "Sat, 17 Jun 2023 08:00:00 +0200"
       }
     ],
     [
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "DBU",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#DBU",
+        "pubdate": "Fri, 16 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Extraction 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Extraction%202",
         "pubdate": "Fri, 16 Jun 2023 15:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Jonny Evans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jonny%20Evans",
         "pubdate": "Fri, 16 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Exit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Exit",
-        "pubdate": "Fri, 16 Jun 2023 15:00:00 +0200"
       }
     ]
   ]
