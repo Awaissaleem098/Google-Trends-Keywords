@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-06-2023 , 11:42:58",
+  "lastUpdate": "19-06-2023 , 11:56:08",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Unai Simon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Unai%20Simon",
+        "pubdate": "Mon, 19 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Conge parental geneve",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Conge%20parental%20geneve",
         "pubdate": "Mon, 19 Jun 2023 07:00:00 +0200"
@@ -41,6 +48,13 @@
         "title": "Stadt Zürich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stadt%20Z%C3%BCrich",
         "pubdate": "Mon, 19 Jun 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "EM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#EM",
+        "pubdate": "Mon, 19 Jun 2023 13:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Algarve",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Algarve",
-        "pubdate": "Sun, 18 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Amanda Lear",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Amanda%20Lear",
-        "pubdate": "Sun, 18 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Paul Newman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Paul%20Newman",
-        "pubdate": "Sun, 18 Jun 2023 22:00:00 +0200"
+        "title": "Formel-1-Rennen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Formel-1-Rennen",
+        "pubdate": "Sun, 18 Jun 2023 18:00:00 +0200"
       }
     ]
   ]
