@@ -1,11 +1,32 @@
 {
-  "lastUpdate": "18-06-2023 , 23:51:03",
+  "lastUpdate": "19-06-2023 , 01:03:25",
   "data": [
+    [
+      {
+        "title": "Uwe Seeler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Uwe%20Seeler",
+        "pubdate": "Mon, 19 Jun 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Joselu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Joselu",
+        "pubdate": "Mon, 19 Jun 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Nations League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nations%20League",
         "pubdate": "Sun, 18 Jun 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Helene Fischer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Helene%20Fischer",
+        "pubdate": "Sun, 18 Jun 2023 22:00:00 +0200"
       }
     ],
     [
@@ -20,13 +41,6 @@
         "title": "Claudia Pechstein Rede CDU",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Claudia%20Pechstein%20Rede%20CDU",
         "pubdate": "Sun, 18 Jun 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Helene Fischer Hannover",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Helene%20Fischer%20Hannover",
-        "pubdate": "Sun, 18 Jun 2023 22:00:00 +0200"
       }
     ],
     [
@@ -52,13 +66,6 @@
     ],
     [
       {
-        "title": "RTL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RTL",
-        "pubdate": "Sun, 18 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "One Piece",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#One%20Piece",
         "pubdate": "Sun, 18 Jun 2023 19:00:00 +0200"
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Feuerwehr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Feuerwehr",
+        "pubdate": "Sun, 18 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "DFB-Pokal Auslosung",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal%20Auslosung",
         "pubdate": "Sat, 17 Jun 2023 09:00:00 +0200"
@@ -87,16 +101,9 @@
     ],
     [
       {
-        "title": "Handball Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball%20Champions%20League",
+        "title": "Handball-Champions-League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball-Champions-League",
         "pubdate": "Sat, 17 Jun 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#F1",
-        "pubdate": "Sat, 17 Jun 2023 11:00:00 +0200"
       }
     ],
     [
@@ -104,6 +111,13 @@
         "title": "Formel 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201",
         "pubdate": "Sat, 17 Jun 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Formel 1 Kanada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201%20Kanada",
+        "pubdate": "Sat, 17 Jun 2023 23:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Portugal",
-        "pubdate": "Sat, 17 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Trooping the Colour",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trooping%20the%20Colour",
         "pubdate": "Sat, 17 Jun 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Struff",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Struff",
-        "pubdate": "Sat, 17 Jun 2023 14:00:00 +0200"
       }
     ]
   ]

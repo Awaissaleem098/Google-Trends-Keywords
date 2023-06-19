@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "18-06-2023 , 23:51:08",
+  "lastUpdate": "19-06-2023 , 01:03:31",
   "data": [
     [
       {
         "title": "Bad Company",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bad%20Company",
-        "pubdate": "Mon, 19 Jun 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lewis Hamilton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lewis%20Hamilton",
         "pubdate": "Mon, 19 Jun 2023 00:00:00 +0200"
       }
     ],
@@ -55,6 +48,13 @@
         "title": "Albania",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Albania",
         "pubdate": "Sun, 18 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jarosław Kaczyński",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jaros%C5%82aw%20Kaczy%C5%84ski",
+        "pubdate": "Sun, 18 Jun 2023 18:00:00 +0200"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Jaroslaw kaczynski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jaroslaw%20kaczynski",
-        "pubdate": "Sun, 18 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Przekop Mierzei Wiślanej",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Przekop%20Mierzei%20Wi%C5%9Blanej",
         "pubdate": "Sun, 18 Jun 2023 17:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Marsz dla Życia i Rodziny",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marsz%20dla%20%C5%BBycia%20i%20Rodziny",
         "pubdate": "Sun, 18 Jun 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Paulina Smaszcz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Paulina%20Smaszcz",
+        "pubdate": "Sun, 18 Jun 2023 21:00:00 +0200"
       }
     ]
   ]

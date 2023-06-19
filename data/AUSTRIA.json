@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-06-2023 , 23:50:59",
+  "lastUpdate": "19-06-2023 , 01:03:22",
   "data": [
     [
       {
@@ -19,6 +19,13 @@
       {
         "title": "Nations League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nations%20League",
+        "pubdate": "Sun, 18 Jun 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kroatien Spanien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kroatien%20Spanien",
         "pubdate": "Sun, 18 Jun 2023 11:00:00 +0200"
       }
     ],
@@ -48,13 +55,6 @@
         "title": "Fussball Österreich Belgien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fussball%20%C3%96sterreich%20Belgien",
         "pubdate": "Sun, 18 Jun 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Peter Fox",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Peter%20Fox",
-        "pubdate": "Sun, 18 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Fisker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fisker",
+        "pubdate": "Sun, 18 Jun 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sachsenring",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sachsenring",
         "pubdate": "Sun, 18 Jun 2023 00:00:00 +0200"
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Fisker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fisker",
-        "pubdate": "Sun, 18 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Linda Hamilton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Linda%20Hamilton",
         "pubdate": "Sun, 18 Jun 2023 19:00:00 +0200"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Die Braut, die sich nicht traut",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Die%20Braut,%20die%20sich%20nicht%20traut",
-        "pubdate": "Sun, 18 Jun 2023 22:00:00 +0200"
+        "title": "Junikäfer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Junik%C3%A4fer",
+        "pubdate": "Sun, 18 Jun 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Wencke Myhre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wencke%20Myhre",
-        "pubdate": "Sun, 18 Jun 2023 10:00:00 +0200"
+        "title": "Mario Barth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mario%20Barth",
+        "pubdate": "Sun, 18 Jun 2023 00:00:00 +0200"
       }
     ]
   ]

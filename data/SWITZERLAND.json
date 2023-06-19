@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "18-06-2023 , 23:51:10",
+  "lastUpdate": "19-06-2023 , 01:03:33",
   "data": [
     [
       {
-        "title": "Unai Simon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Unai%20Simon",
-        "pubdate": "Mon, 19 Jun 2023 00:00:00 +0200"
+        "title": "Ruben Neves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ruben%20Neves",
+        "pubdate": "Mon, 19 Jun 2023 01:00:00 +0200"
       }
     ],
     [
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Klimaschutzgesetz Schweiz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Klimaschutzgesetz%20Schweiz",
+        "pubdate": "Sun, 18 Jun 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ligue des nations",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ligue%20des%20nations",
         "pubdate": "Sun, 18 Jun 2023 18:00:00 +0200"
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Abstimmungen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmungen",
-        "pubdate": "Sun, 18 Jun 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Schwarzsee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schwarzsee",
         "pubdate": "Sun, 18 Jun 2023 09:00:00 +0200"
@@ -62,13 +62,6 @@
         "title": "Fete des peres",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fete%20des%20peres",
         "pubdate": "Sun, 18 Jun 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Formel-1-Rennen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Formel-1-Rennen",
-        "pubdate": "Sun, 18 Jun 2023 08:00:00 +0200"
       }
     ],
     [
@@ -108,8 +101,8 @@
     ],
     [
       {
-        "title": "Tour de Suisse St. Gallen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tour%20de%20Suisse%20St.%20Gallen",
+        "title": "Tour de Suisse St.Gallen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tour%20de%20Suisse%20St.Gallen",
         "pubdate": "Sun, 18 Jun 2023 11:00:00 +0200"
       }
     ],
@@ -129,9 +122,9 @@
     ],
     [
       {
-        "title": "Gavi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gavi",
-        "pubdate": "Sun, 18 Jun 2023 20:00:00 +0200"
+        "title": "Unwetter Gewitter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Unwetter%20Gewitter",
+        "pubdate": "Sun, 18 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Chrigel Maurer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chrigel%20Maurer",
         "pubdate": "Sun, 18 Jun 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Joe%20Biden",
+        "pubdate": "Sun, 18 Jun 2023 07:00:00 +0200"
       }
     ]
   ]

@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "18-06-2023 , 23:51:06",
+  "lastUpdate": "19-06-2023 , 01:03:29",
   "data": [
     [
       {
-        "title": "Nederlands elftal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nederlands%20elftal",
+        "title": "Voetbal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Voetbal",
+        "pubdate": "Mon, 19 Jun 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nederland italie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nederland%20italie",
         "pubdate": "Sun, 18 Jun 2023 11:00:00 +0200"
       }
     ],
@@ -12,7 +19,7 @@
       {
         "title": "Kroatie Spanje",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kroatie%20Spanje",
-        "pubdate": "Sun, 18 Jun 2023 12:00:00 +0200"
+        "pubdate": "Sun, 18 Jun 2023 13:00:00 +0200"
       }
     ],
     [
@@ -41,6 +48,13 @@
         "title": "Nederland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nederland",
         "pubdate": "Sun, 18 Jun 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Red Hot Chili Peppers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Red%20Hot%20Chili%20Peppers",
+        "pubdate": "Sun, 18 Jun 2023 22:00:00 +0200"
       }
     ],
     [
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "Nacht van de Vluchteling",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nacht%20van%20de%20Vluchteling",
-        "pubdate": "Sun, 18 Jun 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "GAYLE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#GAYLE",
         "pubdate": "Sun, 18 Jun 2023 23:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Robbie Williams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Robbie%20Williams",
         "pubdate": "Sat, 17 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Griekspoor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Griekspoor",
-        "pubdate": "Sat, 17 Jun 2023 19:00:00 +0200"
       }
     ]
   ]
