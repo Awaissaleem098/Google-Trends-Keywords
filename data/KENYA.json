@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "19-06-2023 , 23:59:43",
+  "lastUpdate": "20-06-2023 , 01:44:51",
   "data": [
     [
       {
         "title": "Ireland vs Gibraltar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ireland%20vs%20Gibraltar",
         "pubdate": "Tue, 20 Jun 2023 01:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "England vs North Macedonia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#England%20vs%20North%20Macedonia",
-        "pubdate": "Mon, 19 Jun 2023 21:00:00 +0300"
       }
     ],
     [
@@ -24,9 +17,23 @@
     ],
     [
       {
+        "title": "England vs North Macedonia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#England%20vs%20North%20Macedonia",
+        "pubdate": "Mon, 19 Jun 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "France vs Greece",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#France%20vs%20Greece",
         "pubdate": "Mon, 19 Jun 2023 19:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#England",
+        "pubdate": "Mon, 19 Jun 2023 23:00:00 +0300"
       }
     ],
     [
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Qatar vs New Zealand",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Qatar%20vs%20New%20Zealand",
-        "pubdate": "Mon, 19 Jun 2023 19:00:00 +0300"
+        "title": "Dragon fruit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Dragon%20fruit",
+        "pubdate": "Mon, 19 Jun 2023 18:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Dragon fruit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Dragon%20fruit",
-        "pubdate": "Mon, 19 Jun 2023 18:00:00 +0300"
+        "title": "Qatar vs New Zealand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Qatar%20vs%20New%20Zealand",
+        "pubdate": "Mon, 19 Jun 2023 19:00:00 +0300"
       }
     ],
     [
@@ -87,16 +94,16 @@
     ],
     [
       {
-        "title": "Ruben Neves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ruben%20Neves",
-        "pubdate": "Mon, 19 Jun 2023 11:00:00 +0300"
+        "title": "Sickle cell anemia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sickle%20cell%20anemia",
+        "pubdate": "Mon, 19 Jun 2023 22:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Sickle cell anemia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sickle%20cell%20anemia",
-        "pubdate": "Mon, 19 Jun 2023 22:00:00 +0300"
+        "title": "Ruben Neves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ruben%20Neves",
+        "pubdate": "Mon, 19 Jun 2023 11:00:00 +0300"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Nation Media Group",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Nation%20Media%20Group",
+        "pubdate": "Mon, 19 Jun 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "WWE Roman Reigns",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#WWE%20Roman%20Reigns",
         "pubdate": "Mon, 19 Jun 2023 14:00:00 +0300"
@@ -125,20 +139,6 @@
         "title": "Croatia vs Spain",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Croatia%20vs%20Spain",
         "pubdate": "Sun, 18 Jun 2023 12:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Father's Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Father's%20Day",
-        "pubdate": "Sun, 18 Jun 2023 13:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Happy Father's Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Happy%20Father's%20Day",
-        "pubdate": "Sun, 18 Jun 2023 15:00:00 +0300"
       }
     ]
   ]

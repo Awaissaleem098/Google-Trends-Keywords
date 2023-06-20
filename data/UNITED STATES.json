@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-06-2023 , 23:59:36",
+  "lastUpdate": "20-06-2023 , 01:44:46",
   "data": [
     [
       {
@@ -31,16 +31,16 @@
     ],
     [
       {
-        "title": "Draymond Green",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Draymond%20Green",
-        "pubdate": "Mon, 19 Jun 2023 12:00:00 -0700"
+        "title": "Kraven the Hunter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kraven%20the%20Hunter",
+        "pubdate": "Mon, 19 Jun 2023 14:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Kraven the Hunter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kraven%20the%20Hunter",
-        "pubdate": "Mon, 19 Jun 2023 14:00:00 -0700"
+        "title": "Draymond Green",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Draymond%20Green",
+        "pubdate": "Mon, 19 Jun 2023 12:00:00 -0700"
       }
     ],
     [
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "NBA Draft",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NBA%20Draft",
+        "pubdate": "Mon, 19 Jun 2023 17:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Is Juneteenth a national holiday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Is%20Juneteenth%20a%20national%20holiday",
         "pubdate": "Mon, 19 Jun 2023 05:00:00 -0700"
@@ -73,9 +80,23 @@
     ],
     [
       {
+        "title": "Take Care of Maya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Take%20Care%20of%20Maya",
+        "pubdate": "Mon, 19 Jun 2023 16:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Cryptography",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cryptography",
         "pubdate": "Mon, 19 Jun 2023 14:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Venus Williams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Venus%20Williams",
+        "pubdate": "Mon, 19 Jun 2023 16:00:00 -0700"
       }
     ],
     [
@@ -87,16 +108,9 @@
     ],
     [
       {
-        "title": "Take Care of Maya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Take%20Care%20of%20Maya",
-        "pubdate": "Mon, 19 Jun 2023 16:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Venus Williams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Venus%20Williams",
-        "pubdate": "Mon, 19 Jun 2023 16:00:00 -0700"
+        "title": "The Righteous Gemstones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20Righteous%20Gemstones",
+        "pubdate": "Mon, 19 Jun 2023 17:00:00 -0700"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Father's Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Father's%20Day",
         "pubdate": "Sun, 18 Jun 2023 06:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Croatia vs Spain",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Croatia%20vs%20Spain",
-        "pubdate": "Sun, 18 Jun 2023 12:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Beyond Wonderland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Beyond%20Wonderland",
-        "pubdate": "Sun, 18 Jun 2023 07:00:00 -0700"
       }
     ]
   ]
