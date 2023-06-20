@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-06-2023 , 01:44:46",
+  "lastUpdate": "20-06-2023 , 02:30:35",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "France vs Greece",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#France%20vs%20Greece",
         "pubdate": "Tue, 20 Jun 2023 09:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Kraven the Hunter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kraven%20the%20Hunter",
+        "pubdate": "Tue, 20 Jun 2023 11:00:00 +1000"
       }
     ],
     [
@@ -47,7 +54,7 @@
       {
         "title": "Google Docs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Google%20Docs",
-        "pubdate": "Mon, 19 Jun 2023 11:00:00 +1000"
+        "pubdate": "Mon, 19 Jun 2023 10:00:00 +1000"
       }
     ],
     [
@@ -94,8 +101,8 @@
     ],
     [
       {
-        "title": "The voice referendum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20voice%20referendum",
+        "title": "The Voice referendum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Voice%20referendum",
         "pubdate": "Mon, 19 Jun 2023 17:00:00 +1000"
       }
     ],
@@ -104,6 +111,13 @@
         "title": "Juneteenth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Juneteenth",
         "pubdate": "Mon, 19 Jun 2023 09:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Winter solstice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Winter%20solstice",
+        "pubdate": "Mon, 19 Jun 2023 12:00:00 +1000"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Winter solstice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Winter%20solstice",
-        "pubdate": "Mon, 19 Jun 2023 12:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Nick Kyrgios",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nick%20Kyrgios",
         "pubdate": "Mon, 19 Jun 2023 23:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Teams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Teams",
-        "pubdate": "Mon, 19 Jun 2023 13:00:00 +1000"
       }
     ]
   ]
