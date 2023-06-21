@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "20-06-2023 , 23:53:45",
+  "lastUpdate": "21-06-2023 , 01:24:29",
   "data": [
     [
       {
         "title": "Algerie Tunisie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Algerie%20Tunisie",
         "pubdate": "Wed, 21 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Claude Sarraute Laurent Ruquier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Claude%20Sarraute%20Laurent%20Ruquier",
+        "pubdate": "Wed, 21 Jun 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alcaraz",
+        "pubdate": "Wed, 21 Jun 2023 01:00:00 +0200"
       }
     ],
     [
@@ -31,23 +45,16 @@
     ],
     [
       {
+        "title": "Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Portugal",
+        "pubdate": "Tue, 20 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Andrew Tate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Andrew%20Tate",
         "pubdate": "Tue, 20 Jun 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tour de Suisse Frauen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tour%20de%20Suisse%20Frauen",
-        "pubdate": "Tue, 20 Jun 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Portugal",
-        "pubdate": "Tue, 20 Jun 2023 23:00:00 +0200"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Arda Güler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arda%20G%C3%BCler",
-        "pubdate": "Tue, 20 Jun 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Hunter Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hunter%20Biden",
         "pubdate": "Tue, 20 Jun 2023 19:00:00 +0200"
@@ -90,13 +90,6 @@
         "title": "Brésil – Sénégal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Br%C3%A9sil%20%E2%80%93%20S%C3%A9n%C3%A9gal",
         "pubdate": "Tue, 20 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nikolaj Möller",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nikolaj%20M%C3%B6ller",
-        "pubdate": "Tue, 20 Jun 2023 14:00:00 +0200"
       }
     ],
     [
@@ -115,8 +108,8 @@
     ],
     [
       {
-        "title": "ATP Halle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ATP%20Halle",
+        "title": "ATP - Halle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ATP%20-%20Halle",
         "pubdate": "Tue, 20 Jun 2023 00:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Generation Z",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Generation%20Z",
         "pubdate": "Tue, 20 Jun 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sergio Rico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sergio%20Rico",
+        "pubdate": "Tue, 20 Jun 2023 11:00:00 +0200"
       }
     ]
   ]
