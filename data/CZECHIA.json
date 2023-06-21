@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "21-06-2023 , 22:41:21",
+  "lastUpdate": "21-06-2023 , 22:54:21",
   "data": [
-    [
-      {
-        "title": "Rika Fane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rika%20Fane",
-        "pubdate": "Wed, 21 Jun 2023 15:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Kick",
@@ -38,9 +31,16 @@
     ],
     [
       {
-        "title": "Zendaya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zendaya",
-        "pubdate": "Wed, 21 Jun 2023 15:00:00 +0200"
+        "title": "ALS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#ALS",
+        "pubdate": "Wed, 21 Jun 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "OceanGate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#OceanGate",
+        "pubdate": "Wed, 21 Jun 2023 00:00:00 +0200"
       }
     ],
     [
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "ALS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#ALS",
-        "pubdate": "Wed, 21 Jun 2023 16:00:00 +0200"
+        "title": "Zendaya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zendaya",
+        "pubdate": "Wed, 21 Jun 2023 15:00:00 +0200"
       }
     ],
     [
@@ -101,9 +101,9 @@
     ],
     [
       {
-        "title": "Bouřka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bou%C5%99ka",
-        "pubdate": "Wed, 21 Jun 2023 22:00:00 +0200"
+        "title": "Tereza Martincová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tereza%20Martincov%C3%A1",
+        "pubdate": "Wed, 21 Jun 2023 23:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Dita Charanzová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dita%20Charanzov%C3%A1",
-        "pubdate": "Tue, 20 Jun 2023 13:00:00 +0200"
+        "title": "Letní slunovrat 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Letn%C3%AD%20slunovrat%202023",
+        "pubdate": "Tue, 20 Jun 2023 10:00:00 +0200"
       }
     ]
   ]
