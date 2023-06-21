@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-06-2023 , 21:53:06",
+  "lastUpdate": "21-06-2023 , 22:13:01",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Yacare",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Yacare",
+        "pubdate": "Wed, 21 Jun 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Lana del Rey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lana%20del%20Rey",
         "pubdate": "Wed, 21 Jun 2023 02:00:00 -0300"
@@ -41,13 +48,6 @@
         "title": "Gundogan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gundogan",
         "pubdate": "Wed, 21 Jun 2023 15:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Paro docente caba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Paro%20docente%20caba",
-        "pubdate": "Wed, 21 Jun 2023 00:00:00 -0300"
       }
     ],
     [
@@ -94,16 +94,16 @@
     ],
     [
       {
-        "title": "Cristina Kirchner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cristina%20Kirchner",
-        "pubdate": "Wed, 21 Jun 2023 11:00:00 -0300"
+        "title": "Inti Raymi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Inti%20Raymi",
+        "pubdate": "Wed, 21 Jun 2023 13:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Inti Raymi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Inti%20Raymi",
-        "pubdate": "Wed, 21 Jun 2023 13:00:00 -0300"
+        "title": "Cristina Kirchner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cristina%20Kirchner",
+        "pubdate": "Wed, 21 Jun 2023 11:00:00 -0300"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Submarino perdido",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Submarino%20perdido",
-        "pubdate": "Wed, 21 Jun 2023 17:00:00 -0300"
+        "title": "Magdalena Abakanowicz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Magdalena%20Abakanowicz",
+        "pubdate": "Tue, 20 Jun 2023 01:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Magdalena Abakanowicz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Magdalena%20Abakanowicz",
-        "pubdate": "Tue, 20 Jun 2023 01:00:00 -0300"
+        "title": "Dia de la Bandera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dia%20de%20la%20Bandera",
+        "pubdate": "Tue, 20 Jun 2023 00:00:00 -0300"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-06-2023 , 21:53:21",
+  "lastUpdate": "21-06-2023 , 22:13:10",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Zendaya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Zendaya",
+        "pubdate": "Wed, 21 Jun 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Mylene Farmer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mylene%20Farmer",
         "pubdate": "Wed, 21 Jun 2023 14:00:00 +0200"
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "Prinzessin Kate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Prinzessin%20Kate",
+        "pubdate": "Wed, 21 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Algerie Tunisie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Algerie%20Tunisie",
         "pubdate": "Wed, 21 Jun 2023 00:00:00 +0200"
@@ -59,9 +73,9 @@
     ],
     [
       {
-        "title": "Claude Sarraute Laurent Ruquier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Claude%20Sarraute%20Laurent%20Ruquier",
-        "pubdate": "Wed, 21 Jun 2023 01:00:00 +0200"
+        "title": "Solstice d'été",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Solstice%20d'%C3%A9t%C3%A9",
+        "pubdate": "Wed, 21 Jun 2023 12:00:00 +0200"
       }
     ],
     [
@@ -73,16 +87,23 @@
     ],
     [
       {
-        "title": "U-Boot Titan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#U-Boot%20Titan",
-        "pubdate": "Wed, 21 Jun 2023 12:00:00 +0200"
+        "title": "Beat Jans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Beat%20Jans",
+        "pubdate": "Wed, 21 Jun 2023 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Jennifer Lawrence",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jennifer%20Lawrence",
-        "pubdate": "Wed, 21 Jun 2023 22:00:00 +0200"
+        "title": "Claude Sarraute Laurent Ruquier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Claude%20Sarraute%20Laurent%20Ruquier",
+        "pubdate": "Wed, 21 Jun 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "U-Boot Titan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#U-Boot%20Titan",
+        "pubdate": "Wed, 21 Jun 2023 12:00:00 +0200"
       }
     ],
     [
@@ -94,9 +115,9 @@
     ],
     [
       {
-        "title": "Challengers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Challengers",
-        "pubdate": "Wed, 21 Jun 2023 12:00:00 +0200"
+        "title": "Jennifer Lawrence",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jennifer%20Lawrence",
+        "pubdate": "Wed, 21 Jun 2023 22:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Daniela Katzenberger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Daniela%20Katzenberger",
         "pubdate": "Wed, 21 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Luzern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Luzern",
-        "pubdate": "Wed, 21 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Oppenheimer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Oppenheimer",
-        "pubdate": "Wed, 21 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Solstice d'été",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Solstice%20d'%C3%A9t%C3%A9",
-        "pubdate": "Wed, 21 Jun 2023 12:00:00 +0200"
       }
     ]
   ]

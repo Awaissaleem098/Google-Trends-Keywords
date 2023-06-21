@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-06-2023 , 21:53:13",
+  "lastUpdate": "21-06-2023 , 22:13:05",
   "data": [
     [
       {
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Titkos invázió",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Titkos%20inv%C3%A1zi%C3%B3",
-        "pubdate": "Wed, 21 Jun 2023 16:00:00 +0200"
+        "title": "Willi Orbán",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Willi%20Orb%C3%A1n",
+        "pubdate": "Wed, 21 Jun 2023 00:00:00 +0200"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "M4",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4",
-        "pubdate": "Tue, 20 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Nyári napforduló",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ny%C3%A1ri%20napfordul%C3%B3",
         "pubdate": "Tue, 20 Jun 2023 07:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Falco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Falco",
         "pubdate": "Tue, 20 Jun 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Foci",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Foci",
+        "pubdate": "Tue, 20 Jun 2023 22:00:00 +0200"
       }
     ]
   ]

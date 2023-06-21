@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-06-2023 , 21:53:08",
+  "lastUpdate": "21-06-2023 , 22:13:02",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Taylor%20Swift",
-        "pubdate": "Tue, 20 Jun 2023 15:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Challengers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Challengers",
         "pubdate": "Tue, 20 Jun 2023 16:00:00 -0400"
@@ -73,9 +66,9 @@
     ],
     [
       {
-        "title": "Helicopter crash Petawawa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Helicopter%20crash%20Petawawa",
-        "pubdate": "Tue, 20 Jun 2023 16:00:00 -0400"
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Taylor%20Swift",
+        "pubdate": "Tue, 20 Jun 2023 15:00:00 -0400"
       }
     ],
     [
@@ -83,6 +76,13 @@
         "title": "Nintendo Direct",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nintendo%20Direct",
         "pubdate": "Tue, 20 Jun 2023 23:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Helicopter crash Petawawa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Helicopter%20crash%20Petawawa",
+        "pubdate": "Tue, 20 Jun 2023 16:00:00 -0400"
       }
     ],
     [
@@ -104,6 +104,13 @@
         "title": "Smosh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Smosh",
         "pubdate": "Tue, 20 Jun 2023 16:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Lauren Boebert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lauren%20Boebert",
+        "pubdate": "Tue, 20 Jun 2023 02:00:00 -0400"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Carey Price",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Carey%20Price",
         "pubdate": "Tue, 20 Jun 2023 18:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Brian Mulroney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Brian%20Mulroney",
-        "pubdate": "Tue, 20 Jun 2023 16:00:00 -0400"
       }
     ]
   ]
