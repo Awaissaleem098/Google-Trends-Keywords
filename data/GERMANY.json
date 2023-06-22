@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-06-2023 , 23:56:23",
+  "lastUpdate": "22-06-2023 , 01:48:37",
   "data": [
     [
       {
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "U-Boot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#U-Boot",
-        "pubdate": "Tue, 20 Jun 2023 17:00:00 +0200"
+        "title": "Titanic-U-Boot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Titanic-U-Boot",
+        "pubdate": "Tue, 20 Jun 2023 11:00:00 +0200"
       }
     ],
     [
@@ -41,13 +41,6 @@
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Taylor%20Swift",
         "pubdate": "Tue, 20 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Deutschland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland",
-        "pubdate": "Tue, 20 Jun 2023 23:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Robert Habeck",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Robert%20Habeck",
         "pubdate": "Sun, 18 Jun 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "DFB-Pokal Auslosung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal%20Auslosung",
+        "pubdate": "Sat, 17 Jun 2023 09:00:00 +0200"
       }
     ]
   ]

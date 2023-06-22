@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-06-2023 , 23:56:17",
+  "lastUpdate": "22-06-2023 , 01:48:34",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Final Fantasy 16",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Final%20Fantasy%2016",
+        "pubdate": "Wed, 21 Jun 2023 17:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "John Durham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#John%20Durham",
         "pubdate": "Wed, 21 Jun 2023 12:00:00 -0700"
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Kyle Kuzma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kyle%20Kuzma",
-        "pubdate": "Wed, 21 Jun 2023 03:00:00 -0700"
+        "title": "Philadelphia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Philadelphia",
+        "pubdate": "Wed, 21 Jun 2023 17:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Harmony Montgomery",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Harmony%20Montgomery",
-        "pubdate": "Wed, 21 Jun 2023 05:00:00 -0700"
+        "title": "Maya Hawke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Maya%20Hawke",
+        "pubdate": "Wed, 21 Jun 2023 15:00:00 -0700"
       }
     ],
     [
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Maya Hawke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Maya%20Hawke",
-        "pubdate": "Wed, 21 Jun 2023 15:00:00 -0700"
+        "title": "Titanic submarine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Titanic%20submarine",
+        "pubdate": "Tue, 20 Jun 2023 00:00:00 -0700"
       }
     ],
     [
@@ -75,13 +82,6 @@
       {
         "title": "Hunter Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Hunter%20Biden",
-        "pubdate": "Tue, 20 Jun 2023 08:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Andrew Tate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Andrew%20Tate",
         "pubdate": "Tue, 20 Jun 2023 08:00:00 -0700"
       }
     ],
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Victor Wembanyama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Victor%20Wembanyama",
-        "pubdate": "Tue, 20 Jun 2023 17:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Paxton Whitehead",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Paxton%20Whitehead",
         "pubdate": "Tue, 20 Jun 2023 10:00:00 -0700"
@@ -139,6 +132,13 @@
         "title": "Lauren Boebert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lauren%20Boebert",
         "pubdate": "Tue, 20 Jun 2023 09:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Portugal",
+        "pubdate": "Tue, 20 Jun 2023 16:00:00 -0700"
       }
     ]
   ]
