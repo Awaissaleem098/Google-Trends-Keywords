@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "23-06-2023 , 18:42:02",
+  "lastUpdate": "23-06-2023 , 18:55:14",
   "data": [
     [
       {
         "title": "악귀",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%95%85%EA%B7%80",
-        "pubdate": "Fri, 23 Jun 2023 17:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "워터밤",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9B%8C%ED%84%B0%EB%B0%A4",
         "pubdate": "Fri, 23 Jun 2023 17:00:00 +0900"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "대한민국",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD",
         "pubdate": "Tue, 20 Jun 2023 23:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "권경애",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B6%8C%EA%B2%BD%EC%95%A0",
+        "pubdate": "Tue, 20 Jun 2023 15:00:00 +0900"
       }
     ]
   ]
