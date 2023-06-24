@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "24-06-2023 , 00:34:18",
+  "lastUpdate": "24-06-2023 , 02:15:44",
   "data": [
-    [
-      {
-        "title": "Kim Petras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kim%20Petras",
-        "pubdate": "Fri, 23 Jun 2023 06:00:00 -0700"
-      }
-    ],
     [
       {
         "title": "Russia",
@@ -17,9 +10,16 @@
     ],
     [
       {
-        "title": "Frozen fruit recall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Frozen%20fruit%20recall",
-        "pubdate": "Fri, 23 Jun 2023 12:00:00 -0700"
+        "title": "Scoot Henderson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Scoot%20Henderson",
+        "pubdate": "Fri, 23 Jun 2023 09:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Kim Petras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kim%20Petras",
+        "pubdate": "Fri, 23 Jun 2023 06:00:00 -0700"
       }
     ],
     [
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Highlands Ranch tornado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Highlands%20Ranch%20tornado",
+        "pubdate": "Fri, 23 Jun 2023 00:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Prime Minister Narendra Modi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Prime%20Minister%20Narendra%20Modi",
         "pubdate": "Fri, 23 Jun 2023 06:00:00 -0700"
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "Chicago Bulls",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chicago%20Bulls",
-        "pubdate": "Fri, 23 Jun 2023 05:00:00 -0700"
+        "title": "Knicks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Knicks",
+        "pubdate": "Fri, 23 Jun 2023 03:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Knicks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Knicks",
-        "pubdate": "Fri, 23 Jun 2023 03:00:00 -0700"
+        "title": "Frozen fruit recalled",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Frozen%20fruit%20recalled",
+        "pubdate": "Fri, 23 Jun 2023 16:00:00 -0700"
       }
     ],
     [
@@ -82,7 +89,7 @@
       {
         "title": "Implosion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Implosion",
-        "pubdate": "Thu, 22 Jun 2023 11:00:00 -0700"
+        "pubdate": "Thu, 22 Jun 2023 12:00:00 -0700"
       }
     ],
     [
@@ -90,6 +97,13 @@
         "title": "Chris Paul",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chris%20Paul",
         "pubdate": "Thu, 22 Jun 2023 13:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Titan submersible",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Titan%20submersible",
+        "pubdate": "Thu, 22 Jun 2023 08:00:00 -0700"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Cam Whitmore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cam%20Whitmore",
-        "pubdate": "Thu, 22 Jun 2023 19:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "NBA Mock Draft 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NBA%20Mock%20Draft%202023",
         "pubdate": "Thu, 22 Jun 2023 18:00:00 -0700"
@@ -122,16 +129,9 @@
     ],
     [
       {
-        "title": "The Bear",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20Bear",
-        "pubdate": "Thu, 22 Jun 2023 11:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Red Rocks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Red%20Rocks",
-        "pubdate": "Thu, 22 Jun 2023 08:00:00 -0700"
+        "title": "Cam Whitmore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cam%20Whitmore",
+        "pubdate": "Thu, 22 Jun 2023 19:00:00 -0700"
       }
     ],
     [

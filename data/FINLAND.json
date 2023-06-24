@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "24-06-2023 , 00:34:21",
+  "lastUpdate": "24-06-2023 , 02:15:48",
   "data": [
     [
       {
-        "title": "Wagner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Wagner",
+        "title": "Rostov",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Rostov",
         "pubdate": "Sat, 24 Jun 2023 01:00:00 +0300"
       }
     ],
@@ -17,9 +17,9 @@
     ],
     [
       {
-        "title": "Selma Blair",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Selma%20Blair",
-        "pubdate": "Fri, 23 Jun 2023 23:00:00 +0300"
+        "title": "Titan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Titan",
+        "pubdate": "Fri, 23 Jun 2023 13:00:00 +0300"
       }
     ],
     [
@@ -52,15 +52,8 @@
     ],
     [
       {
-        "title": "Bad boys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bad%20boys",
-        "pubdate": "Fri, 23 Jun 2023 01:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Titan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Titan",
+        "title": "OceanGate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#OceanGate",
         "pubdate": "Thu, 22 Jun 2023 23:00:00 +0300"
       }
     ],
@@ -76,13 +69,6 @@
         "title": "Suleman Dawood",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Suleman%20Dawood",
         "pubdate": "Thu, 22 Jun 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Neymar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Neymar",
-        "pubdate": "Thu, 22 Jun 2023 13:00:00 +0300"
       }
     ],
     [
@@ -122,6 +108,13 @@
     ],
     [
       {
+        "title": "Neymar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Neymar",
+        "pubdate": "Thu, 22 Jun 2023 13:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Sandro Tonali",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sandro%20Tonali",
         "pubdate": "Thu, 22 Jun 2023 23:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Challengers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Challengers",
         "pubdate": "Thu, 22 Jun 2023 23:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Testbed",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Testbed",
+        "pubdate": "Thu, 22 Jun 2023 18:00:00 +0300"
       }
     ]
   ]

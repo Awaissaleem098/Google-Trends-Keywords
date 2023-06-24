@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "24-06-2023 , 00:34:22",
+  "lastUpdate": "24-06-2023 , 02:15:49",
   "data": [
+    [
+      {
+        "title": "Russland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Russland",
+        "pubdate": "Sat, 24 Jun 2023 02:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Zverev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zverev",
         "pubdate": "Sat, 24 Jun 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Siemens Energy-Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Siemens%20Energy-Aktie",
-        "pubdate": "Fri, 23 Jun 2023 10:00:00 +0200"
       }
     ],
     [
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Siemens Energy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Siemens%20Energy",
+        "pubdate": "Fri, 23 Jun 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Titan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Titan",
         "pubdate": "Thu, 22 Jun 2023 20:00:00 +0200"
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Unwetter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unwetter",
-        "pubdate": "Thu, 22 Jun 2023 14:00:00 +0200"
+        "title": "Titanic U-Boot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Titanic%20U-Boot",
+        "pubdate": "Thu, 22 Jun 2023 11:00:00 +0200"
       }
     ],
     [
@@ -69,13 +76,6 @@
         "title": "Jan Böhmermann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jan%20B%C3%B6hmermann",
         "pubdate": "Thu, 22 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "And Just Like That",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#And%20Just%20Like%20That",
-        "pubdate": "Thu, 22 Jun 2023 10:00:00 +0200"
       }
     ],
     [
