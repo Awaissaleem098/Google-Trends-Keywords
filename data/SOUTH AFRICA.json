@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-06-2023 , 03:49:42",
+  "lastUpdate": "24-06-2023 , 04:11:26",
   "data": [
     [
       {
@@ -66,16 +66,16 @@
     ],
     [
       {
-        "title": "Implosion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Implosion",
-        "pubdate": "Thu, 22 Jun 2023 21:00:00 +0200"
+        "title": "Submarine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Submarine",
+        "pubdate": "Thu, 22 Jun 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Submarine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Submarine",
-        "pubdate": "Thu, 22 Jun 2023 22:00:00 +0200"
+        "title": "Implosion meaning",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Implosion%20meaning",
+        "pubdate": "Thu, 22 Jun 2023 21:00:00 +0200"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "How deep is the ocean",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#How%20deep%20is%20the%20ocean",
-        "pubdate": "Thu, 22 Jun 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Submarine Missing update",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Submarine%20Missing%20update",
         "pubdate": "Wed, 21 Jun 2023 20:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Submarine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Submarine",
         "pubdate": "Wed, 21 Jun 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Missing submarine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Missing%20submarine",
+        "pubdate": "Wed, 21 Jun 2023 10:00:00 +0200"
       }
     ]
   ]

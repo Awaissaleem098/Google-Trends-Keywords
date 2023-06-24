@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-06-2023 , 03:49:43",
+  "lastUpdate": "24-06-2023 , 04:11:26",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Philippe Caverivière",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Philippe%20Caverivi%C3%A8re",
+        "pubdate": "Fri, 23 Jun 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "NBA Draft",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#NBA%20Draft",
         "pubdate": "Fri, 23 Jun 2023 04:00:00 +0200"
@@ -69,13 +76,6 @@
         "title": "Burrata",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Burrata",
         "pubdate": "Fri, 23 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Indiana Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Indiana%20Jones",
-        "pubdate": "Fri, 23 Jun 2023 12:00:00 +0200"
       }
     ],
     [

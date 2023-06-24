@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-06-2023 , 03:49:41",
+  "lastUpdate": "24-06-2023 , 04:11:24",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Żalek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%BBalek",
-        "pubdate": "Fri, 23 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Opole",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Opole",
         "pubdate": "Fri, 23 Jun 2023 17:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Henry Cavill",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Henry%20Cavill",
         "pubdate": "Fri, 23 Jun 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wianki kraków",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wianki%20krak%C3%B3w",
+        "pubdate": "Fri, 23 Jun 2023 23:00:00 +0200"
       }
     ]
   ]
