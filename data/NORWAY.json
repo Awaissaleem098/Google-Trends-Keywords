@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "25-06-2023 , 21:36:44",
+  "lastUpdate": "25-06-2023 , 21:49:42",
   "data": [
     [
       {
         "title": "Robbie Williams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Robbie%20Williams",
-        "pubdate": "Sun, 25 Jun 2023 12:00:00 +0200"
+        "pubdate": "Sun, 25 Jun 2023 10:00:00 +0200"
       }
     ],
     [
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Kvelertak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kvelertak",
-        "pubdate": "Sun, 25 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Larvik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Larvik",
         "pubdate": "Sun, 25 Jun 2023 22:00:00 +0200"
@@ -48,6 +41,20 @@
         "title": "Sarpsborg 08",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sarpsborg%2008",
         "pubdate": "Sun, 25 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "HamKam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#HamKam",
+        "pubdate": "Sun, 25 Jun 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kadyrov",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kadyrov",
+        "pubdate": "Sun, 25 Jun 2023 09:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Rømmegrøt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#R%C3%B8mmegr%C3%B8t",
         "pubdate": "Fri, 23 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Frankie Hough",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Frankie%20Hough",
-        "pubdate": "Fri, 23 Jun 2023 16:00:00 +0200"
       }
     ]
   ]
