@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-06-2023 , 23:58:47",
+  "lastUpdate": "25-06-2023 , 02:16:38",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#UFC",
         "pubdate": "Sat, 24 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Zmarzlik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zmarzlik",
+        "pubdate": "Sat, 24 Jun 2023 19:00:00 +0200"
       }
     ],
     [
@@ -45,23 +52,9 @@
     ],
     [
       {
-        "title": "Tusk we Wrocławiu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tusk%20we%20Wroc%C5%82awiu",
-        "pubdate": "Sat, 24 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Konfederacja",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Konfederacja",
         "pubdate": "Sat, 24 Jun 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zmarzlik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zmarzlik",
-        "pubdate": "Sat, 24 Jun 2023 22:00:00 +0200"
       }
     ],
     [
@@ -80,9 +73,23 @@
     ],
     [
       {
+        "title": "Tusk we Wrocławiu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tusk%20we%20Wroc%C5%82awiu",
+        "pubdate": "Sat, 24 Jun 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "PAP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#PAP",
         "pubdate": "Sat, 24 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Enter Air",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Enter%20Air",
+        "pubdate": "Sat, 24 Jun 2023 00:00:00 +0200"
       }
     ],
     [
@@ -94,23 +101,16 @@
     ],
     [
       {
+        "title": "Konwencja PiS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Konwencja%20PiS",
+        "pubdate": "Sat, 24 Jun 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Jackowski",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jackowski",
         "pubdate": "Sat, 24 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wianki krakow",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wianki%20krakow",
-        "pubdate": "Sat, 24 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Agnieszka Kaczorowska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Agnieszka%20Kaczorowska",
-        "pubdate": "Sat, 24 Jun 2023 18:00:00 +0200"
       }
     ],
     [

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-06-2023 , 23:58:40",
+  "lastUpdate": "25-06-2023 , 02:16:32",
   "data": [
     [
       {
@@ -33,7 +33,7 @@
       {
         "title": "Wagner-Gruppe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wagner-Gruppe",
-        "pubdate": "Sat, 24 Jun 2023 01:00:00 +0200"
+        "pubdate": "Sat, 24 Jun 2023 03:00:00 +0200"
       }
     ],
     [
@@ -41,13 +41,6 @@
         "title": "Simone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Simone",
         "pubdate": "Sat, 24 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Notlandung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Notlandung",
-        "pubdate": "Sat, 24 Jun 2023 20:00:00 +0200"
       }
     ],
     [
@@ -115,13 +108,6 @@
     ],
     [
       {
-        "title": "Putsch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Putsch",
-        "pubdate": "Sat, 24 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ute Freudenberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ute%20Freudenberg",
         "pubdate": "Sat, 24 Jun 2023 01:00:00 +0200"
@@ -129,16 +115,30 @@
     ],
     [
       {
-        "title": "Oliver Pocher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Oliver%20Pocher",
-        "pubdate": "Sat, 24 Jun 2023 09:00:00 +0200"
+        "title": "BossHoss",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#BossHoss",
+        "pubdate": "Fri, 23 Jun 2023 09:00:00 +0200"
       }
     ],
     [
       {
-        "title": "BossHoss",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#BossHoss",
-        "pubdate": "Fri, 23 Jun 2023 09:00:00 +0200"
+        "title": "RAF Camora",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#RAF%20Camora",
+        "pubdate": "Fri, 23 Jun 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Donauinselfest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Donauinselfest",
+        "pubdate": "Fri, 23 Jun 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wetter Wien Heute",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wetter%20Wien%20Heute",
+        "pubdate": "Fri, 23 Jun 2023 18:00:00 +0200"
       }
     ]
   ]

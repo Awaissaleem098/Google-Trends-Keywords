@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-06-2023 , 23:58:39",
+  "lastUpdate": "25-06-2023 , 02:16:31",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
-        "title": "Ilia Topuria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ilia%20Topuria",
-        "pubdate": "Sat, 24 Jun 2023 16:00:00 -0700"
+        "title": "USA vs Jamaica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USA%20vs%20Jamaica",
+        "pubdate": "Sat, 24 Jun 2023 17:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "LSU vs Florida baseball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#LSU%20vs%20Florida%20baseball",
+        "pubdate": "Sat, 24 Jun 2023 17:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Frederic Forrest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Frederic%20Forrest",
+        "pubdate": "Sat, 24 Jun 2023 18:00:00 -0700"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Chris Paul",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chris%20Paul",
         "pubdate": "Thu, 22 Jun 2023 13:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Implosion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Implosion",
-        "pubdate": "Thu, 22 Jun 2023 13:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "James Cameron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#James%20Cameron",
-        "pubdate": "Thu, 22 Jun 2023 21:00:00 -0700"
       }
     ]
   ]
