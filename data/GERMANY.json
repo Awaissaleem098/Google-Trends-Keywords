@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "26-06-2023 , 00:39:45",
+  "lastUpdate": "26-06-2023 , 02:24:36",
   "data": [
     [
       {
-        "title": "Sonneberg Wahl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sonneberg%20Wahl",
+        "title": "Wahl Sonneberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wahl%20Sonneberg",
         "pubdate": "Sun, 25 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Challenge Roth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Challenge%20Roth",
-        "pubdate": "Sun, 25 Jun 2023 07:00:00 +0200"
       }
     ],
     [
@@ -24,9 +17,16 @@
     ],
     [
       {
+        "title": "Challenge Roth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Challenge%20Roth",
+        "pubdate": "Sun, 25 Jun 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Aufstand Wagner-Söldner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Aufstand%20Wagner-S%C3%B6ldner",
-        "pubdate": "Sun, 25 Jun 2023 12:00:00 +0200"
+        "pubdate": "Sun, 25 Jun 2023 22:00:00 +0200"
       }
     ],
     [

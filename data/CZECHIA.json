@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-06-2023 , 00:39:43",
+  "lastUpdate": "26-06-2023 , 02:24:35",
   "data": [
     [
       {
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "ISW",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#ISW",
-        "pubdate": "Sat, 24 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "News",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#News",
         "pubdate": "Sat, 24 Jun 2023 20:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Tom Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%20Jones",
         "pubdate": "Fri, 23 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bouřky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bou%C5%99ky",
+        "pubdate": "Fri, 23 Jun 2023 18:00:00 +0200"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-06-2023 , 00:39:44",
+  "lastUpdate": "26-06-2023 , 02:24:36",
   "data": [
     [
       {
@@ -52,9 +52,16 @@
     ],
     [
       {
-        "title": "Lucas Hernandez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lucas%20Hernandez",
-        "pubdate": "Sun, 25 Jun 2023 21:00:00 +0200"
+        "title": "Lana Del Rey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lana%20Del%20Rey",
+        "pubdate": "Sun, 25 Jun 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barzotti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Barzotti",
+        "pubdate": "Sat, 24 Jun 2023 14:00:00 +0200"
       }
     ],
     [
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Chanteur Claude Barzotti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Chanteur%20Claude%20Barzotti",
-        "pubdate": "Sat, 24 Jun 2023 23:00:00 +0200"
+        "title": "Victoire Berteau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Victoire%20Berteau",
+        "pubdate": "Sat, 24 Jun 2023 18:00:00 +0200"
       }
     ],
     [
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Sous-marin Titanic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sous-marin%20Titanic",
+        "pubdate": "Thu, 22 Jun 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Wembanyama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Wembanyama",
         "pubdate": "Thu, 22 Jun 2023 08:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Martinique",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Martinique",
         "pubdate": "Thu, 22 Jun 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Explosion Paris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Explosion%20Paris",
-        "pubdate": "Wed, 21 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Titan sous-marin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Titan%20sous-marin",
-        "pubdate": "Wed, 21 Jun 2023 09:00:00 +0200"
       }
     ]
   ]

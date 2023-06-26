@@ -1,11 +1,32 @@
 {
-  "lastUpdate": "26-06-2023 , 00:39:47",
+  "lastUpdate": "26-06-2023 , 02:24:39",
   "data": [
+    [
+      {
+        "title": "Tertiary Education",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Tertiary%20Education",
+        "pubdate": "Mon, 26 Jun 2023 09:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Philadelphia vs Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Philadelphia%20vs%20Inter%20Miami",
         "pubdate": "Sun, 25 Jun 2023 09:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Tony Pua DAP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Tony%20Pua%20DAP",
+        "pubdate": "Sun, 25 Jun 2023 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Old",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Old",
+        "pubdate": "Sun, 25 Jun 2023 17:00:00 +0800"
       }
     ],
     [
@@ -27,6 +48,13 @@
         "title": "Wagner Group",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Wagner%20Group",
         "pubdate": "Sat, 24 Jun 2023 13:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Terengganu FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Terengganu%20FC",
+        "pubdate": "Sat, 24 Jun 2023 18:00:00 +0800"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Michael Jordan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Michael%20Jordan",
         "pubdate": "Fri, 23 Jun 2023 12:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "James Cameron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#James%20Cameron",
-        "pubdate": "Fri, 23 Jun 2023 12:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "India PM Modi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#India%20PM%20Modi",
-        "pubdate": "Fri, 23 Jun 2023 15:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Titanic ship",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Titanic%20ship",
-        "pubdate": "Fri, 23 Jun 2023 15:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Suleman Dawood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Suleman%20Dawood",
-        "pubdate": "Fri, 23 Jun 2023 11:00:00 +0800"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-06-2023 , 00:39:44",
+  "lastUpdate": "26-06-2023 , 02:24:36",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Julian Sands",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Julian%20Sands",
         "pubdate": "Sun, 25 Jun 2023 12:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "George Michael",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#George%20Michael",
-        "pubdate": "Sun, 25 Jun 2023 14:00:00 +0300"
       }
     ],
     [
@@ -101,13 +94,6 @@
     ],
     [
       {
-        "title": "BBC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#BBC",
-        "pubdate": "Sat, 24 Jun 2023 13:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Messi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Messi",
         "pubdate": "Sat, 24 Jun 2023 14:00:00 +0300"
@@ -139,6 +125,20 @@
         "title": "Telegram",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Telegram",
         "pubdate": "Sat, 24 Jun 2023 15:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "BESS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#BESS",
+        "pubdate": "Sat, 24 Jun 2023 23:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "FOX news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#FOX%20news",
+        "pubdate": "Sat, 24 Jun 2023 20:00:00 +0300"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-06-2023 , 00:39:49",
+  "lastUpdate": "26-06-2023 , 02:24:40",
   "data": [
     [
       {
@@ -26,6 +26,13 @@
       {
         "title": "Helena Vondrackova",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Helena%20Vondrackova",
+        "pubdate": "Sun, 25 Jun 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rodowicz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rodowicz",
         "pubdate": "Sun, 25 Jun 2023 22:00:00 +0200"
       }
     ],
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Wojna domowa w Rosji",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wojna%20domowa%20w%20Rosji",
+        "pubdate": "Sat, 24 Jun 2023 03:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "CNN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#CNN",
         "pubdate": "Sat, 24 Jun 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#UFC",
-        "pubdate": "Sat, 24 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "BBC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#BBC",
-        "pubdate": "Sat, 24 Jun 2023 13:00:00 +0200"
       }
     ]
   ]

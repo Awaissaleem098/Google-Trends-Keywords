@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "26-06-2023 , 00:39:48",
+  "lastUpdate": "26-06-2023 , 02:24:39",
   "data": [
-    [
-      {
-        "title": "Tigres",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tigres",
-        "pubdate": "Sun, 25 Jun 2023 14:00:00 -0600"
-      }
-    ],
     [
       {
         "title": "Selección Mexicana",
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Haiti vs Qatar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Haiti%20vs%20Qatar",
+        "pubdate": "Sun, 25 Jun 2023 18:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Korn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Korn",
         "pubdate": "Sun, 25 Jun 2023 02:00:00 -0600"
@@ -45,9 +45,16 @@
     ],
     [
       {
-        "title": "Pachuca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Pachuca",
-        "pubdate": "Sun, 25 Jun 2023 15:00:00 -0600"
+        "title": "Balon de Oro Liga MX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Balon%20de%20Oro%20Liga%20MX",
+        "pubdate": "Sun, 25 Jun 2023 01:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Jaime Lozano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Jaime%20Lozano",
+        "pubdate": "Sun, 25 Jun 2023 19:00:00 -0600"
       }
     ],
     [
@@ -55,20 +62,6 @@
         "title": "JeremyRenner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#JeremyRenner",
         "pubdate": "Sun, 25 Jun 2023 14:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Estados Unidos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Estados%20Unidos",
-        "pubdate": "Sun, 25 Jun 2023 01:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "America vs Cruz Azul amistoso",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#America%20vs%20Cruz%20Azul%20amistoso",
-        "pubdate": "Sun, 25 Jun 2023 00:00:00 -0600"
       }
     ],
     [
@@ -87,6 +80,13 @@
     ],
     [
       {
+        "title": "America vs Cruz Azul amistoso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#America%20vs%20Cruz%20Azul%20amistoso",
+        "pubdate": "Sun, 25 Jun 2023 00:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Real Madrid Castilla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Real%20Madrid%20Castilla",
         "pubdate": "Sun, 25 Jun 2023 17:00:00 -0600"
@@ -94,8 +94,15 @@
     ],
     [
       {
-        "title": "Tigres vs Pachuca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tigres%20vs%20Pachuca",
+        "title": "Mexico vs Honduras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mexico%20vs%20Honduras",
+        "pubdate": "Sat, 24 Jun 2023 17:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Tigres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tigres",
         "pubdate": "Sat, 24 Jun 2023 11:00:00 -0600"
       }
     ],
@@ -103,13 +110,6 @@
       {
         "title": "Estados Unidos  Jamaica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Estados%20Unidos%20%20Jamaica",
-        "pubdate": "Sat, 24 Jun 2023 17:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Mexico vs Honduras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mexico%20vs%20Honduras",
         "pubdate": "Sat, 24 Jun 2023 17:00:00 -0600"
       }
     ],
@@ -124,7 +124,7 @@
       {
         "title": "Messi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Messi",
-        "pubdate": "Sat, 24 Jun 2023 00:00:00 -0600"
+        "pubdate": "Sat, 24 Jun 2023 10:00:00 -0600"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Pride",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Pride",
-        "pubdate": "Sat, 24 Jun 2023 01:00:00 -0600"
+        "title": "Leo Messi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Leo%20Messi",
+        "pubdate": "Sat, 24 Jun 2023 00:00:00 -0600"
       }
     ]
   ]

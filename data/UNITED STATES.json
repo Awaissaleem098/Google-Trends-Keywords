@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "26-06-2023 , 00:39:41",
+  "lastUpdate": "26-06-2023 , 02:24:33",
   "data": [
+    [
+      {
+        "title": "Pride parade NYC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pride%20parade%20NYC",
+        "pubdate": "Sun, 25 Jun 2023 05:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Joe%20Biden",
+        "pubdate": "Sun, 25 Jun 2023 00:00:00 -0700"
+      }
+    ],
     [
       {
         "title": "Lewis Capaldi",
@@ -17,13 +31,6 @@
     ],
     [
       {
-        "title": "Kamala Harris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kamala%20Harris",
-        "pubdate": "Sun, 25 Jun 2023 01:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "USFL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USFL",
         "pubdate": "Sun, 25 Jun 2023 14:00:00 -0700"
@@ -31,9 +38,16 @@
     ],
     [
       {
-        "title": "Cubs vs Cardinals",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cubs%20vs%20Cardinals",
-        "pubdate": "Sun, 25 Jun 2023 08:00:00 -0700"
+        "title": "Kamala Harris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kamala%20Harris",
+        "pubdate": "Sun, 25 Jun 2023 01:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Jon Hamm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jon%20Hamm",
+        "pubdate": "Sun, 25 Jun 2023 18:00:00 -0700"
       }
     ],
     [
@@ -59,9 +73,9 @@
     ],
     [
       {
-        "title": "Pride Parade",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pride%20Parade",
-        "pubdate": "Sun, 25 Jun 2023 13:00:00 -0700"
+        "title": "Forbidden Door 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Forbidden%20Door%202023",
+        "pubdate": "Sun, 25 Jun 2023 18:00:00 -0700"
       }
     ],
     [
@@ -69,13 +83,6 @@
         "title": "Rina Sawayama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rina%20Sawayama",
         "pubdate": "Sun, 25 Jun 2023 15:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Josh Emmett",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Josh%20Emmett",
-        "pubdate": "Sun, 25 Jun 2023 06:00:00 -0700"
       }
     ],
     [
@@ -115,16 +122,16 @@
     ],
     [
       {
-        "title": "Keegan Bradley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Keegan%20Bradley",
+        "title": "Travelers Championship payout",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Travelers%20Championship%20payout",
         "pubdate": "Sat, 24 Jun 2023 19:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Astros vs Dodgers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Astros%20vs%20Dodgers",
-        "pubdate": "Sat, 24 Jun 2023 13:00:00 -0700"
+        "title": "Keyshia Cole",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Keyshia%20Cole",
+        "pubdate": "Sat, 24 Jun 2023 19:00:00 -0700"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Aaron Judge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aaron%20Judge",
         "pubdate": "Sat, 24 Jun 2023 20:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Philadelphia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Philadelphia",
-        "pubdate": "Sat, 24 Jun 2023 16:00:00 -0700"
       }
     ]
   ]
