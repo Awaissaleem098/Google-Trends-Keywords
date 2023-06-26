@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "26-06-2023 , 15:35:08",
+  "lastUpdate": "26-06-2023 , 15:48:15",
   "data": [
     [
       {
         "title": "BET Awards 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#BET%20Awards%202023",
         "pubdate": "Mon, 26 Jun 2023 06:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wimbledon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Wimbledon",
-        "pubdate": "Mon, 26 Jun 2023 14:00:00 +0200"
       }
     ],
     [
@@ -24,9 +17,16 @@
     ],
     [
       {
-        "title": "Philadelphia vs Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Philadelphia%20vs%20Inter%20Miami",
-        "pubdate": "Sun, 25 Jun 2023 05:00:00 +0200"
+        "title": "Wimbledon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Wimbledon",
+        "pubdate": "Mon, 26 Jun 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Zimbabwe vs United States",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Zimbabwe%20vs%20United%20States",
+        "pubdate": "Mon, 26 Jun 2023 16:00:00 +0200"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Titan submersible latest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Titan%20submersible%20latest",
+        "pubdate": "Fri, 23 Jun 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "The Perfect Find",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#The%20Perfect%20Find",
         "pubdate": "Fri, 23 Jun 2023 21:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "James Cameron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#James%20Cameron",
         "pubdate": "Fri, 23 Jun 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "NBA Draft 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#NBA%20Draft%202023",
-        "pubdate": "Fri, 23 Jun 2023 12:00:00 +0200"
       }
     ]
   ]
