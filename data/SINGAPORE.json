@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "27-06-2023 , 05:48:43",
+  "lastUpdate": "27-06-2023 , 06:10:21",
   "data": [
     [
       {
         "title": "Jacky Cheung",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jacky%20Cheung",
         "pubdate": "Tue, 27 Jun 2023 12:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Gundogan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gundogan",
+        "pubdate": "Tue, 27 Jun 2023 00:00:00 +0800"
       }
     ],
     [
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Gundogan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gundogan",
-        "pubdate": "Tue, 27 Jun 2023 00:00:00 +0800"
+        "title": "SLA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#SLA",
+        "pubdate": "Mon, 26 Jun 2023 10:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Taylor%20Swift",
         "pubdate": "Wed, 21 Jun 2023 01:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Taylor Swift singapore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Taylor%20Swift%20singapore",
-        "pubdate": "Wed, 21 Jun 2023 19:00:00 +0800"
       }
     ]
   ]
