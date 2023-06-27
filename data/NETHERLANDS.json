@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "27-06-2023 , 22:45:50",
+  "lastUpdate": "27-06-2023 , 22:59:00",
   "data": [
-    [
-      {
-        "title": "Lana Del Rey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lana%20Del%20Rey",
-        "pubdate": "Tue, 27 Jun 2023 12:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Jong Oranje",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jong%20Oranje",
         "pubdate": "Tue, 27 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lana Del Rey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lana%20Del%20Rey",
+        "pubdate": "Tue, 27 Jun 2023 12:00:00 +0200"
       }
     ],
     [
@@ -34,13 +34,6 @@
         "title": "Rekeningrijden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rekeningrijden",
         "pubdate": "Mon, 26 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Harrison Ford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Harrison%20Ford",
-        "pubdate": "Mon, 26 Jun 2023 18:00:00 +0200"
       }
     ],
     [
@@ -125,6 +118,13 @@
         "title": "Omroep Gelderland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Omroep%20Gelderland",
         "pubdate": "Sun, 18 Jun 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Arnhem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arnhem",
+        "pubdate": "Sun, 18 Jun 2023 20:00:00 +0200"
       }
     ],
     [
