@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "27-06-2023 , 13:48:01",
+  "lastUpdate": "27-06-2023 , 14:05:14",
   "data": [
     [
       {
         "title": "VfB Stuttgart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
         "pubdate": "Tue, 27 Jun 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kaiserschmarrndrama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kaiserschmarrndrama",
-        "pubdate": "Mon, 26 Jun 2023 18:00:00 +0200"
       }
     ],
     [
@@ -31,9 +24,9 @@
     ],
     [
       {
-        "title": "AfD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD",
-        "pubdate": "Sun, 25 Jun 2023 20:00:00 +0200"
+        "title": "NATO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NATO",
+        "pubdate": "Mon, 26 Jun 2023 22:00:00 +0200"
       }
     ],
     [
@@ -101,16 +94,16 @@
     ],
     [
       {
-        "title": "NBA Draft 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NBA%20Draft%202023",
-        "pubdate": "Thu, 22 Jun 2023 03:00:00 +0200"
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zverev",
+        "pubdate": "Thu, 22 Jun 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Bublik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bublik",
-        "pubdate": "Thu, 22 Jun 2023 18:00:00 +0200"
+        "title": "NBA Draft 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NBA%20Draft%202023",
+        "pubdate": "Thu, 22 Jun 2023 03:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Secret Invasion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Secret%20Invasion",
         "pubdate": "Wed, 21 Jun 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bruce Springsteen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bruce%20Springsteen",
+        "pubdate": "Wed, 21 Jun 2023 13:00:00 +0200"
       }
     ]
   ]
