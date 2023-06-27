@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-06-2023 , 10:45:54",
+  "lastUpdate": "27-06-2023 , 10:58:56",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Mindestlohn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mindestlohn",
         "pubdate": "Sun, 25 Jun 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bushido",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bushido",
-        "pubdate": "Sun, 25 Jun 2023 22:00:00 +0200"
       }
     ],
     [
@@ -132,6 +125,13 @@
         "title": "Titan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Titan",
         "pubdate": "Tue, 20 Jun 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Helene Fischer Unfall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Helene%20Fischer%20Unfall",
+        "pubdate": "Mon, 19 Jun 2023 00:00:00 +0200"
       }
     ],
     [
