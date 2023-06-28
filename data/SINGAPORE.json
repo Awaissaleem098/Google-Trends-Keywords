@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "28-06-2023 , 00:54:46",
+  "lastUpdate": "28-06-2023 , 02:34:54",
   "data": [
+    [
+      {
+        "title": "Michelin-star Singapore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Michelin-star%20Singapore",
+        "pubdate": "Wed, 28 Jun 2023 00:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Harry Kane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Harry%20Kane",
         "pubdate": "Wed, 28 Jun 2023 03:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "David Corenswet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#David%20Corenswet",
+        "pubdate": "Wed, 28 Jun 2023 09:00:00 +0800"
       }
     ],
     [
@@ -34,13 +48,6 @@
         "title": "Gundogan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gundogan",
         "pubdate": "Tue, 27 Jun 2023 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Tesla stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tesla%20stock",
-        "pubdate": "Tue, 27 Jun 2023 15:00:00 +0800"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Wirecard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Wirecard",
-        "pubdate": "Thu, 22 Jun 2023 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Taiwan MeToo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Taiwan%20MeToo",
         "pubdate": "Thu, 22 Jun 2023 00:00:00 +0800"
       }
     ]

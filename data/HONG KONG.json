@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-06-2023 , 00:54:42",
+  "lastUpdate": "28-06-2023 , 02:34:48",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "新創建",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%96%B0%E5%89%B5%E5%BB%BA",
-        "pubdate": "Tue, 27 Jun 2023 10:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Oppenheimer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Oppenheimer",
         "pubdate": "Tue, 27 Jun 2023 12:00:00 +0800"
@@ -38,16 +31,16 @@
     ],
     [
       {
-        "title": "HAMA-SUSHI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#HAMA-SUSHI",
-        "pubdate": "Tue, 27 Jun 2023 23:00:00 +0800"
+        "title": "鄒至蕙",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%84%92%E8%87%B3%E8%95%99",
+        "pubdate": "Tue, 27 Jun 2023 16:00:00 +0800"
       }
     ],
     [
       {
-        "title": "鄒至蕙",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%84%92%E8%87%B3%E8%95%99",
-        "pubdate": "Tue, 27 Jun 2023 16:00:00 +0800"
+        "title": "Insta360",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Insta360",
+        "pubdate": "Tue, 27 Jun 2023 23:00:00 +0800"
       }
     ],
     [
@@ -108,9 +101,16 @@
     ],
     [
       {
-        "title": "肥媽",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%82%A5%E5%AA%BD",
+        "title": "黃家強",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%BB%83%E5%AE%B6%E5%BC%B7",
         "pubdate": "Mon, 26 Jun 2023 16:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "周潤發",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%91%A8%E6%BD%A4%E7%99%BC",
+        "pubdate": "Mon, 26 Jun 2023 20:00:00 +0800"
       }
     ],
     [
@@ -118,13 +118,6 @@
         "title": "山手線",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%B1%B1%E6%89%8B%E7%B7%9A",
         "pubdate": "Mon, 26 Jun 2023 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "凱玥",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%87%B1%E7%8E%A5",
-        "pubdate": "Mon, 26 Jun 2023 13:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "神木隆之介",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E7%A5%9E%E6%9C%A8%E9%9A%86%E4%B9%8B%E4%BB%8B",
         "pubdate": "Sun, 25 Jun 2023 18:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "蔡健雅",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%94%A1%E5%81%A5%E9%9B%85",
+        "pubdate": "Sun, 25 Jun 2023 20:00:00 +0800"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-06-2023 , 00:54:45",
+  "lastUpdate": "28-06-2023 , 02:34:53",
   "data": [
     [
       {
@@ -24,9 +24,16 @@
     ],
     [
       {
-        "title": "Portugal sub-21",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Portugal%20sub-21",
+        "title": "Portugal sub-21  Bélgica sub-21",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Portugal%20sub-21%20%20B%C3%A9lgica%20sub-21",
         "pubdate": "Tue, 27 Jun 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sub-21",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sub-21",
+        "pubdate": "Tue, 27 Jun 2023 18:00:00 +0100"
       }
     ],
     [
@@ -34,6 +41,13 @@
         "title": "Sara Sampaio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sara%20Sampaio",
         "pubdate": "Tue, 27 Jun 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Portugal belgica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Portugal%20belgica",
+        "pubdate": "Tue, 27 Jun 2023 18:00:00 +0100"
       }
     ],
     [
@@ -52,6 +66,13 @@
     ],
     [
       {
+        "title": "Luís Aleluia ator",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lu%C3%ADs%20Aleluia%20ator",
+        "pubdate": "Tue, 27 Jun 2023 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Luís Castro Botafogo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lu%C3%ADs%20Castro%20Botafogo",
         "pubdate": "Tue, 27 Jun 2023 13:00:00 +0100"
@@ -66,30 +87,16 @@
     ],
     [
       {
-        "title": "Incendios",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Incendios",
-        "pubdate": "Tue, 27 Jun 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Luís Aleluia ator",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lu%C3%ADs%20Aleluia%20ator",
-        "pubdate": "Tue, 27 Jun 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Michael Bolton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Michael%20Bolton",
-        "pubdate": "Tue, 27 Jun 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Nicole Scherzinger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nicole%20Scherzinger",
         "pubdate": "Tue, 27 Jun 2023 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Incendios",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Incendios",
+        "pubdate": "Tue, 27 Jun 2023 10:00:00 +0100"
       }
     ],
     [
@@ -104,6 +111,13 @@
         "title": "Bombarral",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bombarral",
         "pubdate": "Tue, 27 Jun 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Carmen Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Carmen%20Sevilla",
+        "pubdate": "Tue, 27 Jun 2023 23:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "NASA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#NASA",
         "pubdate": "Tue, 27 Jun 2023 03:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kramatorsk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Kramatorsk",
-        "pubdate": "Tue, 27 Jun 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Carmen Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Carmen%20Sevilla",
-        "pubdate": "Tue, 27 Jun 2023 23:00:00 +0100"
       }
     ]
   ]

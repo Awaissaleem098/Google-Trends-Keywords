@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "28-06-2023 , 00:54:44",
+  "lastUpdate": "28-06-2023 , 02:34:52",
   "data": [
+    [
+      {
+        "title": "Frontier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Frontier",
+        "pubdate": "Wed, 28 Jun 2023 12:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "All Blacks jersey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#All%20Blacks%20jersey",
+        "pubdate": "Wed, 28 Jun 2023 13:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "David Corenswet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#David%20Corenswet",
+        "pubdate": "Wed, 28 Jun 2023 13:00:00 +1200"
+      }
+    ],
     [
       {
         "title": "Paramore",
@@ -10,8 +31,8 @@
     ],
     [
       {
-        "title": "Missing British actor Julian Sands",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Missing%20British%20actor%20Julian%20Sands",
+        "title": "Missing British Actor Julian Sands",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Missing%20British%20Actor%20Julian%20Sands",
         "pubdate": "Tue, 27 Jun 2023 09:00:00 +1200"
       }
     ],
@@ -34,6 +55,13 @@
         "title": "Lewis Capaldi Glastonbury set",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lewis%20Capaldi%20Glastonbury%20set",
         "pubdate": "Tue, 27 Jun 2023 10:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Taylor Swift tickets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Taylor%20Swift%20tickets",
+        "pubdate": "Mon, 26 Jun 2023 19:00:00 +1200"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Maggie Beer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Maggie%20Beer",
         "pubdate": "Sun, 25 Jun 2023 21:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Zimbabwe vs West Indies",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Zimbabwe%20vs%20West%20Indies",
-        "pubdate": "Sun, 25 Jun 2023 11:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Sam Cane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sam%20Cane",
-        "pubdate": "Sun, 25 Jun 2023 11:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Henry Cavill",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Henry%20Cavill",
-        "pubdate": "Sun, 25 Jun 2023 00:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Chiefs vs Crusaders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chiefs%20vs%20Crusaders",
-        "pubdate": "Sat, 24 Jun 2023 20:00:00 +1200"
       }
     ]
   ]

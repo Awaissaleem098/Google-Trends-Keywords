@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-06-2023 , 00:54:39",
+  "lastUpdate": "28-06-2023 , 02:34:45",
   "data": [
     [
       {
@@ -10,9 +10,30 @@
     ],
     [
       {
-        "title": "David Corenswet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#David%20Corenswet",
+        "title": "Julian Sands",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Julian%20Sands",
+        "pubdate": "Tue, 27 Jun 2023 20:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "David Corenswet Superman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#David%20Corenswet%20Superman",
         "pubdate": "Tue, 27 Jun 2023 17:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Yegor Sharangovich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Yegor%20Sharangovich",
+        "pubdate": "Tue, 27 Jun 2023 20:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Canada vs Guadeloupe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canada%20vs%20Guadeloupe",
+        "pubdate": "Tue, 27 Jun 2023 19:00:00 -0400"
       }
     ],
     [
@@ -24,9 +45,23 @@
     ],
     [
       {
-        "title": "Pierre-Luc Dubois",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pierre-Luc%20Dubois",
-        "pubdate": "Tue, 27 Jun 2023 19:00:00 -0400"
+        "title": "Ryan Mallett",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ryan%20Mallett",
+        "pubdate": "Tue, 27 Jun 2023 20:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Jimmie Johnson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jimmie%20Johnson",
+        "pubdate": "Tue, 27 Jun 2023 17:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Alek Manoah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Alek%20Manoah",
+        "pubdate": "Tue, 27 Jun 2023 15:00:00 -0400"
       }
     ],
     [
@@ -45,30 +80,9 @@
     ],
     [
       {
-        "title": "Jimmie Johnson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jimmie%20Johnson",
-        "pubdate": "Tue, 27 Jun 2023 17:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Canada vs Guadeloupe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canada%20vs%20Guadeloupe",
-        "pubdate": "Tue, 27 Jun 2023 19:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Kevin Hayes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kevin%20Hayes",
         "pubdate": "Tue, 27 Jun 2023 15:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Olivia Rodrigo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Olivia%20Rodrigo",
-        "pubdate": "Tue, 27 Jun 2023 01:00:00 -0400"
       }
     ],
     [
@@ -80,9 +94,16 @@
     ],
     [
       {
-        "title": "Bad Homburg Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bad%20Homburg%20Open",
-        "pubdate": "Tue, 27 Jun 2023 00:00:00 -0400"
+        "title": "Olivia Rodrigo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Olivia%20Rodrigo",
+        "pubdate": "Tue, 27 Jun 2023 01:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Blink 182 vancouver",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Blink%20182%20vancouver",
+        "pubdate": "Tue, 27 Jun 2023 18:00:00 -0400"
       }
     ],
     [
@@ -94,23 +115,16 @@
     ],
     [
       {
-        "title": "Boston Bruins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Boston%20Bruins",
-        "pubdate": "Tue, 27 Jun 2023 13:00:00 -0400"
+        "title": "Novak Djokovic Wimbledon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Novak%20Djokovic%20Wimbledon",
+        "pubdate": "Tue, 27 Jun 2023 20:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Bachelorette",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bachelorette",
-        "pubdate": "Tue, 27 Jun 2023 10:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Cardi B",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cardi%20B",
-        "pubdate": "Tue, 27 Jun 2023 12:00:00 -0400"
+        "title": "Bad Homburg Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bad%20Homburg%20Open",
+        "pubdate": "Tue, 27 Jun 2023 00:00:00 -0400"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Claim to Fame",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Claim%20to%20Fame",
-        "pubdate": "Tue, 27 Jun 2023 19:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Lewis Capaldi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lewis%20Capaldi",
-        "pubdate": "Mon, 26 Jun 2023 23:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Nick Foligno",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nick%20Foligno",
-        "pubdate": "Mon, 26 Jun 2023 16:00:00 -0400"
+        "title": "Boston Bruins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Boston%20Bruins",
+        "pubdate": "Tue, 27 Jun 2023 13:00:00 -0400"
       }
     ]
   ]

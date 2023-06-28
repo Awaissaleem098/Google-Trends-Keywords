@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-06-2023 , 00:54:42",
+  "lastUpdate": "28-06-2023 , 02:34:49",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Budapest Jazz Club",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Budapest%20Jazz%20Club",
-        "pubdate": "Tue, 27 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Karácsony Gergely",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kar%C3%A1csony%20Gergely",
         "pubdate": "Tue, 27 Jun 2023 17:00:00 +0200"
@@ -38,9 +31,16 @@
     ],
     [
       {
-        "title": "Marco Rossi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Marco%20Rossi",
-        "pubdate": "Tue, 27 Jun 2023 16:00:00 +0200"
+        "title": "Budapest Jazz Club",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Budapest%20Jazz%20Club",
+        "pubdate": "Tue, 27 Jun 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "The covenant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#The%20covenant",
+        "pubdate": "Tue, 27 Jun 2023 23:00:00 +0200"
       }
     ],
     [
@@ -52,15 +52,15 @@
     ],
     [
       {
-        "title": "The Covenant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#The%20Covenant",
-        "pubdate": "Tue, 27 Jun 2023 23:00:00 +0200"
+        "title": "Marco Rossi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Marco%20Rossi",
+        "pubdate": "Tue, 27 Jun 2023 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Nagy Boglárka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nagy%20Bogl%C3%A1rka",
+        "title": "Harry Kane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Harry%20Kane",
         "pubdate": "Tue, 27 Jun 2023 20:00:00 +0200"
       }
     ],
