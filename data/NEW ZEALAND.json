@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "29-06-2023 , 23:39:37",
+  "lastUpdate": "29-06-2023 , 23:53:01",
   "data": [
+    [
+      {
+        "title": "The Witcher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#The%20Witcher",
+        "pubdate": "Fri, 30 Jun 2023 10:00:00 +1200"
+      }
+    ],
     [
       {
         "title": "Under 20 Rugby World Cup",
@@ -10,16 +17,9 @@
     ],
     [
       {
-        "title": "Road user charges NZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Road%20user%20charges%20NZ",
-        "pubdate": "Fri, 30 Jun 2023 10:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "The Witcher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#The%20Witcher",
-        "pubdate": "Fri, 30 Jun 2023 10:00:00 +1200"
+        "title": "DP World Tour",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#DP%20World%20Tour",
+        "pubdate": "Fri, 30 Jun 2023 11:00:00 +1200"
       }
     ],
     [
@@ -45,8 +45,8 @@
     ],
     [
       {
-        "title": "Eid Mubarak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Eid%20Mubarak",
+        "title": "Eid Mubarak!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Eid%20Mubarak!",
         "pubdate": "Thu, 29 Jun 2023 07:00:00 +1200"
       }
     ],
