@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "29-06-2023 , 00:41:52",
+  "lastUpdate": "29-06-2023 , 02:16:37",
   "data": [
-    [
-      {
-        "title": "Kevin Spacey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kevin%20Spacey",
-        "pubdate": "Thu, 29 Jun 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Nike",
@@ -80,9 +73,9 @@
     ],
     [
       {
-        "title": "Alessandra Sublet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alessandra%20Sublet",
-        "pubdate": "Wed, 28 Jun 2023 10:00:00 +0200"
+        "title": "Ubaldi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ubaldi",
+        "pubdate": "Wed, 28 Jun 2023 12:00:00 +0200"
       }
     ],
     [
@@ -94,16 +87,9 @@
     ],
     [
       {
-        "title": "Puma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Puma",
+        "title": "Suisse France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Suisse%20France",
         "pubdate": "Wed, 28 Jun 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Printemps",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Printemps",
-        "pubdate": "Wed, 28 Jun 2023 16:00:00 +0200"
       }
     ],
     [
@@ -111,13 +97,6 @@
         "title": "Castelmoron-d'Albret",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Castelmoron-d'Albret",
         "pubdate": "Wed, 28 Jun 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Suisse France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Suisse%20France",
-        "pubdate": "Wed, 28 Jun 2023 23:00:00 +0200"
       }
     ],
     [
@@ -139,6 +118,27 @@
         "title": "Under Armour",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Under%20Armour",
         "pubdate": "Wed, 28 Jun 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Stéphanie de Monaco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#St%C3%A9phanie%20de%20Monaco",
+        "pubdate": "Wed, 28 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nanterre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nanterre",
+        "pubdate": "Tue, 27 Jun 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ysabelle Lacamp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ysabelle%20Lacamp",
+        "pubdate": "Tue, 27 Jun 2023 14:00:00 +0200"
       }
     ]
   ]

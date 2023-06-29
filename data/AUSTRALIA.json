@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "29-06-2023 , 00:41:50",
+  "lastUpdate": "29-06-2023 , 02:16:33",
   "data": [
+    [
+      {
+        "title": "Gladys Berejiklian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gladys%20Berejiklian",
+        "pubdate": "Thu, 29 Jun 2023 09:00:00 +1000"
+      }
+    ],
     [
       {
         "title": "Madonna",
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Colleen Ballinger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Colleen%20Ballinger",
+        "pubdate": "Thu, 29 Jun 2023 11:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "David Goodwillie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#David%20Goodwillie",
         "pubdate": "Thu, 29 Jun 2023 00:00:00 +1000"
@@ -45,9 +59,16 @@
     ],
     [
       {
-        "title": "Gladys Berejiklian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gladys%20Berejiklian",
-        "pubdate": "Thu, 29 Jun 2023 09:00:00 +1000"
+        "title": "Jonny Bairstow",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jonny%20Bairstow",
+        "pubdate": "Thu, 29 Jun 2023 10:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Kelly Clarkson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kelly%20Clarkson",
+        "pubdate": "Thu, 29 Jun 2023 10:00:00 +1000"
       }
     ],
     [
@@ -59,16 +80,16 @@
     ],
     [
       {
-        "title": "Ashes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ashes",
-        "pubdate": "Wed, 28 Jun 2023 22:00:00 +1000"
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Taylor%20Swift",
+        "pubdate": "Wed, 28 Jun 2023 12:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Taylor%20Swift",
-        "pubdate": "Wed, 28 Jun 2023 12:00:00 +1000"
+        "title": "Ashes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ashes",
+        "pubdate": "Wed, 28 Jun 2023 22:00:00 +1000"
       }
     ],
     [
@@ -101,6 +122,13 @@
     ],
     [
       {
+        "title": "Matt Rendell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Matt%20Rendell",
+        "pubdate": "Wed, 28 Jun 2023 22:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Ryan Siew",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ryan%20Siew",
         "pubdate": "Wed, 28 Jun 2023 09:00:00 +1000"
@@ -111,34 +139,6 @@
         "title": "Indiana Jones and the Dial of Destiny",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Indiana%20Jones%20and%20the%20Dial%20of%20Destiny",
         "pubdate": "Wed, 28 Jun 2023 16:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Dylan Brown",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dylan%20Brown",
-        "pubdate": "Wed, 28 Jun 2023 14:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Bruce McAvaney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bruce%20McAvaney",
-        "pubdate": "Wed, 28 Jun 2023 07:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Idris Elba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Idris%20Elba",
-        "pubdate": "Wed, 28 Jun 2023 16:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Chris Dawson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chris%20Dawson",
-        "pubdate": "Wed, 28 Jun 2023 14:00:00 +1000"
       }
     ]
   ]

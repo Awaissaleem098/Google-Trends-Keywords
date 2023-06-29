@@ -1,1 +1,1 @@
-Glimt,Raufoss,David Corenswet,Stavanger kommune,Brann,Isabel Haugseng Johansen,Isabelle Eriksen,Shakira,Madonna,Kramatorsk,James Maddison,Arsenal,St. Olavsloppet,Nicole Scherzinger,Logan Paul,Eid,Belarus,Tibber,Harry Kane,Liam Hemsworth
+Glimt,David Corenswet,Stavanger kommune,Isabel Haugseng Johansen,Raufoss,Brann,Isabelle Eriksen,Shakira,Madonna,Kramatorsk,James Maddison,NM,Raufoss Viking,Arsenal,St. Olavsloppet,Nicole Scherzinger,Logan Paul,Eid,Belarus,Harry Kane

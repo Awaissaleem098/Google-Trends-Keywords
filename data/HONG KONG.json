@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "29-06-2023 , 00:41:53",
+  "lastUpdate": "29-06-2023 , 02:16:37",
   "data": [
+    [
+      {
+        "title": "宋智孝",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%AE%8B%E6%99%BA%E5%AD%9D",
+        "pubdate": "Thu, 29 Jun 2023 08:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "天文台",
@@ -59,6 +66,13 @@
     ],
     [
       {
+        "title": "昆凌",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%98%86%E5%87%8C",
+        "pubdate": "Wed, 28 Jun 2023 15:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "大牙",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%A4%A7%E7%89%99",
         "pubdate": "Tue, 27 Jun 2023 13:00:00 +0800"
@@ -69,6 +83,13 @@
         "title": "蕭敬騰",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%95%AD%E6%95%AC%E9%A8%B0",
         "pubdate": "Tue, 27 Jun 2023 21:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "HAMA-SUSHI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#HAMA-SUSHI",
+        "pubdate": "Tue, 27 Jun 2023 23:00:00 +0800"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "MIRO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#MIRO",
-        "pubdate": "Tue, 27 Jun 2023 23:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "李龍基",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%9D%8E%E9%BE%8D%E5%9F%BA",
         "pubdate": "Tue, 27 Jun 2023 07:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "支付寶",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%94%AF%E4%BB%98%E5%AF%B6",
-        "pubdate": "Tue, 27 Jun 2023 15:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "林志穎",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%9E%97%E5%BF%97%E7%A9%8E",
-        "pubdate": "Tue, 27 Jun 2023 23:00:00 +0800"
       }
     ]
   ]

@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "29-06-2023 , 00:41:58",
+  "lastUpdate": "29-06-2023 , 02:16:43",
   "data": [
     [
       {
         "title": "Sello Hatang",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sello%20Hatang",
         "pubdate": "Thu, 29 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kevin Spacey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Kevin%20Spacey",
+        "pubdate": "Thu, 29 Jun 2023 03:00:00 +0200"
       }
     ],
     [
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Julian Sands",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Julian%20Sands",
-        "pubdate": "Wed, 28 Jun 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Australia vs England",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Australia%20vs%20England",
         "pubdate": "Wed, 28 Jun 2023 13:00:00 +0200"
@@ -31,9 +31,23 @@
     ],
     [
       {
-        "title": "Powerball results 27 June 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Powerball%20results%2027%20June%202023",
+        "title": "Julian Sands",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Julian%20Sands",
+        "pubdate": "Wed, 28 Jun 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "PowerBall results 27 June 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PowerBall%20results%2027%20June%202023",
         "pubdate": "Wed, 28 Jun 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fikile Mbalula",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Fikile%20Mbalula",
+        "pubdate": "Wed, 28 Jun 2023 10:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Deputy President Paul Mashatile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Deputy%20President%20Paul%20Mashatile",
         "pubdate": "Tue, 27 Jun 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cardi B",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cardi%20B",
-        "pubdate": "Tue, 27 Jun 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "BET Awards 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#BET%20Awards%202023",
-        "pubdate": "Mon, 26 Jun 2023 06:00:00 +0200"
       }
     ]
   ]
