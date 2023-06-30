@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-06-2023 , 17:45:43",
+  "lastUpdate": "30-06-2023 , 17:58:40",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Jack Ryan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jack%20Ryan",
+        "pubdate": "Sat, 01 Jul 2023 00:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Earthquake Melbourne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Earthquake%20Melbourne",
         "pubdate": "Fri, 30 Jun 2023 02:00:00 +1000"
@@ -69,6 +76,13 @@
         "title": "Aspartame",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Aspartame",
         "pubdate": "Fri, 30 Jun 2023 09:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Ticketmaster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ticketmaster",
+        "pubdate": "Fri, 30 Jun 2023 21:00:00 +1000"
       }
     ],
     [
@@ -122,22 +136,8 @@
     ],
     [
       {
-        "title": "Affirmative action",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Affirmative%20action",
-        "pubdate": "Fri, 30 Jun 2023 11:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "France",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#France",
-        "pubdate": "Fri, 30 Jun 2023 20:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Melbourne Storm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Melbourne%20Storm",
         "pubdate": "Fri, 30 Jun 2023 20:00:00 +1000"
       }
     ]

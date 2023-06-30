@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "30-06-2023 , 17:45:42",
+  "lastUpdate": "30-06-2023 , 17:58:40",
   "data": [
     [
       {
-        "title": "Dune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dune",
-        "pubdate": "Fri, 30 Jun 2023 02:00:00 -0700"
+        "title": "Alan Arkin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Alan%20Arkin",
+        "pubdate": "Fri, 30 Jun 2023 08:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Karol G",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Karol%20G",
+        "pubdate": "Fri, 30 Jun 2023 06:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Jack Ryan Season 4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jack%20Ryan%20Season%204",
+        "pubdate": "Fri, 30 Jun 2023 03:00:00 -0700"
       }
     ],
     [
@@ -17,6 +31,20 @@
     ],
     [
       {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#F1",
+        "pubdate": "Fri, 30 Jun 2023 10:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Dune",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dune",
+        "pubdate": "Fri, 30 Jun 2023 02:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Travis Scott",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Travis%20Scott",
         "pubdate": "Fri, 30 Jun 2023 07:00:00 -0700"
@@ -24,9 +52,23 @@
     ],
     [
       {
-        "title": "Affirmative action",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Affirmative%20action",
-        "pubdate": "Thu, 29 Jun 2023 08:00:00 -0700"
+        "title": "Jeff Van Gundy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jeff%20Van%20Gundy",
+        "pubdate": "Fri, 30 Jun 2023 10:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Supreme Court",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Supreme%20Court",
+        "pubdate": "Thu, 29 Jun 2023 09:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Student loan forgiveness",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Student%20loan%20forgiveness",
+        "pubdate": "Thu, 29 Jun 2023 12:00:00 -0700"
       }
     ],
     [
@@ -38,13 +80,6 @@
     ],
     [
       {
-        "title": "NHL Draft 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NHL%20Draft%202023",
-        "pubdate": "Thu, 29 Jun 2023 05:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "The Witcher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20Witcher",
         "pubdate": "Thu, 29 Jun 2023 13:00:00 -0700"
@@ -52,16 +87,9 @@
     ],
     [
       {
-        "title": "Aspartame",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aspartame",
-        "pubdate": "Thu, 29 Jun 2023 12:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "James Harden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#James%20Harden",
-        "pubdate": "Thu, 29 Jun 2023 15:00:00 -0700"
+        "title": "NHL Draft 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NHL%20Draft%202023",
+        "pubdate": "Thu, 29 Jun 2023 05:00:00 -0700"
       }
     ],
     [
@@ -73,9 +101,30 @@
     ],
     [
       {
-        "title": "Supreme Court Student loans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Supreme%20Court%20Student%20loans",
+        "title": "James Harden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#James%20Harden",
+        "pubdate": "Thu, 29 Jun 2023 15:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Aspartame",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aspartame",
         "pubdate": "Thu, 29 Jun 2023 12:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Lil Uzi Vert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lil%20Uzi%20Vert",
+        "pubdate": "Thu, 29 Jun 2023 23:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Naomi Campbell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Naomi%20Campbell",
+        "pubdate": "Thu, 29 Jun 2023 15:00:00 -0700"
       }
     ],
     [
@@ -90,55 +139,6 @@
         "title": "Kyrie Irving",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kyrie%20Irving",
         "pubdate": "Thu, 29 Jun 2023 12:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Naomi Campbell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Naomi%20Campbell",
-        "pubdate": "Thu, 29 Jun 2023 15:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Disneyland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Disneyland",
-        "pubdate": "Thu, 29 Jun 2023 15:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Kelsea Ballerini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kelsea%20Ballerini",
-        "pubdate": "Thu, 29 Jun 2023 13:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Scot Peterson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Scot%20Peterson",
-        "pubdate": "Thu, 29 Jun 2023 15:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Colleen Hoover",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Colleen%20Hoover",
-        "pubdate": "Thu, 29 Jun 2023 07:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Virgin Galactic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Virgin%20Galactic",
-        "pubdate": "Thu, 29 Jun 2023 09:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Lil Uzi Vert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lil%20Uzi%20Vert",
-        "pubdate": "Thu, 29 Jun 2023 23:00:00 -0700"
       }
     ]
   ]
