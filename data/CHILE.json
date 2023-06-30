@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "29-06-2023 , 23:52:55",
+  "lastUpdate": "30-06-2023 , 01:25:40",
   "data": [
     [
       {
         "title": "Boca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Boca",
-        "pubdate": "Thu, 29 Jun 2023 18:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Newell's  Audax Italiano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Newell's%20%20Audax%20Italiano",
         "pubdate": "Thu, 29 Jun 2023 18:00:00 -0400"
       }
     ],
@@ -24,9 +17,23 @@
     ],
     [
       {
+        "title": "Botafogo  Magallanes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Botafogo%20%20Magallanes",
+        "pubdate": "Thu, 29 Jun 2023 20:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Caso Democracia Viva",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Caso%20Democracia%20Viva",
         "pubdate": "Thu, 29 Jun 2023 01:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Post Malone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Post%20Malone",
+        "pubdate": "Thu, 29 Jun 2023 19:00:00 -0400"
       }
     ],
     [
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Post Malone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Post%20Malone",
-        "pubdate": "Thu, 29 Jun 2023 19:00:00 -0400"
+        "title": "Universitario  Gimnasia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Universitario%20%20Gimnasia",
+        "pubdate": "Thu, 29 Jun 2023 01:00:00 -0400"
       }
     ],
     [
@@ -61,7 +68,7 @@
       {
         "title": "Ñublense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#%C3%91ublense",
-        "pubdate": "Wed, 28 Jun 2023 20:00:00 -0400"
+        "pubdate": "Wed, 28 Jun 2023 21:00:00 -0400"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Futbol chileno",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Futbol%20chileno",
         "pubdate": "Wed, 28 Jun 2023 19:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Chayanne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chayanne",
-        "pubdate": "Wed, 28 Jun 2023 09:00:00 -0400"
       }
     ]
   ]
