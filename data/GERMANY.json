@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-06-2023 , 13:48:04",
+  "lastUpdate": "30-06-2023 , 14:04:22",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "The Witcher Staffel 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#The%20Witcher%20Staffel%203",
+        "pubdate": "Thu, 29 Jun 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ozempic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ozempic",
         "pubdate": "Thu, 29 Jun 2023 00:00:00 +0200"
@@ -55,13 +62,6 @@
         "title": "Kane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kane",
         "pubdate": "Mon, 26 Jun 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AfD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD",
-        "pubdate": "Sun, 25 Jun 2023 21:00:00 +0200"
       }
     ],
     [
