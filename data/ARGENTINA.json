@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-07-2023 , 23:46:13",
+  "lastUpdate": "01-07-2023 , 23:59:10",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "San Lorenzo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#San%20Lorenzo",
+        "pubdate": "Sat, 01 Jul 2023 17:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Dia del Arquitecto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dia%20del%20Arquitecto",
         "pubdate": "Sat, 01 Jul 2023 02:00:00 -0300"
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "San Lorenzo  Rosario Central",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#San%20Lorenzo%20%20Rosario%20Central",
-        "pubdate": "Sat, 01 Jul 2023 17:00:00 -0300"
+        "title": "Estudiantes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Estudiantes",
+        "pubdate": "Sat, 01 Jul 2023 19:00:00 -0300"
       }
     ],
     [
@@ -38,9 +45,44 @@
     ],
     [
       {
+        "title": "Milo J",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Milo%20J",
+        "pubdate": "Sat, 01 Jul 2023 18:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Vélez vs Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#V%C3%A9lez%20vs%20Arsenal",
         "pubdate": "Sat, 01 Jul 2023 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "La Velada del Año",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#La%20Velada%20del%20A%C3%B1o",
+        "pubdate": "Sat, 01 Jul 2023 13:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Rosario Central",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Rosario%20Central",
+        "pubdate": "Sat, 01 Jul 2023 17:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Piloto accidente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Piloto%20accidente",
+        "pubdate": "Sat, 01 Jul 2023 10:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Feid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Feid",
+        "pubdate": "Sat, 01 Jul 2023 16:00:00 -0300"
       }
     ],
     [
@@ -52,13 +94,6 @@
     ],
     [
       {
-        "title": "Dilano van't Hoff",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dilano%20van't%20Hoff",
-        "pubdate": "Sat, 01 Jul 2023 10:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Marcelo Marcel periodista",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Marcelo%20Marcel%20periodista",
         "pubdate": "Sat, 01 Jul 2023 10:00:00 -0300"
@@ -66,9 +101,16 @@
     ],
     [
       {
-        "title": "Fernanfloo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Fernanfloo",
-        "pubdate": "Sat, 01 Jul 2023 17:00:00 -0300"
+        "title": "Estopa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Estopa",
+        "pubdate": "Sat, 01 Jul 2023 14:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Ozuna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ozuna",
+        "pubdate": "Sat, 01 Jul 2023 20:00:00 -0300"
       }
     ],
     [
@@ -80,65 +122,23 @@
     ],
     [
       {
-        "title": "Central",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Central",
-        "pubdate": "Sat, 01 Jul 2023 18:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Feid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Feid",
-        "pubdate": "Sat, 01 Jul 2023 18:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "La Velada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#La%20Velada",
-        "pubdate": "Sat, 01 Jul 2023 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "1 de julio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#1%20de%20julio",
+        "title": "Peron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Peron",
         "pubdate": "Sat, 01 Jul 2023 10:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Rivers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Rivers",
-        "pubdate": "Sat, 01 Jul 2023 16:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Cesc fabregas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cesc%20fabregas",
-        "pubdate": "Sat, 01 Jul 2023 16:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Gimnasia de Jujuy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gimnasia%20de%20Jujuy",
-        "pubdate": "Sat, 01 Jul 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Civitas Metropolitano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Civitas%20Metropolitano",
+        "title": "São Paulo,  Fluminense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#S%C3%A3o%20Paulo,%20%20Fluminense",
         "pubdate": "Sat, 01 Jul 2023 17:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Amouranth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Amouranth",
-        "pubdate": "Sat, 01 Jul 2023 17:00:00 -0300"
+        "title": "Quevedo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Quevedo",
+        "pubdate": "Sat, 01 Jul 2023 19:00:00 -0300"
       }
     ]
   ]
