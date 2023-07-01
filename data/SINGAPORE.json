@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "01-07-2023 , 14:41:47",
+  "lastUpdate": "01-07-2023 , 14:55:07",
   "data": [
-    [
-      {
-        "title": "Alan Arkin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Alan%20Arkin",
-        "pubdate": "Sat, 01 Jul 2023 02:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "Dilano van't Hoff",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Dilano%20van't%20Hoff",
         "pubdate": "Sat, 01 Jul 2023 20:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Alan Arkin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Alan%20Arkin",
+        "pubdate": "Sat, 01 Jul 2023 02:00:00 +0800"
       }
     ],
     [
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "The Witcher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#The%20Witcher",
-        "pubdate": "Fri, 30 Jun 2023 00:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "France riot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#France%20riot",
         "pubdate": "Fri, 30 Jun 2023 23:00:00 +0800"
@@ -111,6 +104,13 @@
         "title": "IVE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#IVE",
         "pubdate": "Fri, 30 Jun 2023 14:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "The Witcher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#The%20Witcher",
+        "pubdate": "Fri, 30 Jun 2023 00:00:00 +0800"
       }
     ],
     [
