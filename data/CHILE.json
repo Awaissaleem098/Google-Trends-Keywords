@@ -1,18 +1,25 @@
 {
-  "lastUpdate": "02-07-2023 , 05:42:57",
+  "lastUpdate": "02-07-2023 , 05:56:04",
   "data": [
+    [
+      {
+        "title": "BLACKPINK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#BLACKPINK",
+        "pubdate": "Sun, 02 Jul 2023 01:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "German",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#German",
+        "pubdate": "Sat, 01 Jul 2023 13:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "River",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River",
         "pubdate": "Sat, 01 Jul 2023 15:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Cobreloa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobreloa",
-        "pubdate": "Sat, 01 Jul 2023 14:00:00 -0400"
       }
     ],
     [
@@ -24,6 +31,13 @@
     ],
     [
       {
+        "title": "Cobreloa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobreloa",
+        "pubdate": "Sat, 01 Jul 2023 14:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Eladio carrion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Eladio%20carrion",
         "pubdate": "Sat, 01 Jul 2023 15:00:00 -0400"
@@ -31,9 +45,9 @@
     ],
     [
       {
-        "title": "German",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#German",
-        "pubdate": "Sat, 01 Jul 2023 17:00:00 -0400"
+        "title": "Velada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Velada",
+        "pubdate": "Sat, 01 Jul 2023 14:00:00 -0400"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "La Velada 3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#La%20Velada%203",
-        "pubdate": "Sat, 01 Jul 2023 16:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "xQc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#xQc",
         "pubdate": "Sat, 01 Jul 2023 15:00:00 -0400"
@@ -132,13 +139,6 @@
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Elon%20Musk",
         "pubdate": "Sat, 01 Jul 2023 19:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Maria Corina Machado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Maria%20Corina%20Machado",
-        "pubdate": "Sat, 01 Jul 2023 00:00:00 -0400"
       }
     ]
   ]
