@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "03-07-2023 , 22:10:29",
+  "lastUpdate": "03-07-2023 , 22:31:09",
   "data": [
     [
       {
         "title": "Wimbledon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Wimbledon",
         "pubdate": "Mon, 03 Jul 2023 01:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Heat warning",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Heat%20warning",
-        "pubdate": "Mon, 03 Jul 2023 16:00:00 -0400"
       }
     ],
     [
@@ -24,9 +17,9 @@
     ],
     [
       {
-        "title": "Filip Zadina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Filip%20Zadina",
-        "pubdate": "Mon, 03 Jul 2023 13:00:00 -0400"
+        "title": "Heat warning",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Heat%20warning",
+        "pubdate": "Mon, 03 Jul 2023 16:00:00 -0400"
       }
     ],
     [
@@ -38,9 +31,23 @@
     ],
     [
       {
+        "title": "Filip Zadina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Filip%20Zadina",
+        "pubdate": "Mon, 03 Jul 2023 13:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Novak%20Djokovic",
         "pubdate": "Mon, 03 Jul 2023 11:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Leylah Fernandez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Leylah%20Fernandez",
+        "pubdate": "Mon, 03 Jul 2023 10:00:00 -0400"
       }
     ],
     [
@@ -76,13 +83,6 @@
         "title": "Shane van Gisbergen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Shane%20van%20Gisbergen",
         "pubdate": "Mon, 03 Jul 2023 10:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Italy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Italy",
-        "pubdate": "Mon, 03 Jul 2023 17:00:00 -0400"
       }
     ],
     [
