@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "02-07-2023 , 23:56:10",
+  "lastUpdate": "03-07-2023 , 01:59:34",
   "data": [
     [
       {
         "title": "Main Square Festival",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Main%20Square%20Festival",
         "pubdate": "Mon, 03 Jul 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Basket U19",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Basket%20U19",
-        "pubdate": "Mon, 03 Jul 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Maire de L'Hay-les-Roses",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Maire%20de%20L'Hay-les-Roses",
-        "pubdate": "Sun, 02 Jul 2023 10:00:00 +0200"
       }
     ],
     [
@@ -52,9 +38,9 @@
     ],
     [
       {
-        "title": "France - Ukraine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#France%20-%20Ukraine",
-        "pubdate": "Sun, 02 Jul 2023 22:00:00 +0200"
+        "title": "Maire L'Hay-les-Roses",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Maire%20L'Hay-les-Roses",
+        "pubdate": "Sun, 02 Jul 2023 11:00:00 +0200"
       }
     ],
     [
@@ -73,16 +59,16 @@
     ],
     [
       {
-        "title": "Champs elysee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Champs%20elysee",
-        "pubdate": "Sun, 02 Jul 2023 01:00:00 +0200"
+        "title": "Piton de la Fournaise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Piton%20de%20la%20Fournaise",
+        "pubdate": "Sun, 02 Jul 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Piton de la Fournaise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Piton%20de%20la%20Fournaise",
-        "pubdate": "Sun, 02 Jul 2023 17:00:00 +0200"
+        "title": "Champs elysee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Champs%20elysee",
+        "pubdate": "Sun, 02 Jul 2023 01:00:00 +0200"
       }
     ],
     [
@@ -110,14 +96,14 @@
       {
         "title": "Tour de France 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tour%20de%20France%202023",
-        "pubdate": "Sat, 01 Jul 2023 14:00:00 +0200"
+        "pubdate": "Sat, 01 Jul 2023 13:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Tour de France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tour%20de%20France",
-        "pubdate": "Sat, 01 Jul 2023 13:00:00 +0200"
+        "title": "Victor Lafay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Victor%20Lafay",
+        "pubdate": "Sat, 01 Jul 2023 16:00:00 +0200"
       }
     ],
     [
@@ -138,7 +124,21 @@
       {
         "title": "Adam Yates",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Adam%20Yates",
-        "pubdate": "Sat, 01 Jul 2023 17:00:00 +0200"
+        "pubdate": "Sat, 01 Jul 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mylene Farmer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mylene%20Farmer",
+        "pubdate": "Fri, 30 Jun 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Marseille",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marseille",
+        "pubdate": "Fri, 30 Jun 2023 00:00:00 +0200"
       }
     ]
   ]
