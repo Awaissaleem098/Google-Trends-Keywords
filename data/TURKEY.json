@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-07-2023 , 03:45:40",
+  "lastUpdate": "03-07-2023 , 03:58:39",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Hükümet Kadın 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#H%C3%BCk%C3%BCmet%20Kad%C4%B1n%202",
         "pubdate": "Mon, 03 Jul 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Buse Naz Çakıroğlu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Buse%20Naz%20%C3%87ak%C4%B1ro%C4%9Flu",
-        "pubdate": "Mon, 03 Jul 2023 03:00:00 +0300"
       }
     ],
     [
@@ -59,9 +52,9 @@
     ],
     [
       {
-        "title": "Şevket Çoruh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C5%9Eevket%20%C3%87oruh",
-        "pubdate": "Sun, 02 Jul 2023 09:00:00 +0300"
+        "title": "2 Temmuz Sivas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#2%20Temmuz%20Sivas",
+        "pubdate": "Sun, 02 Jul 2023 10:00:00 +0300"
       }
     ],
     [
@@ -101,6 +94,13 @@
     ],
     [
       {
+        "title": "Bitlis sokağa çıkma yasağı",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bitlis%20soka%C4%9Fa%20%C3%A7%C4%B1kma%20yasa%C4%9F%C4%B1",
+        "pubdate": "Sun, 02 Jul 2023 23:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Mel Gibson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mel%20Gibson",
         "pubdate": "Sun, 02 Jul 2023 14:00:00 +0300"
@@ -111,13 +111,6 @@
         "title": "Elon Musk Mark Zuckerberg kafes dövüşü",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Elon%20Musk%20Mark%20Zuckerberg%20kafes%20d%C3%B6v%C3%BC%C5%9F%C3%BC",
         "pubdate": "Sun, 02 Jul 2023 01:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Bitlis sokağa çıkma yasağı",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bitlis%20soka%C4%9Fa%20%C3%A7%C4%B1kma%20yasa%C4%9F%C4%B1",
-        "pubdate": "Sun, 02 Jul 2023 23:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Selahattin Paşalı",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Selahattin%20Pa%C5%9Fal%C4%B1",
         "pubdate": "Sun, 02 Jul 2023 19:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "LGS tercih kılavuzu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#LGS%20tercih%20k%C4%B1lavuzu",
+        "pubdate": "Sun, 02 Jul 2023 21:00:00 +0300"
       }
     ]
   ]

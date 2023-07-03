@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "03-07-2023 , 03:45:28",
+  "lastUpdate": "03-07-2023 , 03:58:29",
   "data": [
-    [
-      {
-        "title": "Rocket Mortgage Classic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rocket%20Mortgage%20Classic",
-        "pubdate": "Sun, 02 Jul 2023 09:00:00 -0700"
-      }
-    ],
     [
       {
         "title": "Baltimore",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Mexico vs Qatar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mexico%20vs%20Qatar",
-        "pubdate": "Sun, 02 Jul 2023 11:00:00 -0700"
+        "title": "Rocket Mortgage Classic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rocket%20Mortgage%20Classic",
+        "pubdate": "Sun, 02 Jul 2023 09:00:00 -0700"
       }
     ],
     [
@@ -45,6 +38,13 @@
     ],
     [
       {
+        "title": "Shane van Gisbergen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Shane%20van%20Gisbergen",
+        "pubdate": "Sun, 02 Jul 2023 19:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Eric Gordon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Eric%20Gordon",
         "pubdate": "Sun, 02 Jul 2023 15:00:00 -0700"
@@ -59,15 +59,8 @@
     ],
     [
       {
-        "title": "Louis Armstrong",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Louis%20Armstrong",
-        "pubdate": "Sun, 02 Jul 2023 15:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Rate Limit Exceeded Twitter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rate%20Limit%20Exceeded%20Twitter",
+        "title": "Rate limit exceeded Twitter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rate%20limit%20exceeded%20Twitter",
         "pubdate": "Sat, 01 Jul 2023 08:00:00 -0700"
       }
     ],
@@ -83,13 +76,6 @@
         "title": "NASCAR Chicago",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NASCAR%20Chicago",
         "pubdate": "Sat, 01 Jul 2023 09:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lakers",
-        "pubdate": "Sat, 01 Jul 2023 03:00:00 -0700"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Yankees vs Cardinals",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Yankees%20vs%20Cardinals",
         "pubdate": "Sat, 01 Jul 2023 14:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "USFL Championship",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USFL%20Championship",
+        "pubdate": "Sat, 01 Jul 2023 21:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Madonna news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Madonna%20news",
+        "pubdate": "Sat, 01 Jul 2023 23:00:00 -0700"
       }
     ]
   ]
