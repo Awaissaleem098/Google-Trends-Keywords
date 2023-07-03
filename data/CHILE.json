@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-07-2023 , 03:31:49",
+  "lastUpdate": "03-07-2023 , 03:45:30",
   "data": [
     [
       {
@@ -17,16 +17,16 @@
     ],
     [
       {
-        "title": "Deportes Temuco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Deportes%20Temuco",
-        "pubdate": "Sun, 02 Jul 2023 15:00:00 -0400"
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Formula%201",
+        "pubdate": "Sun, 02 Jul 2023 18:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Formula 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Formula%201",
-        "pubdate": "Sun, 02 Jul 2023 18:00:00 -0400"
+        "title": "Deportes Temuco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Deportes%20Temuco",
+        "pubdate": "Sun, 02 Jul 2023 15:00:00 -0400"
       }
     ],
     [
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Margot Robbie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Margot%20Robbie",
-        "pubdate": "Sun, 02 Jul 2023 22:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Gabriela Elgueta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Gabriela%20Elgueta",
         "pubdate": "Sun, 02 Jul 2023 02:00:00 -0400"
@@ -59,16 +52,9 @@
     ],
     [
       {
-        "title": "Freddie Mercury",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Freddie%20Mercury",
-        "pubdate": "Sun, 02 Jul 2023 21:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Espacio Don Oscar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Espacio%20Don%20Oscar",
-        "pubdate": "Sun, 02 Jul 2023 21:00:00 -0400"
+        "title": "BLACKPINK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#BLACKPINK",
+        "pubdate": "Sun, 02 Jul 2023 01:00:00 -0400"
       }
     ],
     [
@@ -101,6 +87,13 @@
     ],
     [
       {
+        "title": "River",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River",
+        "pubdate": "Sat, 01 Jul 2023 15:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Flamengo  Fortaleza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Flamengo%20%20Fortaleza",
         "pubdate": "Sat, 01 Jul 2023 18:00:00 -0400"
@@ -115,9 +108,9 @@
     ],
     [
       {
-        "title": "River",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River",
-        "pubdate": "Sat, 01 Jul 2023 15:00:00 -0400"
+        "title": "Fernanfloo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fernanfloo",
+        "pubdate": "Sat, 01 Jul 2023 16:00:00 -0400"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Jo Lindner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jo%20Lindner",
         "pubdate": "Sat, 01 Jul 2023 14:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Dilano van't Hoff",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dilano%20van't%20Hoff",
+        "pubdate": "Sat, 01 Jul 2023 11:00:00 -0400"
       }
     ]
   ]
