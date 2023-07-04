@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-07-2023 , 00:56:39",
+  "lastUpdate": "04-07-2023 , 02:38:06",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Koranbränning",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Koranbr%C3%A4nning",
-        "pubdate": "Mon, 03 Jul 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Leandro De Niro-Rodriguez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Leandro%20De%20Niro-Rodriguez",
         "pubdate": "Mon, 03 Jul 2023 19:00:00 +0200"
@@ -55,6 +48,13 @@
         "title": "Robert De Niro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Robert%20De%20Niro",
         "pubdate": "Mon, 03 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Koranbränning",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Koranbr%C3%A4nning",
+        "pubdate": "Mon, 03 Jul 2023 12:00:00 +0200"
       }
     ],
     [
@@ -87,16 +87,16 @@
     ],
     [
       {
-        "title": "Gotland Runt 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gotland%20Runt%202023",
-        "pubdate": "Sun, 02 Jul 2023 10:00:00 +0200"
+        "title": "Duplantis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Duplantis",
+        "pubdate": "Sun, 02 Jul 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Duplantis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Duplantis",
-        "pubdate": "Sun, 02 Jul 2023 15:00:00 +0200"
+        "title": "Gotland Runt 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gotland%20Runt%202023",
+        "pubdate": "Sun, 02 Jul 2023 10:00:00 +0200"
       }
     ],
     [
