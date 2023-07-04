@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "03-07-2023 , 23:49:26",
+  "lastUpdate": "04-07-2023 , 00:56:31",
   "data": [
-    [
-      {
-        "title": "Goias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Goias",
-        "pubdate": "Mon, 03 Jul 2023 16:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Goiás x Coritiba",
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "Pastor André Valadão",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Pastor%20Andr%C3%A9%20Valad%C3%A3o",
+        "pubdate": "Mon, 03 Jul 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Wimbledon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Wimbledon",
         "pubdate": "Mon, 03 Jul 2023 07:00:00 -0500"
@@ -31,8 +31,8 @@
     ],
     [
       {
-        "title": "Pastor André Valadão",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Pastor%20Andr%C3%A9%20Valad%C3%A3o",
+        "title": "Nautico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nautico",
         "pubdate": "Mon, 03 Jul 2023 13:00:00 -0500"
       }
     ],
@@ -45,16 +45,23 @@
     ],
     [
       {
-        "title": "Edital TRF3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Edital%20TRF3",
-        "pubdate": "Mon, 03 Jul 2023 09:00:00 -0500"
+        "title": "Botafogo-SP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo-SP",
+        "pubdate": "Mon, 03 Jul 2023 12:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Botafogo-SP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo-SP",
-        "pubdate": "Mon, 03 Jul 2023 12:00:00 -0500"
+        "title": "Guarani",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Guarani",
+        "pubdate": "Mon, 03 Jul 2023 19:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Lua",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lua",
+        "pubdate": "Mon, 03 Jul 2023 18:00:00 -0500"
       }
     ],
     [
@@ -69,6 +76,13 @@
         "title": "Apuração Festival de Parintins 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Apura%C3%A7%C3%A3o%20Festival%20de%20Parintins%202023",
         "pubdate": "Mon, 03 Jul 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Calendário PIS 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Calend%C3%A1rio%20PIS%202023",
+        "pubdate": "Mon, 03 Jul 2023 10:00:00 -0500"
       }
     ],
     [
@@ -101,6 +115,13 @@
     ],
     [
       {
+        "title": "Edital TRF3 Analista Judiciário",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Edital%20TRF3%20Analista%20Judici%C3%A1rio",
+        "pubdate": "Mon, 03 Jul 2023 14:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Djokovic",
         "pubdate": "Mon, 03 Jul 2023 11:00:00 -0500"
@@ -118,27 +139,6 @@
         "title": "CBF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CBF",
         "pubdate": "Mon, 03 Jul 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Venus Williams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Venus%20Williams",
-        "pubdate": "Mon, 03 Jul 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Saque-aniversário",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Saque-anivers%C3%A1rio",
-        "pubdate": "Mon, 03 Jul 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Abono salarial PIS/PASEP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Abono%20salarial%20PIS/PASEP",
-        "pubdate": "Mon, 03 Jul 2023 18:00:00 -0500"
       }
     ]
   ]
