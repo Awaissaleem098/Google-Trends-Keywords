@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-07-2023 , 12:15:20",
+  "lastUpdate": "04-07-2023 , 12:54:43",
   "data": [
     [
       {
@@ -10,15 +10,8 @@
     ],
     [
       {
-        "title": "Wimbledon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wimbledon",
-        "pubdate": "Mon, 03 Jul 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Felix Nmecha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Felix%20Nmecha",
+        "title": "Nmecha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nmecha",
         "pubdate": "Mon, 03 Jul 2023 13:00:00 +0200"
       }
     ],
@@ -76,6 +69,13 @@
         "title": "Kane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kane",
         "pubdate": "Mon, 26 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AfD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD",
+        "pubdate": "Sun, 25 Jun 2023 21:00:00 +0200"
       }
     ],
     [
