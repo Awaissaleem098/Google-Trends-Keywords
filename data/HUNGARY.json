@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-07-2023 , 05:38:35",
+  "lastUpdate": "05-07-2023 , 05:51:53",
   "data": [
     [
       {
@@ -66,16 +66,16 @@
     ],
     [
       {
-        "title": "Fábián Juli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F%C3%A1bi%C3%A1n%20Juli",
-        "pubdate": "Tue, 04 Jul 2023 09:00:00 +0200"
+        "title": "Közlekedési Múzeum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%C3%B6zleked%C3%A9si%20M%C3%BAzeum",
+        "pubdate": "Tue, 04 Jul 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Közlekedési Múzeum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%C3%B6zleked%C3%A9si%20M%C3%BAzeum",
-        "pubdate": "Tue, 04 Jul 2023 23:00:00 +0200"
+        "title": "Fábián Juli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F%C3%A1bi%C3%A1n%20Juli",
+        "pubdate": "Tue, 04 Jul 2023 09:00:00 +0200"
       }
     ],
     [
@@ -90,6 +90,13 @@
         "title": "Robert De Niro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Robert%20De%20Niro",
         "pubdate": "Mon, 03 Jul 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bóka János",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#B%C3%B3ka%20J%C3%A1nos",
+        "pubdate": "Mon, 03 Jul 2023 12:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20United",
         "pubdate": "Mon, 03 Jul 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Haaland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Haaland",
-        "pubdate": "Mon, 03 Jul 2023 14:00:00 +0200"
       }
     ]
   ]

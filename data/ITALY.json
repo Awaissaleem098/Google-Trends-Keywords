@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "05-07-2023 , 05:38:37",
+  "lastUpdate": "05-07-2023 , 05:51:54",
   "data": [
+    [
+      {
+        "title": "Madame",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Madame",
+        "pubdate": "Wed, 05 Jul 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Salmo",
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Carlos Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Carlos%20Alcaraz",
-        "pubdate": "Tue, 04 Jul 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Un cuore due destini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Un%20cuore%20due%20destini",
         "pubdate": "Tue, 04 Jul 2023 21:00:00 +0200"
@@ -41,6 +41,20 @@
         "title": "Gabry Ponte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Gabry%20Ponte",
         "pubdate": "Tue, 04 Jul 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "De Luca Elly Schlein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#De%20Luca%20Elly%20Schlein",
+        "pubdate": "Tue, 04 Jul 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nuovi palinsesti mediaset",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nuovi%20palinsesti%20mediaset",
+        "pubdate": "Tue, 04 Jul 2023 18:00:00 +0200"
       }
     ],
     [
@@ -59,29 +73,8 @@
     ],
     [
       {
-        "title": "Nuovi palinsesti mediaset",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nuovi%20palinsesti%20mediaset",
-        "pubdate": "Tue, 04 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Matteo Messina Denaro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Matteo%20Messina%20Denaro",
-        "pubdate": "Tue, 04 Jul 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Calendario Serie A",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Calendario%20Serie%20A",
-        "pubdate": "Tue, 04 Jul 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Doomsday film",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Doomsday%20film",
         "pubdate": "Tue, 04 Jul 2023 22:00:00 +0200"
       }
     ],
@@ -94,16 +87,16 @@
     ],
     [
       {
-        "title": "Il segreto di una famiglia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Il%20segreto%20di%20una%20famiglia",
-        "pubdate": "Tue, 04 Jul 2023 21:00:00 +0200"
+        "title": "Fiat 600",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fiat%20600",
+        "pubdate": "Tue, 04 Jul 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Fiat 600",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fiat%20600",
-        "pubdate": "Tue, 04 Jul 2023 22:00:00 +0200"
+        "title": "Il segreto di una famiglia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Il%20segreto%20di%20una%20famiglia",
+        "pubdate": "Tue, 04 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -129,6 +122,13 @@
     ],
     [
       {
+        "title": "Fiat Topolino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fiat%20Topolino",
+        "pubdate": "Tue, 04 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Fabrizio Zampa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fabrizio%20Zampa",
         "pubdate": "Tue, 04 Jul 2023 16:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Fiat Topolino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fiat%20Topolino",
-        "pubdate": "Tue, 04 Jul 2023 21:00:00 +0200"
+        "title": "Terremoto oggi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Terremoto%20oggi",
+        "pubdate": "Tue, 04 Jul 2023 00:00:00 +0200"
       }
     ]
   ]
