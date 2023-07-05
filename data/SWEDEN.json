@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-07-2023 , 01:36:27",
+  "lastUpdate": "05-07-2023 , 02:50:58",
   "data": [
     [
       {
@@ -41,6 +41,13 @@
         "title": "Jens Stoltenberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jens%20Stoltenberg",
         "pubdate": "Tue, 04 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Arbnor Mucolli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arbnor%20Mucolli",
+        "pubdate": "Tue, 04 Jul 2023 15:00:00 +0200"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Leandro De Niro-Rodriguez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Leandro%20De%20Niro-Rodriguez",
+        "pubdate": "Mon, 03 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Koranbränning",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Koranbr%C3%A4nning",
         "pubdate": "Mon, 03 Jul 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Christopher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Christopher",
-        "pubdate": "Mon, 03 Jul 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Huntingtons sjukdom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Huntingtons%20sjukdom",
-        "pubdate": "Mon, 03 Jul 2023 00:00:00 +0200"
       }
     ]
   ]

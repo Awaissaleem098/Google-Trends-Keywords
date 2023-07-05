@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "05-07-2023 , 01:36:19",
+  "lastUpdate": "05-07-2023 , 02:50:47",
   "data": [
+    [
+      {
+        "title": "Bahia x Grêmio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bahia%20x%20Gr%C3%AAmio",
+        "pubdate": "Tue, 04 Jul 2023 09:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Copa do Brasil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Copa%20do%20Brasil",
-        "pubdate": "Tue, 04 Jul 2023 09:00:00 -0500"
+        "pubdate": "Tue, 04 Jul 2023 15:00:00 -0500"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Seleção brasileira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sele%C3%A7%C3%A3o%20brasileira",
-        "pubdate": "Tue, 04 Jul 2023 19:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "4 de julho",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#4%20de%20julho",
         "pubdate": "Tue, 04 Jul 2023 03:00:00 -0500"
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Threads",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Threads",
+        "pubdate": "Tue, 04 Jul 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Flamengo x Athletico-PR",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20x%20Athletico-PR",
         "pubdate": "Tue, 04 Jul 2023 08:00:00 -0500"
@@ -59,8 +66,22 @@
     ],
     [
       {
-        "title": "Threads",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Threads",
+        "title": "Siqueira Campos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Siqueira%20Campos",
+        "pubdate": "Tue, 04 Jul 2023 19:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Andressa Urach",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Andressa%20Urach",
+        "pubdate": "Tue, 04 Jul 2023 01:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Larissa Manoela",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Larissa%20Manoela",
         "pubdate": "Tue, 04 Jul 2023 10:00:00 -0500"
       }
     ],
@@ -69,13 +90,6 @@
         "title": "Vacina dengue",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vacina%20dengue",
         "pubdate": "Tue, 04 Jul 2023 06:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Siqueira Campos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Siqueira%20Campos",
-        "pubdate": "Tue, 04 Jul 2023 19:00:00 -0500"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Chico Ferramenta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chico%20Ferramenta",
-        "pubdate": "Tue, 04 Jul 2023 18:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Ze Celso internado",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ze%20Celso%20internado",
         "pubdate": "Tue, 04 Jul 2023 18:00:00 -0500"
@@ -131,13 +138,6 @@
       {
         "title": "Síndrome de Stevens-Johnson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%ADndrome%20de%20Stevens-Johnson",
-        "pubdate": "Tue, 04 Jul 2023 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Amazon prime day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Amazon%20prime%20day",
         "pubdate": "Tue, 04 Jul 2023 14:00:00 -0500"
       }
     ]

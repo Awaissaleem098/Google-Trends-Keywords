@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-07-2023 , 01:36:25",
+  "lastUpdate": "05-07-2023 , 02:50:55",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Sean Bean",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sean%20Bean",
-        "pubdate": "Tue, 04 Jul 2023 20:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Nicușor Dan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Nicu%C8%99or%20Dan",
         "pubdate": "Tue, 04 Jul 2023 17:00:00 +0300"
@@ -45,16 +38,9 @@
     ],
     [
       {
-        "title": "TenisWimbledon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#TenisWimbledon",
-        "pubdate": "Tue, 04 Jul 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Vali barbulescu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vali%20barbulescu",
-        "pubdate": "Tue, 04 Jul 2023 00:00:00 +0300"
+        "title": "Sean Bean",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sean%20Bean",
+        "pubdate": "Tue, 04 Jul 2023 20:00:00 +0300"
       }
     ],
     [
@@ -87,6 +73,13 @@
     ],
     [
       {
+        "title": "Leandro De Niro Rodriguez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Leandro%20De%20Niro%20Rodriguez",
+        "pubdate": "Mon, 03 Jul 2023 17:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Enrique Iglesias",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Enrique%20Iglesias",
         "pubdate": "Mon, 03 Jul 2023 02:00:00 +0300"
@@ -97,13 +90,6 @@
         "title": "Victoria Secret",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Victoria%20Secret",
         "pubdate": "Mon, 03 Jul 2023 18:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Robert De Niro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Robert%20De%20Niro",
-        "pubdate": "Mon, 03 Jul 2023 19:00:00 +0300"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Venus Williams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Venus%20Williams",
         "pubdate": "Mon, 03 Jul 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "SRI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#SRI",
+        "pubdate": "Mon, 03 Jul 2023 13:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Emil Constantinescu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Emil%20Constantinescu",
+        "pubdate": "Mon, 03 Jul 2023 00:00:00 +0300"
       }
     ]
   ]
