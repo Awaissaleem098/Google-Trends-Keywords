@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-07-2023 , 01:23:18",
+  "lastUpdate": "06-07-2023 , 02:50:34",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Sturm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sturm",
         "pubdate": "Wed, 05 Jul 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zverev",
-        "pubdate": "Tue, 04 Jul 2023 10:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Russland news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Russland%20news",
         "pubdate": "Sat, 24 Jun 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wagner-Gruppe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wagner-Gruppe",
+        "pubdate": "Sat, 24 Jun 2023 01:00:00 +0200"
       }
     ]
   ]

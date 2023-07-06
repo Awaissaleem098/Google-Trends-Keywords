@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-07-2023 , 01:23:23",
+  "lastUpdate": "06-07-2023 , 02:50:39",
   "data": [
     [
       {
@@ -80,16 +80,16 @@
     ],
     [
       {
-        "title": "Mason Mount",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mason%20Mount",
-        "pubdate": "Wed, 05 Jul 2023 13:00:00 +0200"
+        "title": "Alain Delon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alain%20Delon",
+        "pubdate": "Wed, 05 Jul 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Alain Delon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Alain%20Delon",
-        "pubdate": "Wed, 05 Jul 2023 21:00:00 +0200"
+        "title": "Mason Mount",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mason%20Mount",
+        "pubdate": "Wed, 05 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Kate Middleton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kate%20Middleton",
+        "pubdate": "Wed, 05 Jul 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Serie A",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Serie%20A",
         "pubdate": "Wed, 05 Jul 2023 16:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Elterngeld",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Elterngeld",
         "pubdate": "Wed, 05 Jul 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fiat Topolino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fiat%20Topolino",
-        "pubdate": "Wed, 05 Jul 2023 20:00:00 +0200"
       }
     ]
   ]

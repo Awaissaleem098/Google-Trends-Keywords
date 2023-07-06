@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-07-2023 , 01:23:17",
+  "lastUpdate": "06-07-2023 , 02:50:33",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Kramářova Vila",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kram%C3%A1%C5%99ova%20Vila",
+        "pubdate": "Wed, 05 Jul 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Záporožská jaderná elektrárna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Z%C3%A1poro%C5%BEsk%C3%A1%20jadern%C3%A1%20elektr%C3%A1rna",
         "pubdate": "Wed, 05 Jul 2023 05:00:00 +0200"
@@ -41,6 +48,13 @@
         "title": "Baník Ostrava",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ban%C3%ADk%20Ostrava",
         "pubdate": "Wed, 05 Jul 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Slunce, seno, jahody",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slunce,%20seno,%20jahody",
+        "pubdate": "Tue, 04 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Wimbledon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Wimbledon",
         "pubdate": "Mon, 03 Jul 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cyril a Metoděj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Cyril%20a%20Metod%C4%9Bj",
-        "pubdate": "Mon, 03 Jul 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wout van Aert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Wout%20van%20Aert",
-        "pubdate": "Mon, 03 Jul 2023 15:00:00 +0200"
       }
     ]
   ]
