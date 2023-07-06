@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "05-07-2023 , 23:52:08",
+  "lastUpdate": "06-07-2023 , 01:23:19",
   "data": [
-    [
-      {
-        "title": "Chandrayaan-3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Chandrayaan-3",
-        "pubdate": "Thu, 06 Jul 2023 00:30:00 +0530"
-      }
-    ],
     [
       {
         "title": "Kane Williamson",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Chandrayaan-3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Chandrayaan-3",
+        "pubdate": "Thu, 06 Jul 2023 00:30:00 +0530"
+      }
+    ],
+    [
+      {
         "title": "Oman vs West Indies",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Oman%20vs%20West%20Indies",
         "pubdate": "Wed, 05 Jul 2023 12:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "OnePlus Nord 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#OnePlus%20Nord%203",
+        "pubdate": "Wed, 05 Jul 2023 20:30:00 +0530"
       }
     ],
     [
@@ -38,23 +45,9 @@
     ],
     [
       {
-        "title": "OnePlus Nord 3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#OnePlus%20Nord%203",
-        "pubdate": "Wed, 05 Jul 2023 20:30:00 +0530"
-      }
-    ],
-    [
-      {
         "title": "Triumph 400",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Triumph%20400",
         "pubdate": "Wed, 05 Jul 2023 13:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Maruti Invicto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Maruti%20Invicto",
-        "pubdate": "Wed, 05 Jul 2023 15:30:00 +0530"
       }
     ],
     [
@@ -69,6 +62,13 @@
         "title": "Pravesh Shukla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Pravesh%20Shukla",
         "pubdate": "Wed, 05 Jul 2023 10:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Invicto Maruti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Invicto%20Maruti",
+        "pubdate": "Wed, 05 Jul 2023 20:30:00 +0530"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Indian Football Team",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Indian%20Football%20Team",
-        "pubdate": "Tue, 04 Jul 2023 21:30:00 +0530"
-      }
-    ],
-    [
-      {
         "title": "Kia Seltos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Kia%20Seltos",
         "pubdate": "Tue, 04 Jul 2023 16:30:00 +0530"
@@ -139,6 +132,13 @@
         "title": "Shah Rukh Khan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Shah%20Rukh%20Khan",
         "pubdate": "Tue, 04 Jul 2023 16:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Bajaj Finance Share Price",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Bajaj%20Finance%20Share%20Price",
+        "pubdate": "Tue, 04 Jul 2023 10:30:00 +0530"
       }
     ]
   ]

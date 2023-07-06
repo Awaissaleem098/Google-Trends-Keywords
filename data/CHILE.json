@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "05-07-2023 , 23:52:05",
+  "lastUpdate": "06-07-2023 , 01:23:17",
   "data": [
     [
       {
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Novak%20Djokovic",
         "pubdate": "Wed, 05 Jul 2023 14:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Constanza Gran Hermano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Constanza%20Gran%20Hermano",
+        "pubdate": "Wed, 05 Jul 2023 18:00:00 -0400"
       }
     ],
     [
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Brad Pitt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brad%20Pitt",
-        "pubdate": "Wed, 05 Jul 2023 00:00:00 -0400"
+        "title": "Sorteo Copa Libertadores",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sorteo%20Copa%20Libertadores",
+        "pubdate": "Wed, 05 Jul 2023 13:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Sorteo Copa Libertadores",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sorteo%20Copa%20Libertadores",
-        "pubdate": "Wed, 05 Jul 2023 13:00:00 -0400"
+        "title": "Brad Pitt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brad%20Pitt",
+        "pubdate": "Wed, 05 Jul 2023 00:00:00 -0400"
       }
     ],
     [
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Constanza Gran Hermano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Constanza%20Gran%20Hermano",
-        "pubdate": "Wed, 05 Jul 2023 18:00:00 -0400"
+        "title": "Inter de Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter%20de%20Miami",
+        "pubdate": "Wed, 05 Jul 2023 13:00:00 -0400"
       }
     ],
     [
@@ -66,9 +73,16 @@
     ],
     [
       {
-        "title": "Arda Güler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Arda%20G%C3%BCler",
-        "pubdate": "Wed, 05 Jul 2023 12:00:00 -0400"
+        "title": "Racing - San Lorenzo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Racing%20-%20San%20Lorenzo",
+        "pubdate": "Wed, 05 Jul 2023 20:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Heather Locklear",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Heather%20Locklear",
+        "pubdate": "Wed, 05 Jul 2023 15:00:00 -0400"
       }
     ],
     [
@@ -87,16 +101,16 @@
     ],
     [
       {
-        "title": "Jujutsu Kaisen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jujutsu%20Kaisen",
-        "pubdate": "Wed, 05 Jul 2023 15:00:00 -0400"
+        "title": "Arda Güler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Arda%20G%C3%BCler",
+        "pubdate": "Wed, 05 Jul 2023 12:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Coursera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Coursera",
-        "pubdate": "Wed, 05 Jul 2023 18:00:00 -0400"
+        "title": "Jujutsu Kaisen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jujutsu%20Kaisen",
+        "pubdate": "Wed, 05 Jul 2023 15:00:00 -0400"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Ben Brereton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ben%20Brereton",
         "pubdate": "Tue, 04 Jul 2023 11:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Partido Colo Colo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Partido%20Colo%20Colo",
-        "pubdate": "Tue, 04 Jul 2023 16:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Rangers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rangers",
-        "pubdate": "Tue, 04 Jul 2023 18:00:00 -0400"
       }
     ]
   ]
