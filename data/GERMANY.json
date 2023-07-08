@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-07-2023 , 07:40:58",
+  "lastUpdate": "08-07-2023 , 07:53:57",
   "data": [
     [
       {
@@ -17,9 +17,9 @@
     ],
     [
       {
-        "title": "Michael Mittermeier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Michael%20Mittermeier",
-        "pubdate": "Fri, 07 Jul 2023 23:00:00 +0200"
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Djokovic",
+        "pubdate": "Fri, 07 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -27,13 +27,6 @@
         "title": "DFB-Frauen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Frauen",
         "pubdate": "Fri, 07 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Djokovic",
-        "pubdate": "Fri, 07 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -132,6 +125,13 @@
         "title": "Kane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kane",
         "pubdate": "Mon, 26 Jun 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AfD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD",
+        "pubdate": "Sun, 25 Jun 2023 21:00:00 +0200"
       }
     ],
     [
