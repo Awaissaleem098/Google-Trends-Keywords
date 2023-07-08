@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "08-07-2023 , 09:36:30",
+  "lastUpdate": "08-07-2023 , 09:49:36",
   "data": [
+    [
+      {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Novak%20Djokovic",
+        "pubdate": "Sat, 08 Jul 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Mission: Impossible",
@@ -132,13 +139,6 @@
         "title": "Nachrichten Wien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nachrichten%20Wien",
         "pubdate": "Fri, 07 Jul 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Diablo 4 Season 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Diablo%204%20Season%201",
-        "pubdate": "Fri, 07 Jul 2023 11:00:00 +0200"
       }
     ]
   ]
