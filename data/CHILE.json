@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "07-07-2023 , 23:52:59",
+  "lastUpdate": "08-07-2023 , 01:38:27",
   "data": [
+    [
+      {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Novak%20Djokovic",
+        "pubdate": "Fri, 07 Jul 2023 17:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "Martin Pradenas",
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Anuel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Anuel",
-        "pubdate": "Fri, 07 Jul 2023 12:00:00 -0400"
+        "title": "Van der Sar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Van%20der%20Sar",
+        "pubdate": "Fri, 07 Jul 2023 17:00:00 -0400"
       }
     ],
     [
@@ -41,13 +48,6 @@
         "title": "IPC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#IPC",
         "pubdate": "Fri, 07 Jul 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Van der Sar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Van%20der%20Sar",
-        "pubdate": "Fri, 07 Jul 2023 17:00:00 -0400"
       }
     ],
     [
@@ -73,9 +73,23 @@
     ],
     [
       {
+        "title": "Tekashi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tekashi",
+        "pubdate": "Fri, 07 Jul 2023 12:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Britney Spears",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Britney%20Spears",
         "pubdate": "Fri, 07 Jul 2023 06:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Iniciativa Popular de Norma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Iniciativa%20Popular%20de%20Norma",
+        "pubdate": "Fri, 07 Jul 2023 17:00:00 -0400"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Coco Lee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Coco%20Lee",
-        "pubdate": "Thu, 06 Jul 2023 00:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Campeonato Nacional 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Campeonato%20Nacional%202023",
         "pubdate": "Thu, 06 Jul 2023 23:00:00 -0400"
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Coco Lee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Coco%20Lee",
+        "pubdate": "Thu, 06 Jul 2023 00:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Ricky Martin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ricky%20Martin",
         "pubdate": "Thu, 06 Jul 2023 15:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Dime con quien andas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dime%20con%20quien%20andas",
-        "pubdate": "Thu, 06 Jul 2023 18:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Betty, la fea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Betty,%20la%20fea",
-        "pubdate": "Thu, 06 Jul 2023 22:00:00 -0400"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-07-2023 , 23:53:04",
+  "lastUpdate": "08-07-2023 , 01:38:32",
   "data": [
     [
       {
@@ -66,9 +66,23 @@
     ],
     [
       {
+        "title": "Citizen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Citizen",
+        "pubdate": "Fri, 07 Jul 2023 16:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Fatal seduction",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Fatal%20seduction",
         "pubdate": "Fri, 07 Jul 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Central Park",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Central%20Park",
+        "pubdate": "Fri, 07 Jul 2023 17:00:00 +0300"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Hong Kong singer CoCo Lee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Hong%20Kong%20singer%20CoCo%20Lee",
+        "title": "Hong Kong singer Coco Lee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Hong%20Kong%20singer%20Coco%20Lee",
         "pubdate": "Thu, 06 Jul 2023 14:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Dybala",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Dybala",
-        "pubdate": "Thu, 06 Jul 2023 15:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Jurrien Timber",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Jurrien%20Timber",
-        "pubdate": "Thu, 06 Jul 2023 01:00:00 +0300"
       }
     ]
   ]

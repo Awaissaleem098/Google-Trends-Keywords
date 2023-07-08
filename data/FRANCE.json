@@ -1,17 +1,17 @@
 {
-  "lastUpdate": "07-07-2023 , 23:53:01",
+  "lastUpdate": "08-07-2023 , 01:38:28",
   "data": [
     [
       {
-        "title": "Tariq Ramadan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tariq%20Ramadan",
+        "title": "Orage",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Orage",
         "pubdate": "Sat, 08 Jul 2023 01:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Orage",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Orage",
+        "title": "Tariq Ramadan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tariq%20Ramadan",
         "pubdate": "Sat, 08 Jul 2023 01:00:00 +0200"
       }
     ],
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Britney Spears",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Britney%20Spears",
-        "pubdate": "Fri, 07 Jul 2023 01:00:00 +0200"
+        "title": "Mission Impossible",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mission%20Impossible",
+        "pubdate": "Fri, 07 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -55,6 +55,13 @@
         "title": "Ugarte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ugarte",
         "pubdate": "Fri, 07 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Britney Spears",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Britney%20Spears",
+        "pubdate": "Fri, 07 Jul 2023 01:00:00 +0200"
       }
     ],
     [
@@ -94,6 +101,13 @@
     ],
     [
       {
+        "title": "Victor Wembanyama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Victor%20Wembanyama",
+        "pubdate": "Fri, 07 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "LOL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#LOL",
         "pubdate": "Fri, 07 Jul 2023 22:00:00 +0200"
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Les Nouvelles aventures d'Aladin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Les%20Nouvelles%20aventures%20d'Aladin",
-        "pubdate": "Fri, 07 Jul 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Octocrylene",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Octocrylene",
         "pubdate": "Fri, 07 Jul 2023 20:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Isabelle Adjani",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Isabelle%20Adjani",
         "pubdate": "Fri, 07 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Les Gardiens de la Galaxie 3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Les%20Gardiens%20de%20la%20Galaxie%203",
-        "pubdate": "Fri, 07 Jul 2023 23:00:00 +0200"
       }
     ]
   ]
