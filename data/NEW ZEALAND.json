@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "08-07-2023 , 21:38:41",
+  "lastUpdate": "08-07-2023 , 21:51:43",
   "data": [
+    [
+      {
+        "title": "South Africa vs Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#South%20Africa%20vs%20Australia",
+        "pubdate": "Sun, 09 Jul 2023 01:00:00 +1200"
+      }
+    ],
     [
       {
         "title": "Sports",
@@ -17,16 +24,9 @@
     ],
     [
       {
-        "title": "All Blacks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#All%20Blacks",
-        "pubdate": "Sat, 08 Jul 2023 00:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Rugby Championship",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Rugby%20Championship",
-        "pubdate": "Sat, 08 Jul 2023 22:00:00 +1200"
+        "title": "All Blacks vs Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#All%20Blacks%20vs%20Argentina",
+        "pubdate": "Sat, 08 Jul 2023 16:00:00 +1200"
       }
     ],
     [
@@ -34,6 +34,13 @@
         "title": "Warriors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Warriors",
         "pubdate": "Sat, 08 Jul 2023 23:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "All Blacks XV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#All%20Blacks%20XV",
+        "pubdate": "Sat, 08 Jul 2023 00:00:00 +1200"
       }
     ],
     [
@@ -111,13 +118,6 @@
         "title": "Britney Spears",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Britney%20Spears",
         "pubdate": "Fri, 07 Jul 2023 13:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Ashes Test 3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ashes%20Test%203",
-        "pubdate": "Fri, 07 Jul 2023 10:00:00 +1200"
       }
     ],
     [

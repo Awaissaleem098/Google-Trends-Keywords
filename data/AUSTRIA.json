@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-07-2023 , 21:38:36",
+  "lastUpdate": "08-07-2023 , 21:51:38",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Novak%20Djokovic",
-        "pubdate": "Sat, 08 Jul 2023 01:00:00 +0200"
+        "title": "Andrea Berg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Andrea%20Berg",
+        "pubdate": "Sat, 08 Jul 2023 16:00:00 +0200"
       }
     ],
     [
@@ -24,9 +24,37 @@
     ],
     [
       {
+        "title": "Eritrea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Eritrea",
+        "pubdate": "Sat, 08 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Zverev",
+        "pubdate": "Sat, 08 Jul 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Maite Kelly",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Maite%20Kelly",
+        "pubdate": "Sat, 08 Jul 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Mission: Impossible",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mission:%20Impossible",
         "pubdate": "Sat, 08 Jul 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wörthersee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#W%C3%B6rthersee",
+        "pubdate": "Sat, 08 Jul 2023 23:00:00 +0200"
       }
     ],
     [
@@ -38,30 +66,9 @@
     ],
     [
       {
-        "title": "Eritrea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Eritrea",
-        "pubdate": "Sat, 08 Jul 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Peter Vitouch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Peter%20Vitouch",
-        "pubdate": "Sat, 08 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "FK Austria Wien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FK%20Austria%20Wien",
         "pubdate": "Sat, 08 Jul 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Maite Kelly",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Maite%20Kelly",
-        "pubdate": "Sat, 08 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Andrea Berg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Andrea%20Berg",
-        "pubdate": "Sat, 08 Jul 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "SK Rapid Wien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SK%20Rapid%20Wien",
         "pubdate": "Sat, 08 Jul 2023 14:00:00 +0200"
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Pakistan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Pakistan",
+        "pubdate": "Sat, 08 Jul 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "HSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#HSV",
         "pubdate": "Sat, 08 Jul 2023 18:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "F1 Qualifying",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#F1%20Qualifying",
         "pubdate": "Fri, 07 Jul 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Adeyemi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Adeyemi",
-        "pubdate": "Fri, 07 Jul 2023 01:00:00 +0200"
       }
     ]
   ]

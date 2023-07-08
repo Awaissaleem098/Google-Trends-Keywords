@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-07-2023 , 21:38:40",
+  "lastUpdate": "08-07-2023 , 21:51:41",
   "data": [
     [
       {
@@ -17,8 +17,15 @@
     ],
     [
       {
-        "title": "Alluvione Saragozza Spagna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alluvione%20Saragozza%20Spagna",
+        "title": "Gigi D'Alessio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Gigi%20D'Alessio",
+        "pubdate": "Sat, 08 Jul 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Alluvione Saragozza (Spagna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alluvione%20Saragozza%20(Spagna",
         "pubdate": "Sat, 08 Jul 2023 01:00:00 +0200"
       }
     ],
@@ -27,13 +34,6 @@
         "title": "De Gea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#De%20Gea",
         "pubdate": "Sat, 08 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gigi D'Alessio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Gigi%20D'Alessio",
-        "pubdate": "Sat, 08 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -52,16 +52,16 @@
     ],
     [
       {
-        "title": "Meteo Palermo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Meteo%20Palermo",
-        "pubdate": "Sat, 08 Jul 2023 12:00:00 +0200"
+        "title": "Prigioniera della follia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Prigioniera%20della%20follia",
+        "pubdate": "Sat, 08 Jul 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Reijnders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Reijnders",
-        "pubdate": "Sat, 08 Jul 2023 15:00:00 +0200"
+        "title": "Meteo Palermo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Meteo%20Palermo",
+        "pubdate": "Sat, 08 Jul 2023 12:00:00 +0200"
       }
     ],
     [
@@ -73,9 +73,9 @@
     ],
     [
       {
-        "title": "Prigioniera della follia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Prigioniera%20della%20follia",
-        "pubdate": "Sat, 08 Jul 2023 21:00:00 +0200"
+        "title": "Reijnders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Reijnders",
+        "pubdate": "Sat, 08 Jul 2023 15:00:00 +0200"
       }
     ],
     [
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Charles Manson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Charles%20Manson",
+        "pubdate": "Sat, 08 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Alibaba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alibaba",
         "pubdate": "Sat, 08 Jul 2023 00:00:00 +0200"
@@ -101,9 +108,16 @@
     ],
     [
       {
-        "title": "Charles Manson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Charles%20Manson",
-        "pubdate": "Sat, 08 Jul 2023 15:00:00 +0200"
+        "title": "Divorzio a Las Vegas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Divorzio%20a%20Las%20Vegas",
+        "pubdate": "Sat, 08 Jul 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fiorello",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fiorello",
+        "pubdate": "Sat, 08 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Di Nunno Lecco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Di%20Nunno%20Lecco",
-        "pubdate": "Sat, 08 Jul 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Mission: Impossible",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mission:%20Impossible",
         "pubdate": "Sat, 08 Jul 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Instagram down",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Instagram%20down",
-        "pubdate": "Sat, 08 Jul 2023 08:00:00 +0200"
       }
     ]
   ]

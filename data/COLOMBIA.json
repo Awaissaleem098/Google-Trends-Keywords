@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "08-07-2023 , 21:38:37",
+  "lastUpdate": "08-07-2023 , 21:51:39",
   "data": [
+    [
+      {
+        "title": "Nacional hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Nacional%20hoy",
+        "pubdate": "Sat, 08 Jul 2023 16:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Tour de Francia Ciclismo",
@@ -132,13 +139,6 @@
         "title": "Andy Murray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Andy%20Murray",
         "pubdate": "Thu, 06 Jul 2023 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Iván Márquez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Iv%C3%A1n%20M%C3%A1rquez",
-        "pubdate": "Thu, 06 Jul 2023 20:00:00 -0500"
       }
     ]
   ]
