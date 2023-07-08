@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-07-2023 , 18:39:49",
+  "lastUpdate": "08-07-2023 , 18:53:02",
   "data": [
     [
       {
@@ -24,9 +24,23 @@
     ],
     [
       {
+        "title": "Clasificacion F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Clasificacion%20F1",
+        "pubdate": "Sat, 08 Jul 2023 11:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Juan Fernando Quintero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Juan%20Fernando%20Quintero",
         "pubdate": "Sat, 08 Jul 2023 02:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "David de Gea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#David%20de%20Gea",
+        "pubdate": "Sat, 08 Jul 2023 12:00:00 -0600"
       }
     ],
     [
@@ -101,16 +115,9 @@
     ],
     [
       {
-        "title": "Lula Da Silva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lula%20Da%20Silva",
-        "pubdate": "Fri, 07 Jul 2023 16:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Rauw Alejandro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Rauw%20Alejandro",
-        "pubdate": "Fri, 07 Jul 2023 12:00:00 -0600"
+        "title": "Jornada 2 Liga MX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Jornada%202%20Liga%20MX",
+        "pubdate": "Fri, 07 Jul 2023 11:00:00 -0600"
       }
     ],
     [
@@ -122,22 +129,15 @@
     ],
     [
       {
-        "title": "Chivas vs San Luis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Chivas%20vs%20San%20Luis",
-        "pubdate": "Fri, 07 Jul 2023 16:00:00 -0600"
+        "title": "Rauw Alejandro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Rauw%20Alejandro",
+        "pubdate": "Fri, 07 Jul 2023 12:00:00 -0600"
       }
     ],
     [
       {
-        "title": "Seleccion Mexicana Femenil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Seleccion%20Mexicana%20Femenil",
-        "pubdate": "Fri, 07 Jul 2023 23:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Amy Winehouse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Amy%20Winehouse",
+        "title": "Mexico vs Venezuela",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mexico%20vs%20Venezuela",
         "pubdate": "Fri, 07 Jul 2023 22:00:00 -0600"
       }
     ]

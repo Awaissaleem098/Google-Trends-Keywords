@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "08-07-2023 , 18:39:52",
+  "lastUpdate": "08-07-2023 , 18:53:04",
   "data": [
     [
       {
         "title": "Rugby Today",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rugby%20Today",
         "pubdate": "Sat, 08 Jul 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "South Africa vs Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#South%20Africa%20vs%20Australia",
-        "pubdate": "Sat, 08 Jul 2023 10:00:00 +0200"
       }
     ],
     [
@@ -24,9 +17,37 @@
     ],
     [
       {
+        "title": "Supersport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Supersport",
+        "pubdate": "Sat, 08 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sa vs Australia rugby time",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sa%20vs%20Australia%20rugby%20time",
+        "pubdate": "Sat, 08 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "F1 qualifying",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#F1%20qualifying",
+        "pubdate": "Sat, 08 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Rugby World Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rugby%20World%20Cup",
         "pubdate": "Sat, 08 Jul 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "UFC 290",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UFC%20290",
+        "pubdate": "Sat, 08 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -45,9 +66,9 @@
     ],
     [
       {
-        "title": "Springbok vs Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Springbok%20vs%20Australia",
-        "pubdate": "Sat, 08 Jul 2023 18:00:00 +0200"
+        "title": "Khama Billiat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Khama%20Billiat",
+        "pubdate": "Sat, 08 Jul 2023 19:00:00 +0200"
       }
     ],
     [
@@ -62,13 +83,6 @@
         "title": "Andy Murray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Andy%20Murray",
         "pubdate": "Fri, 07 Jul 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rugby Championship",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rugby%20Championship",
-        "pubdate": "Fri, 07 Jul 2023 16:00:00 +0200"
       }
     ],
     [
@@ -101,6 +115,13 @@
     ],
     [
       {
+        "title": "Carlos Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Carlos%20Alcaraz",
+        "pubdate": "Fri, 07 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Djokovic",
         "pubdate": "Fri, 07 Jul 2023 22:00:00 +0200"
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Edson Castillo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Edson%20Castillo",
-        "pubdate": "Fri, 07 Jul 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Carlos Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Carlos%20Alcaraz",
-        "pubdate": "Fri, 07 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lincoln Lawyer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Lincoln%20Lawyer",
-        "pubdate": "Fri, 07 Jul 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "West Indies vs Sri Lanka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#West%20Indies%20vs%20Sri%20Lanka",
-        "pubdate": "Fri, 07 Jul 2023 12:00:00 +0200"
+        "title": "Guardians of the Galaxy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Guardians%20of%20the%20Galaxy",
+        "pubdate": "Fri, 07 Jul 2023 19:00:00 +0200"
       }
     ]
   ]

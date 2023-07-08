@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "08-07-2023 , 18:39:53",
+  "lastUpdate": "08-07-2023 , 18:53:04",
   "data": [
     [
       {
-        "title": "Charles Manson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Charles%20Manson",
-        "pubdate": "Sat, 08 Jul 2023 14:00:00 +0200"
+        "title": "Leslie Van Houten",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Leslie%20Van%20Houten",
+        "pubdate": "Sat, 08 Jul 2023 12:00:00 +0200"
       }
     ],
     [
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "F1 Qualifying",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#F1%20Qualifying",
+        "pubdate": "Sat, 08 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ons Jabeur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ons%20Jabeur",
         "pubdate": "Sat, 08 Jul 2023 10:00:00 +0200"
@@ -38,15 +45,22 @@
     ],
     [
       {
-        "title": "F1 Silverstone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#F1%20Silverstone",
+        "title": "Izia Higelin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Izia%20Higelin",
         "pubdate": "Sat, 08 Jul 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Izia Higelin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Izia%20Higelin",
+        "title": "Puy de dome",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Puy%20de%20dome",
+        "pubdate": "Sat, 08 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "F1 Silverstone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#F1%20Silverstone",
         "pubdate": "Sat, 08 Jul 2023 18:00:00 +0200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Britney Spears",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Britney%20Spears",
         "pubdate": "Fri, 07 Jul 2023 03:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wembanyama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wembanyama",
-        "pubdate": "Fri, 07 Jul 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gilberto Gil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gilberto%20Gil",
-        "pubdate": "Fri, 07 Jul 2023 23:00:00 +0200"
       }
     ]
   ]
