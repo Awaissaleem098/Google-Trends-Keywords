@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "08-07-2023 , 13:39:23",
+  "lastUpdate": "08-07-2023 , 13:52:36",
   "data": [
     [
       {
-        "title": "Emmen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Emmen",
-        "pubdate": "Sat, 08 Jul 2023 00:00:00 +0200"
+        "title": "Goldband",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Goldband",
+        "pubdate": "Sat, 08 Jul 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Silverstone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Silverstone",
+        "pubdate": "Sat, 08 Jul 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Chimene van Oosterhout",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Chimene%20van%20Oosterhout",
+        "pubdate": "Sat, 08 Jul 2023 15:00:00 +0200"
       }
     ],
     [
@@ -45,23 +59,9 @@
     ],
     [
       {
-        "title": "BBB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#BBB",
-        "pubdate": "Fri, 07 Jul 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Djokovic",
-        "pubdate": "Fri, 07 Jul 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bordeaux",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bordeaux",
-        "pubdate": "Fri, 07 Jul 2023 18:00:00 +0200"
+        "title": "Deventer Op Stelten",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Deventer%20Op%20Stelten",
+        "pubdate": "Fri, 07 Jul 2023 00:00:00 +0200"
       }
     ],
     [
@@ -76,13 +76,6 @@
         "title": "Rammstein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rammstein",
         "pubdate": "Thu, 06 Jul 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jessica Simpson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jessica%20Simpson",
-        "pubdate": "Thu, 06 Jul 2023 23:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Griekspoor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Griekspoor",
         "pubdate": "Tue, 04 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wimbledon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wimbledon",
+        "pubdate": "Mon, 03 Jul 2023 15:00:00 +0200"
       }
     ]
   ]

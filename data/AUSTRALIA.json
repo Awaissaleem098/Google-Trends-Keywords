@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "08-07-2023 , 13:39:17",
+  "lastUpdate": "08-07-2023 , 13:52:30",
   "data": [
     [
       {
-        "title": "NBA Summer League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NBA%20Summer%20League",
-        "pubdate": "Sat, 08 Jul 2023 13:00:00 +1000"
+        "title": "Netball grand final",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Netball%20grand%20final",
+        "pubdate": "Sat, 08 Jul 2023 14:00:00 +1000"
       }
     ],
     [
@@ -13,6 +13,13 @@
         "title": "Edwin van der Sar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Edwin%20van%20der%20Sar",
         "pubdate": "Sat, 08 Jul 2023 08:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "NBA Summer League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NBA%20Summer%20League",
+        "pubdate": "Sat, 08 Jul 2023 13:00:00 +1000"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Rabbitohs vs Bulldogs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rabbitohs%20vs%20Bulldogs",
-        "pubdate": "Sat, 08 Jul 2023 20:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Parramatta Eels",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Parramatta%20Eels",
         "pubdate": "Sat, 08 Jul 2023 17:00:00 +1000"
@@ -52,8 +52,8 @@
     ],
     [
       {
-        "title": "West Coast eagles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#West%20Coast%20eagles",
+        "title": "West Coast Eagles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#West%20Coast%20Eagles",
         "pubdate": "Sat, 08 Jul 2023 17:00:00 +1000"
       }
     ],
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Ruby Princess cruise ship",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ruby%20Princess%20cruise%20ship",
-        "pubdate": "Sat, 08 Jul 2023 13:00:00 +1000"
+        "title": "St Kilda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#St%20Kilda",
+        "pubdate": "Sat, 08 Jul 2023 22:00:00 +1000"
       }
     ],
     [
@@ -80,9 +80,16 @@
     ],
     [
       {
-        "title": "Speak Now (Taylor's Version",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Speak%20Now%20(Taylor's%20Version",
-        "pubdate": "Fri, 07 Jul 2023 02:00:00 +1000"
+        "title": "Bulldogs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bulldogs",
+        "pubdate": "Sat, 08 Jul 2023 22:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Cluster munitions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cluster%20munitions",
+        "pubdate": "Sat, 08 Jul 2023 23:00:00 +1000"
       }
     ],
     [
@@ -97,6 +104,13 @@
         "title": "Wembanyama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Wembanyama",
         "pubdate": "Fri, 07 Jul 2023 09:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Speak Now (Taylor's Version",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Speak%20Now%20(Taylor's%20Version",
+        "pubdate": "Fri, 07 Jul 2023 02:00:00 +1000"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Collingwood",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Collingwood",
         "pubdate": "Fri, 07 Jul 2023 21:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "David Warner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#David%20Warner",
-        "pubdate": "Fri, 07 Jul 2023 01:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Nick Daicos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nick%20Daicos",
-        "pubdate": "Fri, 07 Jul 2023 22:00:00 +1000"
       }
     ]
   ]

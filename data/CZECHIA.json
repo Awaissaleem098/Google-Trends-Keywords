@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "08-07-2023 , 13:39:19",
+  "lastUpdate": "08-07-2023 , 13:52:31",
   "data": [
     [
       {
         "title": "Petra Kvitová",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petra%20Kvitov%C3%A1",
         "pubdate": "Sat, 08 Jul 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Slunce, seno, jahody",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slunce,%20seno,%20jahody",
+        "pubdate": "Sat, 08 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Wawrinka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Wawrinka",
-        "pubdate": "Fri, 07 Jul 2023 23:00:00 +0200"
+        "title": "Koupaliště",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Koupali%C5%A1t%C4%9B",
+        "pubdate": "Fri, 07 Jul 2023 10:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Koupaliště",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Koupali%C5%A1t%C4%9B",
-        "pubdate": "Fri, 07 Jul 2023 10:00:00 +0200"
+        "title": "Wawrinka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Wawrinka",
+        "pubdate": "Fri, 07 Jul 2023 23:00:00 +0200"
       }
     ],
     [
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Kazetová munice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kazetov%C3%A1%20munice",
+        "pubdate": "Thu, 06 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Zelenskyj v Praze",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zelenskyj%20v%20Praze",
         "pubdate": "Thu, 06 Jul 2023 21:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Petra Kvitová",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petra%20Kvitov%C3%A1",
         "pubdate": "Thu, 06 Jul 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sylvester Stallone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sylvester%20Stallone",
-        "pubdate": "Thu, 06 Jul 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Robin Wright",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Robin%20Wright",
-        "pubdate": "Wed, 05 Jul 2023 19:00:00 +0200"
       }
     ]
   ]

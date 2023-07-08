@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "08-07-2023 , 13:39:17",
+  "lastUpdate": "08-07-2023 , 13:52:30",
   "data": [
+    [
+      {
+        "title": "Mark Rutte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mark%20Rutte",
+        "pubdate": "Sat, 08 Jul 2023 13:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Dolberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dolberg",
         "pubdate": "Sat, 08 Jul 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Limoges",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Limoges",
+        "pubdate": "Sat, 08 Jul 2023 14:00:00 +0200"
       }
     ],
     [
@@ -24,9 +38,9 @@
     ],
     [
       {
-        "title": "Mark Rutte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mark%20Rutte",
-        "pubdate": "Sat, 08 Jul 2023 13:00:00 +0200"
+        "title": "Eubanks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eubanks",
+        "pubdate": "Sat, 08 Jul 2023 14:00:00 +0200"
       }
     ],
     [
@@ -34,13 +48,6 @@
         "title": "Jasper Philipsen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jasper%20Philipsen",
         "pubdate": "Fri, 07 Jul 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cactusfestival",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cactusfestival",
-        "pubdate": "Fri, 07 Jul 2023 18:00:00 +0200"
       }
     ],
     [
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Rock Zottegem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rock%20Zottegem",
+        "pubdate": "Fri, 07 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ostend Beach",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ostend%20Beach",
         "pubdate": "Fri, 07 Jul 2023 06:00:00 +0200"
@@ -101,6 +115,13 @@
     ],
     [
       {
+        "title": "Goldband",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Goldband",
+        "pubdate": "Fri, 07 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Adrie van der Poel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Adrie%20van%20der%20Poel",
         "pubdate": "Fri, 07 Jul 2023 22:00:00 +0200"
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Xylazine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Xylazine",
-        "pubdate": "Fri, 07 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Greve Ryanair",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Greve%20Ryanair",
         "pubdate": "Fri, 07 Jul 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alcaraz",
-        "pubdate": "Fri, 07 Jul 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Clinton Mata",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Clinton%20Mata",
-        "pubdate": "Fri, 07 Jul 2023 14:00:00 +0200"
       }
     ]
   ]

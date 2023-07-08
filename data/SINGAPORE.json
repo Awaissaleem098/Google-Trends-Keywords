@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "08-07-2023 , 13:39:25",
+  "lastUpdate": "08-07-2023 , 13:52:38",
   "data": [
     [
       {
         "title": "Edwin van der Sar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Edwin%20van%20der%20Sar",
         "pubdate": "Sat, 08 Jul 2023 01:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Adrian Tan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Adrian%20Tan",
+        "pubdate": "Sat, 08 Jul 2023 19:00:00 +0800"
       }
     ],
     [
@@ -17,9 +24,23 @@
     ],
     [
       {
+        "title": "Upper Thomson accident",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Upper%20Thomson%20accident",
+        "pubdate": "Sat, 08 Jul 2023 14:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Hidden strike",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Hidden%20strike",
         "pubdate": "Sat, 08 Jul 2023 01:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Taylor Swift concert Singapore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Taylor%20Swift%20concert%20Singapore",
+        "pubdate": "Fri, 07 Jul 2023 13:00:00 +0800"
       }
     ],
     [
@@ -31,15 +52,8 @@
     ],
     [
       {
-        "title": "Taylor Swift concert Singapore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Taylor%20Swift%20concert%20Singapore",
-        "pubdate": "Fri, 07 Jul 2023 14:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Britney Spears",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Britney%20Spears",
+        "title": "Victor Wembanyama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Victor%20Wembanyama",
         "pubdate": "Fri, 07 Jul 2023 12:00:00 +0800"
       }
     ],
@@ -55,13 +69,6 @@
         "title": "Thomson-East Coast Line",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Thomson-East%20Coast%20Line",
         "pubdate": "Fri, 07 Jul 2023 21:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Elon%20Musk",
-        "pubdate": "Fri, 07 Jul 2023 15:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "UOB Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#UOB%20Taylor%20Swift",
         "pubdate": "Tue, 04 Jul 2023 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "GST",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#GST",
-        "pubdate": "Tue, 04 Jul 2023 17:00:00 +0800"
       }
     ]
   ]

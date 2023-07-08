@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "08-07-2023 , 13:39:18",
+  "lastUpdate": "08-07-2023 , 13:52:30",
   "data": [
+    [
+      {
+        "title": "Vasco x Cruzeiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vasco%20x%20Cruzeiro",
+        "pubdate": "Sat, 08 Jul 2023 08:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Ator José Dumont",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ator%20Jos%C3%A9%20Dumont",
         "pubdate": "Sat, 08 Jul 2023 02:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Ceara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ceara",
+        "pubdate": "Fri, 07 Jul 2023 17:00:00 -0500"
       }
     ],
     [
@@ -24,16 +38,16 @@
     ],
     [
       {
-        "title": "Bruno Lage",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bruno%20Lage",
-        "pubdate": "Fri, 07 Jul 2023 19:00:00 -0500"
+        "title": "Ceara x Botafogo-SP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ceara%20x%20Botafogo-SP",
+        "pubdate": "Fri, 07 Jul 2023 18:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Dia Mundial do Chocolate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20Mundial%20do%20Chocolate",
-        "pubdate": "Fri, 07 Jul 2023 08:00:00 -0500"
+        "title": "Predio desabamento",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Predio%20desabamento",
+        "pubdate": "Fri, 07 Jul 2023 13:00:00 -0500"
       }
     ],
     [
@@ -41,6 +55,13 @@
         "title": "Van der Sar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Van%20der%20Sar",
         "pubdate": "Fri, 07 Jul 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Dia Mundial do Chocolate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20Mundial%20do%20Chocolate",
+        "pubdate": "Fri, 07 Jul 2023 08:00:00 -0500"
       }
     ],
     [
@@ -76,13 +97,6 @@
         "title": "Alcaraz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Alcaraz",
         "pubdate": "Fri, 07 Jul 2023 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Predio desaba no Janga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Predio%20desaba%20no%20Janga",
-        "pubdate": "Fri, 07 Jul 2023 13:00:00 -0500"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Wembanyama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Wembanyama",
         "pubdate": "Fri, 07 Jul 2023 22:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Solteiro Forçado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Solteiro%20For%C3%A7ado",
-        "pubdate": "Fri, 07 Jul 2023 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Brasil volei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasil%20volei",
-        "pubdate": "Fri, 07 Jul 2023 08:00:00 -0500"
       }
     ]
   ]

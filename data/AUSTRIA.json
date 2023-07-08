@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "08-07-2023 , 13:39:17",
+  "lastUpdate": "08-07-2023 , 13:52:30",
   "data": [
+    [
+      {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Novak%20Djokovic",
+        "pubdate": "Sat, 08 Jul 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Mission: Impossible",
@@ -31,16 +38,9 @@
     ],
     [
       {
-        "title": "Formel 1, Silverstone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Formel%201,%20Silverstone",
-        "pubdate": "Sat, 08 Jul 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Karim Adeyemi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Karim%20Adeyemi",
-        "pubdate": "Fri, 07 Jul 2023 00:00:00 +0200"
+        "title": "Adeyemi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Adeyemi",
+        "pubdate": "Fri, 07 Jul 2023 01:00:00 +0200"
       }
     ],
     [
@@ -59,15 +59,15 @@
     ],
     [
       {
-        "title": "Britney Spears",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Britney%20Spears",
+        "title": "Victor Wembanyama Britney Spears",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Victor%20Wembanyama%20Britney%20Spears",
         "pubdate": "Fri, 07 Jul 2023 06:00:00 +0200"
       }
     ],
     [
       {
-        "title": "FC Bayern München Harry Kane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FC%20Bayern%20M%C3%BCnchen%20Harry%20Kane",
+        "title": "FC Bayern München harry kane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FC%20Bayern%20M%C3%BCnchen%20harry%20kane",
         "pubdate": "Fri, 07 Jul 2023 15:00:00 +0200"
       }
     ],
@@ -90,6 +90,13 @@
         "title": "Ötztaler Radmarathon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#%C3%96tztaler%20Radmarathon",
         "pubdate": "Fri, 07 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Silverstone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Silverstone",
+        "pubdate": "Fri, 07 Jul 2023 19:00:00 +0200"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Silverstone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Silverstone",
-        "pubdate": "Fri, 07 Jul 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Szymon Wlodarczyk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Szymon%20Wlodarczyk",
         "pubdate": "Fri, 07 Jul 2023 14:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Cristiano Ronaldo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Cristiano%20Ronaldo",
-        "pubdate": "Fri, 07 Jul 2023 02:00:00 +0200"
+        "title": "Guardians of the Galaxy 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Guardians%20of%20the%20Galaxy%203",
+        "pubdate": "Fri, 07 Jul 2023 18:00:00 +0200"
       }
     ]
   ]
