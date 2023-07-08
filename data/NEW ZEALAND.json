@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-07-2023 , 01:38:33",
+  "lastUpdate": "08-07-2023 , 02:50:48",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Piers Morgan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Piers%20Morgan",
         "pubdate": "Sat, 08 Jul 2023 01:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Edwin van der Sar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Edwin%20van%20der%20Sar",
+        "pubdate": "Sat, 08 Jul 2023 14:00:00 +1200"
       }
     ],
     [
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Ashes cricket",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ashes%20cricket",
-        "pubdate": "Fri, 07 Jul 2023 11:00:00 +1200"
+        "title": "Guardians of the Galaxy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Guardians%20of%20the%20Galaxy",
+        "pubdate": "Fri, 07 Jul 2023 22:00:00 +1200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Post Malone NZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Post%20Malone%20NZ",
         "pubdate": "Thu, 06 Jul 2023 14:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Bargain Box",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bargain%20Box",
-        "pubdate": "Thu, 06 Jul 2023 18:00:00 +1200"
       }
     ]
   ]

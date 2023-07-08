@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "08-07-2023 , 01:38:26",
+  "lastUpdate": "08-07-2023 , 02:50:43",
   "data": [
     [
       {
         "title": "Novorizontino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Novorizontino",
         "pubdate": "Fri, 07 Jul 2023 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Bruno Lage",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bruno%20Lage",
+        "pubdate": "Fri, 07 Jul 2023 19:00:00 -0500"
       }
     ],
     [
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Flamengo x Palmeiras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20x%20Palmeiras",
-        "pubdate": "Fri, 07 Jul 2023 13:00:00 -0500"
+        "title": "Jair Bolsonaro tarcisio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jair%20Bolsonaro%20tarcisio",
+        "pubdate": "Fri, 07 Jul 2023 08:00:00 -0500"
       }
     ],
     [
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "Botafogo-SP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo-SP",
+        "pubdate": "Fri, 07 Jul 2023 19:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Ugarte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ugarte",
         "pubdate": "Fri, 07 Jul 2023 09:00:00 -0500"
@@ -73,16 +87,16 @@
     ],
     [
       {
-        "title": "Alexandre Moraes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Alexandre%20Moraes",
-        "pubdate": "Fri, 07 Jul 2023 14:00:00 -0500"
+        "title": "Guardiões da Galáxia 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Guardi%C3%B5es%20da%20Gal%C3%A1xia%203",
+        "pubdate": "Fri, 07 Jul 2023 08:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Guardiões da Galáxia 3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Guardi%C3%B5es%20da%20Gal%C3%A1xia%203",
-        "pubdate": "Fri, 07 Jul 2023 08:00:00 -0500"
+        "title": "Alexandre Moraes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Alexandre%20Moraes",
+        "pubdate": "Fri, 07 Jul 2023 14:00:00 -0500"
       }
     ],
     [
@@ -101,23 +115,9 @@
     ],
     [
       {
-        "title": "Tarcísio de Freitas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tarc%C3%ADsio%20de%20Freitas",
-        "pubdate": "Fri, 07 Jul 2023 08:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Brasil volei",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasil%20volei",
         "pubdate": "Fri, 07 Jul 2023 08:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Botafogo-SP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo-SP",
-        "pubdate": "Fri, 07 Jul 2023 19:00:00 -0500"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Calendário Bolsa Família",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Calend%C3%A1rio%20Bolsa%20Fam%C3%ADlia",
-        "pubdate": "Fri, 07 Jul 2023 10:00:00 -0500"
+        "title": "Summer League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Summer%20League",
+        "pubdate": "Fri, 07 Jul 2023 21:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Kim Kardashian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Kim%20Kardashian",
-        "pubdate": "Fri, 07 Jul 2023 18:00:00 -0500"
+        "title": "Calendário Bolsa Família",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Calend%C3%A1rio%20Bolsa%20Fam%C3%ADlia",
+        "pubdate": "Fri, 07 Jul 2023 10:00:00 -0500"
       }
     ]
   ]

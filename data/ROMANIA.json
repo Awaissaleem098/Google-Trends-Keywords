@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-07-2023 , 01:38:34",
+  "lastUpdate": "08-07-2023 , 02:50:49",
   "data": [
     [
       {
@@ -31,16 +31,16 @@
     ],
     [
       {
-        "title": "Zaragoza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Zaragoza",
-        "pubdate": "Fri, 07 Jul 2023 17:00:00 +0300"
+        "title": "Edwin van der Sar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Edwin%20van%20der%20Sar",
+        "pubdate": "Fri, 07 Jul 2023 22:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Edwin van der Sar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Edwin%20van%20der%20Sar",
-        "pubdate": "Fri, 07 Jul 2023 22:00:00 +0300"
+        "title": "Zaragoza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Zaragoza",
+        "pubdate": "Fri, 07 Jul 2023 17:00:00 +0300"
       }
     ],
     [
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Mamaia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mamaia",
-        "pubdate": "Fri, 07 Jul 2023 18:00:00 +0300"
+        "title": "Murray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Murray",
+        "pubdate": "Fri, 07 Jul 2023 01:00:00 +0300"
       }
     ],
     [
@@ -66,8 +66,8 @@
     ],
     [
       {
-        "title": "Mutu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mutu",
+        "title": "Incendiu ploiesti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Incendiu%20ploiesti",
         "pubdate": "Fri, 07 Jul 2023 17:00:00 +0300"
       }
     ],
@@ -83,6 +83,13 @@
         "title": "Britney Spears",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Britney%20Spears",
         "pubdate": "Fri, 07 Jul 2023 09:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Supercupa romaniei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Supercupa%20romaniei",
+        "pubdate": "Fri, 07 Jul 2023 17:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Toto Cutugno",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Toto%20Cutugno",
         "pubdate": "Fri, 07 Jul 2023 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Threads",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Threads",
-        "pubdate": "Thu, 06 Jul 2023 09:00:00 +0300"
       }
     ]
   ]
