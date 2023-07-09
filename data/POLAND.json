@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "08-07-2023 , 23:59:55",
+  "lastUpdate": "09-07-2023 , 02:14:15",
   "data": [
+    [
+      {
+        "title": "Magda Narożna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Magda%20Naro%C5%BCna",
+        "pubdate": "Sun, 09 Jul 2023 02:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Śląsk Wrocław",
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Robert Lewandowski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Robert%20Lewandowski",
-        "pubdate": "Sat, 08 Jul 2023 12:00:00 +0200"
+        "title": "Rybakina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rybakina",
+        "pubdate": "Sat, 08 Jul 2023 23:00:00 +0200"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Rybakina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rybakina",
-        "pubdate": "Sat, 08 Jul 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Zakrzowek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zakrzowek",
         "pubdate": "Sat, 08 Jul 2023 20:00:00 +0200"
@@ -66,16 +66,16 @@
     ],
     [
       {
-        "title": "Smolasty",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Smolasty",
-        "pubdate": "Sat, 08 Jul 2023 02:00:00 +0200"
+        "title": "UFC 290",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#UFC%20290",
+        "pubdate": "Sat, 08 Jul 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "UFC 290",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#UFC%20290",
-        "pubdate": "Sat, 08 Jul 2023 17:00:00 +0200"
+        "title": "Smolasty",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Smolasty",
+        "pubdate": "Sat, 08 Jul 2023 02:00:00 +0200"
       }
     ],
     [
@@ -97,13 +97,6 @@
         "title": "Polska - Japonia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polska%20-%20Japonia",
         "pubdate": "Sat, 08 Jul 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vitor Roque",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Vitor%20Roque",
-        "pubdate": "Sat, 08 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Bencic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bencic",
         "pubdate": "Fri, 07 Jul 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Djokovic",
+        "pubdate": "Fri, 07 Jul 2023 23:00:00 +0200"
       }
     ]
   ]

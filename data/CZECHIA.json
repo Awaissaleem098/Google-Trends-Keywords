@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "08-07-2023 , 23:59:48",
+  "lastUpdate": "09-07-2023 , 02:14:09",
   "data": [
     [
       {
         "title": "David de Gea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#David%20de%20Gea",
         "pubdate": "Sun, 09 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Daniela Kolářová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Daniela%20Kol%C3%A1%C5%99ov%C3%A1",
+        "pubdate": "Sat, 08 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -45,16 +52,16 @@
     ],
     [
       {
-        "title": "Jiří Pliska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Pliska",
-        "pubdate": "Sat, 08 Jul 2023 16:00:00 +0200"
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#UFC",
+        "pubdate": "Sat, 08 Jul 2023 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#UFC",
-        "pubdate": "Sat, 08 Jul 2023 19:00:00 +0200"
+        "title": "Jiří Pliska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Pliska",
+        "pubdate": "Sat, 08 Jul 2023 16:00:00 +0200"
       }
     ],
     [
@@ -96,13 +103,6 @@
       {
         "title": "Wawrinka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Wawrinka",
-        "pubdate": "Fri, 07 Jul 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lucie Bílá",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lucie%20B%C3%ADl%C3%A1",
         "pubdate": "Fri, 07 Jul 2023 23:00:00 +0200"
       }
     ],
