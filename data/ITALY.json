@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "09-07-2023 , 02:14:12",
+  "lastUpdate": "09-07-2023 , 03:11:28",
   "data": [
     [
       {
         "title": "Anna Tatangelo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Anna%20Tatangelo",
         "pubdate": "Sun, 09 Jul 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jankto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Jankto",
-        "pubdate": "Sun, 09 Jul 2023 01:00:00 +0200"
       }
     ],
     [
@@ -80,6 +73,13 @@
     ],
     [
       {
+        "title": "Leslie Van Houten",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Leslie%20Van%20Houten",
+        "pubdate": "Sat, 08 Jul 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ko Itakura",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ko%20Itakura",
         "pubdate": "Sat, 08 Jul 2023 18:00:00 +0200"
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Inghilterra Spagna Under 21",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Inghilterra%20Spagna%20Under%2021",
-        "pubdate": "Sat, 08 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sciopero Trenitalia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sciopero%20Trenitalia",
         "pubdate": "Sat, 08 Jul 2023 20:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Alibaba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alibaba",
         "pubdate": "Sat, 08 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Divorzio a Las Vegas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Divorzio%20a%20Las%20Vegas",
+        "pubdate": "Sat, 08 Jul 2023 22:00:00 +0200"
       }
     ]
   ]
