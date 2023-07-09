@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-07-2023 , 13:29:16",
+  "lastUpdate": "09-07-2023 , 16:09:06",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Luis Suarez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Luis%20Suarez",
+        "pubdate": "Sun, 09 Jul 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#UFC",
         "pubdate": "Sun, 09 Jul 2023 09:00:00 +0100"
@@ -31,9 +38,16 @@
     ],
     [
       {
-        "title": "Luis Suarez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Luis%20Suarez",
-        "pubdate": "Sun, 09 Jul 2023 13:00:00 +0100"
+        "title": "Levi Colwill",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Levi%20Colwill",
+        "pubdate": "Sun, 09 Jul 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "From",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#From",
+        "pubdate": "Sun, 09 Jul 2023 15:00:00 +0100"
       }
     ],
     [
@@ -94,6 +108,13 @@
     ],
     [
       {
+        "title": "Merlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Merlin",
+        "pubdate": "Sat, 08 Jul 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Andrey Santos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Andrey%20Santos",
         "pubdate": "Sat, 08 Jul 2023 12:00:00 +0100"
@@ -108,37 +129,16 @@
     ],
     [
       {
+        "title": "Davido Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Davido%20Day",
+        "pubdate": "Sat, 08 Jul 2023 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Edwin van der Sar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Edwin%20van%20der%20Sar",
         "pubdate": "Fri, 07 Jul 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Taiwo Oyedele",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Taiwo%20Oyedele",
-        "pubdate": "Fri, 07 Jul 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fatal seduction 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Fatal%20seduction%202023",
-        "pubdate": "Fri, 07 Jul 2023 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "7/7",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#7/7",
-        "pubdate": "Fri, 07 Jul 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Threads",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Threads",
-        "pubdate": "Thu, 06 Jul 2023 05:00:00 +0100"
       }
     ]
   ]
