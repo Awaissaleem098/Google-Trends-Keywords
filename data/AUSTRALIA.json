@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "09-07-2023 , 18:39:54",
+  "lastUpdate": "09-07-2023 , 18:53:03",
   "data": [
     [
       {
-        "title": "Rublev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rublev",
-        "pubdate": "Mon, 10 Jul 2023 01:00:00 +1000"
+        "title": "Bublik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bublik",
+        "pubdate": "Mon, 10 Jul 2023 00:00:00 +1000"
       }
     ],
     [
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Pantoja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pantoja",
+        "pubdate": "Sun, 09 Jul 2023 13:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "David de Gea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#David%20de%20Gea",
         "pubdate": "Sun, 09 Jul 2023 02:00:00 +1000"
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Pantoja",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pantoja",
-        "pubdate": "Sun, 09 Jul 2023 13:00:00 +1000"
+        "title": "Rugby Championship",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rugby%20Championship",
+        "pubdate": "Sun, 09 Jul 2023 23:00:00 +1000"
       }
     ],
     [
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Lincoln Lewis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lincoln%20Lewis",
-        "pubdate": "Sun, 09 Jul 2023 20:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Harry Brook",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Harry%20Brook",
         "pubdate": "Sun, 09 Jul 2023 22:00:00 +1000"
@@ -94,9 +94,23 @@
     ],
     [
       {
+        "title": "Lincoln Lewis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lincoln%20Lewis",
+        "pubdate": "Sun, 09 Jul 2023 20:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Robbie Lawler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Robbie%20Lawler",
         "pubdate": "Sun, 09 Jul 2023 12:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Bo Nickal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bo%20Nickal",
+        "pubdate": "Sun, 09 Jul 2023 11:00:00 +1000"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Fremantle Dockers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fremantle%20Dockers",
         "pubdate": "Sun, 09 Jul 2023 19:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Moeen Ali",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Moeen%20Ali",
-        "pubdate": "Sun, 09 Jul 2023 23:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Medvedev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Medvedev",
-        "pubdate": "Sun, 09 Jul 2023 01:00:00 +1000"
       }
     ]
   ]

@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "09-07-2023 , 18:39:56",
+  "lastUpdate": "09-07-2023 , 18:53:05",
   "data": [
-    [
-      {
-        "title": "Bouzkova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bouzkova",
-        "pubdate": "Sun, 09 Jul 2023 13:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Puy de Dome",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Puy%20de%20Dome",
         "pubdate": "Sun, 09 Jul 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mobilni klimatizace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mobilni%20klimatizace",
+        "pubdate": "Sun, 09 Jul 2023 17:00:00 +0200"
       }
     ],
     [
@@ -38,16 +38,16 @@
     ],
     [
       {
-        "title": "David de Gea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#David%20de%20Gea",
-        "pubdate": "Sun, 09 Jul 2023 00:00:00 +0200"
+        "title": "Vondrousova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vondrousova",
+        "pubdate": "Sun, 09 Jul 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Mobilni klimatizace",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mobilni%20klimatizace",
-        "pubdate": "Sun, 09 Jul 2023 17:00:00 +0200"
+        "title": "David de Gea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#David%20de%20Gea",
+        "pubdate": "Sun, 09 Jul 2023 00:00:00 +0200"
       }
     ],
     [
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Jiří Bartoška",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Barto%C5%A1ka",
+        "pubdate": "Sat, 08 Jul 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Marek Ztracený",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Marek%20Ztracen%C3%BD",
         "pubdate": "Sat, 08 Jul 2023 22:00:00 +0200"
@@ -115,20 +122,6 @@
     ],
     [
       {
-        "title": "Slunce, seno, jahody",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slunce,%20seno,%20jahody",
-        "pubdate": "Sat, 08 Jul 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kolářová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kol%C3%A1%C5%99ov%C3%A1",
-        "pubdate": "Sat, 08 Jul 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jiří Pliska",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Pliska",
         "pubdate": "Sat, 08 Jul 2023 16:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Bohemia Rally",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bohemia%20Rally",
         "pubdate": "Sat, 08 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Leo Beránek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Leo%20Ber%C3%A1nek",
+        "pubdate": "Fri, 07 Jul 2023 00:00:00 +0200"
       }
     ]
   ]
