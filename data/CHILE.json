@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "09-07-2023 , 10:12:43",
+  "lastUpdate": "09-07-2023 , 13:29:12",
   "data": [
-    [
-      {
-        "title": "Brandon Moreno",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brandon%20Moreno",
-        "pubdate": "Sun, 09 Jul 2023 01:00:00 -0400"
-      }
-    ],
     [
       {
         "title": "Vasco da Gama",
@@ -24,8 +17,8 @@
     ],
     [
       {
-        "title": "Huachipato U. de Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Huachipato%20U.%20de%20Chile",
+        "title": "Huachipato  U. de Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Huachipato%20%20U.%20de%20Chile",
         "pubdate": "Sat, 08 Jul 2023 13:00:00 -0400"
       }
     ],
@@ -33,13 +26,27 @@
       {
         "title": "U.Católica  Everton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U.Cat%C3%B3lica%20%20Everton",
-        "pubdate": "Sat, 08 Jul 2023 17:00:00 -0400"
+        "pubdate": "Sat, 08 Jul 2023 18:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Tabla de posiciones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tabla%20de%20posiciones",
+        "pubdate": "Sat, 08 Jul 2023 15:00:00 -0400"
       }
     ],
     [
       {
         "title": "Primera división de Chile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Primera%20divisi%C3%B3n%20de%20Chile",
+        "pubdate": "Sat, 08 Jul 2023 15:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Wanderers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Wanderers",
         "pubdate": "Sat, 08 Jul 2023 15:00:00 -0400"
       }
     ],
@@ -52,16 +59,23 @@
     ],
     [
       {
-        "title": "Palmeiras  Flamengo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Palmeiras%20%20Flamengo",
-        "pubdate": "Sat, 08 Jul 2023 13:00:00 -0400"
+        "title": "Universidad Catolica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Universidad%20Catolica",
+        "pubdate": "Sat, 08 Jul 2023 17:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Wanderers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Wanderers",
-        "pubdate": "Sat, 08 Jul 2023 15:00:00 -0400"
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#UFC",
+        "pubdate": "Sat, 08 Jul 2023 21:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Palmeiras  Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Palmeiras%20%20Flamengo",
+        "pubdate": "Sat, 08 Jul 2023 20:00:00 -0400"
       }
     ],
     [
@@ -69,13 +83,6 @@
         "title": "Mexico vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mexico%20vs",
         "pubdate": "Sat, 08 Jul 2023 23:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Audax Italiano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Audax%20Italiano",
-        "pubdate": "Sat, 08 Jul 2023 00:00:00 -0400"
       }
     ],
     [
@@ -94,6 +101,27 @@
     ],
     [
       {
+        "title": "Audax Italiano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Audax%20Italiano",
+        "pubdate": "Sat, 08 Jul 2023 14:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Alianza Lima  Sporting Cristal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alianza%20Lima%20%20Sporting%20Cristal",
+        "pubdate": "Sat, 08 Jul 2023 21:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "DC United  Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#DC%20United%20%20Inter%20Miami",
+        "pubdate": "Sat, 08 Jul 2023 21:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Club universidad de chile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Club%20universidad%20de%20chile",
         "pubdate": "Sat, 08 Jul 2023 14:00:00 -0400"
@@ -101,44 +129,16 @@
     ],
     [
       {
-        "title": "Kylian Mbappé",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Kylian%20Mbapp%C3%A9",
+        "title": "UC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#UC",
         "pubdate": "Sat, 08 Jul 2023 19:00:00 -0400"
       }
     ],
     [
       {
-        "title": "De Gea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#De%20Gea",
-        "pubdate": "Sat, 08 Jul 2023 21:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Alianza Lima",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alianza%20Lima",
-        "pubdate": "Sat, 08 Jul 2023 22:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "ESPN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#ESPN",
-        "pubdate": "Sat, 08 Jul 2023 21:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Sex Education",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sex%20Education",
-        "pubdate": "Sat, 08 Jul 2023 21:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Jarry vs Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jarry%20vs%20Alcaraz",
-        "pubdate": "Fri, 07 Jul 2023 09:00:00 -0400"
+        "title": "TNT Sports",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#TNT%20Sports",
+        "pubdate": "Sat, 08 Jul 2023 13:00:00 -0400"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-07-2023 , 10:12:42",
+  "lastUpdate": "09-07-2023 , 13:29:10",
   "data": [
     [
       {
@@ -45,16 +45,23 @@
     ],
     [
       {
-        "title": "Niko Price",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Niko%20Price",
-        "pubdate": "Sun, 09 Jul 2023 12:00:00 +1000"
+        "title": "F1 qualifying",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#F1%20qualifying",
+        "pubdate": "Sun, 09 Jul 2023 09:00:00 +1000"
       }
     ],
     [
       {
-        "title": "F1 qualifying",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#F1%20qualifying",
-        "pubdate": "Sun, 09 Jul 2023 09:00:00 +1000"
+        "title": "Lincoln Lewis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lincoln%20Lewis",
+        "pubdate": "Sun, 09 Jul 2023 20:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Robbie Lawler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Robbie%20Lawler",
+        "pubdate": "Sun, 09 Jul 2023 12:00:00 +1000"
       }
     ],
     [
@@ -69,6 +76,13 @@
         "title": "Oscar Piastri",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Oscar%20Piastri",
         "pubdate": "Sun, 09 Jul 2023 12:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Fremantle Dockers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fremantle%20Dockers",
+        "pubdate": "Sun, 09 Jul 2023 19:00:00 +1000"
       }
     ],
     [
@@ -94,9 +108,23 @@
     ],
     [
       {
-        "title": "Mission: Impossible",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mission:%20Impossible",
-        "pubdate": "Sat, 08 Jul 2023 19:00:00 +1000"
+        "title": "Adelaide Crows",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Adelaide%20Crows",
+        "pubdate": "Sun, 09 Jul 2023 19:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Elton John",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Elton%20John",
+        "pubdate": "Sun, 09 Jul 2023 21:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Silverstone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Silverstone",
+        "pubdate": "Sun, 09 Jul 2023 20:00:00 +1000"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Taylor Lautner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Taylor%20Lautner",
         "pubdate": "Sat, 08 Jul 2023 16:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Thunderbirds Netball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Thunderbirds%20Netball",
-        "pubdate": "Sat, 08 Jul 2023 20:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Carlos Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Carlos%20Alcaraz",
-        "pubdate": "Sat, 08 Jul 2023 01:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Edwin van der Sar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Edwin%20van%20der%20Sar",
-        "pubdate": "Sat, 08 Jul 2023 08:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "NBA Summer League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NBA%20Summer%20League",
-        "pubdate": "Sat, 08 Jul 2023 13:00:00 +1000"
       }
     ]
   ]

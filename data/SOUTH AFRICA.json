@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-07-2023 , 10:12:52",
+  "lastUpdate": "09-07-2023 , 13:29:18",
   "data": [
     [
       {
@@ -24,16 +24,30 @@
     ],
     [
       {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UFC",
-        "pubdate": "Sat, 08 Jul 2023 20:00:00 +0200"
+        "title": "Van Reenen's Pass",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Van%20Reenen's%20Pass",
+        "pubdate": "Sun, 09 Jul 2023 11:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Rugby Today",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rugby%20Today",
-        "pubdate": "Sat, 08 Jul 2023 09:00:00 +0200"
+        "title": "Taylor Lautner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Taylor%20Lautner",
+        "pubdate": "Sun, 09 Jul 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dricus du Plessis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dricus%20du%20Plessis",
+        "pubdate": "Sat, 08 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UFC",
+        "pubdate": "Sat, 08 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -66,6 +80,13 @@
     ],
     [
       {
+        "title": "Khama Billiat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Khama%20Billiat",
+        "pubdate": "Sat, 08 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "F1 qualifying",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#F1%20qualifying",
         "pubdate": "Sat, 08 Jul 2023 19:00:00 +0200"
@@ -80,16 +101,16 @@
     ],
     [
       {
-        "title": "Khama Billiat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Khama%20Billiat",
-        "pubdate": "Sat, 08 Jul 2023 19:00:00 +0200"
+        "title": "Sports",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sports",
+        "pubdate": "Sat, 08 Jul 2023 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Sports",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sports",
-        "pubdate": "Sat, 08 Jul 2023 18:00:00 +0200"
+        "title": "SA Rugby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#SA%20Rugby",
+        "pubdate": "Sat, 08 Jul 2023 15:00:00 +0200"
       }
     ],
     [
@@ -101,23 +122,9 @@
     ],
     [
       {
-        "title": "Erling Haaland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Erling%20Haaland",
-        "pubdate": "Sat, 08 Jul 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ons Jabeur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ons%20Jabeur",
         "pubdate": "Sat, 08 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Springbok team",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Springbok%20team",
-        "pubdate": "Sat, 08 Jul 2023 19:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Rugby Championship",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rugby%20Championship",
         "pubdate": "Fri, 07 Jul 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dricus Du Plessis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dricus%20Du%20Plessis",
-        "pubdate": "Fri, 07 Jul 2023 11:00:00 +0200"
       }
     ]
   ]
