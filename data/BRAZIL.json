@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-07-2023 , 21:40:01",
+  "lastUpdate": "09-07-2023 , 21:53:15",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Chapecoense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chapecoense",
         "pubdate": "Sun, 09 Jul 2023 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Fortaleza x Athletico-PR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fortaleza%20x%20Athletico-PR",
+        "pubdate": "Sun, 09 Jul 2023 09:00:00 -0500"
       }
     ],
     [
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Enner Valencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Enner%20Valencia",
+        "pubdate": "Sun, 09 Jul 2023 15:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "The Voice Kids 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#The%20Voice%20Kids%202023",
         "pubdate": "Sun, 09 Jul 2023 13:00:00 -0500"
@@ -41,13 +55,6 @@
         "title": "Alexander Volkanovski",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Alexander%20Volkanovski",
         "pubdate": "Sun, 09 Jul 2023 08:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Enner Valencia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Enner%20Valencia",
-        "pubdate": "Sun, 09 Jul 2023 15:00:00 -0500"
       }
     ],
     [
@@ -66,16 +73,16 @@
     ],
     [
       {
-        "title": "Lando Norris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lando%20Norris",
-        "pubdate": "Sun, 09 Jul 2023 11:00:00 -0500"
+        "title": "Iga Swiatek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Iga%20Swiatek",
+        "pubdate": "Sun, 09 Jul 2023 14:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Reforma tributária impostos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Reforma%20tribut%C3%A1ria%20impostos",
-        "pubdate": "Sun, 09 Jul 2023 13:00:00 -0500"
+        "title": "Lando Norris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lando%20Norris",
+        "pubdate": "Sun, 09 Jul 2023 11:00:00 -0500"
       }
     ],
     [
@@ -87,9 +94,23 @@
     ],
     [
       {
+        "title": "Reforma tributária impostos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Reforma%20tribut%C3%A1ria%20impostos",
+        "pubdate": "Sun, 09 Jul 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Rublev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rublev",
         "pubdate": "Sun, 09 Jul 2023 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Pânico filme",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#P%C3%A2nico%20filme",
+        "pubdate": "Sun, 09 Jul 2023 16:00:00 -0500"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Emma Reyes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Emma%20Reyes",
         "pubdate": "Sat, 08 Jul 2023 22:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Vasco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vasco",
-        "pubdate": "Sat, 08 Jul 2023 08:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Jogo do Palmeiras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20Palmeiras",
-        "pubdate": "Sat, 08 Jul 2023 06:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Coritiba x América-MG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Coritiba%20x%20Am%C3%A9rica-MG",
-        "pubdate": "Sat, 08 Jul 2023 14:00:00 -0500"
       }
     ]
   ]
