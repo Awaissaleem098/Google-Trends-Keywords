@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "10-07-2023 , 19:16:47",
+  "lastUpdate": "10-07-2023 , 19:29:59",
   "data": [
-    [
-      {
-        "title": "熱中症警戒アラート",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%86%B1%E4%B8%AD%E7%97%87%E8%AD%A6%E6%88%92%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%88",
-        "pubdate": "Mon, 10 Jul 2023 10:00:00 +0900"
-      }
-    ],
     [
       {
         "title": "畑岡奈紗",
@@ -31,8 +24,8 @@
     ],
     [
       {
-        "title": "Amazonプライムデー先行セール",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#Amazon%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%83%87%E3%83%BC%E5%85%88%E8%A1%8C%E3%82%BB%E3%83%BC%E3%83%AB",
+        "title": "Amazonプライムデー 先行セール",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#Amazon%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%83%87%E3%83%BC%20%E5%85%88%E8%A1%8C%E3%82%BB%E3%83%BC%E3%83%AB",
         "pubdate": "Sun, 09 Jul 2023 08:00:00 +0900"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Twitter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#Twitter",
         "pubdate": "Sun, 02 Jul 2023 04:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "API",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#API",
+        "pubdate": "Sun, 02 Jul 2023 00:00:00 +0900"
       }
     ]
   ]
