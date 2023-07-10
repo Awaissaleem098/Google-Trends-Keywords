@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "10-07-2023 , 00:35:52",
+  "lastUpdate": "10-07-2023 , 02:20:49",
   "data": [
-    [
-      {
-        "title": "Miss Nederland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Miss%20Nederland",
-        "pubdate": "Mon, 10 Jul 2023 01:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Ötztaler Radmarathon",
@@ -66,13 +59,6 @@
     ],
     [
       {
-        "title": "DTM Norisring",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#DTM%20Norisring",
-        "pubdate": "Sun, 09 Jul 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Fenerbahce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fenerbahce",
         "pubdate": "Sun, 09 Jul 2023 19:00:00 +0200"
@@ -87,9 +73,23 @@
     ],
     [
       {
+        "title": "DTM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#DTM",
+        "pubdate": "Sun, 09 Jul 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Jonah Hill",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jonah%20Hill",
         "pubdate": "Sun, 09 Jul 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "DTM Norisring",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#DTM%20Norisring",
+        "pubdate": "Sun, 09 Jul 2023 15:00:00 +0200"
       }
     ],
     [
@@ -108,16 +108,16 @@
     ],
     [
       {
-        "title": "Harry Styles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Harry%20Styles",
-        "pubdate": "Sat, 08 Jul 2023 10:00:00 +0200"
+        "title": "Andrea Berg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Andrea%20Berg",
+        "pubdate": "Sat, 08 Jul 2023 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Andrea Berg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Andrea%20Berg",
-        "pubdate": "Sat, 08 Jul 2023 16:00:00 +0200"
+        "title": "Harry Styles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Harry%20Styles",
+        "pubdate": "Sat, 08 Jul 2023 10:00:00 +0200"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Vanessa Mai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Vanessa%20Mai",
-        "pubdate": "Sat, 08 Jul 2023 21:00:00 +0200"
+        "title": "Alexander Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alexander%20Zverev",
+        "pubdate": "Sat, 08 Jul 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Alexander Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alexander%20Zverev",
-        "pubdate": "Sat, 08 Jul 2023 17:00:00 +0200"
+        "title": "Gießen Eritrea-Festival",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gie%C3%9Fen%20Eritrea-Festival",
+        "pubdate": "Sat, 08 Jul 2023 19:00:00 +0200"
       }
     ]
   ]

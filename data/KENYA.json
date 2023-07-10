@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-07-2023 , 00:35:56",
+  "lastUpdate": "10-07-2023 , 02:20:53",
   "data": [
     [
       {
@@ -17,16 +17,16 @@
     ],
     [
       {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#UFC",
-        "pubdate": "Sun, 09 Jul 2023 06:00:00 +0300"
+        "title": "Luis Suarez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Luis%20Suarez",
+        "pubdate": "Sun, 09 Jul 2023 17:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Luis Suarez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Luis%20Suarez",
-        "pubdate": "Sun, 09 Jul 2023 17:00:00 +0300"
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#UFC",
+        "pubdate": "Sun, 09 Jul 2023 06:00:00 +0300"
       }
     ],
     [
@@ -38,8 +38,8 @@
     ],
     [
       {
-        "title": "British GP!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#British%20GP!",
+        "title": "British gp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#British%20gp",
         "pubdate": "Sun, 09 Jul 2023 19:00:00 +0300"
       }
     ],
@@ -101,8 +101,8 @@
     ],
     [
       {
-        "title": "Cluster munitions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Cluster%20munitions",
+        "title": "Cluster Munitions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Cluster%20Munitions",
         "pubdate": "Sat, 08 Jul 2023 15:00:00 +0300"
       }
     ],
@@ -111,13 +111,6 @@
         "title": "NSL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#NSL",
         "pubdate": "Sat, 08 Jul 2023 18:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Chicago Fire Nashville SC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chicago%20Fire%20Nashville%20SC",
-        "pubdate": "Sat, 08 Jul 2023 17:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Onana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Onana",
         "pubdate": "Fri, 07 Jul 2023 13:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Citizen News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Citizen%20News",
+        "pubdate": "Fri, 07 Jul 2023 14:00:00 +0300"
       }
     ]
   ]

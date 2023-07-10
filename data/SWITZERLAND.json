@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "10-07-2023 , 00:36:00",
+  "lastUpdate": "10-07-2023 , 02:20:56",
   "data": [
+    [
+      {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Novak%20Djokovic",
+        "pubdate": "Mon, 10 Jul 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Bencic",
@@ -20,6 +27,13 @@
         "title": "Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Djokovic",
         "pubdate": "Sun, 09 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Formel 1 Silverstone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Formel%201%20Silverstone",
+        "pubdate": "Sun, 09 Jul 2023 12:00:00 +0200"
       }
     ],
     [
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "James Trafford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#James%20Trafford",
-        "pubdate": "Sun, 09 Jul 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Les Ardentes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Les%20Ardentes",
         "pubdate": "Sun, 09 Jul 2023 21:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Bikini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bikini",
         "pubdate": "Sun, 09 Jul 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FCL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FCL",
-        "pubdate": "Sun, 09 Jul 2023 13:00:00 +0200"
       }
     ]
   ]
