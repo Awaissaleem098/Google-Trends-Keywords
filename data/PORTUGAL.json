@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-07-2023 , 19:43:00",
+  "lastUpdate": "10-07-2023 , 19:56:15",
   "data": [
     [
       {
@@ -24,8 +24,15 @@
     ],
     [
       {
-        "title": "Sao Paulo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sao%20Paulo",
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Djokovic",
+        "pubdate": "Mon, 10 Jul 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Saopaulo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Saopaulo",
         "pubdate": "Mon, 10 Jul 2023 01:00:00 +0100"
       }
     ],
@@ -38,9 +45,16 @@
     ],
     [
       {
-        "title": "Ricky Martin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ricky%20Martin",
-        "pubdate": "Mon, 10 Jul 2023 00:00:00 +0100"
+        "title": "Pedro Adão e Silva",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Ad%C3%A3o%20e%20Silva",
+        "pubdate": "Mon, 10 Jul 2023 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "AO3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#AO3",
+        "pubdate": "Mon, 10 Jul 2023 17:00:00 +0100"
       }
     ],
     [
@@ -52,16 +66,16 @@
     ],
     [
       {
-        "title": "Pedro Adão e Silva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Ad%C3%A3o%20e%20Silva",
-        "pubdate": "Mon, 10 Jul 2023 11:00:00 +0100"
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Novak%20Djokovic",
+        "pubdate": "Mon, 10 Jul 2023 10:00:00 +0100"
       }
     ],
     [
       {
-        "title": "David Carreira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#David%20Carreira",
-        "pubdate": "Mon, 10 Jul 2023 17:00:00 +0100"
+        "title": "Ricky Martin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ricky%20Martin",
+        "pubdate": "Mon, 10 Jul 2023 00:00:00 +0100"
       }
     ],
     [
@@ -73,16 +87,16 @@
     ],
     [
       {
-        "title": "Uma nespera no Cu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Uma%20nespera%20no%20Cu",
-        "pubdate": "Mon, 10 Jul 2023 15:00:00 +0100"
+        "title": "David Carreira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#David%20Carreira",
+        "pubdate": "Mon, 10 Jul 2023 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Sofia Vergara",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sofia%20Vergara",
-        "pubdate": "Mon, 10 Jul 2023 11:00:00 +0100"
+        "title": "Uma nespera no Cu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Uma%20nespera%20no%20Cu",
+        "pubdate": "Mon, 10 Jul 2023 15:00:00 +0100"
       }
     ],
     [
@@ -94,16 +108,16 @@
     ],
     [
       {
-        "title": "NATO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#NATO",
-        "pubdate": "Mon, 10 Jul 2023 14:00:00 +0100"
+        "title": "Sofia Vergara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sofia%20Vergara",
+        "pubdate": "Mon, 10 Jul 2023 11:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Bruno Lage Botafogo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bruno%20Lage%20Botafogo",
-        "pubdate": "Mon, 10 Jul 2023 17:00:00 +0100"
+        "title": "NATO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#NATO",
+        "pubdate": "Mon, 10 Jul 2023 14:00:00 +0100"
       }
     ],
     [
@@ -115,9 +129,9 @@
     ],
     [
       {
-        "title": "BBC presenter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#BBC%20presenter",
-        "pubdate": "Mon, 10 Jul 2023 09:00:00 +0100"
+        "title": "Bruno Lage Botafogo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bruno%20Lage%20Botafogo",
+        "pubdate": "Mon, 10 Jul 2023 17:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Dia Mundial da Pizza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20Mundial%20da%20Pizza",
         "pubdate": "Mon, 10 Jul 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Rui Veloso",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rui%20Veloso",
-        "pubdate": "Mon, 10 Jul 2023 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Seguro automóvel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Seguro%20autom%C3%B3vel",
-        "pubdate": "Mon, 10 Jul 2023 17:00:00 +0100"
       }
     ]
   ]

@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "10-07-2023 , 19:42:57",
+  "lastUpdate": "10-07-2023 , 19:56:09",
   "data": [
+    [
+      {
+        "title": "Radar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Radar",
+        "pubdate": "Mon, 10 Jul 2023 21:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Will Smith",
@@ -10,16 +17,16 @@
     ],
     [
       {
-        "title": "Depeche Mode Budapest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Depeche%20Mode%20Budapest",
-        "pubdate": "Mon, 10 Jul 2023 15:00:00 +0200"
+        "title": "Reviczky Gábor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Reviczky%20G%C3%A1bor",
+        "pubdate": "Mon, 10 Jul 2023 14:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Reviczky Gábor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Reviczky%20G%C3%A1bor",
-        "pubdate": "Mon, 10 Jul 2023 14:00:00 +0200"
+        "title": "Depeche Mode Budapest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Depeche%20Mode%20Budapest",
+        "pubdate": "Mon, 10 Jul 2023 15:00:00 +0200"
       }
     ],
     [
@@ -34,6 +41,13 @@
         "title": "Dua Lipa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dua%20Lipa",
         "pubdate": "Mon, 10 Jul 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Djokovic",
+        "pubdate": "Mon, 10 Jul 2023 01:00:00 +0200"
       }
     ],
     [
@@ -59,6 +73,13 @@
     ],
     [
       {
+        "title": "Dimitrov",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dimitrov",
+        "pubdate": "Mon, 10 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ferencváros",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ferencv%C3%A1ros",
         "pubdate": "Mon, 10 Jul 2023 12:00:00 +0200"
@@ -69,6 +90,13 @@
         "title": "Sofia Vergara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sofia%20Vergara",
         "pubdate": "Mon, 10 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Napoleon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Napoleon",
+        "pubdate": "Mon, 10 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "Harry Styles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Harry%20Styles",
-        "pubdate": "Sun, 09 Jul 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Shakira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Shakira",
         "pubdate": "Sun, 09 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Szalai Ádám",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szalai%20%C3%81d%C3%A1m",
-        "pubdate": "Sun, 09 Jul 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jonah Hill",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jonah%20Hill",
-        "pubdate": "Sun, 09 Jul 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Andrew Ridgeley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Andrew%20Ridgeley",
-        "pubdate": "Sun, 09 Jul 2023 20:00:00 +0200"
       }
     ]
   ]
