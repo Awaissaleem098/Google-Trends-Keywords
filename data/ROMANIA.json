@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "10-07-2023 , 04:47:50",
+  "lastUpdate": "10-07-2023 , 05:04:59",
   "data": [
-    [
-      {
-        "title": "Cristiano Ronaldo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cristiano%20Ronaldo",
-        "pubdate": "Mon, 10 Jul 2023 02:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "Hurkacz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Hurkacz",
         "pubdate": "Mon, 10 Jul 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Cristiano Ronaldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cristiano%20Ronaldo",
+        "pubdate": "Mon, 10 Jul 2023 02:00:00 +0300"
       }
     ],
     [
@@ -27,6 +27,13 @@
         "title": "Margareta Pâslaru",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Margareta%20P%C3%A2slaru",
         "pubdate": "Sun, 09 Jul 2023 13:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Azarenka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Azarenka",
+        "pubdate": "Sun, 09 Jul 2023 21:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Malina Avasiloaie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Malina%20Avasiloaie",
         "pubdate": "Sat, 08 Jul 2023 14:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Haddad Maia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Haddad%20Maia",
-        "pubdate": "Sat, 08 Jul 2023 20:00:00 +0300"
       }
     ]
   ]
