@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-07-2023 , 01:54:54",
+  "lastUpdate": "11-07-2023 , 02:53:02",
   "data": [
     [
       {
@@ -24,9 +24,23 @@
     ],
     [
       {
+        "title": "Wimbledon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wimbledon",
+        "pubdate": "Mon, 10 Jul 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sabalenka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sabalenka",
-        "pubdate": "Mon, 10 Jul 2023 11:00:00 +0200"
+        "pubdate": "Mon, 10 Jul 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Stanisław Tym",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Stanis%C5%82aw%20Tym",
+        "pubdate": "Mon, 10 Jul 2023 15:00:00 +0200"
       }
     ],
     [
@@ -59,16 +73,16 @@
     ],
     [
       {
-        "title": "Paulina Smaszcz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Paulina%20Smaszcz",
-        "pubdate": "Mon, 10 Jul 2023 19:00:00 +0200"
+        "title": "Will Smith",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Will%20Smith",
+        "pubdate": "Mon, 10 Jul 2023 06:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Will Smith",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Will%20Smith",
-        "pubdate": "Mon, 10 Jul 2023 06:00:00 +0200"
+        "title": "Paulina Smaszcz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Paulina%20Smaszcz",
+        "pubdate": "Mon, 10 Jul 2023 19:00:00 +0200"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Taylor Russell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Taylor%20Russell",
-        "pubdate": "Mon, 10 Jul 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Travis Scott",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Travis%20Scott",
         "pubdate": "Mon, 10 Jul 2023 12:00:00 +0200"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Grzegorz Gawlik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Grzegorz%20Gawlik",
+        "title": "Quebonafide",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Quebonafide",
         "pubdate": "Mon, 10 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Skrzyp polny",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Skrzyp%20polny",
-        "pubdate": "Mon, 10 Jul 2023 23:00:00 +0200"
       }
     ]
   ]

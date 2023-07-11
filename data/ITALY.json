@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "11-07-2023 , 01:54:52",
+  "lastUpdate": "11-07-2023 , 02:53:00",
   "data": [
-    [
-      {
-        "title": "Jankto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Jankto",
-        "pubdate": "Tue, 11 Jul 2023 01:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Sciopero Treni 13 luglio",
@@ -20,6 +13,13 @@
         "title": "Alessia e Davide Temptation Island",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alessia%20e%20Davide%20Temptation%20Island",
         "pubdate": "Tue, 11 Jul 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Taxi Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Taxi%20Roma",
+        "pubdate": "Tue, 11 Jul 2023 04:00:00 +0200"
       }
     ],
     [
@@ -38,16 +38,16 @@
     ],
     [
       {
-        "title": "Roberto Vecchioni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Roberto%20Vecchioni",
-        "pubdate": "Mon, 10 Jul 2023 21:00:00 +0200"
+        "title": "Colera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Colera",
+        "pubdate": "Mon, 10 Jul 2023 13:00:00 +0200"
       }
     ],
     [
       {
-        "title": "IT-Alert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#IT-Alert",
-        "pubdate": "Mon, 10 Jul 2023 13:00:00 +0200"
+        "title": "Roberto Vecchioni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Roberto%20Vecchioni",
+        "pubdate": "Mon, 10 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Colera Sardegna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Colera%20Sardegna",
-        "pubdate": "Mon, 10 Jul 2023 15:00:00 +0200"
+        "title": "Vecchioni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Vecchioni",
+        "pubdate": "Mon, 10 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -83,6 +83,13 @@
         "title": "Miss Olanda 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Miss%20Olanda%202023",
         "pubdate": "Mon, 10 Jul 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "IT-Alert Emilia Romagna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#IT-Alert%20Emilia%20Romagna",
+        "pubdate": "Mon, 10 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Al vertice della tensione",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Al%20vertice%20della%20tensione",
         "pubdate": "Mon, 10 Jul 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Andreeva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Andreeva",
-        "pubdate": "Mon, 10 Jul 2023 13:00:00 +0200"
       }
     ]
   ]
