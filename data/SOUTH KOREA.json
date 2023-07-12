@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-07-2023 , 08:28:09",
+  "lastUpdate": "12-07-2023 , 08:43:10",
   "data": [
     [
       {
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "차인표",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B0%A8%EC%9D%B8%ED%91%9C",
+        "pubdate": "Mon, 10 Jul 2023 10:00:00 +0900"
+      }
+    ],
+    [
+      {
         "title": "에코프로",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%97%90%EC%BD%94%ED%94%84%EB%A1%9C",
         "pubdate": "Mon, 10 Jul 2023 13:00:00 +0900"
@@ -104,13 +111,6 @@
         "title": "중국",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A4%91%EA%B5%AD",
         "pubdate": "Mon, 10 Jul 2023 12:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "차인표",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B0%A8%EC%9D%B8%ED%91%9C",
-        "pubdate": "Mon, 10 Jul 2023 10:00:00 +0900"
       }
     ],
     [
