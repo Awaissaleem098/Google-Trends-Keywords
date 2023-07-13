@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "13-07-2023 , 20:48:38",
+  "lastUpdate": "13-07-2023 , 21:06:39",
   "data": [
+    [
+      {
+        "title": "Farul Sheriff",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Farul%20Sheriff",
+        "pubdate": "Thu, 13 Jul 2023 16:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Marius budai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Marius%20budai",
+        "pubdate": "Thu, 13 Jul 2023 11:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Bard",
@@ -45,6 +59,13 @@
     ],
     [
       {
+        "title": "Calista Luxury Resort",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Calista%20Luxury%20Resort",
+        "pubdate": "Thu, 13 Jul 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Conference League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Conference%20League",
         "pubdate": "Thu, 13 Jul 2023 10:00:00 +0300"
@@ -52,9 +73,9 @@
     ],
     [
       {
-        "title": "Vitor Roque",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vitor%20Roque",
-        "pubdate": "Thu, 13 Jul 2023 00:00:00 +0300"
+        "title": "Vladimir Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vladimir%20Putin",
+        "pubdate": "Thu, 13 Jul 2023 23:00:00 +0300"
       }
     ],
     [
@@ -66,23 +87,16 @@
     ],
     [
       {
+        "title": "Vitor Roque",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vitor%20Roque",
+        "pubdate": "Thu, 13 Jul 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Lewis Hamilton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Lewis%20Hamilton",
         "pubdate": "Thu, 13 Jul 2023 13:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Calista Luxury Resort",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Calista%20Luxury%20Resort",
-        "pubdate": "Thu, 13 Jul 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Marius Budăi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Marius%20Bud%C4%83i",
-        "pubdate": "Thu, 13 Jul 2023 17:00:00 +0300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Milan Kundera",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Milan%20Kundera",
         "pubdate": "Wed, 12 Jul 2023 14:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Meteorit romania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Meteorit%20romania",
-        "pubdate": "Wed, 12 Jul 2023 01:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "BVB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#BVB",
-        "pubdate": "Wed, 12 Jul 2023 17:00:00 +0300"
       }
     ]
   ]

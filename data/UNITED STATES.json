@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "13-07-2023 , 20:48:30",
+  "lastUpdate": "13-07-2023 , 21:06:25",
   "data": [
+    [
+      {
+        "title": "Powerball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Powerball",
+        "pubdate": "Thu, 13 Jul 2023 13:00:00 -0700"
+      }
+    ],
     [
       {
         "title": "XRP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#XRP",
         "pubdate": "Thu, 13 Jul 2023 10:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arsenal",
+        "pubdate": "Thu, 13 Jul 2023 11:00:00 -0700"
       }
     ],
     [
@@ -31,13 +45,6 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arsenal",
-        "pubdate": "Thu, 13 Jul 2023 11:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "The Boys",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20Boys",
         "pubdate": "Thu, 13 Jul 2023 09:00:00 -0700"
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Emily Blunt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Emily%20Blunt",
-        "pubdate": "Thu, 13 Jul 2023 05:00:00 -0700"
+        "title": "Bob Iger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bob%20Iger",
+        "pubdate": "Thu, 13 Jul 2023 13:00:00 -0700"
       }
     ],
     [
@@ -66,16 +73,16 @@
     ],
     [
       {
-        "title": "USA vs Panama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USA%20vs%20Panama",
-        "pubdate": "Wed, 12 Jul 2023 14:00:00 -0700"
+        "title": "Mexico vs Jamaica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mexico%20vs%20Jamaica",
+        "pubdate": "Wed, 12 Jul 2023 19:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Mexico vs Jamaica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mexico%20vs%20Jamaica",
-        "pubdate": "Wed, 12 Jul 2023 19:00:00 -0700"
+        "title": "USA vs Panama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USA%20vs%20Panama",
+        "pubdate": "Wed, 12 Jul 2023 14:00:00 -0700"
       }
     ],
     [
@@ -87,37 +94,9 @@
     ],
     [
       {
-        "title": "Mega Millions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mega%20Millions",
-        "pubdate": "Wed, 12 Jul 2023 04:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Chicago tornado",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chicago%20tornado",
         "pubdate": "Wed, 12 Jul 2023 18:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Christopher Eubanks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Christopher%20Eubanks",
-        "pubdate": "Wed, 12 Jul 2023 19:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Ons Jabeur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ons%20Jabeur",
-        "pubdate": "Wed, 12 Jul 2023 13:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "National French Fry Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#National%20French%20Fry%20Day",
-        "pubdate": "Wed, 12 Jul 2023 15:00:00 -0700"
       }
     ],
     [
@@ -129,6 +108,20 @@
     ],
     [
       {
+        "title": "Christopher Eubanks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Christopher%20Eubanks",
+        "pubdate": "Wed, 12 Jul 2023 19:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "National French Fry Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#National%20French%20Fry%20Day",
+        "pubdate": "Wed, 12 Jul 2023 15:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Huw Edwards",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Huw%20Edwards",
         "pubdate": "Wed, 12 Jul 2023 12:00:00 -0700"
@@ -136,8 +129,15 @@
     ],
     [
       {
-        "title": "CPI) report",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#CPI)%20report",
+        "title": "LeBron James",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#LeBron%20James",
+        "pubdate": "Wed, 12 Jul 2023 22:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "CPI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#CPI",
         "pubdate": "Wed, 12 Jul 2023 07:00:00 -0700"
       }
     ]
