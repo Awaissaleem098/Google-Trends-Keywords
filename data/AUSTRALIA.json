@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "13-07-2023 , 02:04:47",
+  "lastUpdate": "13-07-2023 , 03:04:57",
   "data": [
+    [
+      {
+        "title": "Huw Edwards",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Huw%20Edwards",
+        "pubdate": "Thu, 13 Jul 2023 07:00:00 +1000"
+      }
+    ],
     [
       {
         "title": "Man United vs Leeds United",
@@ -20,6 +27,13 @@
         "title": "Emmy nominations 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Emmy%20nominations%202023",
         "pubdate": "Thu, 13 Jul 2023 08:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "West Indies vs India",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#West%20Indies%20vs%20India",
+        "pubdate": "Thu, 13 Jul 2023 01:00:00 +1000"
       }
     ],
     [
@@ -52,20 +66,6 @@
     ],
     [
       {
-        "title": "India Vs West Indies",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#India%20Vs%20West%20Indies",
-        "pubdate": "Thu, 13 Jul 2023 10:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Cost of living Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cost%20of%20living%20Australia",
-        "pubdate": "Thu, 13 Jul 2023 03:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Jennette McCurdy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jennette%20McCurdy",
         "pubdate": "Thu, 13 Jul 2023 01:00:00 +1000"
@@ -90,13 +90,6 @@
         "title": "NRL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NRL",
         "pubdate": "Wed, 12 Jul 2023 22:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Huw Edwards",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Huw%20Edwards",
-        "pubdate": "Wed, 12 Jul 2023 11:00:00 +1000"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Leslie Van Houten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Leslie%20Van%20Houten",
         "pubdate": "Wed, 12 Jul 2023 10:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Andrew Forrest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Andrew%20Forrest",
+        "pubdate": "Wed, 12 Jul 2023 22:00:00 +1000"
       }
     ]
   ]

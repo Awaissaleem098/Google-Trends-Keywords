@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-07-2023 , 02:04:46",
+  "lastUpdate": "13-07-2023 , 03:04:57",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "USA vs Panama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#USA%20vs%20Panama",
         "pubdate": "Wed, 12 Jul 2023 14:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Man United vs Leeds United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Man%20United%20vs%20Leeds%20United",
-        "pubdate": "Wed, 12 Jul 2023 09:00:00 -0700"
       }
     ],
     [
@@ -38,16 +31,9 @@
     ],
     [
       {
-        "title": "Huw Edwards",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Huw%20Edwards",
-        "pubdate": "Wed, 12 Jul 2023 12:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Carlos Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Carlos%20Alcaraz",
-        "pubdate": "Wed, 12 Jul 2023 15:00:00 -0700"
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Manchester%20United",
+        "pubdate": "Wed, 12 Jul 2023 10:00:00 -0700"
       }
     ],
     [
@@ -59,9 +45,9 @@
     ],
     [
       {
-        "title": "CPI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#CPI",
-        "pubdate": "Wed, 12 Jul 2023 07:00:00 -0700"
+        "title": "ESPYS 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#ESPYS%202023",
+        "pubdate": "Wed, 12 Jul 2023 17:00:00 -0700"
       }
     ],
     [
@@ -73,9 +59,9 @@
     ],
     [
       {
-        "title": "ESPYS 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#ESPYS%202023",
-        "pubdate": "Wed, 12 Jul 2023 17:00:00 -0700"
+        "title": "CPI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#CPI",
+        "pubdate": "Wed, 12 Jul 2023 07:00:00 -0700"
       }
     ],
     [
@@ -101,6 +87,27 @@
     ],
     [
       {
+        "title": "Daniil Medvedev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Daniil%20Medvedev",
+        "pubdate": "Wed, 12 Jul 2023 14:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Latto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Latto",
+        "pubdate": "Wed, 12 Jul 2023 16:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Patrick Mahomes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Patrick%20Mahomes",
+        "pubdate": "Wed, 12 Jul 2023 19:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "xAI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#xAI",
         "pubdate": "Wed, 12 Jul 2023 18:00:00 -0700"
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Antagonist Tour",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Antagonist%20Tour",
+        "pubdate": "Wed, 12 Jul 2023 19:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Powerball",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Powerball",
         "pubdate": "Tue, 11 Jul 2023 12:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Leslie Van Houten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Leslie%20Van%20Houten",
-        "pubdate": "Tue, 11 Jul 2023 14:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Theranos Elizabeth Holmes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Theranos%20Elizabeth%20Holmes",
-        "pubdate": "Tue, 11 Jul 2023 06:00:00 -0700"
       }
     ]
   ]
