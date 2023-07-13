@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-07-2023 , 23:59:35",
+  "lastUpdate": "13-07-2023 , 02:04:49",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Mission: Impossible 7",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mission:%20Impossible%207",
-        "pubdate": "Wed, 12 Jul 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sabalenka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sabalenka",
         "pubdate": "Wed, 12 Jul 2023 17:00:00 +0200"
@@ -66,9 +59,23 @@
     ],
     [
       {
+        "title": "Mission: Impossible 7",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mission:%20Impossible%207",
+        "pubdate": "Wed, 12 Jul 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Milan Kundera",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Milan%20Kundera",
         "pubdate": "Wed, 12 Jul 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tom Cruise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tom%20Cruise",
+        "pubdate": "Wed, 12 Jul 2023 12:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "PFAS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#PFAS",
         "pubdate": "Wed, 12 Jul 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Holger Rune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Holger%20Rune",
-        "pubdate": "Tue, 11 Jul 2023 18:00:00 +0200"
       }
     ]
   ]

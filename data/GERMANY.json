@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-07-2023 , 23:59:36",
+  "lastUpdate": "13-07-2023 , 02:04:50",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Unwetter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unwetter",
         "pubdate": "Wed, 12 Jul 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Simonis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Simonis",
-        "pubdate": "Wed, 12 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -38,9 +31,9 @@
     ],
     [
       {
-        "title": "Chrono24",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Chrono24",
-        "pubdate": "Wed, 12 Jul 2023 15:00:00 +0200"
+        "title": "Mission Impossible 7",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mission%20Impossible%207",
+        "pubdate": "Wed, 12 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -62,6 +55,13 @@
         "title": "Gewitter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gewitter",
         "pubdate": "Wed, 12 Jul 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Simonis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Simonis",
+        "pubdate": "Wed, 12 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -108,20 +108,6 @@
     ],
     [
       {
-        "title": "Vulkanausbruch Island",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Vulkanausbruch%20Island",
-        "pubdate": "Tue, 11 Jul 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Glööckler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gl%C3%B6%C3%B6ckler",
-        "pubdate": "Tue, 11 Jul 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "NATO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NATO",
         "pubdate": "Mon, 10 Jul 2023 15:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "Erdogan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Erdogan",
         "pubdate": "Sun, 09 Jul 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fenerbahce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fenerbahce",
+        "pubdate": "Sun, 09 Jul 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Silverstone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Silverstone",
+        "pubdate": "Sun, 09 Jul 2023 16:00:00 +0200"
       }
     ]
   ]
