@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "13-07-2023 , 21:49:30",
+  "lastUpdate": "13-07-2023 , 22:08:49",
   "data": [
     [
       {
         "title": "Nürnberg vs Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#N%C3%BCrnberg%20vs%20Arsenal",
         "pubdate": "Thu, 13 Jul 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Arsenal",
+        "pubdate": "Thu, 13 Jul 2023 21:00:00 +0100"
       }
     ],
     [
@@ -45,20 +52,6 @@
     ],
     [
       {
-        "title": "Diego Moreira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Diego%20Moreira",
-        "pubdate": "Thu, 13 Jul 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Portable",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Portable",
-        "pubdate": "Thu, 13 Jul 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Wole Soyinka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Wole%20Soyinka",
         "pubdate": "Thu, 13 Jul 2023 13:00:00 +0100"
@@ -66,8 +59,8 @@
     ],
     [
       {
-        "title": "xAI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#xAI",
+        "title": "Portable",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Portable",
         "pubdate": "Thu, 13 Jul 2023 12:00:00 +0100"
       }
     ],
@@ -80,6 +73,13 @@
     ],
     [
       {
+        "title": "xAI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#xAI",
+        "pubdate": "Thu, 13 Jul 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Man United vs Leeds United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20United%20vs%20Leeds%20United",
         "pubdate": "Wed, 12 Jul 2023 16:00:00 +0100"
@@ -87,15 +87,8 @@
     ],
     [
       {
-        "title": "LiveScore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#LiveScore",
-        "pubdate": "Wed, 12 Jul 2023 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Man U",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20U",
+        "title": "Man Utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20Utd",
         "pubdate": "Wed, 12 Jul 2023 17:00:00 +0100"
       }
     ],
@@ -108,8 +101,8 @@
     ],
     [
       {
-        "title": "Seyi Vibez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Seyi%20Vibez",
+        "title": "Headies Award 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Headies%20Award%202023",
         "pubdate": "Wed, 12 Jul 2023 12:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Mark Zuckerberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Mark%20Zuckerberg",
         "pubdate": "Wed, 12 Jul 2023 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Vitor Roque",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Vitor%20Roque",
+        "pubdate": "Wed, 12 Jul 2023 23:00:00 +0100"
       }
     ]
   ]

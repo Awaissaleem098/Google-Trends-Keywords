@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "13-07-2023 , 21:49:26",
+  "lastUpdate": "13-07-2023 , 22:08:44",
   "data": [
     [
       {
         "title": "Bard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bard",
         "pubdate": "Thu, 13 Jul 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Šibenik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%A0ibenik",
+        "pubdate": "Thu, 13 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -24,6 +31,13 @@
     ],
     [
       {
+        "title": "XRP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#XRP",
+        "pubdate": "Thu, 13 Jul 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Monika Absolonová",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Monika%20Absolonov%C3%A1",
         "pubdate": "Thu, 13 Jul 2023 00:00:00 +0200"
@@ -38,16 +52,9 @@
     ],
     [
       {
-        "title": "David Jurásek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#David%20Jur%C3%A1sek",
-        "pubdate": "Thu, 13 Jul 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "XRP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#XRP",
-        "pubdate": "Thu, 13 Jul 2023 22:00:00 +0200"
+        "title": "Sony A6700",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sony%20A6700",
+        "pubdate": "Thu, 13 Jul 2023 11:00:00 +0200"
       }
     ],
     [
@@ -62,6 +69,13 @@
         "title": "Mikala Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mikala%20Jones",
         "pubdate": "Thu, 13 Jul 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "WTA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#WTA",
+        "pubdate": "Thu, 13 Jul 2023 23:00:00 +0200"
       }
     ],
     [
@@ -83,13 +97,6 @@
         "title": "Leslie Van Houten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Leslie%20Van%20Houten",
         "pubdate": "Wed, 12 Jul 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wonka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Wonka",
-        "pubdate": "Wed, 12 Jul 2023 02:00:00 +0200"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Wonka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Wonka",
+        "pubdate": "Wed, 12 Jul 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Popeyes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Popeyes",
         "pubdate": "Wed, 12 Jul 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Simona Chytrová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Simona%20Chytrov%C3%A1",
-        "pubdate": "Wed, 12 Jul 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PewDiePie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#PewDiePie",
-        "pubdate": "Wed, 12 Jul 2023 22:00:00 +0200"
       }
     ]
   ]
