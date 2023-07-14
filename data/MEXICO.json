@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "14-07-2023 , 00:34:33",
+  "lastUpdate": "14-07-2023 , 02:19:55",
   "data": [
     [
       {
         "title": "Nominados La Casa de los Famosos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Nominados%20La%20Casa%20de%20los%20Famosos",
         "pubdate": "Thu, 13 Jul 2023 00:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Nürnberg  Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#N%C3%BCrnberg%20%20Arsenal",
-        "pubdate": "Thu, 13 Jul 2023 11:00:00 -0600"
       }
     ],
     [
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "Santos vs Atlas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Santos%20vs%20Atlas",
+        "pubdate": "Thu, 13 Jul 2023 10:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Dele Alli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Dele%20Alli",
         "pubdate": "Thu, 13 Jul 2023 10:00:00 -0600"
@@ -31,8 +31,8 @@
     ],
     [
       {
-        "title": "MLS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#MLS",
+        "title": "Nürnberg  Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#N%C3%BCrnberg%20%20Arsenal",
         "pubdate": "Thu, 13 Jul 2023 11:00:00 -0600"
       }
     ],
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "MLS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#MLS",
+        "pubdate": "Thu, 13 Jul 2023 11:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Ons Jabeur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Ons%20Jabeur",
         "pubdate": "Thu, 13 Jul 2023 11:00:00 -0600"
@@ -52,23 +59,9 @@
     ],
     [
       {
-        "title": "Jorge Losa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Jorge%20Losa",
+        "title": "Monzon Mexicano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Monzon%20Mexicano",
         "pubdate": "Thu, 13 Jul 2023 16:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Frente Amplio mexico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Frente%20Amplio%20mexico",
-        "pubdate": "Thu, 13 Jul 2023 08:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Santos vs Atlas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Santos%20vs%20Atlas",
-        "pubdate": "Thu, 13 Jul 2023 10:00:00 -0600"
       }
     ],
     [
@@ -76,13 +69,6 @@
         "title": "Dia Mundial del Rock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Dia%20Mundial%20del%20Rock",
         "pubdate": "Thu, 13 Jul 2023 13:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Monzon Mexicano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Monzon%20Mexicano",
-        "pubdate": "Thu, 13 Jul 2023 16:00:00 -0600"
       }
     ],
     [
@@ -101,16 +87,9 @@
     ],
     [
       {
-        "title": "Popocatépetl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Popocat%C3%A9petl",
-        "pubdate": "Thu, 13 Jul 2023 11:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Santiago Giménez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Santiago%20Gim%C3%A9nez",
-        "pubdate": "Thu, 13 Jul 2023 00:00:00 -0600"
+        "title": "XRP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#XRP",
+        "pubdate": "Thu, 13 Jul 2023 15:00:00 -0600"
       }
     ],
     [
@@ -122,8 +101,22 @@
     ],
     [
       {
-        "title": "XRP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#XRP",
+        "title": "Santiago Giménez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Santiago%20Gim%C3%A9nez",
+        "pubdate": "Thu, 13 Jul 2023 00:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Popocatépetl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Popocat%C3%A9petl",
+        "pubdate": "Thu, 13 Jul 2023 11:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Arsenal",
         "pubdate": "Thu, 13 Jul 2023 15:00:00 -0600"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Emily Blunt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Emily%20Blunt",
         "pubdate": "Thu, 13 Jul 2023 13:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Lindsay Lohan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lindsay%20Lohan",
+        "pubdate": "Thu, 13 Jul 2023 12:00:00 -0600"
       }
     ]
   ]

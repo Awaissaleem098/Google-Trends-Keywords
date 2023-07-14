@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-07-2023 , 00:34:35",
+  "lastUpdate": "14-07-2023 , 02:19:57",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Cat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cat",
+        "pubdate": "Fri, 14 Jul 2023 04:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Succession",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Succession",
         "pubdate": "Fri, 14 Jul 2023 02:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Arsenal",
+        "pubdate": "Fri, 14 Jul 2023 03:00:00 +0300"
       }
     ],
     [
@@ -38,16 +52,16 @@
     ],
     [
       {
-        "title": "Vondrousova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vondrousova",
-        "pubdate": "Thu, 13 Jul 2023 17:00:00 +0300"
+        "title": "Iuliana Beregoi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Iuliana%20Beregoi",
+        "pubdate": "Thu, 13 Jul 2023 20:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Iuliana Beregoi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Iuliana%20Beregoi",
-        "pubdate": "Thu, 13 Jul 2023 20:00:00 +0300"
+        "title": "Vondrousova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vondrousova",
+        "pubdate": "Thu, 13 Jul 2023 17:00:00 +0300"
       }
     ],
     [
@@ -94,6 +108,13 @@
     ],
     [
       {
+        "title": "Petrolul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Petrolul",
+        "pubdate": "Thu, 13 Jul 2023 13:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Vitor Roque",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vitor%20Roque",
         "pubdate": "Thu, 13 Jul 2023 00:00:00 +0300"
@@ -118,27 +139,6 @@
         "title": "Mirabela Dauer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mirabela%20Dauer",
         "pubdate": "Thu, 13 Jul 2023 02:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Daniil Medvedev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Daniil%20Medvedev",
-        "pubdate": "Thu, 13 Jul 2023 02:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Farul Constanța - Sheriff",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Farul%20Constan%C8%9Ba%20-%20Sheriff",
-        "pubdate": "Wed, 12 Jul 2023 08:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Subiecte Titularizare 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Subiecte%20Titularizare%202023",
-        "pubdate": "Wed, 12 Jul 2023 10:00:00 +0300"
       }
     ]
   ]

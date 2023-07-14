@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-07-2023 , 00:34:32",
+  "lastUpdate": "14-07-2023 , 02:19:55",
   "data": [
     [
       {
@@ -17,16 +17,16 @@
     ],
     [
       {
-        "title": "USA vs Panama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#USA%20vs%20Panama",
-        "pubdate": "Thu, 13 Jul 2023 06:00:00 +0300"
+        "title": "Oparanya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Oparanya",
+        "pubdate": "Thu, 13 Jul 2023 18:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Oparanya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Oparanya",
-        "pubdate": "Thu, 13 Jul 2023 18:00:00 +0300"
+        "title": "USA vs Panama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#USA%20vs%20Panama",
+        "pubdate": "Thu, 13 Jul 2023 06:00:00 +0300"
       }
     ],
     [
@@ -61,7 +61,7 @@
       {
         "title": "Demonstrations in Kenya",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Demonstrations%20in%20Kenya",
-        "pubdate": "Wed, 12 Jul 2023 11:00:00 +0300"
+        "pubdate": "Wed, 12 Jul 2023 12:00:00 +0300"
       }
     ],
     [
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Nairobi news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Nairobi%20news",
+        "pubdate": "Wed, 12 Jul 2023 11:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Huw Edwards",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Huw%20Edwards",
         "pubdate": "Wed, 12 Jul 2023 21:00:00 +0300"
@@ -90,13 +97,6 @@
         "title": "Romelu Lukaku",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Romelu%20Lukaku",
         "pubdate": "Wed, 12 Jul 2023 16:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "News Kenya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#News%20Kenya",
-        "pubdate": "Wed, 12 Jul 2023 14:00:00 +0300"
       }
     ],
     [
@@ -122,8 +122,8 @@
     ],
     [
       {
-        "title": "News today",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#News%20today",
+        "title": "News TODAY",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#News%20TODAY",
         "pubdate": "Wed, 12 Jul 2023 12:00:00 +0300"
       }
     ],

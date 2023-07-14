@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "14-07-2023 , 00:34:28",
+  "lastUpdate": "14-07-2023 , 02:19:53",
   "data": [
-    [
-      {
-        "title": "Flughafen Hamburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Flughafen%20Hamburg",
-        "pubdate": "Thu, 13 Jul 2023 09:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Bard",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "XRP news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#XRP%20news",
-        "pubdate": "Thu, 13 Jul 2023 20:00:00 +0200"
+        "title": "Flughafen Hamburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Flughafen%20Hamburg",
+        "pubdate": "Thu, 13 Jul 2023 09:00:00 +0200"
       }
     ],
     [
@@ -31,6 +24,13 @@
     ],
     [
       {
+        "title": "Ripple",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ripple",
+        "pubdate": "Thu, 13 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "EA Sports FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#EA%20Sports%20FC",
         "pubdate": "Thu, 13 Jul 2023 22:00:00 +0200"
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "FC Bayern München Harry Kane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Bayern%20M%C3%BCnchen%20Harry%20Kane",
-        "pubdate": "Thu, 13 Jul 2023 15:00:00 +0200"
+        "title": "Charly Hübner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Charly%20H%C3%BCbner",
+        "pubdate": "Thu, 13 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Andreas Gabalier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Andreas%20Gabalier",
+        "pubdate": "Thu, 13 Jul 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Taylor%20Swift",
         "pubdate": "Wed, 12 Jul 2023 11:00:00 +0200"
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Heide Simonis todesursache",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Heide%20Simonis%20todesursache",
-        "pubdate": "Wed, 12 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sabalenka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sabalenka",
         "pubdate": "Wed, 12 Jul 2023 19:00:00 +0200"
@@ -103,6 +103,13 @@
       {
         "title": "Heinz Rudolf Kunze",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Heinz%20Rudolf%20Kunze",
+        "pubdate": "Wed, 12 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Simonis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Simonis",
         "pubdate": "Wed, 12 Jul 2023 20:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Koenigsegg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Koenigsegg",
         "pubdate": "Tue, 11 Jul 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "NATO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NATO",
-        "pubdate": "Mon, 10 Jul 2023 15:00:00 +0200"
       }
     ]
   ]
