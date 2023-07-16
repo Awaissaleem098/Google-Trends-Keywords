@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "15-07-2023 , 23:58:34",
+  "lastUpdate": "16-07-2023 , 02:18:50",
   "data": [
+    [
+      {
+        "title": "Romelu Lukaku",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Romelu%20Lukaku",
+        "pubdate": "Sun, 16 Jul 2023 02:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Declan Rice",
@@ -20,13 +27,6 @@
         "title": "Northampton Town vs Leicester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Northampton%20Town%20vs%20Leicester%20City",
         "pubdate": "Sat, 15 Jul 2023 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cicada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Cicada",
-        "pubdate": "Sat, 15 Jul 2023 08:00:00 +0100"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Tijjani Reijnders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Tijjani%20Reijnders",
-        "pubdate": "Sat, 15 Jul 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Benjamin Mendy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Benjamin%20Mendy",
         "pubdate": "Fri, 14 Jul 2023 17:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Bird Box: Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bird%20Box:%20Barcelona",
         "pubdate": "Fri, 14 Jul 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Godwin Emefiele",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Godwin%20Emefiele",
+        "pubdate": "Fri, 14 Jul 2023 18:00:00 +0100"
       }
     ]
   ]

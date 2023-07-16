@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-07-2023 , 23:58:35",
+  "lastUpdate": "16-07-2023 , 02:18:51",
   "data": [
     [
       {
@@ -17,9 +17,37 @@
     ],
     [
       {
-        "title": "Vondrousova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vondrousova",
-        "pubdate": "Sat, 15 Jul 2023 16:00:00 +0100"
+        "title": "Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Inter%20Miami",
+        "pubdate": "Sun, 16 Jul 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "João Sousa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jo%C3%A3o%20Sousa",
+        "pubdate": "Sun, 16 Jul 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Botafogo  Bragantino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Botafogo%20%20Bragantino",
+        "pubdate": "Sun, 16 Jul 2023 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Estremoz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Estremoz",
+        "pubdate": "Sun, 16 Jul 2023 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kaytranada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Kaytranada",
+        "pubdate": "Sun, 16 Jul 2023 02:00:00 +0100"
       }
     ],
     [
@@ -27,6 +55,20 @@
         "title": "Corinthians",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Corinthians",
         "pubdate": "Sat, 15 Jul 2023 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Vondrousova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vondrousova",
+        "pubdate": "Sat, 15 Jul 2023 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Luta Whindersson Nunes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Luta%20Whindersson%20Nunes",
+        "pubdate": "Sat, 15 Jul 2023 17:00:00 +0100"
       }
     ],
     [
@@ -48,13 +90,6 @@
         "title": "The 1975",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#The%201975",
         "pubdate": "Sat, 15 Jul 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Luta Whindersson Nunes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Luta%20Whindersson%20Nunes",
-        "pubdate": "Sat, 15 Jul 2023 17:00:00 +0100"
       }
     ],
     [
@@ -94,13 +129,6 @@
     ],
     [
       {
-        "title": "Saul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Saul",
-        "pubdate": "Sat, 15 Jul 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "António Félix da Costa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ant%C3%B3nio%20F%C3%A9lix%20da%20Costa",
         "pubdate": "Sat, 15 Jul 2023 23:00:00 +0100"
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "Amistosos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Amistosos",
-        "pubdate": "Sat, 15 Jul 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Pele",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pele",
+        "title": "Saul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Saul",
         "pubdate": "Sat, 15 Jul 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Formula e",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Formula%20e",
-        "pubdate": "Sat, 15 Jul 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ruben Guerreiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ruben%20Guerreiro",
-        "pubdate": "Sat, 15 Jul 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lag",
-        "pubdate": "Sat, 15 Jul 2023 13:00:00 +0100"
       }
     ]
   ]

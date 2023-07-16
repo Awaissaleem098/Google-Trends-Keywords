@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "15-07-2023 , 23:58:34",
+  "lastUpdate": "16-07-2023 , 02:18:50",
   "data": [
     [
       {
         "title": "Ana Huang",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ana%20Huang",
         "pubdate": "Sun, 16 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Beth Hart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Beth%20Hart",
+        "pubdate": "Sun, 16 Jul 2023 02:00:00 +0200"
       }
     ],
     [
@@ -48,6 +55,13 @@
         "title": "Coldplay-concert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Coldplay-concert",
         "pubdate": "Sat, 15 Jul 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rico Verhoeven",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rico%20Verhoeven",
+        "pubdate": "Sat, 15 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Taylor%20Swift",
         "pubdate": "Wed, 12 Jul 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rob Jetten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rob%20Jetten",
-        "pubdate": "Wed, 12 Jul 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Alcaraz",
-        "pubdate": "Wed, 12 Jul 2023 22:00:00 +0200"
       }
     ]
   ]

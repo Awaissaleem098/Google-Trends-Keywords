@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "15-07-2023 , 23:58:35",
+  "lastUpdate": "16-07-2023 , 02:18:51",
   "data": [
+    [
+      {
+        "title": "Guns and roses",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Guns%20and%20roses",
+        "pubdate": "Sun, 16 Jul 2023 02:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Concert Guns N' Roses",
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "Vondrousova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vondrousova",
+        "title": "Hermannstadt - Farul Constanța",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Hermannstadt%20-%20Farul%20Constan%C8%9Ba",
         "pubdate": "Sat, 15 Jul 2023 18:00:00 +0300"
       }
     ],
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "Declan Rice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Declan%20Rice",
+        "pubdate": "Sat, 15 Jul 2023 21:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Al-Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Al-Nassr",
         "pubdate": "Sat, 15 Jul 2023 16:00:00 +0300"
@@ -59,9 +73,9 @@
     ],
     [
       {
-        "title": "Hermannstadt - Farul Constanța",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Hermannstadt%20-%20Farul%20Constan%C8%9Ba",
-        "pubdate": "Fri, 14 Jul 2023 17:00:00 +0300"
+        "title": "Vondrousova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vondrousova",
+        "pubdate": "Fri, 14 Jul 2023 21:00:00 +0300"
       }
     ],
     [
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "Rapid bucuresti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rapid%20bucuresti",
-        "pubdate": "Fri, 14 Jul 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Cat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cat",
         "pubdate": "Fri, 14 Jul 2023 04:00:00 +0300"
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Rapid bucuresti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rapid%20bucuresti",
+        "pubdate": "Fri, 14 Jul 2023 22:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Oana Ioniță",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Oana%20Ioni%C8%9B%C4%83",
         "pubdate": "Fri, 14 Jul 2023 09:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Irina Rimes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Irina%20Rimes",
-        "pubdate": "Fri, 14 Jul 2023 11:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Benjamin Mendy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Benjamin%20Mendy",
-        "pubdate": "Fri, 14 Jul 2023 23:00:00 +0300"
       }
     ]
   ]
