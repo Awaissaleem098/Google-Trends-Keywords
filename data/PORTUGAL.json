@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "16-07-2023 , 02:18:51",
+  "lastUpdate": "16-07-2023 , 03:14:56",
   "data": [
+    [
+      {
+        "title": "Botafogo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Botafogo",
+        "pubdate": "Sun, 16 Jul 2023 02:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Reguengos de Monsaraz",
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "Botafogo  Bragantino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Botafogo%20%20Bragantino",
+        "title": "Kaytranada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Kaytranada",
         "pubdate": "Sun, 16 Jul 2023 02:00:00 +0100"
       }
     ],
@@ -40,13 +47,6 @@
       {
         "title": "Estremoz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Estremoz",
-        "pubdate": "Sun, 16 Jul 2023 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kaytranada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Kaytranada",
         "pubdate": "Sun, 16 Jul 2023 02:00:00 +0100"
       }
     ],

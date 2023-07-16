@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-07-2023 , 02:18:48",
+  "lastUpdate": "16-07-2023 , 03:14:53",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Sassuolo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sassuolo",
-        "pubdate": "Sun, 16 Jul 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Zapata",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Zapata",
         "pubdate": "Sun, 16 Jul 2023 02:00:00 +0200"
@@ -69,6 +62,13 @@
         "title": "Lukaku",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lukaku",
         "pubdate": "Sat, 15 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dalida",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Dalida",
+        "pubdate": "Sat, 15 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Leucemia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Leucemia",
-        "pubdate": "Sat, 15 Jul 2023 00:00:00 +0200"
+        "title": "SBK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#SBK",
+        "pubdate": "Sat, 15 Jul 2023 07:00:00 +0200"
       }
     ]
   ]
