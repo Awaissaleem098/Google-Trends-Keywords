@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "16-07-2023 , 23:59:43",
+  "lastUpdate": "17-07-2023 , 02:07:32",
   "data": [
+    [
+      {
+        "title": "IndyCar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#IndyCar",
+        "pubdate": "Mon, 17 Jul 2023 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Birkin bag",
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Roger Federer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Roger%20Federer",
-        "pubdate": "Sun, 16 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Charlotte Gainsbourg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Charlotte%20Gainsbourg",
         "pubdate": "Sun, 16 Jul 2023 16:00:00 +0200"
@@ -59,20 +59,6 @@
     ],
     [
       {
-        "title": "In time",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#In%20time",
-        "pubdate": "Sun, 16 Jul 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Federer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Federer",
-        "pubdate": "Sun, 16 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Fat Joe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fat%20Joe",
         "pubdate": "Sun, 16 Jul 2023 09:00:00 +0200"
@@ -89,13 +75,6 @@
       {
         "title": "John Kerry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#John%20Kerry",
-        "pubdate": "Sun, 16 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rachel Weisz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rachel%20Weisz",
         "pubdate": "Sun, 16 Jul 2023 20:00:00 +0200"
       }
     ],
@@ -136,9 +115,30 @@
     ],
     [
       {
-        "title": "Angelina Jolie news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Angelina%20Jolie%20news",
+        "title": "Angelina Jolie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Angelina%20Jolie",
         "pubdate": "Sat, 15 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mission: Impossible",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mission:%20Impossible",
+        "pubdate": "Sat, 15 Jul 2023 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "La Palma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#La%20Palma",
+        "pubdate": "Sat, 15 Jul 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Billie Jean King",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Billie%20Jean%20King",
+        "pubdate": "Sat, 15 Jul 2023 02:00:00 +0200"
       }
     ]
   ]

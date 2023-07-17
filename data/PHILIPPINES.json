@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "16-07-2023 , 23:59:48",
+  "lastUpdate": "17-07-2023 , 02:07:38",
   "data": [
+    [
+      {
+        "title": "BGYO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#BGYO",
+        "pubdate": "Mon, 17 Jul 2023 00:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Ricky Rivero",
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Cristiano Ronaldo Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Cristiano%20Ronaldo%20Al%20Nassr",
-        "pubdate": "Sun, 16 Jul 2023 07:00:00 +0800"
+        "title": "Bagong Pilipinas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Bagong%20Pilipinas",
+        "pubdate": "Sun, 16 Jul 2023 17:00:00 +0800"
       }
     ],
     [
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Bagong Pilipinas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Bagong%20Pilipinas",
-        "pubdate": "Sun, 16 Jul 2023 17:00:00 +0800"
+        "title": "Cristiano Ronaldo Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Cristiano%20Ronaldo%20Al%20Nassr",
+        "pubdate": "Sun, 16 Jul 2023 07:00:00 +0800"
       }
     ],
     [
@@ -80,9 +87,9 @@
     ],
     [
       {
-        "title": "Miss Supranational 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Miss%20Supranational%202023",
-        "pubdate": "Sat, 15 Jul 2023 05:00:00 +0800"
+        "title": "Kobe Brown",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Kobe%20Brown",
+        "pubdate": "Sun, 16 Jul 2023 11:00:00 +0800"
       }
     ],
     [
@@ -90,6 +97,20 @@
         "title": "Wimbledon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Wimbledon",
         "pubdate": "Sat, 15 Jul 2023 10:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "PVL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#PVL",
+        "pubdate": "Sat, 15 Jul 2023 22:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Miss Supranational 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Miss%20Supranational%202023",
+        "pubdate": "Sat, 15 Jul 2023 05:00:00 +0800"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Dylan Mulvaney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Dylan%20Mulvaney",
         "pubdate": "Sat, 15 Jul 2023 14:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Mission: Impossible movie Dead Reckoning",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Mission:%20Impossible%20movie%20Dead%20Reckoning",
-        "pubdate": "Sat, 15 Jul 2023 18:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Shakira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Shakira",
-        "pubdate": "Sat, 15 Jul 2023 13:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Magnus Carlsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Magnus%20Carlsen",
-        "pubdate": "Sat, 15 Jul 2023 12:00:00 +0800"
       }
     ]
   ]

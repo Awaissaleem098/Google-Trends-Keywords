@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-07-2023 , 23:59:52",
+  "lastUpdate": "17-07-2023 , 02:07:40",
   "data": [
     [
       {
@@ -19,6 +19,13 @@
       {
         "title": "FC Basel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Basel",
+        "pubdate": "Sun, 16 Jul 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Meteosuisse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Meteosuisse",
         "pubdate": "Sun, 16 Jul 2023 10:00:00 +0200"
       }
     ],
@@ -87,9 +94,9 @@
     ],
     [
       {
-        "title": "Silesia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Silesia",
-        "pubdate": "Sun, 16 Jul 2023 18:00:00 +0200"
+        "title": "Bürgenstock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#B%C3%BCrgenstock",
+        "pubdate": "Sun, 16 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -101,16 +108,16 @@
     ],
     [
       {
-        "title": "Rammstein-Konzert Berlin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rammstein-Konzert%20Berlin",
-        "pubdate": "Sun, 16 Jul 2023 18:00:00 +0200"
+        "title": "Cuadrado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cuadrado",
+        "pubdate": "Sun, 16 Jul 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Cuadrado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cuadrado",
-        "pubdate": "Sun, 16 Jul 2023 23:00:00 +0200"
+        "title": "Rammstein-Konzert Berlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rammstein-Konzert%20Berlin",
+        "pubdate": "Sun, 16 Jul 2023 18:00:00 +0200"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Marianne und Michael",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marianne%20und%20Michael",
-        "pubdate": "Sun, 16 Jul 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mykonos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mykonos",
-        "pubdate": "Sun, 16 Jul 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Israel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Israel",
         "pubdate": "Sun, 16 Jul 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tour de France LIVE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tour%20de%20France%20LIVE",
+        "pubdate": "Sun, 16 Jul 2023 10:00:00 +0200"
       }
     ]
   ]
