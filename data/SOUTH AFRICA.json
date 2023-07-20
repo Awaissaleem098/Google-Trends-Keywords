@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "20-07-2023 , 01:40:17",
+  "lastUpdate": "20-07-2023 , 02:26:00",
   "data": [
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea",
+        "pubdate": "Thu, 20 Jul 2023 03:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Chelsea vs Wrexham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea%20vs%20Wrexham",
         "pubdate": "Thu, 20 Jul 2023 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "MLS All-Stars vs Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#MLS%20All-Stars%20vs%20Arsenal",
+        "pubdate": "Thu, 20 Jul 2023 03:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Kgalema Motlanthe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Kgalema%20Motlanthe",
         "pubdate": "Wed, 19 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Busisiwe Mkhwebane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Busisiwe%20Mkhwebane",
-        "pubdate": "Wed, 19 Jul 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool fixtures",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool%20fixtures",
-        "pubdate": "Wed, 19 Jul 2023 19:00:00 +0200"
       }
     ]
   ]

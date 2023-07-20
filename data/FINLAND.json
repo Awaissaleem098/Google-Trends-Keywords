@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-07-2023 , 01:40:11",
+  "lastUpdate": "20-07-2023 , 02:25:50",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Edward Snowden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Edward%20Snowden",
-        "pubdate": "Wed, 19 Jul 2023 00:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Karlsruher – Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Karlsruher%20%E2%80%93%20Liverpool",
         "pubdate": "Wed, 19 Jul 2023 20:00:00 +0300"
@@ -66,9 +59,23 @@
     ],
     [
       {
+        "title": "Edward Snowden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Edward%20Snowden",
+        "pubdate": "Wed, 19 Jul 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Pokemon Sleep",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pokemon%20Sleep",
         "pubdate": "Wed, 19 Jul 2023 10:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Snowden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Snowden",
+        "pubdate": "Wed, 19 Jul 2023 00:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Flixbus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Flixbus",
         "pubdate": "Tue, 18 Jul 2023 14:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Miikka Kiprusoff",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Miikka%20Kiprusoff",
-        "pubdate": "Tue, 18 Jul 2023 21:00:00 +0300"
       }
     ]
   ]

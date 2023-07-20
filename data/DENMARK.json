@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-07-2023 , 01:40:11",
+  "lastUpdate": "20-07-2023 , 02:25:49",
   "data": [
     [
       {
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Otto Warmbier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Otto%20Warmbier",
+        "pubdate": "Wed, 19 Jul 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Carlsberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Carlsberg",
         "pubdate": "Wed, 19 Jul 2023 17:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Mads Hermansen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mads%20Hermansen",
         "pubdate": "Tue, 18 Jul 2023 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Diablo 4 Patch Notes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Diablo%204%20Patch%20Notes",
-        "pubdate": "Tue, 18 Jul 2023 18:00:00 +0200"
       }
     ]
   ]

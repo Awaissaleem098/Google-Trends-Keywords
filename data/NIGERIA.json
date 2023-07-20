@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-07-2023 , 01:40:15",
+  "lastUpdate": "20-07-2023 , 02:25:57",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Chelsea vs Wrexham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea%20vs%20Wrexham",
+        "pubdate": "Wed, 19 Jul 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liverpool",
         "pubdate": "Wed, 19 Jul 2023 19:00:00 +0100"
@@ -48,13 +55,6 @@
         "title": "Peter Obi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Peter%20Obi",
         "pubdate": "Wed, 19 Jul 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "MLS All-Stars vs Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#MLS%20All-Stars%20vs%20Arsenal",
-        "pubdate": "Wed, 19 Jul 2023 20:00:00 +0100"
       }
     ],
     [
@@ -115,8 +115,8 @@
     ],
     [
       {
-        "title": "Is WhatsApp down",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Is%20WhatsApp%20down",
+        "title": "Is WhatsApp Down",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Is%20WhatsApp%20Down",
         "pubdate": "Wed, 19 Jul 2023 22:00:00 +0100"
       }
     ],
