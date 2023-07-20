@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "19-07-2023 , 23:57:22",
+  "lastUpdate": "20-07-2023 , 01:40:11",
   "data": [
+    [
+      {
+        "title": "Robert Oppenheimer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Robert%20Oppenheimer",
+        "pubdate": "Thu, 20 Jul 2023 02:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Barbie film",
@@ -10,16 +17,16 @@
     ],
     [
       {
-        "title": "Sting",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sting",
-        "pubdate": "Wed, 19 Jul 2023 09:00:00 +0200"
+        "title": "OneRepublic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#OneRepublic",
+        "pubdate": "Wed, 19 Jul 2023 11:00:00 +0200"
       }
     ],
     [
       {
-        "title": "OneRepublic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#OneRepublic",
-        "pubdate": "Wed, 19 Jul 2023 11:00:00 +0200"
+        "title": "Sting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sting",
+        "pubdate": "Wed, 19 Jul 2023 09:00:00 +0200"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Rusko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rusko",
         "pubdate": "Wed, 19 Jul 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ostrov",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ostrov",
-        "pubdate": "Wed, 19 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -87,16 +87,16 @@
     ],
     [
       {
-        "title": "Vingegaard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vingegaard",
-        "pubdate": "Tue, 18 Jul 2023 18:00:00 +0200"
+        "title": "Zakrzówek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zakrz%C3%B3wek",
+        "pubdate": "Tue, 18 Jul 2023 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Zakrzówek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zakrz%C3%B3wek",
-        "pubdate": "Tue, 18 Jul 2023 16:00:00 +0200"
+        "title": "Vingegaard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vingegaard",
+        "pubdate": "Tue, 18 Jul 2023 18:00:00 +0200"
       }
     ],
     [
@@ -111,13 +111,6 @@
         "title": "Lindsay Lohan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lindsay%20Lohan",
         "pubdate": "Tue, 18 Jul 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Čestmír Strakatý",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8Cestm%C3%ADr%20Strakat%C3%BD",
-        "pubdate": "Tue, 18 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Olatunji",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Olatunji",
         "pubdate": "Tue, 18 Jul 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Oprav dům po babičce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Oprav%20d%C5%AFm%20po%20babi%C4%8Dce",
+        "pubdate": "Mon, 17 Jul 2023 12:00:00 +0200"
       }
     ]
   ]

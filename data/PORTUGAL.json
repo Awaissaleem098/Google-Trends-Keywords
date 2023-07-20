@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "19-07-2023 , 23:57:27",
+  "lastUpdate": "20-07-2023 , 01:40:16",
   "data": [
-    [
-      {
-        "title": "Margarida Corceiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Margarida%20Corceiro",
-        "pubdate": "Thu, 20 Jul 2023 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Botafogo  Patronato",
@@ -17,9 +10,37 @@
     ],
     [
       {
+        "title": "Margarida Corceiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Margarida%20Corceiro",
+        "pubdate": "Thu, 20 Jul 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ruben Aguiar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ruben%20Aguiar",
+        "pubdate": "Thu, 20 Jul 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea  Wrexham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Chelsea%20%20Wrexham",
+        "pubdate": "Thu, 20 Jul 2023 01:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Defined.ai",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Defined.ai",
         "pubdate": "Thu, 20 Jul 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Putin",
+        "pubdate": "Thu, 20 Jul 2023 01:00:00 +0100"
       }
     ],
     [
@@ -34,6 +55,13 @@
         "title": "Vila Nova de Milfontes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vila%20Nova%20de%20Milfontes",
         "pubdate": "Thu, 20 Jul 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lara Afonso e Paulo Fernandes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lara%20Afonso%20e%20Paulo%20Fernandes",
+        "pubdate": "Thu, 20 Jul 2023 01:00:00 +0100"
       }
     ],
     [
@@ -59,6 +87,13 @@
     ],
     [
       {
+        "title": "Joao felix atletico Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joao%20felix%20atletico%20Madrid",
+        "pubdate": "Wed, 19 Jul 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Oliveira do Hospital",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Oliveira%20do%20Hospital",
         "pubdate": "Wed, 19 Jul 2023 17:00:00 +0100"
@@ -80,6 +115,13 @@
     ],
     [
       {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liverpool",
+        "pubdate": "Wed, 19 Jul 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "WhatsApp não funciona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#WhatsApp%20n%C3%A3o%20funciona",
         "pubdate": "Wed, 19 Jul 2023 22:00:00 +0100"
@@ -97,48 +139,6 @@
         "title": "Benfica FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benfica%20FC",
         "pubdate": "Wed, 19 Jul 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liverpool",
-        "pubdate": "Wed, 19 Jul 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nico gonzalez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nico%20gonzalez",
-        "pubdate": "Wed, 19 Jul 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "João felix Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jo%C3%A3o%20felix%20Barcelona",
-        "pubdate": "Wed, 19 Jul 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Universitario  Corinthians",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Universitario%20%20Corinthians",
-        "pubdate": "Wed, 19 Jul 2023 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lando Norris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lando%20Norris",
-        "pubdate": "Wed, 19 Jul 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Futebol Clube do Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Futebol%20Clube%20do%20Porto",
-        "pubdate": "Wed, 19 Jul 2023 22:00:00 +0100"
       }
     ]
   ]

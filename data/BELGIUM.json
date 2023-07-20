@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-07-2023 , 23:57:21",
+  "lastUpdate": "20-07-2023 , 01:40:09",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Amarissa toth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Amarissa%20toth",
+        "pubdate": "Wed, 19 Jul 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Brigitte Bardot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brigitte%20Bardot",
         "pubdate": "Wed, 19 Jul 2023 21:00:00 +0200"
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liverpool",
-        "pubdate": "Wed, 19 Jul 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Oppenheimer review",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Oppenheimer%20review",
         "pubdate": "Wed, 19 Jul 2023 12:00:00 +0200"
@@ -108,16 +108,9 @@
     ],
     [
       {
-        "title": "Barco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barco",
-        "pubdate": "Wed, 19 Jul 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Les Visiteurs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Les%20Visiteurs",
-        "pubdate": "Wed, 19 Jul 2023 23:00:00 +0200"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liverpool",
+        "pubdate": "Wed, 19 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Nicolas Bedos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nicolas%20Bedos",
-        "pubdate": "Wed, 19 Jul 2023 09:00:00 +0200"
+        "title": "Les Visiteurs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Les%20Visiteurs",
+        "pubdate": "Wed, 19 Jul 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Mike De Decker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mike%20De%20Decker",
-        "pubdate": "Wed, 19 Jul 2023 23:00:00 +0200"
+        "title": "Barco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barco",
+        "pubdate": "Wed, 19 Jul 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nicolas Bedos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nicolas%20Bedos",
+        "pubdate": "Wed, 19 Jul 2023 09:00:00 +0200"
       }
     ]
   ]
