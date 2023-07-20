@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-07-2023 , 19:55:28",
+  "lastUpdate": "20-07-2023 , 20:18:55",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Ben Duckett",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ben%20Duckett",
+        "pubdate": "Fri, 21 Jul 2023 02:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Women's World Cup 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Women's%20World%20Cup%202023",
         "pubdate": "Thu, 20 Jul 2023 01:00:00 +1000"
@@ -45,16 +52,16 @@
     ],
     [
       {
-        "title": "The Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Open",
-        "pubdate": "Thu, 20 Jul 2023 11:00:00 +1000"
+        "title": "Soccer World Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Soccer%20World%20Cup",
+        "pubdate": "Thu, 20 Jul 2023 13:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Soccer World Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Soccer%20World%20Cup",
-        "pubdate": "Thu, 20 Jul 2023 13:00:00 +1000"
+        "title": "The Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Open",
+        "pubdate": "Thu, 20 Jul 2023 11:00:00 +1000"
       }
     ],
     [
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Nz herald",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nz%20herald",
-        "pubdate": "Thu, 20 Jul 2023 10:00:00 +1000"
+        "title": "John Cleese",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#John%20Cleese",
+        "pubdate": "Thu, 20 Jul 2023 20:00:00 +1000"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Matilda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Matilda",
         "pubdate": "Thu, 20 Jul 2023 21:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Bruce Lee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bruce%20Lee",
-        "pubdate": "Thu, 20 Jul 2023 13:00:00 +1000"
       }
     ]
   ]
