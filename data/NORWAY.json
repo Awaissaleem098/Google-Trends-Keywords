@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-07-2023 , 13:48:59",
+  "lastUpdate": "21-07-2023 , 14:06:41",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "The open 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20open%202023",
+        "pubdate": "Thu, 20 Jul 2023 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Malakoff",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Malakoff",
         "pubdate": "Thu, 20 Jul 2023 18:00:00 +0200"
@@ -59,23 +66,9 @@
     ],
     [
       {
-        "title": "The open 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20open%202023",
-        "pubdate": "Thu, 20 Jul 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jonas Abrahamsen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jonas%20Abrahamsen",
         "pubdate": "Thu, 20 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Daniella Hemsley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Daniella%20Hemsley",
-        "pubdate": "Thu, 20 Jul 2023 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "ME",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#ME",
         "pubdate": "Thu, 20 Jul 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kevin Mitnick",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kevin%20Mitnick",
+        "pubdate": "Thu, 20 Jul 2023 22:00:00 +0200"
       }
     ]
   ]
