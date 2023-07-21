@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-07-2023 , 01:42:39",
+  "lastUpdate": "21-07-2023 , 02:28:12",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea",
+        "pubdate": "Thu, 20 Jul 2023 07:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal",
         "pubdate": "Thu, 20 Jul 2023 11:00:00 +0300"
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Ian Maatsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ian%20Maatsen",
-        "pubdate": "Thu, 20 Jul 2023 07:00:00 +0300"
+        "title": "Chelsea fc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20fc",
+        "pubdate": "Thu, 20 Jul 2023 05:00:00 +0300"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Chelsea fc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20fc",
-        "pubdate": "Thu, 20 Jul 2023 08:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Moses Kuria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Moses%20Kuria",
         "pubdate": "Thu, 20 Jul 2023 00:00:00 +0300"
@@ -76,13 +76,6 @@
         "title": "Crawley Town vs Crystal Palace",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Crawley%20Town%20vs%20Crystal%20Palace",
         "pubdate": "Thu, 20 Jul 2023 01:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Maina Njenga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Maina%20Njenga",
-        "pubdate": "Thu, 20 Jul 2023 08:00:00 +0300"
       }
     ],
     [
@@ -115,13 +108,6 @@
     ],
     [
       {
-        "title": "Chelsea f.c.",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20f.c.",
-        "pubdate": "Thu, 20 Jul 2023 05:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "India vs West Indies",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#India%20vs%20West%20Indies",
         "pubdate": "Thu, 20 Jul 2023 19:00:00 +0300"
@@ -139,6 +125,20 @@
         "title": "Kenya Defence Forces",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kenya%20Defence%20Forces",
         "pubdate": "Thu, 20 Jul 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Aubameyang",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Aubameyang",
+        "pubdate": "Thu, 20 Jul 2023 01:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Man United vs Lyon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20United%20vs%20Lyon",
+        "pubdate": "Wed, 19 Jul 2023 16:00:00 +0300"
       }
     ]
   ]

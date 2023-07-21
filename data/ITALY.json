@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "21-07-2023 , 01:42:39",
+  "lastUpdate": "21-07-2023 , 02:28:12",
   "data": [
-    [
-      {
-        "title": "Letizia Battaglia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Letizia%20Battaglia",
-        "pubdate": "Fri, 21 Jul 2023 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Antonello Venditti",
@@ -38,13 +31,6 @@
     ],
     [
       {
-        "title": "Andrea Zelletta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Andrea%20Zelletta",
-        "pubdate": "Fri, 21 Jul 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Aquaman 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Aquaman%202",
         "pubdate": "Fri, 21 Jul 2023 00:00:00 +0200"
@@ -66,6 +52,13 @@
     ],
     [
       {
+        "title": "Concerto Geolier Palermo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Concerto%20Geolier%20Palermo",
+        "pubdate": "Fri, 21 Jul 2023 03:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Coppa del Mondo di calcio femminile 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Coppa%20del%20Mondo%20di%20calcio%20femminile%202023",
         "pubdate": "Thu, 20 Jul 2023 01:00:00 +0200"
@@ -75,7 +68,14 @@
       {
         "title": "Milan-Lumezzane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Milan-Lumezzane",
-        "pubdate": "Thu, 20 Jul 2023 17:00:00 +0200"
+        "pubdate": "Thu, 20 Jul 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Maltempo grandine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Maltempo%20grandine",
+        "pubdate": "Thu, 20 Jul 2023 07:00:00 +0200"
       }
     ],
     [
@@ -87,9 +87,9 @@
     ],
     [
       {
-        "title": "Maltempo grandine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Maltempo%20grandine",
-        "pubdate": "Thu, 20 Jul 2023 07:00:00 +0200"
+        "title": "Massimo Mauro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Massimo%20Mauro",
+        "pubdate": "Thu, 20 Jul 2023 13:00:00 +0200"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Brigitte Bardot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Brigitte%20Bardot",
-        "pubdate": "Thu, 20 Jul 2023 08:00:00 +0200"
+        "title": "Kissinger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Kissinger",
+        "pubdate": "Thu, 20 Jul 2023 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Kissinger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Kissinger",
-        "pubdate": "Thu, 20 Jul 2023 15:00:00 +0200"
+        "title": "Brigitte Bardot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Brigitte%20Bardot",
+        "pubdate": "Thu, 20 Jul 2023 08:00:00 +0200"
       }
     ]
   ]
