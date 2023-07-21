@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "20-07-2023 , 23:57:37",
+  "lastUpdate": "21-07-2023 , 01:42:36",
   "data": [
-    [
-      {
-        "title": "Jose Sulantay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jose%20Sulantay",
-        "pubdate": "Thu, 20 Jul 2023 11:00:00 -0400"
-      }
-    ],
     [
       {
         "title": "Dia del Amigo",
@@ -20,6 +13,13 @@
         "title": "Ministerio de Desarrollo Social",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ministerio%20de%20Desarrollo%20Social",
         "pubdate": "Thu, 20 Jul 2023 12:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Barracas Central  Boca Juniors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barracas%20Central%20%20Boca%20Juniors",
+        "pubdate": "Thu, 20 Jul 2023 19:00:00 -0400"
       }
     ],
     [
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Barracas Central  Boca Juniors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barracas%20Central%20%20Boca%20Juniors",
-        "pubdate": "Thu, 20 Jul 2023 19:00:00 -0400"
+        "title": "José Sulantay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jos%C3%A9%20Sulantay",
+        "pubdate": "Thu, 20 Jul 2023 14:00:00 -0400"
       }
     ],
     [
@@ -52,6 +52,20 @@
     ],
     [
       {
+        "title": "River",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River",
+        "pubdate": "Thu, 20 Jul 2023 20:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Bono lactancia materna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bono%20lactancia%20materna",
+        "pubdate": "Thu, 20 Jul 2023 16:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "One Piece 1088",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#One%20Piece%201088",
         "pubdate": "Thu, 20 Jul 2023 01:00:00 -0400"
@@ -59,9 +73,9 @@
     ],
     [
       {
-        "title": "Daniel Andrade",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Daniel%20Andrade",
-        "pubdate": "Thu, 20 Jul 2023 17:00:00 -0400"
+        "title": "Chris Cornell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chris%20Cornell",
+        "pubdate": "Thu, 20 Jul 2023 20:00:00 -0400"
       }
     ],
     [
@@ -73,9 +87,9 @@
     ],
     [
       {
-        "title": "MLS All-Stars  Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#MLS%20All-Stars%20%20Arsenal",
-        "pubdate": "Wed, 19 Jul 2023 20:00:00 -0400"
+        "title": "Audax Italiano  Ñublense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Audax%20Italiano%20%20%C3%91ublense",
+        "pubdate": "Wed, 19 Jul 2023 19:00:00 -0400"
       }
     ],
     [
@@ -87,9 +101,9 @@
     ],
     [
       {
-        "title": "Audax Italiano  Ñublense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Audax%20Italiano%20%20%C3%91ublense",
-        "pubdate": "Wed, 19 Jul 2023 19:00:00 -0400"
+        "title": "MLS All-Stars  Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#MLS%20All-Stars%20%20Arsenal",
+        "pubdate": "Wed, 19 Jul 2023 20:00:00 -0400"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liverpool",
         "pubdate": "Wed, 19 Jul 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Universitario",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Universitario",
-        "pubdate": "Wed, 19 Jul 2023 20:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chelsea",
-        "pubdate": "Wed, 19 Jul 2023 21:00:00 -0400"
       }
     ]
   ]
