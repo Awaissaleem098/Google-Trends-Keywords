@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "22-07-2023 , 18:48:15",
+  "lastUpdate": "22-07-2023 , 19:03:00",
   "data": [
     [
       {
         "title": "Loh Kean Yew",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Loh%20Kean%20Yew",
         "pubdate": "Sun, 23 Jul 2023 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "One Piece",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#One%20Piece",
+        "pubdate": "Sun, 23 Jul 2023 02:00:00 +0800"
       }
     ],
     [
@@ -115,15 +122,15 @@
     ],
     [
       {
-        "title": "Phase 2A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Phase%202A",
-        "pubdate": "Fri, 21 Jul 2023 23:00:00 +0800"
+        "title": "Women World Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Women%20World%20Cup",
+        "pubdate": "Thu, 20 Jul 2023 10:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Women World Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Women%20World%20Cup",
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arsenal",
         "pubdate": "Thu, 20 Jul 2023 10:00:00 +0800"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Manipur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Manipur",
         "pubdate": "Thu, 20 Jul 2023 16:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arsenal",
-        "pubdate": "Thu, 20 Jul 2023 10:00:00 +0800"
       }
     ]
   ]
