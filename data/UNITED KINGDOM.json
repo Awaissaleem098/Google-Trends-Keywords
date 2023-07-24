@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-07-2023 , 00:32:52",
+  "lastUpdate": "24-07-2023 , 01:55:11",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Harvey Barnes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Harvey%20Barnes",
+        "pubdate": "Sun, 23 Jul 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Nathan Aspinall",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Nathan%20Aspinall",
         "pubdate": "Sun, 23 Jul 2023 22:00:00 +0100"
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "A View to a Kill",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#A%20View%20to%20a%20Kill",
-        "pubdate": "Sun, 23 Jul 2023 18:00:00 +0100"
+        "title": "Zaha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Zaha",
+        "pubdate": "Sun, 23 Jul 2023 23:00:00 +0100"
       }
     ],
     [
@@ -94,23 +101,9 @@
     ],
     [
       {
-        "title": "Harvey Barnes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Harvey%20Barnes",
-        "pubdate": "Sun, 23 Jul 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Molly-Mae",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Molly-Mae",
         "pubdate": "Sun, 23 Jul 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Moussa Diaby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Moussa%20Diaby",
-        "pubdate": "Sun, 23 Jul 2023 12:00:00 +0100"
       }
     ],
     [
@@ -122,6 +115,13 @@
     ],
     [
       {
+        "title": "Moussa Diaby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Moussa%20Diaby",
+        "pubdate": "Sun, 23 Jul 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Sepp Straka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sepp%20Straka",
         "pubdate": "Sun, 23 Jul 2023 17:00:00 +0100"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Zaha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Zaha",
-        "pubdate": "Sun, 23 Jul 2023 23:00:00 +0100"
+        "title": "Danjuma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Danjuma",
+        "pubdate": "Sun, 23 Jul 2023 19:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Danjuma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Danjuma",
-        "pubdate": "Sun, 23 Jul 2023 19:00:00 +0100"
+        "title": "Maxi Hughes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Maxi%20Hughes",
+        "pubdate": "Sun, 23 Jul 2023 18:00:00 +0100"
       }
     ]
   ]

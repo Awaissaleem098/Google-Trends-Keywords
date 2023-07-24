@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "24-07-2023 , 00:32:50",
+  "lastUpdate": "24-07-2023 , 01:55:10",
   "data": [
     [
       {
         "title": "Elections Espagne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Elections%20Espagne",
+        "pubdate": "Mon, 24 Jul 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Strahler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Strahler",
         "pubdate": "Mon, 24 Jul 2023 00:00:00 +0200"
       }
     ],
@@ -73,23 +80,9 @@
     ],
     [
       {
-        "title": "Dunkirk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dunkirk",
-        "pubdate": "Sun, 23 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20United",
         "pubdate": "Sun, 23 Jul 2023 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Zürich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Z%C3%BCrich",
-        "pubdate": "Sun, 23 Jul 2023 16:00:00 +0200"
       }
     ],
     [
@@ -115,8 +108,8 @@
     ],
     [
       {
-        "title": "Tour de France 2023 Heute",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tour%20de%20France%202023%20Heute",
+        "title": "Tour de France 2023 heute",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tour%20de%20France%202023%20heute",
         "pubdate": "Sun, 23 Jul 2023 10:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Petit Émile disparition",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Petit%20%C3%89mile%20disparition",
         "pubdate": "Sun, 23 Jul 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dua Lipa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dua%20Lipa",
+        "pubdate": "Sun, 23 Jul 2023 10:00:00 +0200"
       }
     ]
   ]

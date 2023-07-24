@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-07-2023 , 00:32:42",
+  "lastUpdate": "24-07-2023 , 01:55:04",
   "data": [
     [
       {
@@ -73,6 +73,20 @@
     ],
     [
       {
+        "title": "Arrivee Tour de France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Arrivee%20Tour%20de%20France",
+        "pubdate": "Sun, 23 Jul 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "The Weeknd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#The%20Weeknd",
+        "pubdate": "Sun, 23 Jul 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Odessa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Odessa",
         "pubdate": "Sun, 23 Jul 2023 16:00:00 +0200"
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Route napoleon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Route%20napoleon",
-        "pubdate": "Sun, 23 Jul 2023 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Mannarino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mannarino",
         "pubdate": "Sun, 23 Jul 2023 23:00:00 +0200"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Charles Leclerc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Charles%20Leclerc",
-        "pubdate": "Sun, 23 Jul 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Michael Youn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Michael%20Youn",
-        "pubdate": "Sun, 23 Jul 2023 23:00:00 +0200"
+        "title": "Route napoleon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Route%20napoleon",
+        "pubdate": "Sun, 23 Jul 2023 18:00:00 +0200"
       }
     ]
   ]
