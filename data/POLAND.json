@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-07-2023 , 23:49:59",
+  "lastUpdate": "25-07-2023 , 00:56:00",
   "data": [
+    [
+      {
+        "title": "Johnny Depp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Johnny%20Depp",
+        "pubdate": "Tue, 25 Jul 2023 02:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Margot Robbie",
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "Stal Rzeszów",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Stal%20Rzesz%C3%B3w",
-        "pubdate": "Mon, 24 Jul 2023 19:00:00 +0200"
+        "title": "Twitter X",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Twitter%20X",
+        "pubdate": "Mon, 24 Jul 2023 14:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Twitter X",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Twitter%20X",
-        "pubdate": "Mon, 24 Jul 2023 14:00:00 +0200"
+        "title": "Stal Rzeszów",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Stal%20Rzesz%C3%B3w",
+        "pubdate": "Mon, 24 Jul 2023 19:00:00 +0200"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Planeta małp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Planeta%20ma%C5%82p",
-        "pubdate": "Mon, 24 Jul 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Vinci",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Vinci",
         "pubdate": "Mon, 24 Jul 2023 22:00:00 +0200"
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Kingsman: Złoty krąg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kingsman:%20Z%C5%82oty%20kr%C4%85g",
+        "pubdate": "Mon, 24 Jul 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Małgorzata Rozenek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ma%C5%82gorzata%20Rozenek",
         "pubdate": "Mon, 24 Jul 2023 22:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "ALF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#ALF",
         "pubdate": "Mon, 24 Jul 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sławomir Mentzen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#S%C5%82awomir%20Mentzen",
-        "pubdate": "Mon, 24 Jul 2023 13:00:00 +0200"
       }
     ]
   ]

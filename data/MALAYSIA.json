@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-07-2023 , 23:49:58",
+  "lastUpdate": "25-07-2023 , 00:55:59",
   "data": [
     [
       {
@@ -34,13 +34,6 @@
         "title": "Harvey Barnes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Harvey%20Barnes",
         "pubdate": "Mon, 24 Jul 2023 14:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Liverpool%20FC",
-        "pubdate": "Mon, 24 Jul 2023 22:00:00 +0800"
       }
     ],
     [
@@ -94,6 +87,13 @@
     ],
     [
       {
+        "title": "Salahuddin Ayub",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Salahuddin%20Ayub",
+        "pubdate": "Sun, 23 Jul 2023 23:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Chelsea vs Brighton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Chelsea%20vs%20Brighton",
         "pubdate": "Sun, 23 Jul 2023 03:00:00 +0800"
@@ -104,13 +104,6 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Manchester%20United",
         "pubdate": "Sun, 23 Jul 2023 07:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Datuk Seri Salahuddin Ayub",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Datuk%20Seri%20Salahuddin%20Ayub",
-        "pubdate": "Sun, 23 Jul 2023 23:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Forest City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Forest%20City",
         "pubdate": "Sun, 23 Jul 2023 21:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Japan Open 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Japan%20Open%202023",
+        "pubdate": "Sun, 23 Jul 2023 20:00:00 +0800"
       }
     ]
   ]

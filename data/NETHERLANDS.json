@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-07-2023 , 23:49:58",
+  "lastUpdate": "25-07-2023 , 00:55:59",
   "data": [
+    [
+      {
+        "title": "Israel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Israel",
+        "pubdate": "Tue, 25 Jul 2023 02:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Twitter",
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Eva van Agt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eva%20van%20Agt",
-        "pubdate": "Mon, 24 Jul 2023 18:00:00 +0200"
+        "title": "Calvin Stengs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Calvin%20Stengs",
+        "pubdate": "Mon, 24 Jul 2023 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Calvin Stengs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Calvin%20Stengs",
-        "pubdate": "Mon, 24 Jul 2023 12:00:00 +0200"
+        "title": "Eva van Agt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eva%20van%20Agt",
+        "pubdate": "Mon, 24 Jul 2023 18:00:00 +0200"
       }
     ],
     [
@@ -38,9 +45,23 @@
     ],
     [
       {
+        "title": "Bunq",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bunq",
+        "pubdate": "Mon, 24 Jul 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Roze Maandag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Roze%20Maandag",
         "pubdate": "Mon, 24 Jul 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Trevor Francis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Trevor%20Francis",
+        "pubdate": "Mon, 24 Jul 2023 21:00:00 +0200"
       }
     ],
     [
@@ -69,13 +90,6 @@
         "title": "Corfu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Corfu",
         "pubdate": "Sun, 23 Jul 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zomergasten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Zomergasten",
-        "pubdate": "Sun, 23 Jul 2023 19:00:00 +0200"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Lewis Hamilton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lewis%20Hamilton",
-        "pubdate": "Sun, 23 Jul 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Norris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Norris",
         "pubdate": "Sun, 23 Jul 2023 18:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Barbie-film",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Barbie-film",
         "pubdate": "Sun, 23 Jul 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fran Drescher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fran%20Drescher",
-        "pubdate": "Sun, 23 Jul 2023 22:00:00 +0200"
       }
     ]
   ]
