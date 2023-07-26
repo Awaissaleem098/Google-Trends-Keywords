@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "25-07-2023 , 23:51:49",
+  "lastUpdate": "26-07-2023 , 01:08:31",
   "data": [
+    [
+      {
+        "title": "LeBron James",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#LeBron%20James",
+        "pubdate": "Wed, 26 Jul 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "SK Slavia Praha",
@@ -13,6 +20,13 @@
         "title": "Věra Mikulcová",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C4%9Bra%20Mikulcov%C3%A1",
         "pubdate": "Tue, 25 Jul 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Julius Fučík",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Julius%20Fu%C4%8D%C3%ADk",
+        "pubdate": "Tue, 25 Jul 2023 08:00:00 +0200"
       }
     ],
     [
@@ -62,13 +76,6 @@
         "title": "Twitter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Twitter",
         "pubdate": "Mon, 24 Jul 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Real – AC Milán",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Real%20%E2%80%93%20AC%20Mil%C3%A1n",
-        "pubdate": "Mon, 24 Jul 2023 06:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Radka Třeštíková",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Radka%20T%C5%99e%C5%A1t%C3%ADkov%C3%A1",
         "pubdate": "Mon, 24 Jul 2023 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jiri vanek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jiri%20vanek",
-        "pubdate": "Sun, 23 Jul 2023 13:00:00 +0200"
       }
     ]
   ]

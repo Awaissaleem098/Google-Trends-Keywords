@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-07-2023 , 23:51:49",
+  "lastUpdate": "26-07-2023 , 01:08:32",
   "data": [
     [
       {
@@ -45,15 +45,15 @@
     ],
     [
       {
-        "title": "Chris Martin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chris%20Martin",
+        "title": "Dubrovnik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Dubrovnik",
         "pubdate": "Tue, 25 Jul 2023 13:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Dubrovnik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Dubrovnik",
+        "title": "Chris Martin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chris%20Martin",
         "pubdate": "Tue, 25 Jul 2023 13:00:00 +0300"
       }
     ],
@@ -76,13 +76,6 @@
         "title": "Bronny James",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bronny%20James",
         "pubdate": "Tue, 25 Jul 2023 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Jussi Ahokas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jussi%20Ahokas",
-        "pubdate": "Tue, 25 Jul 2023 08:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Romania",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Romania",
         "pubdate": "Tue, 25 Jul 2023 11:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Yoko Ono",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Yoko%20Ono",
+        "pubdate": "Tue, 25 Jul 2023 01:00:00 +0300"
       }
     ]
   ]
