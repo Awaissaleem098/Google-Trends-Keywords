@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-07-2023 , 23:50:38",
+  "lastUpdate": "27-07-2023 , 00:52:06",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Secret Invasion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Secret%20Invasion",
         "pubdate": "Thu, 27 Jul 2023 02:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Badminton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Badminton",
-        "pubdate": "Thu, 27 Jul 2023 00:00:00 +0800"
       }
     ],
     [
@@ -45,9 +38,9 @@
     ],
     [
       {
-        "title": "Jillian Ward",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Jillian%20Ward",
-        "pubdate": "Wed, 26 Jul 2023 12:00:00 +0800"
+        "title": "Excavated",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Excavated",
+        "pubdate": "Wed, 26 Jul 2023 21:00:00 +0800"
       }
     ],
     [
@@ -55,13 +48,6 @@
         "title": "Amy Schumer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Amy%20Schumer",
         "pubdate": "Wed, 26 Jul 2023 05:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Excavated",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Excavated",
-        "pubdate": "Wed, 26 Jul 2023 21:00:00 +0800"
       }
     ],
     [
@@ -108,23 +94,9 @@
     ],
     [
       {
-        "title": "Filipinas football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Filipinas%20football",
-        "pubdate": "Wed, 26 Jul 2023 01:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Pizza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Pizza",
         "pubdate": "Wed, 26 Jul 2023 23:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Tori Kelly",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Tori%20Kelly",
-        "pubdate": "Wed, 26 Jul 2023 00:00:00 +0800"
       }
     ],
     [
@@ -136,9 +108,37 @@
     ],
     [
       {
+        "title": "Filipinas football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Filipinas%20football",
+        "pubdate": "Wed, 26 Jul 2023 01:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Tori Kelly",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Tori%20Kelly",
+        "pubdate": "Wed, 26 Jul 2023 00:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Armored Core 6",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Armored%20Core%206",
         "pubdate": "Wed, 26 Jul 2023 22:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Inclement weather",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Inclement%20weather",
+        "pubdate": "Wed, 26 Jul 2023 15:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Dream",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Dream",
+        "pubdate": "Wed, 26 Jul 2023 23:00:00 +0800"
       }
     ]
   ]

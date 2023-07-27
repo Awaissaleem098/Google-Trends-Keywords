@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "26-07-2023 , 23:50:37",
+  "lastUpdate": "27-07-2023 , 00:52:04",
   "data": [
+    [
+      {
+        "title": "Sinead O'Connor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Sinead%20O'Connor",
+        "pubdate": "Thu, 27 Jul 2023 03:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Samsung",
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Sinead O'Connor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Sinead%20O'Connor",
-        "pubdate": "Thu, 27 Jul 2023 03:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Inter%20Miami",
         "pubdate": "Wed, 26 Jul 2023 09:00:00 +0800"
@@ -31,16 +31,16 @@
     ],
     [
       {
-        "title": "Wrexham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Wrexham",
-        "pubdate": "Wed, 26 Jul 2023 12:00:00 +0800"
+        "title": "Man utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Man%20utd",
+        "pubdate": "Wed, 26 Jul 2023 14:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Man utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Man%20utd",
-        "pubdate": "Wed, 26 Jul 2023 14:00:00 +0800"
+        "title": "Wrexham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Wrexham",
+        "pubdate": "Wed, 26 Jul 2023 12:00:00 +0800"
       }
     ],
     [
@@ -59,8 +59,8 @@
     ],
     [
       {
-        "title": "MU vs Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#MU%20vs%20Real%20Madrid",
+        "title": "Real Madrid vs Man United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Real%20Madrid%20vs%20Man%20United",
         "pubdate": "Wed, 26 Jul 2023 20:00:00 +0800"
       }
     ],
@@ -69,6 +69,20 @@
         "title": "Qin Gang",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Qin%20Gang",
         "pubdate": "Wed, 26 Jul 2023 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Jordan Henderson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Jordan%20Henderson",
+        "pubdate": "Wed, 26 Jul 2023 17:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Faisal Halim",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Faisal%20Halim",
+        "pubdate": "Wed, 26 Jul 2023 23:00:00 +0800"
       }
     ],
     [
@@ -101,20 +115,6 @@
     ],
     [
       {
-        "title": "Pulau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Pulau",
-        "pubdate": "Wed, 26 Jul 2023 08:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Ng Tze Yong",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Ng%20Tze%20Yong",
-        "pubdate": "Wed, 26 Jul 2023 15:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Arsenal vs Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Arsenal%20vs%20Barcelona",
         "pubdate": "Wed, 26 Jul 2023 14:00:00 +0800"
@@ -122,23 +122,23 @@
     ],
     [
       {
+        "title": "Pulau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Pulau",
+        "pubdate": "Wed, 26 Jul 2023 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Sinkhole",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Sinkhole",
+        "pubdate": "Wed, 26 Jul 2023 16:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Football manchester united",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Football%20manchester%20united",
         "pubdate": "Wed, 26 Jul 2023 19:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Amy Schumer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Amy%20Schumer",
-        "pubdate": "Wed, 26 Jul 2023 13:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Jordan Henderson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Jordan%20Henderson",
-        "pubdate": "Wed, 26 Jul 2023 17:00:00 +0800"
       }
     ]
   ]

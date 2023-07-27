@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "26-07-2023 , 23:50:32",
+  "lastUpdate": "27-07-2023 , 00:51:55",
   "data": [
+    [
+      {
+        "title": "Mitch McConnell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mitch%20McConnell",
+        "pubdate": "Thu, 27 Jul 2023 02:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Sinead O'Connor",
@@ -66,16 +73,16 @@
     ],
     [
       {
-        "title": "Yara Kastelijn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Yara%20Kastelijn",
-        "pubdate": "Wed, 26 Jul 2023 18:00:00 +0200"
+        "title": "Niger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Niger",
+        "pubdate": "Wed, 26 Jul 2023 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Niger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Niger",
-        "pubdate": "Wed, 26 Jul 2023 19:00:00 +0200"
+        "title": "Yara Kastelijn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Yara%20Kastelijn",
+        "pubdate": "Wed, 26 Jul 2023 18:00:00 +0200"
       }
     ],
     [
@@ -87,9 +94,9 @@
     ],
     [
       {
-        "title": "Rosalia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rosalia",
-        "pubdate": "Wed, 26 Jul 2023 11:00:00 +0200"
+        "title": "Brigitte Macron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brigitte%20Macron",
+        "pubdate": "Wed, 26 Jul 2023 18:00:00 +0200"
       }
     ],
     [
@@ -101,9 +108,9 @@
     ],
     [
       {
-        "title": "Brigitte Macron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brigitte%20Macron",
-        "pubdate": "Wed, 26 Jul 2023 18:00:00 +0200"
+        "title": "Rosalia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rosalia",
+        "pubdate": "Wed, 26 Jul 2023 11:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Sofyan Amrabat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sofyan%20Amrabat",
         "pubdate": "Wed, 26 Jul 2023 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kim Kardashian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kim%20Kardashian",
-        "pubdate": "Wed, 26 Jul 2023 11:00:00 +0200"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-07-2023 , 23:50:38",
+  "lastUpdate": "27-07-2023 , 00:52:07",
   "data": [
     [
       {
@@ -66,9 +66,23 @@
     ],
     [
       {
+        "title": "Ioana Ignat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ioana%20Ignat",
+        "pubdate": "Wed, 26 Jul 2023 02:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Mick Jagger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mick%20Jagger",
         "pubdate": "Wed, 26 Jul 2023 14:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Z Fold 5",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Z%20Fold%205",
+        "pubdate": "Wed, 26 Jul 2023 23:00:00 +0300"
       }
     ],
     [
@@ -87,9 +101,9 @@
     ],
     [
       {
-        "title": "As.ro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#As.ro",
-        "pubdate": "Wed, 26 Jul 2023 22:00:00 +0300"
+        "title": "Horoscop 26 iulie 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Horoscop%2026%20iulie%202023",
+        "pubdate": "Wed, 26 Jul 2023 00:00:00 +0300"
       }
     ],
     [
@@ -97,20 +111,6 @@
         "title": "Meghan Markle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Meghan%20Markle",
         "pubdate": "Wed, 26 Jul 2023 06:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Z Fold 5",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Z%20Fold%205",
-        "pubdate": "Wed, 26 Jul 2023 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Horoscop 26 iulie 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Horoscop%2026%20iulie%202023",
-        "pubdate": "Wed, 26 Jul 2023 00:00:00 +0300"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Amicale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Amicale",
-        "pubdate": "Wed, 26 Jul 2023 10:00:00 +0300"
+        "title": "Vreme Sibiu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vreme%20Sibiu",
+        "pubdate": "Wed, 26 Jul 2023 17:00:00 +0300"
       }
     ]
   ]

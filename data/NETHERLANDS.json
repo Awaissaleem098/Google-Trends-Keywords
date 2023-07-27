@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-07-2023 , 23:50:37",
+  "lastUpdate": "27-07-2023 , 00:52:04",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Fenerbahce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fenerbahce",
+        "pubdate": "Wed, 26 Jul 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tour de France Femmes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tour%20de%20France%20Femmes",
         "pubdate": "Wed, 26 Jul 2023 23:00:00 +0200"
@@ -59,8 +66,8 @@
     ],
     [
       {
-        "title": "Fenerbahce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fenerbahce",
+        "title": "Jennifer Lopez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jennifer%20Lopez",
         "pubdate": "Wed, 26 Jul 2023 22:00:00 +0200"
       }
     ],
@@ -69,13 +76,6 @@
         "title": "Emmett Till",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Emmett%20Till",
         "pubdate": "Wed, 26 Jul 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jennifer Lopez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jennifer%20Lopez",
-        "pubdate": "Wed, 26 Jul 2023 22:00:00 +0200"
       }
     ],
     [
