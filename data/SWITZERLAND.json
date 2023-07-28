@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "27-07-2023 , 23:54:29",
+  "lastUpdate": "28-07-2023 , 01:18:51",
   "data": [
+    [
+      {
+        "title": "The Witcher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#The%20Witcher",
+        "pubdate": "Fri, 28 Jul 2023 02:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Alexandra Popp",
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Real%20Madrid",
+        "pubdate": "Thu, 27 Jul 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Mitch McConnell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mitch%20McConnell",
         "pubdate": "Thu, 27 Jul 2023 00:00:00 +0200"
@@ -41,13 +55,6 @@
         "title": "Waldhaus Flims",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Waldhaus%20Flims",
         "pubdate": "Thu, 27 Jul 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Luzern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Luzern",
-        "pubdate": "Thu, 27 Jul 2023 22:00:00 +0200"
       }
     ],
     [
@@ -94,37 +101,9 @@
     ],
     [
       {
-        "title": "Ethan Slater",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ethan%20Slater",
-        "pubdate": "Thu, 27 Jul 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sarah Connor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sarah%20Connor",
-        "pubdate": "Thu, 27 Jul 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Novak%20Djokovic",
         "pubdate": "Thu, 27 Jul 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Quickmail",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Quickmail",
-        "pubdate": "Thu, 27 Jul 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nigeria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nigeria",
-        "pubdate": "Thu, 27 Jul 2023 15:00:00 +0200"
       }
     ],
     [
@@ -136,9 +115,30 @@
     ],
     [
       {
+        "title": "Nigeria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nigeria",
+        "pubdate": "Thu, 27 Jul 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Quickmail",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Quickmail",
+        "pubdate": "Thu, 27 Jul 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Lena Meyer-Landrut",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lena%20Meyer-Landrut",
         "pubdate": "Thu, 27 Jul 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Meta-Aktie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Meta-Aktie",
+        "pubdate": "Thu, 27 Jul 2023 11:00:00 +0200"
       }
     ]
   ]
