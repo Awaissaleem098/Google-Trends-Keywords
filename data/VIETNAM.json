@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-08-2023 , 00:42:26",
+  "lastUpdate": "04-08-2023 , 01:51:08",
   "data": [
+    [
+      {
+        "title": "Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Aston%20Villa",
+        "pubdate": "Fri, 04 Aug 2023 08:00:00 +0700"
+      }
+    ],
     [
       {
         "title": "Ahn Bo Hyun",
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Arsenal",
-        "pubdate": "Thu, 03 Aug 2023 01:00:00 +0700"
+        "title": "Arsenal đấu với Monaco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Arsenal%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Monaco",
+        "pubdate": "Thu, 03 Aug 2023 00:00:00 +0700"
       }
     ],
     [
@@ -31,23 +38,16 @@
     ],
     [
       {
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bayern",
+        "pubdate": "Thu, 03 Aug 2023 12:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Juventus",
         "pubdate": "Thu, 03 Aug 2023 08:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea vs Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Chelsea%20vs%20Dortmund",
-        "pubdate": "Thu, 03 Aug 2023 09:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Gấu chó",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#G%E1%BA%A5u%20ch%C3%B3",
-        "pubdate": "Thu, 03 Aug 2023 12:00:00 +0700"
       }
     ],
     [
@@ -59,16 +59,9 @@
     ],
     [
       {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bayern",
-        "pubdate": "Thu, 03 Aug 2023 19:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Người nổi tiếng quê ở Bình Định",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ng%C6%B0%E1%BB%9Di%20n%E1%BB%95i%20ti%E1%BA%BFng%20qu%C3%AA%20%E1%BB%9F%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh",
-        "pubdate": "Thu, 03 Aug 2023 07:00:00 +0700"
+        "title": "Chelsea vs Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Chelsea%20vs%20Dortmund",
+        "pubdate": "Thu, 03 Aug 2023 09:00:00 +0700"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Han So Hee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Han%20So%20Hee",
         "pubdate": "Thu, 03 Aug 2023 21:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Quy Nhơn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Quy%20Nh%C6%A1n",
+        "pubdate": "Thu, 03 Aug 2023 13:00:00 +0700"
       }
     ]
   ]

@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "04-08-2023 , 00:42:19",
+  "lastUpdate": "04-08-2023 , 01:50:59",
   "data": [
     [
       {
         "title": "周永恆",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%91%A8%E6%B0%B8%E6%81%86",
         "pubdate": "Fri, 04 Aug 2023 04:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "陸觀豪",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%99%B8%E8%A7%80%E8%B1%AA",
+        "pubdate": "Fri, 04 Aug 2023 08:00:00 +0800"
       }
     ],
     [
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "親海駅",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%A6%AA%E6%B5%B7%E9%A7%85",
+        "title": "袁弓夷",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%A2%81%E5%BC%93%E5%A4%B7",
         "pubdate": "Thu, 03 Aug 2023 14:00:00 +0800"
       }
     ],
@@ -27,6 +34,13 @@
         "title": "Foodpanda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Foodpanda",
         "pubdate": "Thu, 03 Aug 2023 22:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "親海駅價單",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%A6%AA%E6%B5%B7%E9%A7%85%E5%83%B9%E5%96%AE",
+        "pubdate": "Thu, 03 Aug 2023 14:00:00 +0800"
       }
     ],
     [
@@ -69,13 +83,6 @@
         "title": "世大運",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E4%B8%96%E5%A4%A7%E9%81%8B",
         "pubdate": "Thu, 03 Aug 2023 18:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "葉童",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%91%89%E7%AB%A5",
-        "pubdate": "Thu, 03 Aug 2023 00:00:00 +0800"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "林志玲",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%9E%97%E5%BF%97%E7%8E%B2",
-        "pubdate": "Wed, 02 Aug 2023 10:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "AMSC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#AMSC",
-        "pubdate": "Tue, 01 Aug 2023 18:00:00 +0800"
+        "title": "Lizzo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Lizzo",
+        "pubdate": "Wed, 02 Aug 2023 19:00:00 +0800"
       }
     ]
   ]

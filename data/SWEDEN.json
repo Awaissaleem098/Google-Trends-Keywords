@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "04-08-2023 , 00:42:25",
+  "lastUpdate": "04-08-2023 , 01:51:06",
   "data": [
     [
       {
-        "title": "Eritrea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Eritrea",
+        "title": "Järvafältet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#J%C3%A4rvaf%C3%A4ltet",
         "pubdate": "Thu, 03 Aug 2023 16:00:00 +0200"
       }
     ],
@@ -80,23 +80,9 @@
     ],
     [
       {
-        "title": "Marta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Marta",
-        "pubdate": "Wed, 02 Aug 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Hammarby - Twente",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby%20-%20Twente",
         "pubdate": "Wed, 02 Aug 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Häcken",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#H%C3%A4cken",
-        "pubdate": "Wed, 02 Aug 2023 18:00:00 +0200"
       }
     ],
     [
@@ -111,6 +97,20 @@
         "title": "Nino Ramsby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nino%20Ramsby",
         "pubdate": "Wed, 02 Aug 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Marta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Marta",
+        "pubdate": "Wed, 02 Aug 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "BK Häcken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#BK%20H%C3%A4cken",
+        "pubdate": "Wed, 02 Aug 2023 18:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Antonio Banderas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Antonio%20Banderas",
-        "pubdate": "Wed, 02 Aug 2023 22:00:00 +0200"
+        "title": "Fifa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fifa",
+        "pubdate": "Wed, 02 Aug 2023 10:00:00 +0200"
       }
     ]
   ]

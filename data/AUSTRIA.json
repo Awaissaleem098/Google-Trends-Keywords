@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-08-2023 , 00:42:15",
+  "lastUpdate": "04-08-2023 , 01:50:55",
   "data": [
     [
       {
@@ -59,23 +59,9 @@
     ],
     [
       {
-        "title": "Dornauer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dornauer",
-        "pubdate": "Thu, 03 Aug 2023 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Meg 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Meg%202",
         "pubdate": "Thu, 03 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Yves Rocher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Yves%20Rocher",
-        "pubdate": "Thu, 03 Aug 2023 18:00:00 +0200"
       }
     ],
     [
@@ -87,9 +73,23 @@
     ],
     [
       {
+        "title": "Yves Rocher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Yves%20Rocher",
+        "pubdate": "Thu, 03 Aug 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Heartstopper",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Heartstopper",
         "pubdate": "Thu, 03 Aug 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dornauer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dornauer",
+        "pubdate": "Thu, 03 Aug 2023 17:00:00 +0200"
       }
     ],
     [
@@ -129,8 +129,8 @@
     ],
     [
       {
-        "title": "ZDF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ZDF",
+        "title": "Zdf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Zdf",
         "pubdate": "Thu, 03 Aug 2023 20:00:00 +0200"
       }
     ],
