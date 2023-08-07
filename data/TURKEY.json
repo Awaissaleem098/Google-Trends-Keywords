@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "07-08-2023 , 01:36:33",
+  "lastUpdate": "07-08-2023 , 02:21:57",
   "data": [
     [
       {
         "title": "Yalova",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Yalova",
+        "pubdate": "Mon, 07 Aug 2023 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Hayat Işığım",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Hayat%20I%C5%9F%C4%B1%C4%9F%C4%B1m",
         "pubdate": "Mon, 07 Aug 2023 00:00:00 +0300"
       }
     ],
@@ -20,6 +27,20 @@
         "title": "Namık Kemal Zeybek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Nam%C4%B1k%20Kemal%20Zeybek",
         "pubdate": "Mon, 07 Aug 2023 02:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "İran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0ran",
+        "pubdate": "Mon, 07 Aug 2023 04:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "TOTTENHAM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#TOTTENHAM",
+        "pubdate": "Mon, 07 Aug 2023 04:00:00 +0300"
       }
     ],
     [
@@ -80,23 +101,9 @@
     ],
     [
       {
-        "title": "Paredes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Paredes",
-        "pubdate": "Sun, 06 Aug 2023 14:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Krunic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Krunic",
-        "pubdate": "Sun, 06 Aug 2023 19:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "KPSS ÖABT soruları",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#KPSS%20%C3%96ABT%20sorular%C4%B1",
-        "pubdate": "Sun, 06 Aug 2023 19:00:00 +0300"
+        "title": "Celal Şengör",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Celal%20%C5%9Eeng%C3%B6r",
+        "pubdate": "Sun, 06 Aug 2023 18:00:00 +0300"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Enner Valencia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Enner%20Valencia",
-        "pubdate": "Sun, 06 Aug 2023 13:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Al Hilal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Al%20Hilal",
-        "pubdate": "Sun, 06 Aug 2023 09:00:00 +0300"
+        "title": "KPSS ÖABT soruları",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#KPSS%20%C3%96ABT%20sorular%C4%B1",
+        "pubdate": "Sun, 06 Aug 2023 19:00:00 +0300"
       }
     ]
   ]
