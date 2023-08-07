@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-08-2023 , 23:58:42",
+  "lastUpdate": "07-08-2023 , 01:36:27",
   "data": [
+    [
+      {
+        "title": "Mullingar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Mullingar",
+        "pubdate": "Mon, 07 Aug 2023 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Megan Rapinoe",
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "Love Island reunion 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Love%20Island%20reunion%202023",
+        "pubdate": "Sun, 06 Aug 2023 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "India vs West Indies",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#India%20vs%20West%20Indies",
         "pubdate": "Sun, 06 Aug 2023 23:00:00 +0100"
@@ -73,13 +87,6 @@
     ],
     [
       {
-        "title": "Fleadh Mullingar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Fleadh%20Mullingar",
-        "pubdate": "Sun, 06 Aug 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Al-Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Al-Nassr",
         "pubdate": "Sun, 06 Aug 2023 19:00:00 +0100"
@@ -90,13 +97,6 @@
         "title": "Wordle hint",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Wordle%20hint",
         "pubdate": "Sun, 06 Aug 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Dundalk FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Dundalk%20FC",
-        "pubdate": "Sun, 06 Aug 2023 19:00:00 +0100"
       }
     ],
     [
@@ -138,7 +138,7 @@
       {
         "title": "Arsenal vs MAN CITY",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Arsenal%20vs%20MAN%20CITY",
-        "pubdate": "Sat, 05 Aug 2023 01:00:00 +0100"
+        "pubdate": "Sat, 05 Aug 2023 17:00:00 +0100"
       }
     ]
   ]
