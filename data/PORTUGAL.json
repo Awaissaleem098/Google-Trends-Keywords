@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-08-2023 , 01:25:45",
+  "lastUpdate": "08-08-2023 , 02:18:53",
   "data": [
     [
       {
@@ -10,16 +10,9 @@
     ],
     [
       {
-        "title": "Laqueadura",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Laqueadura",
-        "pubdate": "Tue, 08 Aug 2023 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Porto Benfica Supertaça",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Porto%20Benfica%20Superta%C3%A7a",
-        "pubdate": "Tue, 08 Aug 2023 01:00:00 +0100"
+        "title": "Itau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Itau",
+        "pubdate": "Tue, 08 Aug 2023 02:00:00 +0100"
       }
     ],
     [
@@ -31,16 +24,16 @@
     ],
     [
       {
-        "title": "Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Inter%20Miami",
-        "pubdate": "Mon, 07 Aug 2023 03:00:00 +0100"
+        "title": "Rodolfo Sancho",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rodolfo%20Sancho",
+        "pubdate": "Mon, 07 Aug 2023 19:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Rodolfo Sancho",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rodolfo%20Sancho",
-        "pubdate": "Mon, 07 Aug 2023 19:00:00 +0100"
+        "title": "Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Inter%20Miami",
+        "pubdate": "Mon, 07 Aug 2023 03:00:00 +0100"
       }
     ],
     [
@@ -94,6 +87,13 @@
     ],
     [
       {
+        "title": "Leiria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Leiria",
+        "pubdate": "Mon, 07 Aug 2023 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Niger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Niger",
         "pubdate": "Mon, 07 Aug 2023 17:00:00 +0100"
@@ -108,23 +108,9 @@
     ],
     [
       {
-        "title": "Messi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Messi",
-        "pubdate": "Mon, 07 Aug 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Anatoliy Trubin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Anatoliy%20Trubin",
         "pubdate": "Mon, 07 Aug 2023 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Incendios Leiria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Incendios%20Leiria",
-        "pubdate": "Mon, 07 Aug 2023 17:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Cristiano Ronaldo Al-Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cristiano%20Ronaldo%20Al-Nassr",
         "pubdate": "Mon, 07 Aug 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tiquinho Soares",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tiquinho%20Soares",
+        "pubdate": "Mon, 07 Aug 2023 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Messi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Messi",
+        "pubdate": "Mon, 07 Aug 2023 12:00:00 +0100"
       }
     ]
   ]

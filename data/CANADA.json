@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-08-2023 , 01:25:37",
+  "lastUpdate": "08-08-2023 , 02:18:46",
   "data": [
     [
       {
@@ -73,6 +73,20 @@
     ],
     [
       {
+        "title": "Pansexual",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pansexual",
+        "pubdate": "Mon, 07 Aug 2023 21:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Tennis Toronto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tennis%20Toronto",
+        "pubdate": "Mon, 07 Aug 2023 12:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Liverpool",
         "pubdate": "Mon, 07 Aug 2023 17:00:00 -0400"
@@ -80,9 +94,9 @@
     ],
     [
       {
-        "title": "ALS Disease",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#ALS%20Disease",
-        "pubdate": "Mon, 07 Aug 2023 19:00:00 -0400"
+        "title": "Raonic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Raonic",
+        "pubdate": "Mon, 07 Aug 2023 20:00:00 -0400"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Kendrick Lamar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kendrick%20Lamar",
-        "pubdate": "Mon, 07 Aug 2023 02:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Natalie Portman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Natalie%20Portman",
         "pubdate": "Mon, 07 Aug 2023 19:00:00 -0400"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Australia vs Denmark",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Australia%20vs%20Denmark",
-        "pubdate": "Mon, 07 Aug 2023 16:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Neymar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Neymar",
-        "pubdate": "Mon, 07 Aug 2023 17:00:00 -0400"
+        "title": "Montgomery riverfront brawl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Montgomery%20riverfront%20brawl",
+        "pubdate": "Mon, 07 Aug 2023 20:00:00 -0400"
       }
     ]
   ]
