@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "09-08-2023 , 15:48:57",
+  "lastUpdate": "09-08-2023 , 16:10:46",
   "data": [
-    [
-      {
-        "title": "Jugendwort 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jugendwort%202023",
-        "pubdate": "Wed, 09 Aug 2023 10:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Tory Lanez",
@@ -17,16 +10,16 @@
     ],
     [
       {
-        "title": "Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zverev",
-        "pubdate": "Wed, 09 Aug 2023 01:00:00 +0200"
+        "title": "Jugendwort des Jahres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jugendwort%20des%20Jahres",
+        "pubdate": "Wed, 09 Aug 2023 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Margit Saad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Margit%20Saad",
-        "pubdate": "Wed, 09 Aug 2023 12:00:00 +0200"
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zverev",
+        "pubdate": "Wed, 09 Aug 2023 01:00:00 +0200"
       }
     ],
     [
@@ -80,6 +73,20 @@
     ],
     [
       {
+        "title": "Afghanistan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Afghanistan",
+        "pubdate": "Tue, 08 Aug 2023 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Olaf Scholz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Olaf%20Scholz",
+        "pubdate": "Tue, 08 Aug 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Erkin Koray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Erkin%20Koray",
         "pubdate": "Mon, 07 Aug 2023 21:00:00 +0200"
@@ -89,13 +96,6 @@
       {
         "title": "Thomas Gottschalk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Thomas%20Gottschalk",
-        "pubdate": "Mon, 07 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sturmflut Hamburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sturmflut%20Hamburg",
         "pubdate": "Mon, 07 Aug 2023 22:00:00 +0200"
       }
     ],

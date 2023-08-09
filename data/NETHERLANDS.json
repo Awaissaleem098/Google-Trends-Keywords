@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-08-2023 , 15:49:02",
+  "lastUpdate": "09-08-2023 , 16:10:49",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Sinead O'Connor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sinead%20O'Connor",
-        "pubdate": "Tue, 08 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "THC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#THC",
         "pubdate": "Tue, 08 Aug 2023 20:00:00 +0200"
@@ -55,6 +48,13 @@
         "title": "Jeffrey Hoogland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jeffrey%20Hoogland",
         "pubdate": "Tue, 08 Aug 2023 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lavreysen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lavreysen",
+        "pubdate": "Tue, 08 Aug 2023 01:00:00 +0200"
       }
     ],
     [
