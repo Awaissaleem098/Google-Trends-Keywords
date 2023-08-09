@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-08-2023 , 19:41:56",
+  "lastUpdate": "09-08-2023 , 19:54:29",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Ciara",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ciara",
-        "pubdate": "Wed, 09 Aug 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Josip Sutalo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Josip%20Sutalo",
         "pubdate": "Wed, 09 Aug 2023 20:00:00 +0200"
@@ -62,13 +55,6 @@
         "title": "Thijs romer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Thijs%20romer",
         "pubdate": "Tue, 08 Aug 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Babadi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Babadi",
-        "pubdate": "Tue, 08 Aug 2023 21:00:00 +0200"
       }
     ],
     [
@@ -122,13 +108,6 @@
     ],
     [
       {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
-        "pubdate": "Sat, 05 Aug 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "WK wielrennen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#WK%20wielrennen",
         "pubdate": "Sat, 05 Aug 2023 17:00:00 +0200"
@@ -139,6 +118,27 @@
         "title": "Jake Paul",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jake%20Paul",
         "pubdate": "Sat, 05 Aug 2023 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ajax Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20Dortmund",
+        "pubdate": "Sat, 05 Aug 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Canal Parade",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Canal%20Parade",
+        "pubdate": "Sat, 05 Aug 2023 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pride",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pride",
+        "pubdate": "Sat, 05 Aug 2023 13:00:00 +0200"
       }
     ]
   ]
