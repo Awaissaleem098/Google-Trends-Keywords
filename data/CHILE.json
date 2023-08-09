@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "09-08-2023 , 09:53:59",
+  "lastUpdate": "09-08-2023 , 13:21:19",
   "data": [
-    [
-      {
-        "title": "Sismo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sismo",
-        "pubdate": "Wed, 09 Aug 2023 00:00:00 -0400"
-      }
-    ],
     [
       {
         "title": "Gabriel Boric",
@@ -17,16 +10,16 @@
     ],
     [
       {
-        "title": "Temblores Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblores%20Chile",
-        "pubdate": "Wed, 09 Aug 2023 01:00:00 -0400"
+        "title": "America",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#America",
+        "pubdate": "Wed, 09 Aug 2023 02:00:00 -0400"
       }
     ],
     [
       {
-        "title": "America",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#America",
-        "pubdate": "Wed, 09 Aug 2023 02:00:00 -0400"
+        "title": "Newell's",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Newell's",
+        "pubdate": "Wed, 09 Aug 2023 07:00:00 -0400"
       }
     ],
     [
@@ -101,6 +94,13 @@
     ],
     [
       {
+        "title": "Fluminense  Argentinos Jrs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fluminense%20%20Argentinos%20Jrs",
+        "pubdate": "Tue, 08 Aug 2023 20:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Maria Luisa Cordero desafuero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Maria%20Luisa%20Cordero%20desafuero",
         "pubdate": "Tue, 08 Aug 2023 14:00:00 -0400"
@@ -115,9 +115,9 @@
     ],
     [
       {
-        "title": "Fluminense  Argentinos Jrs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fluminense%20%20Argentinos%20Jrs",
-        "pubdate": "Tue, 08 Aug 2023 20:00:00 -0400"
+        "title": "Pablo Chill-E",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Pablo%20Chill-E",
+        "pubdate": "Tue, 08 Aug 2023 17:00:00 -0400"
       }
     ],
     [
@@ -129,8 +129,8 @@
     ],
     [
       {
-        "title": "U. de Chile  O'Higgins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U.%20de%20Chile%20%20O'Higgins",
+        "title": "U de Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U%20de%20Chile",
         "pubdate": "Mon, 07 Aug 2023 16:00:00 -0400"
       }
     ],

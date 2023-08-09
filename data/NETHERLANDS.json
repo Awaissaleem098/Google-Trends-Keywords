@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-08-2023 , 09:54:04",
+  "lastUpdate": "09-08-2023 , 13:21:25",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Jan-Willem van Schip",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jan-Willem%20van%20Schip",
         "pubdate": "Wed, 09 Aug 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bakayoko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bakayoko",
+        "pubdate": "Wed, 09 Aug 2023 01:00:00 +0200"
       }
     ],
     [
@@ -59,6 +66,13 @@
     ],
     [
       {
+        "title": "Lavreysen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lavreysen",
+        "pubdate": "Tue, 08 Aug 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Noorwegen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Noorwegen",
         "pubdate": "Tue, 08 Aug 2023 12:00:00 +0200"
@@ -83,13 +97,6 @@
         "title": "Harrie Lavreysen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Harrie%20Lavreysen",
         "pubdate": "Mon, 07 Aug 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool",
-        "pubdate": "Mon, 07 Aug 2023 22:00:00 +0200"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Canal Parade",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Canal%20Parade",
-        "pubdate": "Sat, 05 Aug 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pride",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pride",
         "pubdate": "Sat, 05 Aug 2023 13:00:00 +0200"
       }
     ]

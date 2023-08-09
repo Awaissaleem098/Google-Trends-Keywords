@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "09-08-2023 , 09:54:01",
+  "lastUpdate": "09-08-2023 , 13:21:21",
   "data": [
     [
       {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League",
-        "pubdate": "Wed, 09 Aug 2023 00:00:00 +0200"
+        "title": "Tory Lanez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tory%20Lanez",
+        "pubdate": "Wed, 09 Aug 2023 07:00:00 +0200"
       }
     ],
     [
@@ -13,6 +13,13 @@
         "title": "Whitney Houston",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Whitney%20Houston",
         "pubdate": "Wed, 09 Aug 2023 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jugendwort des Jahres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jugendwort%20des%20Jahres",
+        "pubdate": "Wed, 09 Aug 2023 12:00:00 +0200"
       }
     ],
     [
@@ -59,6 +66,20 @@
     ],
     [
       {
+        "title": "Noah Darvich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Noah%20Darvich",
+        "pubdate": "Tue, 08 Aug 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Novo Nordisk-Aktie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Novo%20Nordisk-Aktie",
+        "pubdate": "Tue, 08 Aug 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Istrien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Istrien",
         "pubdate": "Tue, 08 Aug 2023 23:00:00 +0200"
@@ -94,20 +115,6 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Liverpool",
-        "pubdate": "Mon, 07 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Darmstadt 98",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Darmstadt%2098",
-        "pubdate": "Mon, 07 Aug 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "KSC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#KSC",
         "pubdate": "Sun, 06 Aug 2023 17:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Kolo Muani",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kolo%20Muani",
         "pubdate": "Sat, 05 Aug 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Reutlingen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Reutlingen",
-        "pubdate": "Fri, 04 Aug 2023 20:00:00 +0200"
       }
     ]
   ]

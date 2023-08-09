@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "09-08-2023 , 09:54:05",
+  "lastUpdate": "09-08-2023 , 13:21:25",
   "data": [
+    [
+      {
+        "title": "Våler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#V%C3%A5ler",
+        "pubdate": "Wed, 09 Aug 2023 12:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Normal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Normal",
         "pubdate": "Wed, 09 Aug 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hønefoss",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#H%C3%B8nefoss",
+        "pubdate": "Wed, 09 Aug 2023 12:00:00 +0200"
       }
     ],
     [
@@ -17,23 +31,16 @@
     ],
     [
       {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Champions%20League",
-        "pubdate": "Wed, 09 Aug 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lene Nystrøm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lene%20Nystr%C3%B8m",
-        "pubdate": "Wed, 09 Aug 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Kåre Conradi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#K%C3%A5re%20Conradi",
         "pubdate": "Wed, 09 Aug 2023 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Odda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Odda",
+        "pubdate": "Wed, 09 Aug 2023 14:00:00 +0200"
       }
     ],
     [
@@ -45,23 +52,9 @@
     ],
     [
       {
-        "title": "Nesbyen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nesbyen",
-        "pubdate": "Tue, 08 Aug 2023 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Valdres",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Valdres",
-        "pubdate": "Tue, 08 Aug 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Niger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Niger",
-        "pubdate": "Tue, 08 Aug 2023 00:00:00 +0200"
+        "title": "Aurland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Aurland",
+        "pubdate": "Wed, 09 Aug 2023 13:00:00 +0200"
       }
     ],
     [
@@ -73,9 +66,23 @@
     ],
     [
       {
-        "title": "Arni Frederiksberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arni%20Frederiksberg",
-        "pubdate": "Tue, 08 Aug 2023 23:00:00 +0200"
+        "title": "Valdres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Valdres",
+        "pubdate": "Tue, 08 Aug 2023 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Champions%20League",
+        "pubdate": "Tue, 08 Aug 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Niger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Niger",
+        "pubdate": "Tue, 08 Aug 2023 00:00:00 +0200"
       }
     ],
     [
@@ -87,16 +94,16 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona",
-        "pubdate": "Tue, 08 Aug 2023 22:00:00 +0200"
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tottenham",
+        "pubdate": "Tue, 08 Aug 2023 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Hemsedal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hemsedal",
-        "pubdate": "Tue, 08 Aug 2023 21:00:00 +0200"
+        "title": "Hallingdal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hallingdal",
+        "pubdate": "Tue, 08 Aug 2023 22:00:00 +0200"
       }
     ],
     [
@@ -115,9 +122,9 @@
     ],
     [
       {
-        "title": "Hallingdal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hallingdal",
-        "pubdate": "Tue, 08 Aug 2023 22:00:00 +0200"
+        "title": "Wrexham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Wrexham",
+        "pubdate": "Tue, 08 Aug 2023 23:00:00 +0200"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Wrexham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Wrexham",
-        "pubdate": "Tue, 08 Aug 2023 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Niklas Sandberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Niklas%20Sandberg",
-        "pubdate": "Tue, 08 Aug 2023 14:00:00 +0200"
+        "title": "Dokka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dokka",
+        "pubdate": "Tue, 08 Aug 2023 22:00:00 +0200"
       }
     ]
   ]
