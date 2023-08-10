@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-08-2023 , 04:37:05",
+  "lastUpdate": "10-08-2023 , 04:50:09",
   "data": [
     [
       {
@@ -52,16 +52,9 @@
     ],
     [
       {
-        "title": "Noorwegen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Noorwegen",
-        "pubdate": "Tue, 08 Aug 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Als",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Als",
-        "pubdate": "Tue, 08 Aug 2023 20:00:00 +0200"
+        "title": "Thijs romer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Thijs%20romer",
+        "pubdate": "Tue, 08 Aug 2023 14:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "NEC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
         "pubdate": "Fri, 04 Aug 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Gerrit Kouwenaar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gerrit%20Kouwenaar",
+        "pubdate": "Fri, 04 Aug 2023 14:00:00 +0200"
       }
     ]
   ]
