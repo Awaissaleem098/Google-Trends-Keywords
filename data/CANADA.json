@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "15-08-2023 , 09:43:45",
+  "lastUpdate": "15-08-2023 , 09:56:45",
   "data": [
-    [
-      {
-        "title": "Women's World Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Women's%20World%20Cup",
-        "pubdate": "Tue, 15 Aug 2023 02:00:00 -0400"
-      }
-    ],
     [
       {
         "title": "Cincinnati Open",
@@ -59,8 +52,15 @@
     ],
     [
       {
-        "title": "Fort Smith",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Fort%20Smith",
+        "title": "Independence Day India",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Independence%20Day%20India",
+        "pubdate": "Mon, 14 Aug 2023 22:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Yellowknife",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Yellowknife",
         "pubdate": "Mon, 14 Aug 2023 07:00:00 -0400"
       }
     ],
@@ -69,13 +69,6 @@
         "title": "Bobbi Althoff",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bobbi%20Althoff",
         "pubdate": "Mon, 14 Aug 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Independence Day India",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Independence%20Day%20India",
-        "pubdate": "Mon, 14 Aug 2023 22:00:00 -0400"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "AMC stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#AMC%20stock",
         "pubdate": "Mon, 14 Aug 2023 11:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Andrea Bain",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Andrea%20Bain",
+        "pubdate": "Mon, 14 Aug 2023 14:00:00 -0400"
       }
     ]
   ]
