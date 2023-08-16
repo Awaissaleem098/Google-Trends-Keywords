@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-08-2023 , 19:44:30",
+  "lastUpdate": "16-08-2023 , 19:57:35",
   "data": [
     [
       {
@@ -17,8 +17,8 @@
     ],
     [
       {
-        "title": "Mc vs Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Mc%20vs%20Sevilla",
+        "title": "Man City đấu với Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Man%20City%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20Sevilla",
         "pubdate": "Wed, 16 Aug 2023 17:00:00 +0700"
       }
     ],
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Mùng 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#M%C3%B9ng%201",
-        "pubdate": "Wed, 16 Aug 2023 10:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Cúp Quốc gia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#C%C3%BAp%20Qu%E1%BB%91c%20gia",
         "pubdate": "Wed, 16 Aug 2023 19:00:00 +0700"
@@ -76,13 +69,6 @@
         "title": "Biển số xe định danh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bi%E1%BB%83n%20s%E1%BB%91%20xe%20%C4%91%E1%BB%8Bnh%20danh",
         "pubdate": "Wed, 16 Aug 2023 08:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "13.16",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#13.16",
-        "pubdate": "Wed, 16 Aug 2023 14:00:00 +0700"
       }
     ],
     [
@@ -101,6 +87,13 @@
     ],
     [
       {
+        "title": "Trịnh Mạnh Linh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tr%E1%BB%8Bnh%20M%E1%BA%A1nh%20Linh",
+        "pubdate": "Wed, 16 Aug 2023 11:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Trấn Thành",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tr%E1%BA%A5n%20Th%C3%A0nh",
         "pubdate": "Wed, 16 Aug 2023 21:00:00 +0700"
@@ -115,13 +108,6 @@
     ],
     [
       {
-        "title": "Thiều Bảo Trâm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Thi%E1%BB%81u%20B%E1%BA%A3o%20Tr%C3%A2m",
-        "pubdate": "Wed, 16 Aug 2023 23:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "V-bts",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#V-bts",
         "pubdate": "Wed, 16 Aug 2023 22:00:00 +0700"
@@ -129,9 +115,23 @@
     ],
     [
       {
+        "title": "Thiều Bảo Trâm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Thi%E1%BB%81u%20B%E1%BA%A3o%20Tr%C3%A2m",
+        "pubdate": "Wed, 16 Aug 2023 23:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "De Gea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#De%20Gea",
         "pubdate": "Wed, 16 Aug 2023 00:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Vu Lan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Vu%20Lan",
+        "pubdate": "Wed, 16 Aug 2023 18:00:00 +0700"
       }
     ],
     [
