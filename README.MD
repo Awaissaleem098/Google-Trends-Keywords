@@ -5,8 +5,6 @@
 Last Update 16-08-2023 , 21:28:10
 
 Country List :
-VIETNAM.json
+info.json
 
 
-
-© Abdul Muttaqin 
